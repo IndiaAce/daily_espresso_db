@@ -1,0 +1,104 @@
+# Daily Espresso — feed registry.
+# Edit this file to add/remove sources; no code changes needed.
+#
+#   section  one of: security | ai
+#   weight   multiplier on the recency score. 1.0 is neutral.
+#            Raise it for sources whose every post you'd want to see,
+#            lower it for high-volume firehoses.
+#   cap      optional per-source ceiling, so one chatty feed can't
+#            crowd out the rest of a section.
+
+[[source]]
+name    = "CISA Advisories"
+url     = "https://www.cisa.gov/cybersecurity-advisories/all.xml"
+section = "security"
+weight  = 1.4
+cap     = 2
+
+[[source]]
+name    = "The Hacker News"
+url     = "https://feeds.feedburner.com/TheHackersNews"
+section = "security"
+weight  = 1.0
+cap     = 2
+
+[[source]]
+name    = "Krebs on Security"
+url     = "https://krebsonsecurity.com/feed/"
+section = "security"
+weight  = 1.5
+
+[[source]]
+name    = "Project Zero"
+url     = "https://googleprojectzero.blogspot.com/feeds/posts/default"
+section = "security"
+weight  = 1.6
+
+[[source]]
+name    = "BleepingComputer"
+url     = "https://www.bleepingcomputer.com/feed/"
+section = "security"
+weight  = 0.9
+cap     = 2
+
+[[source]]
+name    = "Dark Reading"
+url     = "https://www.darkreading.com/rss.xml"
+section = "security"
+weight  = 0.8
+cap     = 2
+
+[[source]]
+name    = "Schneier on Security"
+url     = "https://www.schneier.com/feed/atom/"
+section = "security"
+weight  = 1.1
+
+[[source]]
+name    = "Hacker News"
+url     = "https://hnrss.org/frontpage?points=150"
+section = "ai"
+weight  = 1.0
+cap     = 3
+
+[[source]]
+name    = "Simon Willison"
+url     = "https://simonwillison.net/atom/everything/"
+section = "ai"
+weight  = 1.5
+cap     = 2
+
+[[source]]
+name    = "arXiv cs.AI"
+url     = "https://export.arxiv.org/rss/cs.AI"
+section = "ai"
+weight  = 0.7
+cap     = 1
+
+[[source]]
+name    = "arXiv cs.LG"
+url     = "https://export.arxiv.org/rss/cs.LG"
+section = "ai"
+weight  = 0.7
+cap     = 1
+
+[[source]]
+name    = "OpenAI"
+url     = "https://openai.com/news/rss.xml"
+section = "ai"
+weight  = 1.3
+cap     = 2
+
+[[source]]
+name    = "Hugging Face"
+url     = "https://huggingface.co/blog/feed.xml"
+section = "ai"
+weight  = 1.1
+cap     = 2
+
+[[source]]
+name    = "Google AI"
+url     = "https://blog.google/technology/ai/rss/"
+section = "ai"
+weight  = 1.1
+cap     = 2

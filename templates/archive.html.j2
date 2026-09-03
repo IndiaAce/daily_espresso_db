@@ -1,0 +1,31 @@
+{% extends "_base.html.j2" %}
+{% block title %}Archive — Daily Espresso{% endblock %}
+{% block description %}Every edition of the Daily Espresso.{% endblock %}
+
+{% block body %}
+<header class="mast wrap">
+  <div class="mast__kicker mono">
+    <span>Archive</span>
+    <span>{{ editions | length }} edition{{ '' if editions | length == 1 else 's' }}</span>
+  </div>
+  <h1 class="mast__title">Back<br><em>issues</em></h1>
+</header>
+
+<main class="wrap">
+  <section class="section">
+    {% if editions %}
+      {% for edition in editions %}
+      <a class="edition" href="{{ edition.href }}">
+        <span class="edition__date">{{ edition.date }}</span>
+        <span class="edition__headline">{{ edition.headline or edition.date_long }}</span>
+        <span class="edition__counts mono">{{ edition.counts.stories | default(0) }} stories</span>
+      </a>
+      {% endfor %}
+    {% else %}
+      <p class="empty">No editions yet.</p>
+    {% endif %}
+  </section>
+</main>
+{% endblock %}
+
+{% block foot_left %}Archive{% endblock %}

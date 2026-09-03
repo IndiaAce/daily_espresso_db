@@ -1,0 +1,96 @@
+{% extends "_base.html.j2" %}
+{% block title %}Daily Espresso — {{ issue.date_long }}{% endblock %}
+{% block description %}{{ issue.counts.stories }} stories and {{ issue.counts.kev }} actively-exploited CVEs for {{ issue.date_long }}.{% endblock %}
+
+{% block body %}
+<header class="mast wrap">
+  <div class="mast__kicker mono">
+    <span>{{ issue.date_long }}</span>
+    <span>Edition {{ issue.date }}</span>
+  </div>
+  <h1 class="mast__title">Daily<br><em>Espresso</em></h1>
+  <div class="mast__meta mono">
+    <span>{{ issue.counts.stories }} stories</span>
+    <span>{{ issue.counts.kev }} exploited CVEs</span>
+    <span>{{ issue.drill.cards | length }} French cards</span>
+  </div>
+</header>
+
+<main class="wrap">
+  {% if issue.kev %}
+  <section class="section">
+    <div class="section__head">
+      <span class="section__num">00</span>
+      <h2 class="section__title">Actively exploited</h2>
+      <span class="section__count mono">CISA KEV</span>
+    </div>
+    <div class="kev">
+      {% for vuln in issue.kev %}
+      <a class="kev__row{% if vuln.ransomware %} kev__row--ransom{% endif %}" href="{{ vuln.url }}" rel="noopener">
+        <div class="kev__head">
+          <span class="kev__cve">{{ vuln.cve }}</span>
+          <span class="kev__vendor">{{ vuln.vendor }} {{ vuln.product }}</span>
+          {% if vuln.ransomware %}<span class="kev__flag">ransomware</span>{% endif %}
+        </div>
+        <p class="kev__desc">{{ vuln.summary }}</p>
+        <div class="kev__due mono">Added {{ vuln.added }}{% if vuln.due %} · remediate by {{ vuln.due }}{% endif %}</div>
+      </a>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  {% for section in issue.sections %}
+  <section class="section">
+    <div class="section__head">
+      <span class="section__num">{{ '%02d' | format(loop.index) }}</span>
+      <h2 class="section__title">{{ section.label }}</h2>
+      <span class="section__count mono">{{ section.stories | length }}</span>
+    </div>
+    {% if section.stories %}
+      {% for item in section.stories %}
+      <a class="story" href="{{ item.url }}" rel="noopener">
+        <h3 class="story__title">{{ item.title }}</h3>
+        {% if item.summary %}<p class="story__summary">{{ item.summary }}</p>{% endif %}
+        <div class="story__meta mono">
+          <span class="story__source">{{ item.source }}</span>
+          <span class="story__dot">/</span>
+          <span>{{ item.url | domain }}</span>
+          {% if item.published %}
+          <span class="story__dot">/</span>
+          <span>{{ item.published | timeago }}</span>
+          {% endif %}
+        </div>
+      </a>
+      {% endfor %}
+    {% else %}
+      <p class="empty">Nothing worth your morning here today.</p>
+    {% endif %}
+  </section>
+  {% endfor %}
+
+  {% if issue.drill.cards %}
+  <section class="section">
+    <div class="section__head">
+      <span class="section__num">{{ '%02d' | format(issue.sections | length + 1) }}</span>
+      <h2 class="section__title">Un peu de français</h2>
+      <span class="section__count mono">{{ issue.drill.cards | length }}</span>
+    </div>
+    <div class="drill">
+      {% for card in issue.drill.cards %}
+      <div class="card{% if loop.first %} card--quiz{% endif %}">
+        <span class="card__fr">{{ card.fr }}</span>
+        <span class="card__en">{{ card.en }}</span>
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+</main>
+{% endblock %}
+
+{% block foot_left %}Brewed {{ issue.built_at[:16] | replace('T', ' ') }} UTC{% if permalink %} · <a href="{{ permalink }}">permalink</a>{% endif %}{% endblock %}
+
+{% block scripts %}
+<script src="{{ asset_prefix }}/espresso.js" defer></script>
+{% endblock %}

@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}Daily Espresso{% endblock %}</title>
+<meta name="description" content="{% block description %}A small, fast morning newsletter — security, AI, and a little French.{% endblock %}">
+<meta name="color-scheme" content="light dark">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#9749;</text></svg>">
+<link rel="stylesheet" href="{{ asset_prefix }}/espresso.css">
+</head>
+<body>
+{% block body %}{% endblock %}
+<footer class="foot wrap mono">
+  <span>{% block foot_left %}Daily Espresso{% endblock %}</span>
+  <span>
+    <a href="{{ root_prefix }}index.html">Today</a> ·
+    <a href="{{ root_prefix }}archive.html">Archive</a> ·
+    <a href="https://lukewescott.com">lukewescott.com</a>
+  </span>
+</footer>
+{% block scripts %}{% endblock %}
+</body>
+</html>

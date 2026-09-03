@@ -1,0 +1,180 @@
+{
+  "date": "2026-09-03",
+  "date_long": "Thursday, September 3, 2026",
+  "weekday": "Thursday",
+  "built_at": "2026-09-03T12:21:27.766965+00:00",
+  "sections": [
+    {
+      "key": "security",
+      "label": "Security",
+      "stories": [
+        {
+          "title": "Researching Employment Scams",
+          "url": "https://www.schneier.com/blog/archives/2026/09/researching-employment-scams.html",
+          "source": "Schneier on Security",
+          "section": "security",
+          "published": "2026-09-03T11:18:14+00:00",
+          "summary": "Researchers built a fake company to study fake employee scams .",
+          "tags": []
+        },
+        {
+          "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
+          "url": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html",
+          "source": "The Hacker News",
+          "section": "security",
+          "published": "2026-09-03T10:43:01+00:00",
+          "summary": "Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads. According to a new report published by the Symantec Threat Hunter Team today, the attack method has been put to use in attacks…",
+          "tags": []
+        },
+        {
+          "title": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means",
+          "url": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
+          "source": "The Hacker News",
+          "section": "security",
+          "published": "2026-09-03T10:36:39+00:00",
+          "summary": "In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Integration/Continuous Deployment (CI/CD) tooling, cloud…",
+          "tags": []
+        },
+        {
+          "title": "Plex warns users to patch security vulnerabilities immediately",
+          "url": "https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/",
+          "source": "BleepingComputer",
+          "section": "security",
+          "published": "2026-09-03T11:02:22+00:00",
+          "summary": "Plex urged users this week to update their desktop clients and media servers immediately to patch multiple security vulnerabilities. [...]",
+          "tags": []
+        },
+        {
+          "title": "Communicating Under Pressure: Best Practices for Service Providers",
+          "url": "https://www.cisa.gov/resources-tools/resources/communicating-under-pressure-best-practices-service-providers",
+          "source": "CISA Advisories",
+          "section": "security",
+          "published": "2026-09-02T12:00:00+00:00",
+          "summary": "Developed by CISA, the Federal Bureau of Investigation, and international partners, this guidance describes how organizations can plan and execute clear, timely, accurate, and audience-appropriate communications during IT and operational technology (OT)…",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "label": "AI & ML",
+      "stories": [
+        {
+          "title": "llm-gemini 0.34",
+          "url": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-02T16:39:38+00:00",
+          "summary": "Release: llm-gemini 0.34 New model gemini-3.8-flash for Gemini 3.8 Flash , with low, medium and high thinking levels. #146 Fixed async responses failing to record the resolved model version. Thanks, Charlie Tonneslan . #137 Google released Gemini 3.8 Flash…",
+          "tags": []
+        },
+        {
+          "title": "Claude's new system prompt really doesn't want to reproduce song lyrics",
+          "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-02T14:16:42+00:00",
+          "summary": "Anthropic publish the system prompts for their Claude consumer applications ( Claude.ai and the Claude mobile apps - sadly not for Claude Cowork or Claude Code). I love that they do this, and that they share not just the current prompts but historic changes…",
+          "tags": []
+        },
+        {
+          "title": "Pre-Release of Polars 2.0",
+          "url": "https://pola.rs/posts/announcing-polars-2/",
+          "source": "Hacker News",
+          "section": "ai",
+          "published": "2026-09-03T06:59:08+00:00",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+          "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+          "source": "Hugging Face",
+          "section": "ai",
+          "published": "2026-09-03T00:00:00+00:00",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "Give Your Coding Agents a Memory You Own",
+          "url": "https://huggingface.co/blog/funes",
+          "source": "Hugging Face",
+          "section": "ai",
+          "published": "2026-09-03T00:00:00+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-59822",
+      "vendor": "BerriAI",
+      "product": "LiteLLM",
+      "name": "BerriAI LiteLLM Improper Authentication Vulnerability",
+      "summary": "BerriAI LiteLLM contains an improper authentication vulnerability in the MCP Streamable HTTP endpoint that could allow an unauthenticated attacker to establish an authenticated MCP session using an arbitrary Bearer…",
+      "added": "2026-09-02",
+      "due": "2026-09-16",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-59822"
+    },
+    {
+      "cve": "CVE-2026-48710",
+      "vendor": "Kludex",
+      "product": "Starlette",
+      "name": "Kludex Starlette HTTP Request/Response Smuggling Vulnerability",
+      "summary": "Kludex Starlette contains a HTTP request/response smuggling vulnerability that could allow attackers to inject paths into the host part, prepending the actual path leading to issues such as authentication bypass when…",
+      "added": "2026-09-02",
+      "due": "2026-09-16",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-48710"
+    },
+    {
+      "cve": "CVE-2026-49869",
+      "vendor": "Kestra",
+      "product": "Kestra OSS",
+      "name": "Kestra OSS OS Command Injection Vulnerability",
+      "summary": "Kestra OSS contains an OS command injection vulnerability that could allow an unauthenticated remote attacker to create and execute arbitrary workflows without credentials.",
+      "added": "2026-09-02",
+      "due": "2026-09-05",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-49869"
+    },
+    {
+      "cve": "CVE-2026-82329",
+      "vendor": "JFrog",
+      "product": "Artifactory",
+      "name": "JFrog Artifactory Improper Authentication Vulnerability",
+      "summary": "JFrog Artifactory contains an improper authentication vulnerability that under default configuration can allow an unauthenticated attacker with network access to obtain administrative privileges.",
+      "added": "2026-09-02",
+      "due": "2026-09-05",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-82329"
+    }
+  ],
+  "drill": {
+    "cards": [
+      {
+        "fr": "attends",
+        "en": "am waiting for, waiting, am waiting"
+      },
+      {
+        "fr": "poulet",
+        "en": "chicken"
+      },
+      {
+        "fr": "écrire",
+        "en": "to write"
+      }
+    ],
+    "quiz": {
+      "fr": "attends",
+      "en": "am waiting for, waiting, am waiting"
+    }
+  },
+  "counts": {
+    "stories": 10,
+    "kev": 4
+  }
+}

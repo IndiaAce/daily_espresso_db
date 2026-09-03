@@ -1,0 +1,10834 @@
+[
+{
+"fr": "a",
+"en": "get, gets, have"
+},
+{
+"fr": "a honte",
+"en": "is ashamed"
+},
+{
+"fr": "a-t-elle",
+"en": "is she, does she, does she have"
+},
+{
+"fr": "a-t-il",
+"en": "is he, does he have, does he"
+},
+{
+"fr": "absent",
+"en": "away, absent, absentees"
+},
+{
+"fr": "absolument",
+"en": "absolutely, definitely, certainly"
+},
+{
+"fr": "accent",
+"en": "accent"
+},
+{
+"fr": "accepter",
+"en": "accepting, accept, accepted"
+},
+{
+"fr": "accident",
+"en": "accident, crashes"
+},
+{
+"fr": "accompagner",
+"en": "accompany, chaperones"
+},
+{
+"fr": "accueillent",
+"en": "are hosting, host, receive"
+},
+{
+"fr": "accueilles",
+"en": "host, receive, are hosting"
+},
+{
+"fr": "accueillez",
+"en": "host/are hosting, host, receive"
+},
+{
+"fr": "accueillir",
+"en": "to host"
+},
+{
+"fr": "accueillons",
+"en": "are hosting, let's welcome, host"
+},
+{
+"fr": "acheter",
+"en": "buy, get, buying"
+},
+{
+"fr": "achetez",
+"en": "buy, are buying"
+},
+{
+"fr": "acheté",
+"en": "bought"
+},
+{
+"fr": "achetons",
+"en": "buy, let's buy, are buying"
+},
+{
+"fr": "achète",
+"en": "am buying, buy, get"
+},
+{
+"fr": "achètes",
+"en": "buy, buying, are buying"
+},
+{
+"fr": "acteur",
+"en": "actor, actor's"
+},
+{
+"fr": "activité",
+"en": "activity"
+},
+{
+"fr": "actrice",
+"en": "actress"
+},
+{
+"fr": "addition",
+"en": "check, accumulation, addition"
+},
+{
+"fr": "ado",
+"en": "teenager"
+},
+{
+"fr": "adolescent",
+"en": "teenage, adolescent, teenager"
+},
+{
+"fr": "adopter",
+"en": "adopt, assume"
+},
+{
+"fr": "adore",
+"en": "loves, love"
+},
+{
+"fr": "adorent",
+"en": "love"
+},
+{
+"fr": "adorer",
+"en": "to love"
+},
+{
+"fr": "adores",
+"en": "love"
+},
+{
+"fr": "adoré",
+"en": "loved"
+},
+{
+"fr": "adresse",
+"en": "address"
+},
+{
+"fr": "adulte",
+"en": "adult, adult's"
+},
+{
+"fr": "aéroport",
+"en": "airport"
+},
+{
+"fr": "aéroports",
+"en": "airports"
+},
+{
+"fr": "affiche",
+"en": "poster"
+},
+{
+"fr": "africain",
+"en": "African"
+},
+{
+"fr": "Afrique",
+"en": "Africa"
+},
+{
+"fr": "agneau",
+"en": "lamb"
+},
+{
+"fr": "agréable",
+"en": "pleasant, nice, agreeable"
+},
+{
+"fr": "agréables",
+"en": "pleasant"
+},
+{
+"fr": "agriculteur",
+"en": "farmer"
+},
+{
+"fr": "agriculture",
+"en": "agriculture"
+},
+{
+"fr": "ai",
+"en": "feel, have, ve"
+},
+{
+"fr": "aide",
+"en": "am helping, helps, helping"
+},
+{
+"fr": "aider",
+"en": "to help"
+},
+{
+"fr": "aides",
+"en": "help"
+},
+{
+"fr": "aidez",
+"en": "help, are helping"
+},
+{
+"fr": "aidé",
+"en": "helped"
+},
+{
+"fr": "ail",
+"en": "garlic"
+},
+{
+"fr": "aille",
+"en": "am going, go, is going"
+},
+{
+"fr": "aimable",
+"en": "friendly, nicer, amiable"
+},
+{
+"fr": "aimais",
+"en": "used to like, liked, used to love"
+},
+{
+"fr": "aime",
+"en": "loves, likes, like"
+},
+{
+"fr": "aime bien",
+"en": "like, likes"
+},
+{
+"fr": "aiment",
+"en": "like, love, enjoy"
+},
+{
+"fr": "aimer",
+"en": "to like"
+},
+{
+"fr": "aimerais",
+"en": "would like, would like to"
+},
+{
+"fr": "aimes",
+"en": "like, love, enjoy"
+},
+{
+"fr": "aimes-tu",
+"en": "are you fond of, do you love, do you like"
+},
+{
+"fr": "aimez",
+"en": "love (person/pet), like (thing), love"
+},
+{
+"fr": "aimé",
+"en": "liked, loved, like"
+},
+{
+"fr": "aimons",
+"en": "like, love"
+},
+{
+"fr": "aire de jeux",
+"en": "playground"
+},
+{
+"fr": "aise",
+"en": "uncomfortable"
+},
+{
+"fr": "ajouter",
+"en": "friend, to add, add"
+},
+{
+"fr": "album",
+"en": "album, volume"
+},
+{
+"fr": "alcool",
+"en": "alcohol"
+},
+{
+"fr": "algérien",
+"en": "Algerian"
+},
+{
+"fr": "allant",
+"en": "going"
+},
+{
+"fr": "Allemagne",
+"en": "Germany"
+},
+{
+"fr": "allemand",
+"en": "German"
+},
+{
+"fr": "aller",
+"en": "let's, wasn't, to go"
+},
+{
+"fr": "allez",
+"en": "are going, go, come on"
+},
+{
+"fr": "allez-vous",
+"en": "are you going"
+},
+{
+"fr": "allé",
+"en": "traveled, went, gone"
+},
+{
+"fr": "allée",
+"en": "path, gone, went"
+},
+{
+"fr": "allées",
+"en": "gone, went, aisles"
+},
+{
+"fr": "allés",
+"en": "went, gone"
+},
+{
+"fr": "allonger",
+"en": "lie down"
+},
+{
+"fr": "allons",
+"en": "are going to, let's, are going"
+},
+{
+"fr": "allons-y",
+"en": "let's go"
+},
+{
+"fr": "allume",
+"en": "turns on, light, turn on"
+},
+{
+"fr": "allumer",
+"en": "light, turn on, let's"
+},
+{
+"fr": "allumez",
+"en": "light, turn on"
+},
+{
+"fr": "alors",
+"en": "so, then, in that case"
+},
+{
+"fr": "ambulance",
+"en": "ambulance, ems"
+},
+{
+"fr": "améliorer",
+"en": "improve"
+},
+{
+"fr": "américain",
+"en": "American"
+},
+{
+"fr": "américaine",
+"en": "American"
+},
+{
+"fr": "américaines",
+"en": "American"
+},
+{
+"fr": "américains",
+"en": "American"
+},
+{
+"fr": "ami",
+"en": "friend"
+},
+{
+"fr": "amie",
+"en": "friend, friend's, girlfriend's"
+},
+{
+"fr": "amour",
+"en": "dear, love, lover"
+},
+{
+"fr": "amoureux",
+"en": "lovers, in love, lover"
+},
+{
+"fr": "amusant",
+"en": "funny"
+},
+{
+"fr": "amusante",
+"en": "funny"
+},
+{
+"fr": "amusantes",
+"en": "funny"
+},
+{
+"fr": "amusants",
+"en": "funny"
+},
+{
+"fr": "an",
+"en": "year, year's"
+},
+{
+"fr": "ananas",
+"en": "pineapple"
+},
+{
+"fr": "anglais",
+"en": "English, English people, Englishman"
+},
+{
+"fr": "anglaise",
+"en": "English"
+},
+{
+"fr": "anglaises",
+"en": "English"
+},
+{
+"fr": "Angleterre",
+"en": "England"
+},
+{
+"fr": "animal",
+"en": "animal"
+},
+{
+"fr": "animal de compagnie",
+"en": "pet"
+},
+{
+"fr": "animaux",
+"en": "animals, animals'"
+},
+{
+"fr": "année",
+"en": "year"
+},
+{
+"fr": "années",
+"en": "years"
+},
+{
+"fr": "anniversaire",
+"en": "anniversary, birthday, birthday's"
+},
+{
+"fr": "annonce",
+"en": "is announcing, announce, announcement"
+},
+{
+"fr": "annulation",
+"en": "cancellation"
+},
+{
+"fr": "annuler",
+"en": "cancel, to cancel, undo"
+},
+{
+"fr": "août",
+"en": "August"
+},
+{
+"fr": "apéritif",
+"en": "aperitif"
+},
+{
+"fr": "appareil",
+"en": "device, plane's, device's"
+},
+{
+"fr": "appareil photo",
+"en": "camera"
+},
+{
+"fr": "appartement",
+"en": "apartment, flat"
+},
+{
+"fr": "appartements",
+"en": "apartments"
+},
+{
+"fr": "appeler",
+"en": "to call, call, calling"
+},
+{
+"fr": "appelez",
+"en": "call, are calling"
+},
+{
+"fr": "appelé",
+"en": "called"
+},
+{
+"fr": "appelle",
+"en": "am calling, is calling, calls"
+},
+{
+"fr": "appelles",
+"en": "call, get"
+},
+{
+"fr": "application",
+"en": "application, app, app's"
+},
+{
+"fr": "apporter",
+"en": "to bring, bring, bringing"
+},
+{
+"fr": "apporté",
+"en": "brought, tracked"
+},
+{
+"fr": "apprend",
+"en": "learns, is studying, learn"
+},
+{
+"fr": "apprendra",
+"en": "will study, will learn"
+},
+{
+"fr": "apprendre",
+"en": "to learn"
+},
+{
+"fr": "apprends",
+"en": "are studying, are learning, hear"
+},
+{
+"fr": "apprenez",
+"en": "learn, study, are studying"
+},
+{
+"fr": "apprennent",
+"en": "are learning, learn, study"
+},
+{
+"fr": "apprenons",
+"en": "learn, study, are studying"
+},
+{
+"fr": "appris",
+"en": "learned, learn"
+},
+{
+"fr": "après",
+"en": "after, afterwards, from"
+},
+{
+"fr": "après-midi",
+"en": "afternoon"
+},
+{
+"fr": "après-midis",
+"en": "afternoons"
+},
+{
+"fr": "araignée",
+"en": "spider"
+},
+{
+"fr": "arbre",
+"en": "tree, tree's"
+},
+{
+"fr": "argent",
+"en": "money"
+},
+{
+"fr": "armoire",
+"en": "wardrobe"
+},
+{
+"fr": "arrêt",
+"en": "stop"
+},
+{
+"fr": "arrêter",
+"en": "to stop"
+},
+{
+"fr": "arrivant",
+"en": "coming, arriving"
+},
+{
+"fr": "arriver",
+"en": "to arrive"
+},
+{
+"fr": "arrivera",
+"en": "will arrive, will be able, will get"
+},
+{
+"fr": "arrivé",
+"en": "arrived, finished, happened"
+},
+{
+"fr": "arrivée",
+"en": "flight's, succeeded, arrival"
+},
+{
+"fr": "arrivées",
+"en": "arrivals, arrived, happened"
+},
+{
+"fr": "arrivés",
+"en": "arrivals, arrive, arrived"
+},
+{
+"fr": "arrondissement",
+"en": "district"
+},
+{
+"fr": "art",
+"en": "arts, art"
+},
+{
+"fr": "article",
+"en": "item, article, essay's"
+},
+{
+"fr": "artiste",
+"en": "performer, artist, actor's"
+},
+{
+"fr": "as",
+"en": "feel, have, ve"
+},
+{
+"fr": "as besoin",
+"en": "need"
+},
+{
+"fr": "as l'air",
+"en": "have the appearance, look like, seem"
+},
+{
+"fr": "as-tu",
+"en": "do you have"
+},
+{
+"fr": "ascenseur",
+"en": "elevator"
+},
+{
+"fr": "asseyez",
+"en": "sit"
+},
+{
+"fr": "asseyez-vous",
+"en": "sit, sit down"
+},
+{
+"fr": "assez",
+"en": "enough, quite, pretty"
+},
+{
+"fr": "assieds-toi",
+"en": "sit down"
+},
+{
+"fr": "assiette",
+"en": "plate"
+},
+{
+"fr": "attacher",
+"en": "fasten, tie, tying"
+},
+{
+"fr": "attend",
+"en": "waits, wait, waits for"
+},
+{
+"fr": "attendent",
+"en": "wait for, are waiting for, wait"
+},
+{
+"fr": "attendez",
+"en": "wait for, are waiting for, wait"
+},
+{
+"fr": "attendons",
+"en": "wait for, waiting, are waiting for"
+},
+{
+"fr": "attendra",
+"en": "will wait for, will wait, 'll wait for"
+},
+{
+"fr": "attendrai",
+"en": "will wait for, will wait"
+},
+{
+"fr": "attendras",
+"en": "will wait, will wait for"
+},
+{
+"fr": "attendre",
+"en": "wait for, waiting, expect"
+},
+{
+"fr": "attendront",
+"en": "will wait for, will wait"
+},
+{
+"fr": "attends",
+"en": "am waiting for, waiting, am waiting"
+},
+{
+"fr": "attendu",
+"en": "expected, waited, waited for"
+},
+{
+"fr": "attention",
+"en": "careful, attention, be careful"
+},
+{
+"fr": "atterrir",
+"en": "landing, to land, come"
+},
+{
+"fr": "attraper",
+"en": "to catch"
+},
+{
+"fr": "au",
+"en": "for the, in the, at the"
+},
+{
+"fr": "au bout de",
+"en": "at the end of"
+},
+{
+"fr": "au coin de la rue",
+"en": "at the corner of the street"
+},
+{
+"fr": "au début",
+"en": "at the beginning"
+},
+{
+"fr": "au foyer",
+"en": "stay-at-home"
+},
+{
+"fr": "au lieu",
+"en": "instead"
+},
+{
+"fr": "au lieu de",
+"en": "instead of"
+},
+{
+"fr": "au petit déjeuner",
+"en": "at breakfast"
+},
+{
+"fr": "au revoir",
+"en": "goodbye"
+},
+{
+"fr": "au secours",
+"en": "help"
+},
+{
+"fr": "au téléphone",
+"en": "on the phone"
+},
+{
+"fr": "au-dessus",
+"en": "above"
+},
+{
+"fr": "auberge de jeunesse",
+"en": "youth hostel, hostel"
+},
+{
+"fr": "aucun",
+"en": "any, no, nobody"
+},
+{
+"fr": "aucune",
+"en": "any, no, a single"
+},
+{
+"fr": "aujourd'hui",
+"en": "today"
+},
+{
+"fr": "aura",
+"en": "will have, will get"
+},
+{
+"fr": "aurai",
+"en": "will have"
+},
+{
+"fr": "auras",
+"en": "will have, will get, have"
+},
+{
+"fr": "auront",
+"en": "will have, must have"
+},
+{
+"fr": "aussi",
+"en": "too, as, also"
+},
+{
+"fr": "Australie",
+"en": "Australia"
+},
+{
+"fr": "autant",
+"en": "as much, as many, for all that"
+},
+{
+"fr": "auteur",
+"en": "author, writer's"
+},
+{
+"fr": "automne",
+"en": "fall, autumn"
+},
+{
+"fr": "autoroute",
+"en": "highway"
+},
+{
+"fr": "autour",
+"en": "around"
+},
+{
+"fr": "autre",
+"en": "another, other, different"
+},
+{
+"fr": "autre chose",
+"en": "something else"
+},
+{
+"fr": "autres",
+"en": "other ones, others, other"
+},
+{
+"fr": "aux",
+"en": "to the, with, of the"
+},
+{
+"fr": "aux toilettes",
+"en": "bathroom"
+},
+{
+"fr": "avaient",
+"en": "got, had, have"
+},
+{
+"fr": "avais",
+"en": "was having, were, got"
+},
+{
+"fr": "avait",
+"en": "was, was having, used to have"
+},
+{
+"fr": "avancer",
+"en": "put forward, advance, progress"
+},
+{
+"fr": "avant",
+"en": "before, for, beforehand"
+},
+{
+"fr": "avant de",
+"en": "before"
+},
+{
+"fr": "avec",
+"en": "with, in"
+},
+{
+"fr": "avec qui",
+"en": "with who"
+},
+{
+"fr": "aventure",
+"en": "adventure"
+},
+{
+"fr": "avenue",
+"en": "avenue"
+},
+{
+"fr": "avez",
+"en": "have, get"
+},
+{
+"fr": "avez-vous",
+"en": "do you have"
+},
+{
+"fr": "aviez",
+"en": "got, had, have"
+},
+{
+"fr": "avion",
+"en": "plane, aeroplane, airplane"
+},
+{
+"fr": "avions",
+"en": "planes, used to have, had"
+},
+{
+"fr": "avoir",
+"en": "to have"
+},
+{
+"fr": "avons",
+"en": "get, have, we've"
+},
+{
+"fr": "avril",
+"en": "April"
+},
+{
+"fr": "à",
+"en": "to, at, in"
+},
+{
+"fr": "à bientôt",
+"en": "see you soon"
+},
+{
+"fr": "à boire",
+"en": "drink"
+},
+{
+"fr": "à café",
+"en": "teaspoon, coffee"
+},
+{
+"fr": "à cause",
+"en": "because"
+},
+{
+"fr": "à côté",
+"en": "next to, next door"
+},
+{
+"fr": "à demain",
+"en": "see you tomorrow"
+},
+{
+"fr": "à droite",
+"en": "to the right"
+},
+{
+"fr": "à gauche",
+"en": "to the left"
+},
+{
+"fr": "à l'",
+"en": "at"
+},
+{
+"fr": "à l'étage",
+"en": "upstairs"
+},
+{
+"fr": "à l'étranger",
+"en": "abroad"
+},
+{
+"fr": "à l'heure",
+"en": "on time, in time, punctual"
+},
+{
+"fr": "à la",
+"en": "with"
+},
+{
+"fr": "à la campagne",
+"en": "in the countryside"
+},
+{
+"fr": "à manger",
+"en": "to eat"
+},
+{
+"fr": "à moi",
+"en": "mine, my turn, all mine"
+},
+{
+"fr": "à pied",
+"en": "on foot"
+},
+{
+"fr": "à point",
+"en": "medium rare"
+},
+{
+"fr": "à soupe",
+"en": "tablespoon, soup spoon"
+},
+{
+"fr": "âge",
+"en": "age"
+},
+{
+"fr": "bac",
+"en": "bac"
+},
+{
+"fr": "bagage",
+"en": "luggage, bag"
+},
+{
+"fr": "bagages",
+"en": "luggage, baggage"
+},
+{
+"fr": "bague",
+"en": "ring"
+},
+{
+"fr": "baguette",
+"en": "wand, baguette, rods"
+},
+{
+"fr": "bain",
+"en": "bath"
+},
+{
+"fr": "ballon",
+"en": "ball, balloon"
+},
+{
+"fr": "banane",
+"en": "banana"
+},
+{
+"fr": "bancaire",
+"en": "bank, banking, bank’s"
+},
+{
+"fr": "banque",
+"en": "bank"
+},
+{
+"fr": "bar",
+"en": "bar, bar's, café's"
+},
+{
+"fr": "barbe",
+"en": "beard"
+},
+{
+"fr": "barbecue",
+"en": "barbecue"
+},
+{
+"fr": "basket",
+"en": "basketball, sneaker"
+},
+{
+"fr": "bateau",
+"en": "boat, ship"
+},
+{
+"fr": "bateaux",
+"en": "boats"
+},
+{
+"fr": "batterie",
+"en": "battery, drums, camera's"
+},
+{
+"fr": "bazar",
+"en": "junk"
+},
+{
+"fr": "beau",
+"en": "beautiful, handsome, nice"
+},
+{
+"fr": "beau-père",
+"en": "father-in-law, stepfather"
+},
+{
+"fr": "beaucoup",
+"en": "a lot, much, very much"
+},
+{
+"fr": "beaucoup de",
+"en": "a lot of"
+},
+{
+"fr": "beaucoup de monde",
+"en": "a lot of people"
+},
+{
+"fr": "beaucoup trop",
+"en": "way too many, way too"
+},
+{
+"fr": "beaux",
+"en": "handsome, beautiful, good-looking"
+},
+{
+"fr": "beaux-parents",
+"en": "parents-in-law"
+},
+{
+"fr": "bel",
+"en": "handsome, beautiful, nice"
+},
+{
+"fr": "belge",
+"en": "Belgian, belgium's"
+},
+{
+"fr": "belle-mère",
+"en": "mother-in-law, stepmother"
+},
+{
+"fr": "besoin",
+"en": "need"
+},
+{
+"fr": "besoin de",
+"en": "need"
+},
+{
+"fr": "beurre",
+"en": "butter, (I) butter, (you) butter!"
+},
+{
+"fr": "bébé",
+"en": "baby"
+},
+{
+"fr": "bête",
+"en": "beast, silly, beast's"
+},
+{
+"fr": "bibliothèque",
+"en": "bookcase, bill's, library"
+},
+{
+"fr": "bien",
+"en": "well, good, fine"
+},
+{
+"fr": "bien s'entendre",
+"en": "get along well, get on well, have a good relationship"
+},
+{
+"fr": "bien sûr",
+"en": "of course"
+},
+{
+"fr": "bientôt",
+"en": "soon, earlier"
+},
+{
+"fr": "bienvenu",
+"en": "welcome"
+},
+{
+"fr": "bienvenue",
+"en": "welcome"
+},
+{
+"fr": "bière",
+"en": "beer"
+},
+{
+"fr": "bijou",
+"en": "piece of jewelry"
+},
+{
+"fr": "bijoux",
+"en": "pieces of jewelry"
+},
+{
+"fr": "billet",
+"en": "ticket, bill"
+},
+{
+"fr": "billet d'avion",
+"en": "plane ticket"
+},
+{
+"fr": "billets",
+"en": "tickets, bills"
+},
+{
+"fr": "biologie",
+"en": "biology"
+},
+{
+"fr": "biscuit",
+"en": "cookie, biscuit (UK)"
+},
+{
+"fr": "bistro",
+"en": "café"
+},
+{
+"fr": "bizarre",
+"en": "weird, strange, weirder"
+},
+{
+"fr": "blague",
+"en": "joke, kidding, prank"
+},
+{
+"fr": "blanc",
+"en": "white, white (ball), white wine"
+},
+{
+"fr": "blanche",
+"en": "blank, white, sleepless"
+},
+{
+"fr": "blanches",
+"en": "blank, white, sleepless"
+},
+{
+"fr": "blancs",
+"en": "white, blank"
+},
+{
+"fr": "blesser",
+"en": "injure"
+},
+{
+"fr": "blessé",
+"en": "injured"
+},
+{
+"fr": "blessure",
+"en": "injury, hurt"
+},
+{
+"fr": "bleu",
+"en": "blue, bruise"
+},
+{
+"fr": "bleu clair",
+"en": "light blue"
+},
+{
+"fr": "bleu foncé",
+"en": "dark blue"
+},
+{
+"fr": "blond",
+"en": "blond"
+},
+{
+"fr": "boirai",
+"en": "will drink"
+},
+{
+"fr": "boire",
+"en": "to drink, drinking"
+},
+{
+"fr": "bois",
+"en": "drink, are drinking, drinks"
+},
+{
+"fr": "boisson",
+"en": "drink"
+},
+{
+"fr": "boisson fraîche",
+"en": "cold drink"
+},
+{
+"fr": "boit",
+"en": "is drinking, drinks"
+},
+{
+"fr": "boivent",
+"en": "drink, are drinking"
+},
+{
+"fr": "boîte",
+"en": "club, box, company"
+},
+{
+"fr": "bol",
+"en": "bowl"
+},
+{
+"fr": "bon",
+"en": "good, right, tasty"
+},
+{
+"fr": "bon marché",
+"en": "inexpensive"
+},
+{
+"fr": "bonbon",
+"en": "piece of candy, candy, candy's"
+},
+{
+"fr": "bondé",
+"en": "crowded, busy"
+},
+{
+"fr": "bonjour",
+"en": "hello, good morning, good afternoon"
+},
+{
+"fr": "bonne",
+"en": "well, right, tasty"
+},
+{
+"fr": "bonne journée",
+"en": "have a good day, have a nice day"
+},
+{
+"fr": "bonne nuit",
+"en": "good night"
+},
+{
+"fr": "bonne soirée",
+"en": "have a good evening"
+},
+{
+"fr": "bonnes",
+"en": "well, right, tasty"
+},
+{
+"fr": "bons",
+"en": "well, right, tasty"
+},
+{
+"fr": "bonsoir",
+"en": "good evening"
+},
+{
+"fr": "botte",
+"en": "boot"
+},
+{
+"fr": "bouche",
+"en": "covers, mouth, lips"
+},
+{
+"fr": "boucle",
+"en": "buckle, curls, loop"
+},
+{
+"fr": "boucler",
+"en": "to buckle, to fasten, to close"
+},
+{
+"fr": "boulangerie",
+"en": "bakery, bakery trade, baker's"
+},
+{
+"fr": "boulangeries",
+"en": "bakeries"
+},
+{
+"fr": "boulot",
+"en": "job, work"
+},
+{
+"fr": "bouquet",
+"en": "bouquet"
+},
+{
+"fr": "bouteille",
+"en": "bottle"
+},
+{
+"fr": "bracelet",
+"en": "bracelet, wristband"
+},
+{
+"fr": "bras",
+"en": "arm"
+},
+{
+"fr": "Brésil",
+"en": "Brazil"
+},
+{
+"fr": "brioche",
+"en": "brioche"
+},
+{
+"fr": "brosse",
+"en": "brushes, brush, am brushing"
+},
+{
+"fr": "brosse à dents",
+"en": "toothbrush"
+},
+{
+"fr": "brosser",
+"en": "brushing, to brush, brush"
+},
+{
+"fr": "brouillard",
+"en": "fog"
+},
+{
+"fr": "bruit",
+"en": "noise, sound"
+},
+{
+"fr": "brun",
+"en": "dark, dark-haired, brown"
+},
+{
+"fr": "bruyant",
+"en": "noisy"
+},
+{
+"fr": "brûler",
+"en": "burn, runs"
+},
+{
+"fr": "bu",
+"en": "drank, drunk"
+},
+{
+"fr": "bureau",
+"en": "office, desk, board"
+},
+{
+"fr": "bureau de change",
+"en": "currency exchange, bureau de change, currency exchange counter"
+},
+{
+"fr": "bureau de poste",
+"en": "post office"
+},
+{
+"fr": "bureaux",
+"en": "offices, desks"
+},
+{
+"fr": "bus",
+"en": "bus, buses"
+},
+{
+"fr": "but",
+"en": "goal, objective, purpose"
+},
+{
+"fr": "buvez",
+"en": "drink, are drinking"
+},
+{
+"fr": "buvons",
+"en": "drink, let's drink, are drinking"
+},
+{
+"fr": "bœuf",
+"en": "beef"
+},
+{
+"fr": "c'est",
+"en": "it is, this is, that is"
+},
+{
+"fr": "c'est le",
+"en": "it is the, this is the, that is the"
+},
+{
+"fr": "c'est ma",
+"en": "it is my, this is my, that's my"
+},
+{
+"fr": "c'est mon",
+"en": "it is my, this is my, that is my"
+},
+{
+"fr": "c'est un",
+"en": "it is a, this is a, that is a"
+},
+{
+"fr": "c'est une",
+"en": "it is a, this is a, that is a"
+},
+{
+"fr": "c'était",
+"en": "it was, that was"
+},
+{
+"fr": "cabine d'essayage",
+"en": "fitting room"
+},
+{
+"fr": "cadeau",
+"en": "present, gift"
+},
+{
+"fr": "cadeaux",
+"en": "presents"
+},
+{
+"fr": "café",
+"en": "bistro's, coffee shop, café's"
+},
+{
+"fr": "café au lait",
+"en": "coffee with milk"
+},
+{
+"fr": "cafétéria",
+"en": "cafeteria, cafeteria's"
+},
+{
+"fr": "cahier",
+"en": "notebook"
+},
+{
+"fr": "cahier d'activités",
+"en": "workbook"
+},
+{
+"fr": "calendrier",
+"en": "schedule, calendar, datebook"
+},
+{
+"fr": "calme",
+"en": "calm, quiet, quietest"
+},
+{
+"fr": "camembert",
+"en": "camembert, camberbert"
+},
+{
+"fr": "campagne",
+"en": "countryside, campaign"
+},
+{
+"fr": "camping",
+"en": "campground, camping"
+},
+{
+"fr": "canadien",
+"en": "Canadian, canada's"
+},
+{
+"fr": "canapé",
+"en": "couch, canapé"
+},
+{
+"fr": "canard",
+"en": "duck"
+},
+{
+"fr": "canette",
+"en": "can"
+},
+{
+"fr": "capable",
+"en": "capable"
+},
+{
+"fr": "capitale",
+"en": "capital, capital's"
+},
+{
+"fr": "carotte",
+"en": "carrot"
+},
+{
+"fr": "carré",
+"en": "square, carré"
+},
+{
+"fr": "carrière",
+"en": "career"
+},
+{
+"fr": "carte",
+"en": "map, menu, card"
+},
+{
+"fr": "carte bancaire",
+"en": "debit card"
+},
+{
+"fr": "carte d'identité",
+"en": "ID"
+},
+{
+"fr": "carte de crédit",
+"en": "credit card"
+},
+{
+"fr": "carte postale",
+"en": "postcard"
+},
+{
+"fr": "casque",
+"en": "helmet"
+},
+{
+"fr": "casquette",
+"en": "cap, baseball cap"
+},
+{
+"fr": "casser",
+"en": "break, breaking, broke"
+},
+{
+"fr": "cassé",
+"en": "broken, broke"
+},
+{
+"fr": "cathédrale",
+"en": "cathedral, church's"
+},
+{
+"fr": "cauchemar",
+"en": "nightmare"
+},
+{
+"fr": "ce",
+"en": "she, this, that"
+},
+{
+"fr": "ce soir",
+"en": "tonight"
+},
+{
+"fr": "ce sont",
+"en": "they are, those are, these are"
+},
+{
+"fr": "ce sont des",
+"en": "These are"
+},
+{
+"fr": "ce sont les",
+"en": "it is the, It is the"
+},
+{
+"fr": "ce sont mes",
+"en": "These are my"
+},
+{
+"fr": "ceci",
+"en": "this"
+},
+{
+"fr": "ceinture",
+"en": "seatbelt, belt"
+},
+{
+"fr": "cela",
+"en": "that, it, this"
+},
+{
+"fr": "celle-ci",
+"en": "this one"
+},
+{
+"fr": "celle-là",
+"en": "that one"
+},
+{
+"fr": "celles-ci",
+"en": "these"
+},
+{
+"fr": "celles-là",
+"en": "those (fem), those ones (UK)"
+},
+{
+"fr": "celui-ci",
+"en": "this one"
+},
+{
+"fr": "celui-là",
+"en": "that one"
+},
+{
+"fr": "cent",
+"en": "hundred, a hundred, one hundred"
+},
+{
+"fr": "cent mille",
+"en": "hundred thousand"
+},
+{
+"fr": "centaine",
+"en": "about one hundred, about a hundred"
+},
+{
+"fr": "centime",
+"en": "pennies, cent, centimes"
+},
+{
+"fr": "centre-ville",
+"en": "city center"
+},
+{
+"fr": "cents",
+"en": "hundred"
+},
+{
+"fr": "cercle",
+"en": "circle"
+},
+{
+"fr": "cerf-volant",
+"en": "kite"
+},
+{
+"fr": "certain",
+"en": "fixed, definite, certain"
+},
+{
+"fr": "certainement",
+"en": "certainly, definitely, most probably"
+},
+{
+"fr": "ces",
+"en": "these, those"
+},
+{
+"fr": "cet",
+"en": "this, that, this (before vowel)"
+},
+{
+"fr": "cette",
+"en": "this, that"
+},
+{
+"fr": "ceux-ci",
+"en": "these"
+},
+{
+"fr": "ceux-là",
+"en": "those ones"
+},
+{
+"fr": "célèbre",
+"en": "famous"
+},
+{
+"fr": "célibataire",
+"en": "single"
+},
+{
+"fr": "céréales",
+"en": "cereal"
+},
+{
+"fr": "chaise",
+"en": "chair, chair's"
+},
+{
+"fr": "chaîne",
+"en": "chain, channel, channel's"
+},
+{
+"fr": "chambre",
+"en": "rooms', bedroom's, room"
+},
+{
+"fr": "champ",
+"en": "field"
+},
+{
+"fr": "champagne",
+"en": "champagne"
+},
+{
+"fr": "champignon",
+"en": "mushroom"
+},
+{
+"fr": "champion",
+"en": "champion"
+},
+{
+"fr": "chance",
+"en": "luck, lucky, opportunity"
+},
+{
+"fr": "changement",
+"en": "change"
+},
+{
+"fr": "changer",
+"en": "to change"
+},
+{
+"fr": "chanson",
+"en": "song, song's"
+},
+{
+"fr": "chante",
+"en": "am singing, sings, sing"
+},
+{
+"fr": "chantent",
+"en": "sing, are singing"
+},
+{
+"fr": "chanter",
+"en": "to sing"
+},
+{
+"fr": "chantes",
+"en": "sing, are singing"
+},
+{
+"fr": "chanteur",
+"en": "singer, singer's"
+},
+{
+"fr": "chanté",
+"en": "sang"
+},
+{
+"fr": "chantilly",
+"en": "whipped cream"
+},
+{
+"fr": "chants",
+"en": "crow(ing), songs, odes"
+},
+{
+"fr": "chapeau",
+"en": "hat"
+},
+{
+"fr": "chapeaux",
+"en": "hats"
+},
+{
+"fr": "chaque",
+"en": "each, every"
+},
+{
+"fr": "chat",
+"en": "cat"
+},
+{
+"fr": "chats",
+"en": "cats, cats'"
+},
+{
+"fr": "chaud",
+"en": "hot, warm, hot / warm"
+},
+{
+"fr": "chaude",
+"en": "hot, warm"
+},
+{
+"fr": "chauffeur",
+"en": "driver"
+},
+{
+"fr": "chaussette",
+"en": "sock"
+},
+{
+"fr": "chaussure",
+"en": "shoe"
+},
+{
+"fr": "chauve",
+"en": "bald"
+},
+{
+"fr": "châtain",
+"en": "brown"
+},
+{
+"fr": "château",
+"en": "castle, manor (house), chateau"
+},
+{
+"fr": "châteaux",
+"en": "castles, palaces"
+},
+{
+"fr": "chef",
+"en": "boss', chef, boss"
+},
+{
+"fr": "chemin",
+"en": "path, way, rd"
+},
+{
+"fr": "chemise",
+"en": "shirt, binders, shirt's"
+},
+{
+"fr": "cher",
+"en": "expensive, dear, a lot (of money)"
+},
+{
+"fr": "cherchant",
+"en": "looking for, searching for"
+},
+{
+"fr": "chercher",
+"en": "look up, look for, pick up"
+},
+{
+"fr": "chers",
+"en": "expensive, fondest"
+},
+{
+"fr": "cheval",
+"en": "horse"
+},
+{
+"fr": "chevaux",
+"en": "horses"
+},
+{
+"fr": "cheveux",
+"en": "hair, hairs"
+},
+{
+"fr": "chez",
+"en": "to X's place, friend's, to X's house"
+},
+{
+"fr": "chèque",
+"en": "check, cheque"
+},
+{
+"fr": "chère",
+"en": "expensive, dear"
+},
+{
+"fr": "chères",
+"en": "expensive"
+},
+{
+"fr": "chéri",
+"en": "sweetheart, darling, love"
+},
+{
+"fr": "chien",
+"en": "dog"
+},
+{
+"fr": "chiens",
+"en": "dogs, dogs'"
+},
+{
+"fr": "chimie",
+"en": "chemistry, alchemy"
+},
+{
+"fr": "Chine",
+"en": "China"
+},
+{
+"fr": "chinois",
+"en": "Chinese"
+},
+{
+"fr": "chocolat",
+"en": "chocolate, chocolate-brown (coloured)"
+},
+{
+"fr": "chocolats",
+"en": "chocolate, chocolates"
+},
+{
+"fr": "choisi",
+"en": "chosen, chose, select"
+},
+{
+"fr": "choisir",
+"en": "to choose, (to) select, go"
+},
+{
+"fr": "choisis",
+"en": "choose, are choosing, am choosing"
+},
+{
+"fr": "choisissent",
+"en": "choose, are choosing"
+},
+{
+"fr": "choisissez",
+"en": "choose, are choosing"
+},
+{
+"fr": "choisissons",
+"en": "choose, are choosing, let's choose"
+},
+{
+"fr": "choisit",
+"en": "chooses, is choosing, choose"
+},
+{
+"fr": "choix",
+"en": "selection, choice"
+},
+{
+"fr": "chose",
+"en": "thing"
+},
+{
+"fr": "chouette",
+"en": "owl"
+},
+{
+"fr": "chouettes",
+"en": "owls, neat"
+},
+{
+"fr": "ci",
+"en": "this"
+},
+{
+"fr": "ciel",
+"en": "sky, heaven"
+},
+{
+"fr": "cigarette",
+"en": "cigarette"
+},
+{
+"fr": "ciné",
+"en": "the movies"
+},
+{
+"fr": "cinéma",
+"en": "movie theater, cinema, movies"
+},
+{
+"fr": "cinq",
+"en": "five, 5"
+},
+{
+"fr": "cinquantaine",
+"en": "about fifty"
+},
+{
+"fr": "cinquante",
+"en": "fifty, 50"
+},
+{
+"fr": "cinquième",
+"en": "fifth"
+},
+{
+"fr": "circulation",
+"en": "traffic, circulation"
+},
+{
+"fr": "ciseaux",
+"en": "scissors, scissors jump, scissors hold"
+},
+{
+"fr": "citron",
+"en": "lemon"
+},
+{
+"fr": "clair",
+"en": "clear"
+},
+{
+"fr": "clairement",
+"en": "clearly"
+},
+{
+"fr": "classe",
+"en": "classroom, course, class"
+},
+{
+"fr": "classique",
+"en": "classical, classic, straight"
+},
+{
+"fr": "clavier",
+"en": "keyboard"
+},
+{
+"fr": "clé",
+"en": "key"
+},
+{
+"fr": "client",
+"en": "client, customer, customer's"
+},
+{
+"fr": "cliquer",
+"en": "click"
+},
+{
+"fr": "clown",
+"en": "clown"
+},
+{
+"fr": "club",
+"en": "club, nightclub's"
+},
+{
+"fr": "cochon",
+"en": "pig"
+},
+{
+"fr": "code",
+"en": "PIN, code"
+},
+{
+"fr": "coiffe",
+"en": "does hair, bonnet"
+},
+{
+"fr": "coiffer",
+"en": "styled"
+},
+{
+"fr": "coiffeur",
+"en": "hairstylist's, hairstylist, hairdresser's"
+},
+{
+"fr": "coiffez",
+"en": "do your hair"
+},
+{
+"fr": "collège",
+"en": "middle school"
+},
+{
+"fr": "collègue",
+"en": "colleague's, colleague, coworker"
+},
+{
+"fr": "collier",
+"en": "necklace, collar"
+},
+{
+"fr": "colline",
+"en": "hill"
+},
+{
+"fr": "colocataire",
+"en": "roommate, roommate's"
+},
+{
+"fr": "combien",
+"en": "how much, how many"
+},
+{
+"fr": "combien de",
+"en": "how many"
+},
+{
+"fr": "commande",
+"en": "am ordering, order, orders"
+},
+{
+"fr": "commander",
+"en": "to order, order, ordering"
+},
+{
+"fr": "comme",
+"en": "like, as, since"
+},
+{
+"fr": "commence",
+"en": "am starting, is starting, start"
+},
+{
+"fr": "commencer",
+"en": "to start, open"
+},
+{
+"fr": "commencer à",
+"en": "start"
+},
+{
+"fr": "commencé",
+"en": "started, begun"
+},
+{
+"fr": "commencé à",
+"en": "started"
+},
+{
+"fr": "commençons",
+"en": "are starting, let's start, start"
+},
+{
+"fr": "comment",
+"en": "how"
+},
+{
+"fr": "comment est-ce que",
+"en": "how, How"
+},
+{
+"fr": "comment est-ce que je fais pour",
+"en": "how do I do to, how do I go about, how do I manage to"
+},
+{
+"fr": "comment tu t'appelles",
+"en": "what is your name, what's your name, how do you call yourself"
+},
+{
+"fr": "commentaire",
+"en": "review"
+},
+{
+"fr": "commode",
+"en": "dresser"
+},
+{
+"fr": "compagnie aérienne",
+"en": "airline company, airline"
+},
+{
+"fr": "compétition",
+"en": "competition"
+},
+{
+"fr": "complet",
+"en": "full, complete"
+},
+{
+"fr": "compléter",
+"en": "complete"
+},
+{
+"fr": "comprend",
+"en": "includes, understand, include"
+},
+{
+"fr": "comprendre",
+"en": "to understand"
+},
+{
+"fr": "comprendront",
+"en": "will understand"
+},
+{
+"fr": "comprends",
+"en": "understand"
+},
+{
+"fr": "comprenez",
+"en": "understand"
+},
+{
+"fr": "comprennent",
+"en": "understand"
+},
+{
+"fr": "comprenons",
+"en": "understand"
+},
+{
+"fr": "compris",
+"en": "understood, included, figuring"
+},
+{
+"fr": "compte",
+"en": "counting, counts, account"
+},
+{
+"fr": "concert",
+"en": "concert"
+},
+{
+"fr": "condition",
+"en": "condition, lots, term"
+},
+{
+"fr": "conduire",
+"en": "to drive"
+},
+{
+"fr": "conduis",
+"en": "drive, am driving, are driving"
+},
+{
+"fr": "conduisent",
+"en": "drive, are driving, walk"
+},
+{
+"fr": "conduisez",
+"en": "drive, are driving"
+},
+{
+"fr": "conduisons",
+"en": "(we) conduct/are conducting, drive, (we) carry out/are carrying out"
+},
+{
+"fr": "conduit",
+"en": "drive, go, is driving"
+},
+{
+"fr": "confirmer",
+"en": "confirm, confirming"
+},
+{
+"fr": "confiture",
+"en": "jam, marmalade, preserve"
+},
+{
+"fr": "confortable",
+"en": "comfortable"
+},
+{
+"fr": "connais",
+"en": "know"
+},
+{
+"fr": "connaissent",
+"en": "know"
+},
+{
+"fr": "connaissez",
+"en": "know"
+},
+{
+"fr": "connaissons",
+"en": "know"
+},
+{
+"fr": "connaît",
+"en": "knows, know"
+},
+{
+"fr": "connaître",
+"en": "to know"
+},
+{
+"fr": "conseil",
+"en": "piece of advice, advice, meeting"
+},
+{
+"fr": "conseiller",
+"en": "recommend, advise, counselor"
+},
+{
+"fr": "content",
+"en": "happy, glad, pleased"
+},
+{
+"fr": "contente",
+"en": "happy, glad, pleased"
+},
+{
+"fr": "contentes",
+"en": "happy, pleased"
+},
+{
+"fr": "contents",
+"en": "pleased with, happy, glad"
+},
+{
+"fr": "continent",
+"en": "mainland, continent"
+},
+{
+"fr": "continuer",
+"en": "continue, to continue, let's"
+},
+{
+"fr": "continué",
+"en": "continued"
+},
+{
+"fr": "contrôler",
+"en": "inspect, check, test"
+},
+{
+"fr": "conversation",
+"en": "conversation"
+},
+{
+"fr": "cool",
+"en": "cool"
+},
+{
+"fr": "copain",
+"en": "boyfriend's, friend, boyfriend"
+},
+{
+"fr": "copier",
+"en": "copy, wrote, copying"
+},
+{
+"fr": "copié sur",
+"en": "copied off"
+},
+{
+"fr": "copine",
+"en": "girlfriend, friend, friend's"
+},
+{
+"fr": "corps",
+"en": "body"
+},
+{
+"fr": "correct",
+"en": "correct, right"
+},
+{
+"fr": "correctement",
+"en": "appropriately"
+},
+{
+"fr": "costume",
+"en": "costume, suit, costume's"
+},
+{
+"fr": "coton",
+"en": "cotton"
+},
+{
+"fr": "cou",
+"en": "neck"
+},
+{
+"fr": "coucher",
+"en": "put ... to bed"
+},
+{
+"fr": "couleur",
+"en": "color"
+},
+{
+"fr": "couloir",
+"en": "hallway, hall, aisle"
+},
+{
+"fr": "coup de pied",
+"en": "kick"
+},
+{
+"fr": "couper",
+"en": "to cut, cutting, cut"
+},
+{
+"fr": "cour",
+"en": "courtyard, yard"
+},
+{
+"fr": "courent",
+"en": "run, are running, are rushing"
+},
+{
+"fr": "courez",
+"en": "run, are running"
+},
+{
+"fr": "courir",
+"en": "to run, (to) to race, (to) to sail"
+},
+{
+"fr": "courons",
+"en": "run, are running, let’s"
+},
+{
+"fr": "courriel",
+"en": "email"
+},
+{
+"fr": "courrier",
+"en": "piece of mail, mail"
+},
+{
+"fr": "cours",
+"en": "class, course"
+},
+{
+"fr": "course",
+"en": "race, errand"
+},
+{
+"fr": "course à pied",
+"en": "running"
+},
+{
+"fr": "court",
+"en": "run, jogs, is running"
+},
+{
+"fr": "couru",
+"en": "run"
+},
+{
+"fr": "cousin",
+"en": "cousin's, cousin, cousin’s"
+},
+{
+"fr": "coussin",
+"en": "cushion"
+},
+{
+"fr": "couteau",
+"en": "knife"
+},
+{
+"fr": "couteaux",
+"en": "knives"
+},
+{
+"fr": "couverture",
+"en": "blanket, cover"
+},
+{
+"fr": "couvrent",
+"en": "cover up, covering up, cover"
+},
+{
+"fr": "couvres",
+"en": "are covering up, cover, work"
+},
+{
+"fr": "couvrez",
+"en": "cover up, covering up, cover"
+},
+{
+"fr": "couvrir",
+"en": "to cover up"
+},
+{
+"fr": "couvrons",
+"en": "work, cover up, covering up"
+},
+{
+"fr": "coûte",
+"en": "costs, cost, is"
+},
+{
+"fr": "coûtent",
+"en": "cost, are"
+},
+{
+"fr": "coûter",
+"en": "to cost"
+},
+{
+"fr": "côté",
+"en": "side"
+},
+{
+"fr": "cravate",
+"en": "tie"
+},
+{
+"fr": "crayon",
+"en": "pencil"
+},
+{
+"fr": "crevette",
+"en": "shrimp"
+},
+{
+"fr": "crème",
+"en": "lotion, cream, crème"
+},
+{
+"fr": "crème fraîche",
+"en": "crème fraîche"
+},
+{
+"fr": "crème solaire",
+"en": "sunscreen"
+},
+{
+"fr": "créatif",
+"en": "creative"
+},
+{
+"fr": "créer",
+"en": "to create, make, create"
+},
+{
+"fr": "crêpe",
+"en": "crepe, pancake"
+},
+{
+"fr": "crier",
+"en": "screaming, to shout, shouting"
+},
+{
+"fr": "croire",
+"en": "believing, think, believe"
+},
+{
+"fr": "crois",
+"en": "think, believe"
+},
+{
+"fr": "croissant",
+"en": "croissant, crescent roll"
+},
+{
+"fr": "croissants",
+"en": "croissants"
+},
+{
+"fr": "croit",
+"en": "believes, think, believe"
+},
+{
+"fr": "cru",
+"en": "thought, believed, raw"
+},
+{
+"fr": "cuillère",
+"en": "spoon"
+},
+{
+"fr": "cuir",
+"en": "leather, ball, hide"
+},
+{
+"fr": "cuisine",
+"en": "kitchen, cooks, is cooking"
+},
+{
+"fr": "cuisiner",
+"en": "to cook"
+},
+{
+"fr": "cuisines",
+"en": "cook, are cooking, cooking"
+},
+{
+"fr": "cuisinez",
+"en": "cook, are cooking"
+},
+{
+"fr": "cuisiné",
+"en": "cooked"
+},
+{
+"fr": "cuisinier",
+"en": "cook, chef, cook's"
+},
+{
+"fr": "cuit",
+"en": "cooked, baked"
+},
+{
+"fr": "culture",
+"en": "education, crop, culture"
+},
+{
+"fr": "curry",
+"en": "curry"
+},
+{
+"fr": "cœur",
+"en": "heart, hearted"
+},
+{
+"fr": "ça",
+"en": "this, that, it'll"
+},
+{
+"fr": "ça a l'air",
+"en": "it looks like, it seems, it appears"
+},
+{
+"fr": "ça te dit",
+"en": "do you want, how about"
+},
+{
+"fr": "ça va",
+"en": "how are you?, it's going to, I am fine"
+},
+{
+"fr": "ça vous dit",
+"en": "Do you want"
+},
+{
+"fr": "d'",
+"en": "any, with, for"
+},
+{
+"fr": "d'abord",
+"en": "first"
+},
+{
+"fr": "d'accord",
+"en": "okay"
+},
+{
+"fr": "d'eau",
+"en": "of water, water, water's"
+},
+{
+"fr": "d'habitude",
+"en": "usually"
+},
+{
+"fr": "d'origine",
+"en": "original, of origin, native"
+},
+{
+"fr": "danger",
+"en": "danger"
+},
+{
+"fr": "dangereux",
+"en": "dangerous"
+},
+{
+"fr": "dans",
+"en": "in, to, of"
+},
+{
+"fr": "dans deux jours",
+"en": "in two days"
+},
+{
+"fr": "dans la vie",
+"en": "for a living"
+},
+{
+"fr": "dans le nord",
+"en": "in the north"
+},
+{
+"fr": "dans le sud",
+"en": "in the south"
+},
+{
+"fr": "dans un mois",
+"en": "in a month"
+},
+{
+"fr": "danse",
+"en": "am dancing, is dancing, dances"
+},
+{
+"fr": "danser",
+"en": "to dance"
+},
+{
+"fr": "danseront",
+"en": "will dance"
+},
+{
+"fr": "danses",
+"en": "(you) dance/are dancing, dance, dances"
+},
+{
+"fr": "danseur",
+"en": "dancer"
+},
+{
+"fr": "dansez",
+"en": "dance"
+},
+{
+"fr": "dansé",
+"en": "danced"
+},
+{
+"fr": "date",
+"en": "day, date, date's"
+},
+{
+"fr": "de",
+"en": "of, to, in"
+},
+{
+"fr": "de classe",
+"en": "of class"
+},
+{
+"fr": "de l'après-midi",
+"en": "in the afternoon, p.m., afternoon"
+},
+{
+"fr": "de la brioche",
+"en": "some brioche"
+},
+{
+"fr": "de la confiture",
+"en": "jam"
+},
+{
+"fr": "de la famille",
+"en": "families, relative, family"
+},
+{
+"fr": "de la musique",
+"en": "music"
+},
+{
+"fr": "de pire en pire",
+"en": "getting worse and worse"
+},
+{
+"fr": "de rien",
+"en": "you're welcome"
+},
+{
+"fr": "dedans",
+"en": "inside, inwards"
+},
+{
+"fr": "degré",
+"en": "level, degree, grades"
+},
+{
+"fr": "dehors",
+"en": "outside, outside of, apart from"
+},
+{
+"fr": "demain",
+"en": "tomorrow"
+},
+{
+"fr": "demander",
+"en": "to ask for, (to) send for, (to) apply for"
+},
+{
+"fr": "demandé",
+"en": "asked, tried"
+},
+{
+"fr": "demie",
+"en": "thirty, half"
+},
+{
+"fr": "dent",
+"en": "tooth"
+},
+{
+"fr": "dentiste",
+"en": "dentist, dentist's"
+},
+{
+"fr": "depuis",
+"en": "since, for, since then"
+},
+{
+"fr": "depuis longtemps",
+"en": "for a long time"
+},
+{
+"fr": "dernier",
+"en": "last, latest"
+},
+{
+"fr": "derrière",
+"en": "behind, in the back, at the back"
+},
+{
+"fr": "des",
+"en": "city's, france's, any"
+},
+{
+"fr": "descend",
+"en": "is going down, goes down, are getting off"
+},
+{
+"fr": "descendant",
+"en": "getting off, getting out of, going down"
+},
+{
+"fr": "descendre",
+"en": "got, to go down, to get off"
+},
+{
+"fr": "descendu",
+"en": "got off, climbed"
+},
+{
+"fr": "descendue",
+"en": "came down, come down, climb down"
+},
+{
+"fr": "descendues",
+"en": "went down, climb down, gone down"
+},
+{
+"fr": "descendus",
+"en": "get down, climbed down"
+},
+{
+"fr": "dessert",
+"en": "dessert"
+},
+{
+"fr": "dessin",
+"en": "drawing, picture"
+},
+{
+"fr": "dessin animé",
+"en": "cartoon"
+},
+{
+"fr": "dessine",
+"en": "draw, am drawing, draws"
+},
+{
+"fr": "dessiner",
+"en": "to draw"
+},
+{
+"fr": "dessines",
+"en": "(you) take shape/are taking shape, (you) design, (you) draw/are drawing"
+},
+{
+"fr": "dessinez",
+"en": "draw"
+},
+{
+"fr": "dessiné",
+"en": "drew, drawn"
+},
+{
+"fr": "destination",
+"en": "destination"
+},
+{
+"fr": "deux",
+"en": "two"
+},
+{
+"fr": "deux fois",
+"en": "twice"
+},
+{
+"fr": "deux mille",
+"en": "two thousand"
+},
+{
+"fr": "deuxième",
+"en": "second, nd"
+},
+{
+"fr": "devant",
+"en": "in front of, ahead of, before"
+},
+{
+"fr": "devenez",
+"en": "become, get, turn"
+},
+{
+"fr": "devenir",
+"en": "to become, future, turn"
+},
+{
+"fr": "devenons",
+"en": "become"
+},
+{
+"fr": "devenu",
+"en": "become, became"
+},
+{
+"fr": "devenue",
+"en": "become, became"
+},
+{
+"fr": "devenues",
+"en": "become, became"
+},
+{
+"fr": "devenus",
+"en": "become, became"
+},
+{
+"fr": "devez",
+"en": "have to, must, need to"
+},
+{
+"fr": "devez pas",
+"en": "must not"
+},
+{
+"fr": "deviennent",
+"en": "become, grow, go"
+},
+{
+"fr": "devient",
+"en": "becomes, go, goes"
+},
+{
+"fr": "devoir",
+"en": "should've, wasn't, we've"
+},
+{
+"fr": "devoirs",
+"en": "homework"
+},
+{
+"fr": "devons",
+"en": "have to, need to, must"
+},
+{
+"fr": "devra",
+"en": "will have to, will need to"
+},
+{
+"fr": "devrai",
+"en": "will have to, will need to"
+},
+{
+"fr": "devrais",
+"en": "should"
+},
+{
+"fr": "devrait",
+"en": "he'll, should, shouldn't"
+},
+{
+"fr": "devras",
+"en": "will have to"
+},
+{
+"fr": "devriez",
+"en": "should"
+},
+{
+"fr": "devront",
+"en": "will have to"
+},
+{
+"fr": "dès",
+"en": "starting, as of, starting from"
+},
+{
+"fr": "début",
+"en": "beginning, early, in early"
+},
+{
+"fr": "débutant",
+"en": "starting, beginner, beginning"
+},
+{
+"fr": "décembre",
+"en": "December"
+},
+{
+"fr": "décevoir",
+"en": "disappointing, to disappoint, disappoint"
+},
+{
+"fr": "décider",
+"en": "to decide, decide, decided"
+},
+{
+"fr": "décoller",
+"en": "take off"
+},
+{
+"fr": "décorations",
+"en": "decorations"
+},
+{
+"fr": "découvrir",
+"en": "get to know, discover, find out"
+},
+{
+"fr": "décrire",
+"en": "(to) describe"
+},
+{
+"fr": "défaire",
+"en": "unpacking, unpack"
+},
+{
+"fr": "dégoûtant",
+"en": "disgusting, yucky"
+},
+{
+"fr": "déjà",
+"en": "already, ever, again"
+},
+{
+"fr": "déjeuner",
+"en": "to have lunch, lunch, let's"
+},
+{
+"fr": "délicieux",
+"en": "delicious"
+},
+{
+"fr": "départ",
+"en": "parting, departure, flight's"
+},
+{
+"fr": "dépenser",
+"en": "spent, runs, to spend"
+},
+{
+"fr": "dépêche-toi",
+"en": "hurry up"
+},
+{
+"fr": "dépêcher",
+"en": "hurry, let's"
+},
+{
+"fr": "dépêchez-vous",
+"en": "hurry!, hurry up!"
+},
+{
+"fr": "dépêchons-nous",
+"en": "let's hurry up"
+},
+{
+"fr": "déplacer",
+"en": "move, changed"
+},
+{
+"fr": "déranger",
+"en": "bothering, bother, disturbs"
+},
+{
+"fr": "désagréable",
+"en": "unpleasant"
+},
+{
+"fr": "désert",
+"en": "desert, desert's"
+},
+{
+"fr": "désirer",
+"en": "wishes, wish, want"
+},
+{
+"fr": "désolé",
+"en": "sorry"
+},
+{
+"fr": "détail",
+"en": "detail, minor point, breakdown"
+},
+{
+"fr": "déteste",
+"en": "hate, hates"
+},
+{
+"fr": "détestes",
+"en": "hate"
+},
+{
+"fr": "détesté",
+"en": "hated, hate"
+},
+{
+"fr": "dictionnaire",
+"en": "dictionary"
+},
+{
+"fr": "die",
+"en": "Die"
+},
+{
+"fr": "dieu",
+"en": "god, God, gosh"
+},
+{
+"fr": "différence",
+"en": "difference"
+},
+{
+"fr": "différent",
+"en": "different, diverse"
+},
+{
+"fr": "difficile",
+"en": "difficult, challenging, hard"
+},
+{
+"fr": "dimanche",
+"en": "Sunday"
+},
+{
+"fr": "dinosaure",
+"en": "dinosaur, dinosaur's"
+},
+{
+"fr": "diplôme",
+"en": "bachelor's, diploma, graduates"
+},
+{
+"fr": "diras",
+"en": "will tell, will say"
+},
+{
+"fr": "dire",
+"en": "to say"
+},
+{
+"fr": "direct",
+"en": "direct, straight"
+},
+{
+"fr": "directeur",
+"en": "heads, boss', show's"
+},
+{
+"fr": "dis",
+"en": "am telling, tell, are telling"
+},
+{
+"fr": "disent",
+"en": "tell, are saying, say"
+},
+{
+"fr": "disons",
+"en": "speak, tell, are saying"
+},
+{
+"fr": "disponible",
+"en": "available, free"
+},
+{
+"fr": "distributeur",
+"en": "ATM"
+},
+{
+"fr": "dit",
+"en": "said, tell, tells"
+},
+{
+"fr": "dites",
+"en": "tell, are saying, say"
+},
+{
+"fr": "dix",
+"en": "ten, tenth"
+},
+{
+"fr": "dix ans",
+"en": "ten years, decade"
+},
+{
+"fr": "dix-huit",
+"en": "eighteen, 18"
+},
+{
+"fr": "dix-neuf",
+"en": "nineteen"
+},
+{
+"fr": "dix-sept",
+"en": "seventeen"
+},
+{
+"fr": "dixième",
+"en": "tenth"
+},
+{
+"fr": "dîner",
+"en": "dinner, to have dinner, dinner's"
+},
+{
+"fr": "docteur",
+"en": "doctor, dr."
+},
+{
+"fr": "document",
+"en": "document"
+},
+{
+"fr": "doigt",
+"en": "finger"
+},
+{
+"fr": "dois",
+"en": "have got to, owe, have to"
+},
+{
+"fr": "dois pas",
+"en": "must not"
+},
+{
+"fr": "doit",
+"en": "needs to, has to, must"
+},
+{
+"fr": "doivent",
+"en": "have to, must, supposed"
+},
+{
+"fr": "dollar",
+"en": "dollar"
+},
+{
+"fr": "dommage",
+"en": "too bad, a shame"
+},
+{
+"fr": "donc",
+"en": "therefore"
+},
+{
+"fr": "donne",
+"en": "donates, giving, is giving"
+},
+{
+"fr": "donner",
+"en": "to give"
+},
+{
+"fr": "donnes",
+"en": "are giving, donate, are donating"
+},
+{
+"fr": "dorment",
+"en": "sleep, are sleeping"
+},
+{
+"fr": "dormez",
+"en": "sleep, (you-plural) lie idle!, (you-plural) sleep!"
+},
+{
+"fr": "dormir",
+"en": "to sleep"
+},
+{
+"fr": "dormira",
+"en": "will sleep"
+},
+{
+"fr": "dormirai",
+"en": "will sleep"
+},
+{
+"fr": "dormons",
+"en": "sleep, are sleeping"
+},
+{
+"fr": "dors",
+"en": "sleeping, sleep, are sleeping"
+},
+{
+"fr": "dort",
+"en": "is sleeping, sleeping, sleep"
+},
+{
+"fr": "dos",
+"en": "back, blunt edge, spine"
+},
+{
+"fr": "dossier",
+"en": "folder, file, records"
+},
+{
+"fr": "double",
+"en": "double, pass, doubles"
+},
+{
+"fr": "doucement",
+"en": "slowly"
+},
+{
+"fr": "douche",
+"en": "shower"
+},
+{
+"fr": "douleur",
+"en": "pain, soreness"
+},
+{
+"fr": "doux",
+"en": "soft, gentle, mild"
+},
+{
+"fr": "douze",
+"en": "twelve, 12"
+},
+{
+"fr": "droit",
+"en": "right, law, straight"
+},
+{
+"fr": "drôle",
+"en": "funny"
+},
+{
+"fr": "du",
+"en": "of the, from the, about the"
+},
+{
+"fr": "du café",
+"en": "coffee"
+},
+{
+"fr": "du café au lait",
+"en": "coffee with milk, café au lait, milky coffee"
+},
+{
+"fr": "du lait",
+"en": "milk"
+},
+{
+"fr": "du matin",
+"en": "morning, in the morning, a.m."
+},
+{
+"fr": "du miel",
+"en": "honey"
+},
+{
+"fr": "du pain",
+"en": "bread"
+},
+{
+"fr": "du soir",
+"en": "at night, evenings, p.m"
+},
+{
+"fr": "du sucre",
+"en": "some sugar"
+},
+{
+"fr": "du thé",
+"en": "(some) tea, tea"
+},
+{
+"fr": "du vélo",
+"en": "biking"
+},
+{
+"fr": "dur",
+"en": "hard, stiff"
+},
+{
+"fr": "durer",
+"en": "run, last, runs"
+},
+{
+"fr": "e-mail",
+"en": "email"
+},
+{
+"fr": "e-mails",
+"en": "email, emails, e-mails"
+},
+{
+"fr": "eau",
+"en": "water, water's, stream's"
+},
+{
+"fr": "eaux",
+"en": "water, waters"
+},
+{
+"fr": "elle",
+"en": "she, her, it"
+},
+{
+"fr": "elles",
+"en": "hers, they, them"
+},
+{
+"fr": "elles sont",
+"en": "they are, They are"
+},
+{
+"fr": "embouteillage",
+"en": "traffic jam, traffic's"
+},
+{
+"fr": "employeur",
+"en": "boss', employer, boss's"
+},
+{
+"fr": "employé",
+"en": "hired, employee, employee's"
+},
+{
+"fr": "emprunter",
+"en": "borrow, to borrow"
+},
+{
+"fr": "en",
+"en": "in, to, of"
+},
+{
+"fr": "en a",
+"en": "has"
+},
+{
+"fr": "en achète",
+"en": "buying"
+},
+{
+"fr": "en ai",
+"en": "have"
+},
+{
+"fr": "en as",
+"en": "have"
+},
+{
+"fr": "en avance",
+"en": "early"
+},
+{
+"fr": "en bas",
+"en": "downstairs"
+},
+{
+"fr": "en boîte",
+"en": "canned"
+},
+{
+"fr": "en changer",
+"en": "change"
+},
+{
+"fr": "en colère",
+"en": "angry"
+},
+{
+"fr": "en dessert",
+"en": "for, For"
+},
+{
+"fr": "en entrée",
+"en": "as a starter"
+},
+{
+"fr": "en espèces",
+"en": "cash"
+},
+{
+"fr": "en est",
+"en": "is"
+},
+{
+"fr": "en face",
+"en": "across"
+},
+{
+"fr": "en faisant",
+"en": "while, while doing"
+},
+{
+"fr": "en fait",
+"en": "in fact"
+},
+{
+"fr": "en famille",
+"en": "with family"
+},
+{
+"fr": "en forme",
+"en": "fit, good, in shape"
+},
+{
+"fr": "en général",
+"en": "in general, generally"
+},
+{
+"fr": "en haut",
+"en": "upstairs, up"
+},
+{
+"fr": "en jouant",
+"en": "playing, while playing"
+},
+{
+"fr": "en ligne",
+"en": "online"
+},
+{
+"fr": "en mange",
+"en": "eat some, eats some"
+},
+{
+"fr": "en occupe",
+"en": "is taking care of"
+},
+{
+"fr": "en panne",
+"en": "broken down, broken"
+},
+{
+"fr": "en parle",
+"en": "talked, talking"
+},
+{
+"fr": "en pause",
+"en": "on break"
+},
+{
+"fr": "en prépare",
+"en": "prepare"
+},
+{
+"fr": "en promotion",
+"en": "on sale"
+},
+{
+"fr": "en retard",
+"en": "late"
+},
+{
+"fr": "en train",
+"en": "by train"
+},
+{
+"fr": "en train de",
+"en": "(-ing)"
+},
+{
+"fr": "en utilisant",
+"en": "using"
+},
+{
+"fr": "en vacances",
+"en": "on vacation, On vacation"
+},
+{
+"fr": "en veux",
+"en": "resent, are mad"
+},
+{
+"fr": "en ville",
+"en": "in the city"
+},
+{
+"fr": "enchanté",
+"en": "nice to meet you"
+},
+{
+"fr": "enchantée",
+"en": "nice to meet you, delighted"
+},
+{
+"fr": "encore",
+"en": "again, still, yet"
+},
+{
+"fr": "endroit",
+"en": "place"
+},
+{
+"fr": "enfant",
+"en": "kid, child, junior's"
+},
+{
+"fr": "enfin",
+"en": "finally, at least, at last"
+},
+{
+"fr": "ennuyeux",
+"en": "boring"
+},
+{
+"fr": "enregistrer",
+"en": "record, records, recording"
+},
+{
+"fr": "enseigner",
+"en": "to teach, taught, teaching"
+},
+{
+"fr": "ensemble",
+"en": "together, at the same time, cohesion"
+},
+{
+"fr": "ensuite",
+"en": "next, then"
+},
+{
+"fr": "entend",
+"en": "is hearing, hears, hear"
+},
+{
+"fr": "entendent",
+"en": "hear"
+},
+{
+"fr": "entendez",
+"en": "can hear, hear, get along"
+},
+{
+"fr": "entendons",
+"en": "hear, are hearing, let's"
+},
+{
+"fr": "entendre",
+"en": "to hear"
+},
+{
+"fr": "entends",
+"en": "can hear, hear"
+},
+{
+"fr": "entendu",
+"en": "hear, heard, understood"
+},
+{
+"fr": "entendu parler",
+"en": "heard-of, heard"
+},
+{
+"fr": "entier",
+"en": "whole, entire, complete"
+},
+{
+"fr": "entrant",
+"en": "entering, going in"
+},
+{
+"fr": "entre",
+"en": "between, enter, enters"
+},
+{
+"fr": "entreprise",
+"en": "business, company, business's"
+},
+{
+"fr": "entrer",
+"en": "to enter, (to) come in, (to) bring [something] in"
+},
+{
+"fr": "entré",
+"en": "went in, entered, enter"
+},
+{
+"fr": "entrée",
+"en": "starter, admission, hall"
+},
+{
+"fr": "entrées",
+"en": "starters, admission, entered"
+},
+{
+"fr": "entrés",
+"en": "scored, came in, brought [something] in"
+},
+{
+"fr": "enveloppe",
+"en": "envelope, covering"
+},
+{
+"fr": "envie",
+"en": "desire, want, envies"
+},
+{
+"fr": "environ",
+"en": "about, in the region of, in the vicinity of"
+},
+{
+"fr": "envoie",
+"en": "am sending, is sending, sends"
+},
+{
+"fr": "envoyer",
+"en": "send out, sent, send"
+},
+{
+"fr": "envoyez",
+"en": "'re sending, send, are sending"
+},
+{
+"fr": "envoyé",
+"en": "sent, emailing"
+},
+{
+"fr": "envoyons",
+"en": "send, are sending, let's"
+},
+{
+"fr": "erreur",
+"en": "mistake"
+},
+{
+"fr": "es",
+"en": "feel, have been, are"
+},
+{
+"fr": "es-tu",
+"en": "are you"
+},
+{
+"fr": "escalier",
+"en": "stairs"
+},
+{
+"fr": "espace",
+"en": "space"
+},
+{
+"fr": "Espagne",
+"en": "Spain"
+},
+{
+"fr": "espagnol",
+"en": "Spanish"
+},
+{
+"fr": "espagnole",
+"en": "Spanish"
+},
+{
+"fr": "espérer",
+"en": "trust, (to) hope, hopes"
+},
+{
+"fr": "essayer",
+"en": "attempting, try, to try"
+},
+{
+"fr": "essayé",
+"en": "tried, tried on, tried out"
+},
+{
+"fr": "essence",
+"en": "petrol (UK), gas (US)"
+},
+{
+"fr": "est",
+"en": "is, has been, east"
+},
+{
+"fr": "est-ce",
+"en": "is it, is this, does it"
+},
+{
+"fr": "est-ce qu'",
+"en": "is, do, does"
+},
+{
+"fr": "est-ce que",
+"en": "do, did, does"
+},
+{
+"fr": "est-elle",
+"en": "is it, is she, did she"
+},
+{
+"fr": "est-il",
+"en": "is he, is it, did he"
+},
+{
+"fr": "estomac",
+"en": "stomach, cheek, guts"
+},
+{
+"fr": "et",
+"en": "and"
+},
+{
+"fr": "et demi",
+"en": "and a half"
+},
+{
+"fr": "et onze",
+"en": "and eleven, and eleven o'clock, and eleven years old"
+},
+{
+"fr": "et un",
+"en": "and a"
+},
+{
+"fr": "eu",
+"en": "got, gotten, had"
+},
+{
+"fr": "euro",
+"en": "euro, euros"
+},
+{
+"fr": "européen",
+"en": "European"
+},
+{
+"fr": "eux",
+"en": "themselves, them, they"
+},
+{
+"fr": "exactement",
+"en": "exactly, precisely"
+},
+{
+"fr": "examen",
+"en": "quiz, exam, test"
+},
+{
+"fr": "excellent",
+"en": "excellent, great—it's"
+},
+{
+"fr": "excursion",
+"en": "excursion, trip's"
+},
+{
+"fr": "excuse-moi",
+"en": "excuse me"
+},
+{
+"fr": "excusez-moi",
+"en": "excuse me"
+},
+{
+"fr": "exemple",
+"en": "example"
+},
+{
+"fr": "exercice",
+"en": "exercise, year's"
+},
+{
+"fr": "explique",
+"en": "is explaining, explains, am explaining"
+},
+{
+"fr": "expliquer",
+"en": "to explain, to analyze, to account for"
+},
+{
+"fr": "exposition",
+"en": "shown, exhibit, expo"
+},
+{
+"fr": "è",
+"en": "è"
+},
+{
+"fr": "ère",
+"en": "age, era"
+},
+{
+"fr": "écharpe",
+"en": "scarf"
+},
+{
+"fr": "échecs",
+"en": "chess, checkers, failures"
+},
+{
+"fr": "école",
+"en": "school, education system, training"
+},
+{
+"fr": "écoles",
+"en": "schools, schools'"
+},
+{
+"fr": "économiser",
+"en": "to save up"
+},
+{
+"fr": "écoute",
+"en": "listens to, is listening, listen to"
+},
+{
+"fr": "écouter",
+"en": "to listen to, to listen"
+},
+{
+"fr": "écoutes",
+"en": "are listening to, listen to, listen"
+},
+{
+"fr": "écoutez",
+"en": "are listening to, listen to, listen"
+},
+{
+"fr": "écouté",
+"en": "listened, listened to, listen"
+},
+{
+"fr": "écoutons",
+"en": "let's listen, are listening to, listen to"
+},
+{
+"fr": "écran",
+"en": "screen"
+},
+{
+"fr": "écrire",
+"en": "to write"
+},
+{
+"fr": "écris",
+"en": "written, writing, are writing"
+},
+{
+"fr": "écrit",
+"en": "written, is writing, writes"
+},
+{
+"fr": "écrivait",
+"en": "was writing, used to write, wrote"
+},
+{
+"fr": "écrivent",
+"en": "are writing, write, writing"
+},
+{
+"fr": "écrivez",
+"en": "writing, are writing, write"
+},
+{
+"fr": "écrivions",
+"en": "used to write, wrote, use to write"
+},
+{
+"fr": "écrivons",
+"en": "writing, write"
+},
+{
+"fr": "église",
+"en": "church, church's"
+},
+{
+"fr": "électricité",
+"en": "electricity, power's"
+},
+{
+"fr": "électrique",
+"en": "electrical, electric"
+},
+{
+"fr": "élève",
+"en": "student, student's"
+},
+{
+"fr": "éléphant",
+"en": "elephant"
+},
+{
+"fr": "émission",
+"en": "show, show's"
+},
+{
+"fr": "épice",
+"en": "spice"
+},
+{
+"fr": "épicer",
+"en": "to spice, to season, to flavor"
+},
+{
+"fr": "épisode",
+"en": "episode"
+},
+{
+"fr": "époque",
+"en": "time"
+},
+{
+"fr": "équipe",
+"en": "team’s, team, team's"
+},
+{
+"fr": "étage",
+"en": "bedroom's, floor, floor's"
+},
+{
+"fr": "étagère",
+"en": "bookshelf, shelf"
+},
+{
+"fr": "étaient",
+"en": "used to be, were, felt"
+},
+{
+"fr": "étais",
+"en": "were, was"
+},
+{
+"fr": "était",
+"en": "used to be, was, were"
+},
+{
+"fr": "éteindre",
+"en": "turn off, put out, turning off"
+},
+{
+"fr": "été",
+"en": "been, summer, summertime"
+},
+{
+"fr": "étiez",
+"en": "were"
+},
+{
+"fr": "étions",
+"en": "used to be, were, had"
+},
+{
+"fr": "étranger",
+"en": "foreigner, stranger, foreign"
+},
+{
+"fr": "études",
+"en": "studies"
+},
+{
+"fr": "étudiais",
+"en": "studied, was studying"
+},
+{
+"fr": "étudiant",
+"en": "student"
+},
+{
+"fr": "étudiante",
+"en": "student, a student, student's"
+},
+{
+"fr": "étudiantes",
+"en": "students"
+},
+{
+"fr": "étudiants",
+"en": "students"
+},
+{
+"fr": "étudie",
+"en": "is studying, studies, study"
+},
+{
+"fr": "étudient",
+"en": "study, are studying"
+},
+{
+"fr": "étudier",
+"en": "to study"
+},
+{
+"fr": "étudies",
+"en": "study, are studying, explore"
+},
+{
+"fr": "étudiez",
+"en": "study, are studying"
+},
+{
+"fr": "étudiez-vous",
+"en": "do you study"
+},
+{
+"fr": "étudié",
+"en": "studied"
+},
+{
+"fr": "étudions",
+"en": "study, are studying, let's"
+},
+{
+"fr": "êtes",
+"en": "are"
+},
+{
+"fr": "êtes-vous",
+"en": "are you"
+},
+{
+"fr": "être",
+"en": "to be, let's, would've"
+},
+{
+"fr": "facile",
+"en": "easy"
+},
+{
+"fr": "facilement",
+"en": "easily, readily"
+},
+{
+"fr": "faim",
+"en": "hunger"
+},
+{
+"fr": "faire",
+"en": "to do, (to) make, (to) prepare"
+},
+{
+"fr": "faire de la plongée",
+"en": "to scuba dive"
+},
+{
+"fr": "faire du ski",
+"en": "to ski"
+},
+{
+"fr": "faire mal",
+"en": "hurt"
+},
+{
+"fr": "faire un voyage",
+"en": "to take a trip"
+},
+{
+"fr": "fais",
+"en": "am making, are doing, done"
+},
+{
+"fr": "fais-tu",
+"en": "are you doing"
+},
+{
+"fr": "faisaient",
+"en": "were making, made, used to do"
+},
+{
+"fr": "faisait",
+"en": "made, used to do, used to make"
+},
+{
+"fr": "faisons",
+"en": "let's do, are doing, let's take"
+},
+{
+"fr": "fait",
+"en": "is, makes, made"
+},
+{
+"fr": "fait mal",
+"en": "hurts, hurt, is hurting"
+},
+{
+"fr": "fait tomber",
+"en": "dropped, drops"
+},
+{
+"fr": "fait-il",
+"en": "does, does he do"
+},
+{
+"fr": "faites",
+"en": "made, packed, are doing"
+},
+{
+"fr": "faites-vous",
+"en": "are you doing, are you (ref to \"size\"), do you do"
+},
+{
+"fr": "famille",
+"en": "family, body, people"
+},
+{
+"fr": "fantastique",
+"en": "fantastic"
+},
+{
+"fr": "farine",
+"en": "flour"
+},
+{
+"fr": "fatigué",
+"en": "tired"
+},
+{
+"fr": "faudra",
+"en": "must"
+},
+{
+"fr": "faudrait",
+"en": "would have to, should, would need"
+},
+{
+"fr": "fauteuil",
+"en": "armchair, chair's"
+},
+{
+"fr": "faux",
+"en": "off-key, fake, wrong"
+},
+{
+"fr": "femme",
+"en": "woman, wife"
+},
+{
+"fr": "femme de ménage",
+"en": "cleaning lady"
+},
+{
+"fr": "femmes",
+"en": "women"
+},
+{
+"fr": "fenêtre",
+"en": "window, window's"
+},
+{
+"fr": "fera",
+"en": "will have, make, will do"
+},
+{
+"fr": "ferai",
+"en": "will have, will do, will make"
+},
+{
+"fr": "feras",
+"en": "will be, will do, will make"
+},
+{
+"fr": "fermer",
+"en": "closing, shut, close"
+},
+{
+"fr": "fermé",
+"en": "closed, closed up, closed off"
+},
+{
+"fr": "feront",
+"en": "will go, will make, will do"
+},
+{
+"fr": "festival",
+"en": "festival"
+},
+{
+"fr": "feu",
+"en": "fire, light's"
+},
+{
+"fr": "félicitations",
+"en": "congratulations"
+},
+{
+"fr": "février",
+"en": "February"
+},
+{
+"fr": "fête",
+"en": "festival, party, holiday"
+},
+{
+"fr": "fille",
+"en": "girl, daughter"
+},
+{
+"fr": "filles",
+"en": "girls, daughters'"
+},
+{
+"fr": "film",
+"en": "movie, film, movie's"
+},
+{
+"fr": "fils",
+"en": "son, sons, cords"
+},
+{
+"fr": "fin",
+"en": "thin, end, fin"
+},
+{
+"fr": "finalement",
+"en": "finally, in the end, after all"
+},
+{
+"fr": "fini",
+"en": "done, over, finished"
+},
+{
+"fr": "finir",
+"en": "to finish, (to) end, (to) complete"
+},
+{
+"fr": "finis",
+"en": "finish, no more, am finishing"
+},
+{
+"fr": "finissent",
+"en": "finish, are finishing, finishing"
+},
+{
+"fr": "finissez",
+"en": "finish, are finishing, finishing"
+},
+{
+"fr": "finissons",
+"en": "finish, are finishing, let's"
+},
+{
+"fr": "finit",
+"en": "finishes, is finishing, ends"
+},
+{
+"fr": "fleur",
+"en": "flower"
+},
+{
+"fr": "fleuve",
+"en": "river"
+},
+{
+"fr": "fois",
+"en": "time, times, faiths"
+},
+{
+"fr": "font",
+"en": "is, makes, are doing"
+},
+{
+"fr": "foot",
+"en": "soccer"
+},
+{
+"fr": "football",
+"en": "soccer"
+},
+{
+"fr": "football américain",
+"en": "football"
+},
+{
+"fr": "forme",
+"en": "shape"
+},
+{
+"fr": "formidable",
+"en": "terrific, greatest, great—it's"
+},
+{
+"fr": "formulaire",
+"en": "form"
+},
+{
+"fr": "fort",
+"en": "strong, loud, heavy"
+},
+{
+"fr": "fou",
+"en": "wild, maddest"
+},
+{
+"fr": "foule",
+"en": "crowd, crowd's"
+},
+{
+"fr": "four",
+"en": "oven, oven's"
+},
+{
+"fr": "fourchette",
+"en": "fork, wishbone, frog"
+},
+{
+"fr": "fragile",
+"en": "fragile"
+},
+{
+"fr": "frais",
+"en": "cold, cool, fresh"
+},
+{
+"fr": "fraise",
+"en": "strawberry"
+},
+{
+"fr": "franchement",
+"en": "frankly"
+},
+{
+"fr": "francophone",
+"en": "French-speaking, Francophone"
+},
+{
+"fr": "français",
+"en": "French, Frenchman, Frenchmen"
+},
+{
+"fr": "française",
+"en": "French, française, france's"
+},
+{
+"fr": "françaises",
+"en": "French, French women"
+},
+{
+"fr": "frapper",
+"en": "knocked, hit, knocking"
+},
+{
+"fr": "frappé",
+"en": "knocked, hit, punched"
+},
+{
+"fr": "frère",
+"en": "brother"
+},
+{
+"fr": "frères",
+"en": "brothers, brothers'"
+},
+{
+"fr": "frigo",
+"en": "fridge"
+},
+{
+"fr": "frite",
+"en": "fry, chip, French fry"
+},
+{
+"fr": "froid",
+"en": "cold, callous, coldness"
+},
+{
+"fr": "froide",
+"en": "cold, cool"
+},
+{
+"fr": "fromage",
+"en": "cheese"
+},
+{
+"fr": "fruit",
+"en": "fruit, fruits"
+},
+{
+"fr": "fruits de mer",
+"en": "seafood"
+},
+{
+"fr": "fumer",
+"en": "to smoke"
+},
+{
+"fr": "furieux",
+"en": "furious, maddest"
+},
+{
+"fr": "futur",
+"en": "future, elected, intended"
+},
+{
+"fr": "gagner",
+"en": "win, make, winning"
+},
+{
+"fr": "gagné",
+"en": "made, win, won"
+},
+{
+"fr": "gant",
+"en": "glove"
+},
+{
+"fr": "garage",
+"en": "garage, mechanic's"
+},
+{
+"fr": "garant",
+"en": "parking"
+},
+{
+"fr": "garçon",
+"en": "boy"
+},
+{
+"fr": "garçons",
+"en": "boys"
+},
+{
+"fr": "garder",
+"en": "retain, watching, keeping"
+},
+{
+"fr": "gare",
+"en": "train station, (railway) station"
+},
+{
+"fr": "gare-toi",
+"en": "park"
+},
+{
+"fr": "garer",
+"en": "park, parked, let's"
+},
+{
+"fr": "gares",
+"en": "train stations, stations, park"
+},
+{
+"fr": "garons-nous",
+"en": "park, stop, pull over"
+},
+{
+"fr": "gauche",
+"en": "left"
+},
+{
+"fr": "gazeux",
+"en": "sparkling, carbonated, fizzy"
+},
+{
+"fr": "gâteau",
+"en": "cake, biscuit"
+},
+{
+"fr": "gâteaux",
+"en": "cake, cakes, cakes'"
+},
+{
+"fr": "genou",
+"en": "knee"
+},
+{
+"fr": "genre",
+"en": "kind, gender, type"
+},
+{
+"fr": "gens",
+"en": "people"
+},
+{
+"fr": "gentil",
+"en": "kind"
+},
+{
+"fr": "gentille",
+"en": "kind"
+},
+{
+"fr": "gentilles",
+"en": "kind"
+},
+{
+"fr": "gentils",
+"en": "kind"
+},
+{
+"fr": "génial",
+"en": "brilliant, awesome, great"
+},
+{
+"fr": "géniaux",
+"en": "great, fantastic"
+},
+{
+"fr": "géographie",
+"en": "geography"
+},
+{
+"fr": "gérant",
+"en": "managing, manager, operating"
+},
+{
+"fr": "glace",
+"en": "ice cream"
+},
+{
+"fr": "glaçon",
+"en": "ice cubes, ice cube"
+},
+{
+"fr": "golf",
+"en": "golf course, golf"
+},
+{
+"fr": "gomme",
+"en": "eraser"
+},
+{
+"fr": "goûter",
+"en": "try, tried, to taste"
+},
+{
+"fr": "grammaire",
+"en": "grammar"
+},
+{
+"fr": "gramme",
+"en": "gram"
+},
+{
+"fr": "grand",
+"en": "big, great, tall"
+},
+{
+"fr": "grand frère",
+"en": "big brother"
+},
+{
+"fr": "grand-mère",
+"en": "grandmother"
+},
+{
+"fr": "grand-père",
+"en": "grandfather"
+},
+{
+"fr": "grande",
+"en": "large, great, tall"
+},
+{
+"fr": "grande sœur",
+"en": "big sister"
+},
+{
+"fr": "grandes",
+"en": "great, tall, big"
+},
+{
+"fr": "grandi",
+"en": "grew up, grew, grown up"
+},
+{
+"fr": "grandir",
+"en": "to grow"
+},
+{
+"fr": "grands",
+"en": "tall, big, great"
+},
+{
+"fr": "grands-mères",
+"en": "grandmothers"
+},
+{
+"fr": "grands-parents",
+"en": "grandparents"
+},
+{
+"fr": "grands-pères",
+"en": "grandfathers"
+},
+{
+"fr": "gratuit",
+"en": "free"
+},
+{
+"fr": "grave",
+"en": "serious"
+},
+{
+"fr": "gravement",
+"en": "seriously, gravely, solemnly"
+},
+{
+"fr": "grâce",
+"en": "thanks, beauty's"
+},
+{
+"fr": "grève",
+"en": "strike"
+},
+{
+"fr": "grignoter",
+"en": "to snack"
+},
+{
+"fr": "griller",
+"en": "grill, toast, grilling"
+},
+{
+"fr": "gris",
+"en": "gray"
+},
+{
+"fr": "gros",
+"en": "fat, big"
+},
+{
+"fr": "grossi",
+"en": "gained weight, gain weight"
+},
+{
+"fr": "grossir",
+"en": "to gain weight"
+},
+{
+"fr": "groupe",
+"en": "band, group, band's"
+},
+{
+"fr": "guerre",
+"en": "war, war's"
+},
+{
+"fr": "gui",
+"en": "mistletoe, boom"
+},
+{
+"fr": "guide",
+"en": "guides, guide, guidebook"
+},
+{
+"fr": "guitare",
+"en": "guitar"
+},
+{
+"fr": "guitariste",
+"en": "guitarist, guitar player"
+},
+{
+"fr": "ha",
+"en": "hectare"
+},
+{
+"fr": "habiller",
+"en": "dressed, get dressed, dress"
+},
+{
+"fr": "habitais",
+"en": "was living, lived, used to live"
+},
+{
+"fr": "habite",
+"en": "live, is living, lives"
+},
+{
+"fr": "habitent",
+"en": "live, are living"
+},
+{
+"fr": "habiter",
+"en": "to live"
+},
+{
+"fr": "habites",
+"en": "live, are living in, live in"
+},
+{
+"fr": "habites-tu",
+"en": "do you live, are you living, you live"
+},
+{
+"fr": "habitez",
+"en": "live, are living"
+},
+{
+"fr": "habitez-vous",
+"en": "do you live"
+},
+{
+"fr": "habité",
+"en": "lived"
+},
+{
+"fr": "habitons",
+"en": "live, are living"
+},
+{
+"fr": "habitude",
+"en": "habit"
+},
+{
+"fr": "habituel",
+"en": "customary, usual, regular"
+},
+{
+"fr": "habituer",
+"en": "get used"
+},
+{
+"fr": "hall",
+"en": "lobby, hall's"
+},
+{
+"fr": "hamburger",
+"en": "hamburger, burger"
+},
+{
+"fr": "handball",
+"en": "handball"
+},
+{
+"fr": "haricot",
+"en": "kidney bowl, bean, beans"
+},
+{
+"fr": "hebdomadaire",
+"en": "weekly"
+},
+{
+"fr": "heure",
+"en": "time, o’clock, hour"
+},
+{
+"fr": "heureusement",
+"en": "fortunately, it's fortunate, fortunate"
+},
+{
+"fr": "heureux",
+"en": "happy"
+},
+{
+"fr": "hélicoptère",
+"en": "helicopter, helicopter's"
+},
+{
+"fr": "hier",
+"en": "yesterday"
+},
+{
+"fr": "hip-hop",
+"en": "hip-hop"
+},
+{
+"fr": "histoire",
+"en": "history, story, ado"
+},
+{
+"fr": "hiver",
+"en": "winter, winter's"
+},
+{
+"fr": "hockey",
+"en": "hockey"
+},
+{
+"fr": "homme",
+"en": "man"
+},
+{
+"fr": "homme d'affaires",
+"en": "businessman"
+},
+{
+"fr": "homme de ménage",
+"en": "cleaning man"
+},
+{
+"fr": "hommes",
+"en": "men, men's"
+},
+{
+"fr": "honte",
+"en": "shame, disgrace"
+},
+{
+"fr": "horaire",
+"en": "schedule, timetable, time"
+},
+{
+"fr": "horloge",
+"en": "clock"
+},
+{
+"fr": "horrible",
+"en": "horrible, terrible"
+},
+{
+"fr": "hôpital",
+"en": "hospital"
+},
+{
+"fr": "hôpitaux",
+"en": "hospitals"
+},
+{
+"fr": "hôtel",
+"en": "hotel, hôtel, hotel's"
+},
+{
+"fr": "hôtel de ville",
+"en": "city hall"
+},
+{
+"fr": "hôtels",
+"en": "hotels, hotel"
+},
+{
+"fr": "huile",
+"en": "oil"
+},
+{
+"fr": "huit",
+"en": "eight, eighth"
+},
+{
+"fr": "huitième",
+"en": "eighth"
+},
+{
+"fr": "humeur",
+"en": "mood, humor"
+},
+{
+"fr": "humoriste",
+"en": "comedian, comedian's"
+},
+{
+"fr": "ici",
+"en": "here"
+},
+{
+"fr": "idée",
+"en": "idea, thought"
+},
+{
+"fr": "il",
+"en": "he, it"
+},
+{
+"fr": "il est",
+"en": "he's, it's"
+},
+{
+"fr": "il faut",
+"en": "it is necessary to, you must, you have to"
+},
+{
+"fr": "il n'y a",
+"en": "there is, there are, it has"
+},
+{
+"fr": "il n'y a plus de",
+"en": "there is no more, there are no more, there is no longer any"
+},
+{
+"fr": "il n'y avait",
+"en": "there was not, there were not, there wasn't"
+},
+{
+"fr": "il ne faut pas",
+"en": "you must not, we must not, one must not"
+},
+{
+"fr": "il y a",
+"en": "there is"
+},
+{
+"fr": "il y a eu",
+"en": "there was, there were"
+},
+{
+"fr": "il y a trois",
+"en": "there are"
+},
+{
+"fr": "il y avait",
+"en": "there was, there were"
+},
+{
+"fr": "ils",
+"en": "they"
+},
+{
+"fr": "ils ont",
+"en": "they have, they own, they possess"
+},
+{
+"fr": "ils sont",
+"en": "there are ... of them"
+},
+{
+"fr": "ils y",
+"en": "there, it"
+},
+{
+"fr": "immeuble",
+"en": "apartment building, building, building’s"
+},
+{
+"fr": "immédiatement",
+"en": "immediately"
+},
+{
+"fr": "imperméable",
+"en": "raincoat, waterproof"
+},
+{
+"fr": "important",
+"en": "important"
+},
+{
+"fr": "imprimante",
+"en": "printer"
+},
+{
+"fr": "imprimer",
+"en": "print, printing"
+},
+{
+"fr": "in",
+"en": "in"
+},
+{
+"fr": "incroyable",
+"en": "amazing, incredible, astonishing"
+},
+{
+"fr": "indien",
+"en": "Indian"
+},
+{
+"fr": "infirmier",
+"en": "nurse, nurse's"
+},
+{
+"fr": "information",
+"en": "information, news, data's"
+},
+{
+"fr": "informations",
+"en": "information, news"
+},
+{
+"fr": "ingénieur",
+"en": "engineer, engineering"
+},
+{
+"fr": "inquiet",
+"en": "worried"
+},
+{
+"fr": "inquiéter",
+"en": "worrying, worry, scaring"
+},
+{
+"fr": "insecte",
+"en": "insect, bug"
+},
+{
+"fr": "instructions",
+"en": "instructions"
+},
+{
+"fr": "instrument",
+"en": "instrument"
+},
+{
+"fr": "insupportable",
+"en": "unbearable, insufferable"
+},
+{
+"fr": "intelligent",
+"en": "intelligent, smart"
+},
+{
+"fr": "intelligente",
+"en": "intelligent, clever, smart"
+},
+{
+"fr": "intelligentes",
+"en": "intelligent, smart"
+},
+{
+"fr": "intelligents",
+"en": "smart, intelligent"
+},
+{
+"fr": "interdit",
+"en": "prohibited, forbidden, banned"
+},
+{
+"fr": "international",
+"en": "international"
+},
+{
+"fr": "internet",
+"en": "Internet, the Internet"
+},
+{
+"fr": "intéressant",
+"en": "interesting"
+},
+{
+"fr": "intéresser",
+"en": "interest"
+},
+{
+"fr": "intéressé",
+"en": "interested"
+},
+{
+"fr": "invitation",
+"en": "invitation"
+},
+{
+"fr": "inviter",
+"en": "to invite"
+},
+{
+"fr": "inviteront",
+"en": "will invite"
+},
+{
+"fr": "invité",
+"en": "invite, invited, guest"
+},
+{
+"fr": "ira",
+"en": "will go, will suit, 'll go"
+},
+{
+"fr": "irai",
+"en": "will be going, 'll go, will go"
+},
+{
+"fr": "iras",
+"en": "will go, go"
+},
+{
+"fr": "irlandais",
+"en": "Irish"
+},
+{
+"fr": "iront",
+"en": "will go, will be going"
+},
+{
+"fr": "Italie",
+"en": "Italy"
+},
+{
+"fr": "italien",
+"en": "Italian"
+},
+{
+"fr": "île",
+"en": "island, island's"
+},
+{
+"fr": "j'",
+"en": "I"
+},
+{
+"fr": "j'achète",
+"en": "I buy, I am buying, I purchase"
+},
+{
+"fr": "j'ai",
+"en": "I have, I did, I have had"
+},
+{
+"fr": "j'ai envie",
+"en": "I want, I feel like, I desire"
+},
+{
+"fr": "j'y",
+"en": "I there, I to it, I at it"
+},
+{
+"fr": "jamais",
+"en": "never, ever"
+},
+{
+"fr": "jamaïcain",
+"en": "Jamaican"
+},
+{
+"fr": "jambe",
+"en": "leg"
+},
+{
+"fr": "jambon",
+"en": "ham"
+},
+{
+"fr": "janvier",
+"en": "January"
+},
+{
+"fr": "Japon",
+"en": "Japan"
+},
+{
+"fr": "japonais",
+"en": "Japanese"
+},
+{
+"fr": "jardin",
+"en": "garden, yard, park"
+},
+{
+"fr": "jardins",
+"en": "gardens, yards"
+},
+{
+"fr": "jaune",
+"en": "yellow"
+},
+{
+"fr": "jazz",
+"en": "jazz"
+},
+{
+"fr": "je",
+"en": "I"
+},
+{
+"fr": "je me perds",
+"en": "I get lost, I am getting lost, I lose myself"
+},
+{
+"fr": "je ne sais pas",
+"en": "know"
+},
+{
+"fr": "jet",
+"en": "cast, jet"
+},
+{
+"fr": "jeter",
+"en": "to throw away, to throw, throws"
+},
+{
+"fr": "jeu",
+"en": "game, play's"
+},
+{
+"fr": "jeu de société",
+"en": "board game"
+},
+{
+"fr": "jeu vidéo",
+"en": "video game"
+},
+{
+"fr": "jeudi",
+"en": "Thursday"
+},
+{
+"fr": "jeune",
+"en": "young, junior's"
+},
+{
+"fr": "joli",
+"en": "pretty, lovely"
+},
+{
+"fr": "joue",
+"en": "cheek, am playing, is acting"
+},
+{
+"fr": "jouent",
+"en": "are playing, are acting, play"
+},
+{
+"fr": "jouer",
+"en": "to play, (to) act, (to) apply"
+},
+{
+"fr": "jouet",
+"en": "toy"
+},
+{
+"fr": "joueur",
+"en": "player"
+},
+{
+"fr": "joué",
+"en": "played, starred, acted"
+},
+{
+"fr": "jour",
+"en": "day"
+},
+{
+"fr": "jour férié",
+"en": "public holiday"
+},
+{
+"fr": "journal",
+"en": "newspaper, diary, journal"
+},
+{
+"fr": "journaliste",
+"en": "journalist, reporter"
+},
+{
+"fr": "journalistes",
+"en": "journalists"
+},
+{
+"fr": "journaux",
+"en": "newspapers, logs"
+},
+{
+"fr": "journée",
+"en": "day"
+},
+{
+"fr": "joyeux",
+"en": "happy, cheerful, joyful"
+},
+{
+"fr": "juillet",
+"en": "July"
+},
+{
+"fr": "juin",
+"en": "June"
+},
+{
+"fr": "jupe",
+"en": "skirt"
+},
+{
+"fr": "jus",
+"en": "juice, fruit juice, gravy"
+},
+{
+"fr": "jus d'orange",
+"en": "orange juice"
+},
+{
+"fr": "jusqu'",
+"en": "up to, until"
+},
+{
+"fr": "jusqu'à",
+"en": "until"
+},
+{
+"fr": "juste",
+"en": "just, fair, right"
+},
+{
+"fr": "kilo",
+"en": "kilogram, kilo"
+},
+{
+"fr": "kilomètre",
+"en": "kilometer"
+},
+{
+"fr": "l'",
+"en": "with, her, the"
+},
+{
+"fr": "l'ai",
+"en": "have it, have, got it"
+},
+{
+"fr": "l'air",
+"en": "the air, the look, the appearance"
+},
+{
+"fr": "l'as",
+"en": "the ace, you have"
+},
+{
+"fr": "l'avez",
+"en": "have it, have you, you have it"
+},
+{
+"fr": "l'eau",
+"en": "water"
+},
+{
+"fr": "la",
+"en": "the, it, she"
+},
+{
+"fr": "la leur",
+"en": "theirs"
+},
+{
+"fr": "la plus",
+"en": "the most"
+},
+{
+"fr": "lac",
+"en": "lake"
+},
+{
+"fr": "laine",
+"en": "wool"
+},
+{
+"fr": "laisser",
+"en": "let, leave, let’s"
+},
+{
+"fr": "lait",
+"en": "milk"
+},
+{
+"fr": "lampe",
+"en": "lamp"
+},
+{
+"fr": "langue",
+"en": "language, tongue"
+},
+{
+"fr": "lapin",
+"en": "rabbit"
+},
+{
+"fr": "laquelle",
+"en": "whom, which one, who"
+},
+{
+"fr": "large",
+"en": "wide"
+},
+{
+"fr": "lavabo",
+"en": "sink"
+},
+{
+"fr": "lave",
+"en": "is washing, wash, washes"
+},
+{
+"fr": "laver",
+"en": "to wash, wash"
+},
+{
+"fr": "lavé",
+"en": "washed, mopped"
+},
+{
+"fr": "là",
+"en": "there, here, then"
+},
+{
+"fr": "là-bas",
+"en": "over there"
+},
+{
+"fr": "le",
+"en": "bob's, your, her"
+},
+{
+"fr": "le leur",
+"en": "theirs"
+},
+{
+"fr": "le long",
+"en": "along"
+},
+{
+"fr": "le lundi",
+"en": "on Mondays"
+},
+{
+"fr": "le matin",
+"en": "in the morning"
+},
+{
+"fr": "le mieux",
+"en": "best, the best"
+},
+{
+"fr": "le plus",
+"en": "the most"
+},
+{
+"fr": "le quatorze juillet",
+"en": "Bastille Day, July 14th, the fourteenth of July"
+},
+{
+"fr": "le soir",
+"en": "in the evening, at night"
+},
+{
+"fr": "le vendredi",
+"en": "on Fridays, friday"
+},
+{
+"fr": "le week-end",
+"en": "on the weekends"
+},
+{
+"fr": "leçon",
+"en": "lesson"
+},
+{
+"fr": "lentement",
+"en": "slowly"
+},
+{
+"fr": "lequel",
+"en": "which one"
+},
+{
+"fr": "les",
+"en": "your, the, they"
+},
+{
+"fr": "les courses",
+"en": "the groceries"
+},
+{
+"fr": "les é",
+"en": "the, them, student"
+},
+{
+"fr": "les leur",
+"en": "them to them"
+},
+{
+"fr": "les magasins",
+"en": "stores"
+},
+{
+"fr": "les plus",
+"en": "the most"
+},
+{
+"fr": "les œufs",
+"en": "the eggs, eggs"
+},
+{
+"fr": "lesquelles",
+"en": "which ones, which (plural), who"
+},
+{
+"fr": "lesquels",
+"en": "whom, who, which"
+},
+{
+"fr": "lettre",
+"en": "letter"
+},
+{
+"fr": "leur",
+"en": "their, them"
+},
+{
+"fr": "leur en",
+"en": "them some"
+},
+{
+"fr": "leurs",
+"en": "their, one's"
+},
+{
+"fr": "lever",
+"en": "raise, lift"
+},
+{
+"fr": "levons",
+"en": "raise"
+},
+{
+"fr": "lègue",
+"en": "leaves"
+},
+{
+"fr": "lève",
+"en": "raises, raise, lift"
+},
+{
+"fr": "lève-toi",
+"en": "get up, stand up"
+},
+{
+"fr": "léger",
+"en": "light, lightest"
+},
+{
+"fr": "légume",
+"en": "vegetable"
+},
+{
+"fr": "libanais",
+"en": "Lebanese"
+},
+{
+"fr": "librairie",
+"en": "bookstore"
+},
+{
+"fr": "libre",
+"en": "free"
+},
+{
+"fr": "lien",
+"en": "link"
+},
+{
+"fr": "lieu",
+"en": "place, premises"
+},
+{
+"fr": "lieux",
+"en": "site, places, sites"
+},
+{
+"fr": "ligne",
+"en": "line"
+},
+{
+"fr": "limonade",
+"en": "sparkling lemonade"
+},
+{
+"fr": "lion",
+"en": "lion"
+},
+{
+"fr": "lira",
+"en": "will read, will be reading"
+},
+{
+"fr": "lire",
+"en": "to read"
+},
+{
+"fr": "liront",
+"en": "will read"
+},
+{
+"fr": "lis",
+"en": "am reading, read, are reading"
+},
+{
+"fr": "lisent",
+"en": "read, are reading"
+},
+{
+"fr": "lisez",
+"en": "read, are reading"
+},
+{
+"fr": "lisons",
+"en": "read, are reading, let's"
+},
+{
+"fr": "liste",
+"en": "list"
+},
+{
+"fr": "lit",
+"en": "reads, is reading, bed"
+},
+{
+"fr": "litre",
+"en": "litre (UK), liter (US)"
+},
+{
+"fr": "livre",
+"en": "book, pound"
+},
+{
+"fr": "livres",
+"en": "pounds, books, deliver"
+},
+{
+"fr": "loin",
+"en": "far, far away"
+},
+{
+"fr": "loisir",
+"en": "hobby"
+},
+{
+"fr": "Londres",
+"en": "London"
+},
+{
+"fr": "long",
+"en": "long"
+},
+{
+"fr": "longtemps",
+"en": "a long time, for a long time"
+},
+{
+"fr": "louer",
+"en": "to rent"
+},
+{
+"fr": "lourd",
+"en": "heavy, softer"
+},
+{
+"fr": "loyer",
+"en": "rent, rented"
+},
+{
+"fr": "lu",
+"en": "read"
+},
+{
+"fr": "lui",
+"en": "him, her, it"
+},
+{
+"fr": "lui en",
+"en": "him too many, him about a hundred, him a little"
+},
+{
+"fr": "lui écrire",
+"en": "write"
+},
+{
+"fr": "lumière",
+"en": "light, light's"
+},
+{
+"fr": "lundi",
+"en": "Monday"
+},
+{
+"fr": "lune",
+"en": "moon, month"
+},
+{
+"fr": "lunettes",
+"en": "glasses, spectacles, eyeglasses"
+},
+{
+"fr": "lunettes de soleil",
+"en": "sunglasses"
+},
+{
+"fr": "lutins",
+"en": "elves"
+},
+{
+"fr": "lycée",
+"en": "high school"
+},
+{
+"fr": "m'",
+"en": "me, to me, love me"
+},
+{
+"fr": "m'appelle",
+"en": "call myself, am called, my name is"
+},
+{
+"fr": "m'en",
+"en": "me realize it, me remember it, me allow it"
+},
+{
+"fr": "m'en fiche",
+"en": "I don't care, I don't mind, it doesn't matter to me"
+},
+{
+"fr": "m'y",
+"en": "to me there, at me, on me"
+},
+{
+"fr": "ma",
+"en": "my"
+},
+{
+"fr": "machine",
+"en": "machine"
+},
+{
+"fr": "machine à café",
+"en": "coffee machine"
+},
+{
+"fr": "machine à laver",
+"en": "washing machine"
+},
+{
+"fr": "madame",
+"en": "ma'am, Mrs., Ms."
+},
+{
+"fr": "mademoiselle",
+"en": "miss"
+},
+{
+"fr": "magasin",
+"en": "store's, boutique's, store"
+},
+{
+"fr": "magazine",
+"en": "magazine, show"
+},
+{
+"fr": "magnifique",
+"en": "wonderful, magnificent, gorgeous"
+},
+{
+"fr": "mai",
+"en": "May"
+},
+{
+"fr": "maigri",
+"en": "lost weight"
+},
+{
+"fr": "maigrir",
+"en": "to lose weight"
+},
+{
+"fr": "maillot de bain",
+"en": "swimsuit"
+},
+{
+"fr": "main",
+"en": "hand"
+},
+{
+"fr": "maintenant",
+"en": "now, nowadays, today"
+},
+{
+"fr": "mais",
+"en": "but, yet, although"
+},
+{
+"fr": "maison",
+"en": "house, home, firm"
+},
+{
+"fr": "maisons",
+"en": "houses"
+},
+{
+"fr": "mal",
+"en": "bad, badly, wrong"
+},
+{
+"fr": "mal au",
+"en": "... hurts"
+},
+{
+"fr": "mal à",
+"en": "sore"
+},
+{
+"fr": "malade",
+"en": "sick"
+},
+{
+"fr": "malheureusement",
+"en": "unfortunately, too bad, regrettably"
+},
+{
+"fr": "malien",
+"en": "Malian"
+},
+{
+"fr": "maman",
+"en": "mom, mum, mommy"
+},
+{
+"fr": "mamie",
+"en": "grandma"
+},
+{
+"fr": "mange",
+"en": "eats, am eating, is eating"
+},
+{
+"fr": "mangent",
+"en": "are eating, eat"
+},
+{
+"fr": "mangeons",
+"en": "eating, are eating, eat"
+},
+{
+"fr": "manger",
+"en": "to eat, eating, eaten"
+},
+{
+"fr": "mangeras",
+"en": "will eat"
+},
+{
+"fr": "mangeront",
+"en": "will eat"
+},
+{
+"fr": "manges",
+"en": "are eating, eat, eating"
+},
+{
+"fr": "mangez",
+"en": "are eating, eat, touch"
+},
+{
+"fr": "mangé",
+"en": "eaten, ate, had"
+},
+{
+"fr": "mangue",
+"en": "mango"
+},
+{
+"fr": "manifestation",
+"en": "protest"
+},
+{
+"fr": "manifester",
+"en": "protest"
+},
+{
+"fr": "manteau",
+"en": "coat, overcoat"
+},
+{
+"fr": "manteaux",
+"en": "coats"
+},
+{
+"fr": "manuel",
+"en": "textbook"
+},
+{
+"fr": "maquillage",
+"en": "makeup"
+},
+{
+"fr": "marchant",
+"en": "walking, working, operating"
+},
+{
+"fr": "marche",
+"en": "work, walks, is walking"
+},
+{
+"fr": "marcher",
+"en": "work, walking, working"
+},
+{
+"fr": "marcheras",
+"en": "will walk, will work"
+},
+{
+"fr": "marches",
+"en": "are walking, steps, walk"
+},
+{
+"fr": "marché",
+"en": "market, walked, worked"
+},
+{
+"fr": "mardi",
+"en": "Tuesday"
+},
+{
+"fr": "mari",
+"en": "husband"
+},
+{
+"fr": "mariage",
+"en": "marriage, wedding, wedding's"
+},
+{
+"fr": "marier",
+"en": "marry"
+},
+{
+"fr": "marié",
+"en": "groom, married"
+},
+{
+"fr": "mariée",
+"en": "got married, married, bride"
+},
+{
+"fr": "mariés",
+"en": "married, bride and groom"
+},
+{
+"fr": "marocain",
+"en": "Moroccan"
+},
+{
+"fr": "marque",
+"en": "scores, score, brand"
+},
+{
+"fr": "marre",
+"en": "fed up"
+},
+{
+"fr": "marron",
+"en": "brown, bent, chestnut"
+},
+{
+"fr": "mars",
+"en": "March, Mars"
+},
+{
+"fr": "match",
+"en": "match, game"
+},
+{
+"fr": "mathématiques",
+"en": "math"
+},
+{
+"fr": "matière",
+"en": "material, subject"
+},
+{
+"fr": "matin",
+"en": "morning"
+},
+{
+"fr": "mauvais",
+"en": "bad, wrong"
+},
+{
+"fr": "mauvaise",
+"en": "bad, wrong"
+},
+{
+"fr": "me",
+"en": "I, at me, me"
+},
+{
+"fr": "me suis",
+"en": "injured, felt, have"
+},
+{
+"fr": "meilleur",
+"en": "better, best, finest"
+},
+{
+"fr": "melon",
+"en": "melon"
+},
+{
+"fr": "membre",
+"en": "member"
+},
+{
+"fr": "mensonge",
+"en": "lie"
+},
+{
+"fr": "menu",
+"en": "fixed-price menu"
+},
+{
+"fr": "mer",
+"en": "sea, seaside"
+},
+{
+"fr": "merci",
+"en": "thank you, thanks"
+},
+{
+"fr": "mercredi",
+"en": "Wednesday"
+},
+{
+"fr": "merveilleux",
+"en": "wonderful"
+},
+{
+"fr": "mes",
+"en": "my"
+},
+{
+"fr": "mesdames",
+"en": "ladies"
+},
+{
+"fr": "message",
+"en": "message, text"
+},
+{
+"fr": "messieurs",
+"en": "gentlemen"
+},
+{
+"fr": "met",
+"en": "puts on, wears, puts"
+},
+{
+"fr": "mets",
+"en": "are putting, put, put on"
+},
+{
+"fr": "mettent",
+"en": "are putting, are putting up, are putting on"
+},
+{
+"fr": "mettez",
+"en": "put, put on, are putting"
+},
+{
+"fr": "mettons",
+"en": "said, let's put, are putting"
+},
+{
+"fr": "mettrai",
+"en": "will put, will put on"
+},
+{
+"fr": "mettre",
+"en": "to put on"
+},
+{
+"fr": "mettront",
+"en": "will put, will put on"
+},
+{
+"fr": "meuble",
+"en": "piece of furniture, softer"
+},
+{
+"fr": "mexicain",
+"en": "Mexican"
+},
+{
+"fr": "mexicaine",
+"en": "Mexican"
+},
+{
+"fr": "mexicaines",
+"en": "Mexican"
+},
+{
+"fr": "mexicains",
+"en": "Mexican"
+},
+{
+"fr": "Mexique",
+"en": "Mexico"
+},
+{
+"fr": "mère",
+"en": "mother, mom"
+},
+{
+"fr": "mètre",
+"en": "meter, measuring tape"
+},
+{
+"fr": "mécanicien",
+"en": "mechanic"
+},
+{
+"fr": "médecin",
+"en": "doctor"
+},
+{
+"fr": "médecine",
+"en": "medicine"
+},
+{
+"fr": "médicament",
+"en": "medication, medicine, drug's"
+},
+{
+"fr": "mélanger",
+"en": "mix"
+},
+{
+"fr": "mémoire",
+"en": "memory"
+},
+{
+"fr": "ménage",
+"en": "housework, household"
+},
+{
+"fr": "métier",
+"en": "occupation"
+},
+{
+"fr": "métro",
+"en": "subway, underground, underground train"
+},
+{
+"fr": "même",
+"en": "same, even, so"
+},
+{
+"fr": "mêmes",
+"en": "same"
+},
+{
+"fr": "micro-ondes",
+"en": "microwave"
+},
+{
+"fr": "midi",
+"en": "noon"
+},
+{
+"fr": "miel",
+"en": "honey"
+},
+{
+"fr": "mien",
+"en": "mine, mine's"
+},
+{
+"fr": "mienne",
+"en": "mine, mine's"
+},
+{
+"fr": "miennes",
+"en": "mine"
+},
+{
+"fr": "miens",
+"en": "mine"
+},
+{
+"fr": "mieux",
+"en": "better, best"
+},
+{
+"fr": "mignon",
+"en": "cute"
+},
+{
+"fr": "milieu",
+"en": "middle, middle ground, environment"
+},
+{
+"fr": "mille",
+"en": "thousand"
+},
+{
+"fr": "mille neuf cent",
+"en": "One thousand nine hundred"
+},
+{
+"fr": "millier",
+"en": "thousand"
+},
+{
+"fr": "million",
+"en": "million"
+},
+{
+"fr": "mince",
+"en": "shoot, thin, faint"
+},
+{
+"fr": "minérale",
+"en": "mineral"
+},
+{
+"fr": "minuit",
+"en": "midnight"
+},
+{
+"fr": "minute",
+"en": "minute"
+},
+{
+"fr": "miroir",
+"en": "mirror, glass"
+},
+{
+"fr": "mis",
+"en": "put, put in, wear"
+},
+{
+"fr": "moche",
+"en": "ugly"
+},
+{
+"fr": "mode",
+"en": "fashion, fad"
+},
+{
+"fr": "moderne",
+"en": "modern, today’s, today's"
+},
+{
+"fr": "moi",
+"en": "me"
+},
+{
+"fr": "moins",
+"en": "fewer, less"
+},
+{
+"fr": "moins de",
+"en": "less"
+},
+{
+"fr": "moins le quart",
+"en": "a quarter to, quarter to"
+},
+{
+"fr": "mois",
+"en": "month"
+},
+{
+"fr": "moitié",
+"en": "half"
+},
+{
+"fr": "moment",
+"en": "moment, time, minute"
+},
+{
+"fr": "mon",
+"en": "my"
+},
+{
+"fr": "mon ami",
+"en": "my friend, my buddy, my pal"
+},
+{
+"fr": "monde",
+"en": "world, people, anyone"
+},
+{
+"fr": "mondial",
+"en": "world, worldwide, global"
+},
+{
+"fr": "monnaie",
+"en": "change, currency"
+},
+{
+"fr": "monsieur",
+"en": "sir, gentleman, man"
+},
+{
+"fr": "montagne",
+"en": "mountain, mountains, mont"
+},
+{
+"fr": "monter",
+"en": "to climb up, (to) ride, (to) to cover"
+},
+{
+"fr": "monté",
+"en": "went up, get on, climbed"
+},
+{
+"fr": "montée",
+"en": "climbed"
+},
+{
+"fr": "montées",
+"en": "climbed up, climbed, climb"
+},
+{
+"fr": "montés",
+"en": "went up, climbed up, climbed"
+},
+{
+"fr": "montre",
+"en": "show, points to, point to"
+},
+{
+"fr": "montrer",
+"en": "show, showed, to point to"
+},
+{
+"fr": "montré",
+"en": "shown, demonstrated, showed"
+},
+{
+"fr": "monument",
+"en": "monument"
+},
+{
+"fr": "morceau",
+"en": "piece, lump, song's"
+},
+{
+"fr": "mort",
+"en": "dead, died, death"
+},
+{
+"fr": "morte",
+"en": "dead, died"
+},
+{
+"fr": "mortes",
+"en": "dead"
+},
+{
+"fr": "morts",
+"en": "deaths, died, dead"
+},
+{
+"fr": "morue",
+"en": "salted cod"
+},
+{
+"fr": "mosquée",
+"en": "mosque"
+},
+{
+"fr": "mot",
+"en": "note, word"
+},
+{
+"fr": "mot de passe",
+"en": "password"
+},
+{
+"fr": "moteur",
+"en": "motor, engine, engine's"
+},
+{
+"fr": "moto",
+"en": "motorcycle, motorcycle's"
+},
+{
+"fr": "mouiller",
+"en": "wet"
+},
+{
+"fr": "moustache",
+"en": "mustache"
+},
+{
+"fr": "moutarde",
+"en": "mustard"
+},
+{
+"fr": "mouton",
+"en": "sheep"
+},
+{
+"fr": "moyen",
+"en": "average, way, wit's"
+},
+{
+"fr": "mur",
+"en": "wall"
+},
+{
+"fr": "musclé",
+"en": "muscular"
+},
+{
+"fr": "musée",
+"en": "musée, museum's, museum"
+},
+{
+"fr": "musicien",
+"en": "musician, musician's"
+},
+{
+"fr": "musique",
+"en": "music"
+},
+{
+"fr": "n'",
+"en": "do not, don't, didn't"
+},
+{
+"fr": "n'ai pas",
+"en": "do not have, have not, haven't"
+},
+{
+"fr": "n'aime pas",
+"en": "does not like, do not like, does not love"
+},
+{
+"fr": "n'allez pas",
+"en": "do not go, don't go, do not walk"
+},
+{
+"fr": "n'as pas",
+"en": "do not have, do not, haven't"
+},
+{
+"fr": "n'en",
+"en": "not of it, not from it, not any of it"
+},
+{
+"fr": "n'est",
+"en": "is not, isn't, isn't it"
+},
+{
+"fr": "n'importe où",
+"en": "anywhere, wherever, anywhere at all"
+},
+{
+"fr": "n'importe quel",
+"en": "any, whichever, whatever"
+},
+{
+"fr": "n'importe quelle",
+"en": "any, whichever, whatever"
+},
+{
+"fr": "n'y",
+"en": "not there, do not, does not"
+},
+{
+"fr": "n'y a plus de",
+"en": "there is no more, there are no more, there is no longer any"
+},
+{
+"fr": "n'y avait",
+"en": "there was not, there were not, there wasn't"
+},
+{
+"fr": "n'y en a pas",
+"en": "there is none, there aren't any, there is no"
+},
+{
+"fr": "n'y en a plus",
+"en": "there is no more, there are none left, it's all gone"
+},
+{
+"fr": "nage",
+"en": "swim, am swimming, swims"
+},
+{
+"fr": "nagent",
+"en": "swim, are swimming"
+},
+{
+"fr": "nageons",
+"en": "swim, are swimming"
+},
+{
+"fr": "nager",
+"en": "to swim"
+},
+{
+"fr": "nageras",
+"en": "will swim, will be swimming"
+},
+{
+"fr": "nageront",
+"en": "will swim"
+},
+{
+"fr": "nages",
+"en": "swim, are swimming"
+},
+{
+"fr": "nagé",
+"en": "swam"
+},
+{
+"fr": "naissance",
+"en": "birth"
+},
+{
+"fr": "naître",
+"en": "to be born"
+},
+{
+"fr": "nation",
+"en": "nation"
+},
+{
+"fr": "national",
+"en": "nationwide, country's, national"
+},
+{
+"fr": "nationalité",
+"en": "nationality, citizenship"
+},
+{
+"fr": "nature",
+"en": "plain, nature"
+},
+{
+"fr": "naviguer",
+"en": "sail, sailing, navigating"
+},
+{
+"fr": "ne",
+"en": "not"
+},
+{
+"fr": "ne faisait",
+"en": "did not"
+},
+{
+"fr": "ne la",
+"en": "not her"
+},
+{
+"fr": "ne le",
+"en": "him, it"
+},
+{
+"fr": "ne me",
+"en": "not"
+},
+{
+"fr": "ne me suis",
+"en": "did not"
+},
+{
+"fr": "ne nous",
+"en": "do not, do not us"
+},
+{
+"fr": "ne nous garons",
+"en": "to park, we do not park, we are not parking"
+},
+{
+"fr": "ne nous perdons",
+"en": "let us not lose, we do not lose, we are not losing"
+},
+{
+"fr": "ne porte pas",
+"en": "does not wear, is not wearing, does not carry"
+},
+{
+"fr": "ne s'est",
+"en": "did not, has not, have not"
+},
+{
+"fr": "ne se",
+"en": "do not, doesn't, does not"
+},
+{
+"fr": "ne se sont",
+"en": "did not"
+},
+{
+"fr": "ne t'es",
+"en": "you are not, aren't you, you aren't"
+},
+{
+"fr": "ne te",
+"en": "do not"
+},
+{
+"fr": "ne te gare pas",
+"en": "don't park"
+},
+{
+"fr": "ne te lève pas",
+"en": "do not get up, don't get up, do not stand up"
+},
+{
+"fr": "ne te perds",
+"en": "do not get lost, don't lose yourself, do not lose yourself"
+},
+{
+"fr": "ne vous",
+"en": "not"
+},
+{
+"fr": "ne vous garez pas",
+"en": "do not park, don't park, do not stop"
+},
+{
+"fr": "ne vous perdez",
+"en": "do not get lost, do not lose yourself, do not lose your way"
+},
+{
+"fr": "neige",
+"en": "snow, (he/she/it) snows/is snowing, (he/she/it) snows"
+},
+{
+"fr": "neiger",
+"en": "to snow"
+},
+{
+"fr": "neigé",
+"en": "snowed, snow"
+},
+{
+"fr": "nerveux",
+"en": "nervous"
+},
+{
+"fr": "nettoie",
+"en": "cleans, is cleaning, am cleaning"
+},
+{
+"fr": "nettoies",
+"en": "are cleaning, clean"
+},
+{
+"fr": "nettoyer",
+"en": "to clean"
+},
+{
+"fr": "nettoyé",
+"en": "cleaned, cleaned up"
+},
+{
+"fr": "nettoyons",
+"en": "clean, are cleaning"
+},
+{
+"fr": "neuf",
+"en": "nine, new, 9"
+},
+{
+"fr": "neuvième",
+"en": "ninth"
+},
+{
+"fr": "neveu",
+"en": "nephew, nephew's"
+},
+{
+"fr": "nez",
+"en": "nose, headland"
+},
+{
+"fr": "né",
+"en": "born, was/were born, arisen"
+},
+{
+"fr": "née",
+"en": "born"
+},
+{
+"fr": "nées",
+"en": "born, were born"
+},
+{
+"fr": "négatif",
+"en": "negative"
+},
+{
+"fr": "nés",
+"en": "born"
+},
+{
+"fr": "niveau",
+"en": "level, tier, floor's"
+},
+{
+"fr": "noël",
+"en": "Christmas"
+},
+{
+"fr": "noir",
+"en": "black, dark"
+},
+{
+"fr": "nom",
+"en": "name, last name, name's"
+},
+{
+"fr": "non",
+"en": "no, not"
+},
+{
+"fr": "non-fumeur",
+"en": "non-smoking"
+},
+{
+"fr": "nord",
+"en": "north"
+},
+{
+"fr": "normal",
+"en": "normal, regular"
+},
+{
+"fr": "nos",
+"en": "our"
+},
+{
+"fr": "note",
+"en": "write down, grade, is writing down"
+},
+{
+"fr": "notre",
+"en": "our"
+},
+{
+"fr": "nourriture",
+"en": "food"
+},
+{
+"fr": "nous",
+"en": "we, us, our"
+},
+{
+"fr": "nous en",
+"en": "them, any, some"
+},
+{
+"fr": "nous nous sommes",
+"en": "felt, got, have"
+},
+{
+"fr": "nouveau",
+"en": "new, new employee, new student"
+},
+{
+"fr": "nouveaux",
+"en": "new"
+},
+{
+"fr": "nouvel",
+"en": "new, new employee, new student"
+},
+{
+"fr": "nouvelle",
+"en": "new, piece of news, news"
+},
+{
+"fr": "nouvelles",
+"en": "new, news"
+},
+{
+"fr": "novembre",
+"en": "November"
+},
+{
+"fr": "nôtre",
+"en": "ours"
+},
+{
+"fr": "nôtres",
+"en": "ours"
+},
+{
+"fr": "nu",
+"en": "naked, nude"
+},
+{
+"fr": "nuage",
+"en": "cloud"
+},
+{
+"fr": "nuageux",
+"en": "cloud, cloudy"
+},
+{
+"fr": "nuit",
+"en": "night"
+},
+{
+"fr": "nuits",
+"en": "nights, night"
+},
+{
+"fr": "nul",
+"en": "bad, lousy"
+},
+{
+"fr": "numérique",
+"en": "digital"
+},
+{
+"fr": "numéro",
+"en": "number"
+},
+{
+"fr": "obliger",
+"en": "force, forced"
+},
+{
+"fr": "occuper",
+"en": "occupy, keep busy"
+},
+{
+"fr": "occupé",
+"en": "in use, busy, busier"
+},
+{
+"fr": "océan",
+"en": "ocean"
+},
+{
+"fr": "octobre",
+"en": "October"
+},
+{
+"fr": "offert",
+"en": "gave, free, given"
+},
+{
+"fr": "office de tourisme",
+"en": "tourist office"
+},
+{
+"fr": "offre",
+"en": "giving, is giving, gives"
+},
+{
+"fr": "offrent",
+"en": "give/are giving, offer/are offering, offer"
+},
+{
+"fr": "offres",
+"en": "offers, (you) buy/are buying, (you) present/are presenting"
+},
+{
+"fr": "offrez",
+"en": "giving, give/are giving, (you-plural) offer/are offering"
+},
+{
+"fr": "offrir",
+"en": "to give, (to) offer, (to) buy"
+},
+{
+"fr": "offrons",
+"en": "offer, give, let's give"
+},
+{
+"fr": "oh là là",
+"en": "wow, oh my gosh"
+},
+{
+"fr": "oignon",
+"en": "onion"
+},
+{
+"fr": "oiseau",
+"en": "bird"
+},
+{
+"fr": "oiseaux",
+"en": "birds"
+},
+{
+"fr": "olive",
+"en": "olive"
+},
+{
+"fr": "olympique",
+"en": "Olympic"
+},
+{
+"fr": "omelette",
+"en": "omelet"
+},
+{
+"fr": "on",
+"en": "let's, we, they"
+},
+{
+"fr": "on apporte",
+"en": "we bring, one brings, people bring"
+},
+{
+"fr": "on devrait",
+"en": "should"
+},
+{
+"fr": "on est",
+"en": "we are, we're, it's"
+},
+{
+"fr": "on mange",
+"en": "eat"
+},
+{
+"fr": "on se voit",
+"en": "see each other"
+},
+{
+"fr": "on sort",
+"en": "exit, exited"
+},
+{
+"fr": "on va",
+"en": "are going to, go, are going"
+},
+{
+"fr": "on y va",
+"en": "let's go"
+},
+{
+"fr": "oncle",
+"en": "uncle, uncle's, uncle’s"
+},
+{
+"fr": "ont",
+"en": "get, have, they've"
+},
+{
+"fr": "ont-ils",
+"en": "do they have"
+},
+{
+"fr": "onze",
+"en": "eleven, 11"
+},
+{
+"fr": "opéra",
+"en": "opera house, opera, opera's"
+},
+{
+"fr": "opinion",
+"en": "opinion"
+},
+{
+"fr": "or",
+"en": "gold, and yet, but"
+},
+{
+"fr": "orange",
+"en": "orange"
+},
+{
+"fr": "oranges",
+"en": "oranges"
+},
+{
+"fr": "orchestre",
+"en": "orchestra's, orchestra, band's"
+},
+{
+"fr": "ordinateur",
+"en": "computer"
+},
+{
+"fr": "oreille",
+"en": "ear, ear's"
+},
+{
+"fr": "ou",
+"en": "or, either"
+},
+{
+"fr": "oublier",
+"en": "to forget"
+},
+{
+"fr": "oublié",
+"en": "forgot, forgotten"
+},
+{
+"fr": "ouest",
+"en": "west, western"
+},
+{
+"fr": "oui",
+"en": "yes"
+},
+{
+"fr": "ours",
+"en": "bear"
+},
+{
+"fr": "ouvert",
+"en": "open, opened, initiated"
+},
+{
+"fr": "ouvrant",
+"en": "opening"
+},
+{
+"fr": "ouvre",
+"en": "is opening, opens, open"
+},
+{
+"fr": "ouvrent",
+"en": "are opening, open"
+},
+{
+"fr": "ouvrez",
+"en": "are opening, open, opening"
+},
+{
+"fr": "ouvrier",
+"en": "worker, of the workers, workman"
+},
+{
+"fr": "ouvrir",
+"en": "to open"
+},
+{
+"fr": "ouvrons",
+"en": "(we) open/are opening, (we) turn on/are turning on, (we) undo/are undoing"
+},
+{
+"fr": "où",
+"en": "where"
+},
+{
+"fr": "où est-ce que",
+"en": "Where is it that"
+},
+{
+"fr": "page",
+"en": "page"
+},
+{
+"fr": "pain",
+"en": "bread"
+},
+{
+"fr": "pain grillé",
+"en": "toast"
+},
+{
+"fr": "paire",
+"en": "pair"
+},
+{
+"fr": "panne",
+"en": "breakdown"
+},
+{
+"fr": "pansement",
+"en": "band-aid, bandage"
+},
+{
+"fr": "pantalon",
+"en": "pants, pair of pants"
+},
+{
+"fr": "papa",
+"en": "dad, father, daddy"
+},
+{
+"fr": "papi",
+"en": "grandpa"
+},
+{
+"fr": "papier",
+"en": "paper"
+},
+{
+"fr": "paquet",
+"en": "package, box, bundle"
+},
+{
+"fr": "par",
+"en": "through, by, per"
+},
+{
+"fr": "par contre",
+"en": "however"
+},
+{
+"fr": "par cœur",
+"en": "by heart"
+},
+{
+"fr": "par exemple",
+"en": "for example"
+},
+{
+"fr": "par terre",
+"en": "on the floor, on the ground"
+},
+{
+"fr": "parapluie",
+"en": "umbrella"
+},
+{
+"fr": "parc",
+"en": "park"
+},
+{
+"fr": "parce qu'",
+"en": "because"
+},
+{
+"fr": "parce que",
+"en": "because"
+},
+{
+"fr": "parcs",
+"en": "parks"
+},
+{
+"fr": "pardon",
+"en": "excuse me"
+},
+{
+"fr": "parents",
+"en": "parents, relatives, folks"
+},
+{
+"fr": "paresseux",
+"en": "lazy, lazybones"
+},
+{
+"fr": "parfait",
+"en": "perfect"
+},
+{
+"fr": "parfois",
+"en": "sometimes"
+},
+{
+"fr": "parfum",
+"en": "perfume"
+},
+{
+"fr": "parking",
+"en": "parking lot"
+},
+{
+"fr": "parle",
+"en": "talking, am talking, is talking"
+},
+{
+"fr": "parle de",
+"en": "is about, about"
+},
+{
+"fr": "parlent",
+"en": "are talking, speak, talking"
+},
+{
+"fr": "parlent-ils",
+"en": "do they speak, are they speaking, do they talk"
+},
+{
+"fr": "parler",
+"en": "speak, to speak, talking"
+},
+{
+"fr": "parlerai",
+"en": "will talk, will speak"
+},
+{
+"fr": "parleras",
+"en": "will speak, will talk"
+},
+{
+"fr": "parles",
+"en": "speak, are talking, are speaking"
+},
+{
+"fr": "parles-tu",
+"en": "do you speak, are you speaking, do you talk"
+},
+{
+"fr": "parlez",
+"en": "speak, are speaking, talk"
+},
+{
+"fr": "parlez-vous",
+"en": "do you speak/talk"
+},
+{
+"fr": "parlons",
+"en": "speak, let's talk, talk"
+},
+{
+"fr": "pars",
+"en": "are leaving, leave, leaving"
+},
+{
+"fr": "part",
+"en": "departs, slice, go"
+},
+{
+"fr": "partager",
+"en": "sharing, share, to share"
+},
+{
+"fr": "partant",
+"en": "leaving"
+},
+{
+"fr": "partent",
+"en": "leave, are leaving"
+},
+{
+"fr": "partez",
+"en": "are leaving, leave, leaving"
+},
+{
+"fr": "participer",
+"en": "to participate, to compete, participate"
+},
+{
+"fr": "partie",
+"en": "left, part, gone"
+},
+{
+"fr": "partir",
+"en": "to leave"
+},
+{
+"fr": "partira",
+"en": "will leave, will go"
+},
+{
+"fr": "partiras",
+"en": "will leave, leave, will go"
+},
+{
+"fr": "partons",
+"en": "leave for, are leaving, let's leave"
+},
+{
+"fr": "partout",
+"en": "everywhere, all over, throughout"
+},
+{
+"fr": "pas",
+"en": "not, no, step"
+},
+{
+"fr": "pas assez",
+"en": "not enough"
+},
+{
+"fr": "pas bien",
+"en": "not well"
+},
+{
+"fr": "pas d'",
+"en": "no"
+},
+{
+"fr": "pas de",
+"en": "no"
+},
+{
+"fr": "pas de poisson",
+"en": "no fish"
+},
+{
+"fr": "pas de viande",
+"en": "no meat"
+},
+{
+"fr": "pas du tout",
+"en": "not at all"
+},
+{
+"fr": "pas encore",
+"en": "not yet"
+},
+{
+"fr": "pas envie",
+"en": "don't feel like, feel like"
+},
+{
+"fr": "pas ici",
+"en": "not here"
+},
+{
+"fr": "pas maintenant",
+"en": "not now"
+},
+{
+"fr": "pas moi",
+"en": "I don't"
+},
+{
+"fr": "passager",
+"en": "passenger, passenger's"
+},
+{
+"fr": "passe",
+"en": "am passing, am spending, are passing"
+},
+{
+"fr": "passe par",
+"en": "go down, goes down"
+},
+{
+"fr": "passeport",
+"en": "passport"
+},
+{
+"fr": "passeports",
+"en": "passports"
+},
+{
+"fr": "passer",
+"en": "to spend, to pass"
+},
+{
+"fr": "passera",
+"en": "will have, will spend, will be on"
+},
+{
+"fr": "passeras",
+"en": "will spend, will take, will pass"
+},
+{
+"fr": "passé",
+"en": "spent, shown, past"
+},
+{
+"fr": "pastèque",
+"en": "watermelon"
+},
+{
+"fr": "patient",
+"en": "patient"
+},
+{
+"fr": "patiner",
+"en": "skate, to skate, skating"
+},
+{
+"fr": "pause",
+"en": "pause, break, break’s"
+},
+{
+"fr": "pauvre",
+"en": "poor, poor thing"
+},
+{
+"fr": "paye",
+"en": "pay, pays, pays for"
+},
+{
+"fr": "payer",
+"en": "to pay, to pay for"
+},
+{
+"fr": "payé",
+"en": "paid, paid for"
+},
+{
+"fr": "pays",
+"en": "country, countries, land"
+},
+{
+"fr": "pâle",
+"en": "pale"
+},
+{
+"fr": "Pâques",
+"en": "Easter"
+},
+{
+"fr": "pâtes",
+"en": "pasta"
+},
+{
+"fr": "pâtisserie",
+"en": "cake shop, pastry, bakery's"
+},
+{
+"fr": "peau",
+"en": "peel, skin, avocado's"
+},
+{
+"fr": "peigne",
+"en": "comb, combing, paint"
+},
+{
+"fr": "peindre",
+"en": "to paint"
+},
+{
+"fr": "peint",
+"en": "is painting, paints, painted"
+},
+{
+"fr": "peintre",
+"en": "painter, painter's"
+},
+{
+"fr": "peinture",
+"en": "painting, paint, paint's"
+},
+{
+"fr": "pelouse",
+"en": "grass"
+},
+{
+"fr": "pendant",
+"en": "while, for, throughout"
+},
+{
+"fr": "pendant que",
+"en": "while"
+},
+{
+"fr": "pense à",
+"en": "thinks about, thinking about"
+},
+{
+"fr": "pense que",
+"en": "think"
+},
+{
+"fr": "penser",
+"en": "thinking, thought, think"
+},
+{
+"fr": "penser à",
+"en": "think of"
+},
+{
+"fr": "perdre",
+"en": "drops, losing, lose"
+},
+{
+"fr": "perdu",
+"en": "wasted, lost, perdu"
+},
+{
+"fr": "permis",
+"en": "license, permit, (I/you) allowed"
+},
+{
+"fr": "personne",
+"en": "nobody, anyone, person"
+},
+{
+"fr": "personne ne",
+"en": "nobody, no one"
+},
+{
+"fr": "personnel",
+"en": "personal, staff, staff's"
+},
+{
+"fr": "petit",
+"en": "small, little, lesser known"
+},
+{
+"fr": "petit ami",
+"en": "boyfriend"
+},
+{
+"fr": "petit déjeuner",
+"en": "breakfast"
+},
+{
+"fr": "petit frère",
+"en": "little brother"
+},
+{
+"fr": "petit-fils",
+"en": "grandson"
+},
+{
+"fr": "petite",
+"en": "little, short, small"
+},
+{
+"fr": "petite amie",
+"en": "girlfriend, sweetheart"
+},
+{
+"fr": "petite sœur",
+"en": "little sister"
+},
+{
+"fr": "petite-fille",
+"en": "granddaughter"
+},
+{
+"fr": "petites",
+"en": "short, small, little"
+},
+{
+"fr": "petits",
+"en": "little, babies, petits"
+},
+{
+"fr": "petits-enfants",
+"en": "grandchildren"
+},
+{
+"fr": "peu",
+"en": "little, a little, a bit"
+},
+{
+"fr": "peur",
+"en": "fear"
+},
+{
+"fr": "peur de",
+"en": "afraid"
+},
+{
+"fr": "peut",
+"en": "can, may"
+},
+{
+"fr": "peut-être",
+"en": "maybe"
+},
+{
+"fr": "peuvent",
+"en": "can, may"
+},
+{
+"fr": "peux",
+"en": "am able to, can, are able to"
+},
+{
+"fr": "père",
+"en": "father, dad, sire"
+},
+{
+"fr": "père noël",
+"en": "Santa Claus, Father Christmas, Santa"
+},
+{
+"fr": "pétillant",
+"en": "fizzy, sparkling, dancing"
+},
+{
+"fr": "pêche",
+"en": "fishing, peach"
+},
+{
+"fr": "pêcher",
+"en": "to fish"
+},
+{
+"fr": "pêché",
+"en": "fished, caught"
+},
+{
+"fr": "pharmacie",
+"en": "pharmacy"
+},
+{
+"fr": "photo",
+"en": "picture, photograph, photo"
+},
+{
+"fr": "photographe",
+"en": "photographer"
+},
+{
+"fr": "photographie",
+"en": "photography, photograph, photo's"
+},
+{
+"fr": "phrase",
+"en": "sentence"
+},
+{
+"fr": "physique",
+"en": "physics, physical, physical appearance"
+},
+{
+"fr": "piano",
+"en": "piano"
+},
+{
+"fr": "pied",
+"en": "foot"
+},
+{
+"fr": "pièce",
+"en": "rooms', coin, play"
+},
+{
+"fr": "pièce de théâtre",
+"en": "play"
+},
+{
+"fr": "pièces",
+"en": "coins, rooms, plays"
+},
+{
+"fr": "pilote",
+"en": "pilot"
+},
+{
+"fr": "piment",
+"en": "chili pepper"
+},
+{
+"fr": "pique-nique",
+"en": "picnic"
+},
+{
+"fr": "pire",
+"en": "worse, worst"
+},
+{
+"fr": "piscine",
+"en": "pool, swimming pool"
+},
+{
+"fr": "pizza",
+"en": "pizza, pizza's"
+},
+{
+"fr": "pizzas",
+"en": "pizzas, pizza, pizza's"
+},
+{
+"fr": "placard",
+"en": "closet, cupboard, cabinet"
+},
+{
+"fr": "place",
+"en": "parking spot, seat, square"
+},
+{
+"fr": "plafond",
+"en": "ceiling"
+},
+{
+"fr": "plage",
+"en": "beach"
+},
+{
+"fr": "plaire",
+"en": "like, please, pleased"
+},
+{
+"fr": "plaisent",
+"en": "like, please"
+},
+{
+"fr": "plaît",
+"en": "please, pleases"
+},
+{
+"fr": "plan",
+"en": "plan's, map, front"
+},
+{
+"fr": "plante",
+"en": "plants, is planting, plant"
+},
+{
+"fr": "plastique",
+"en": "plastic"
+},
+{
+"fr": "plat",
+"en": "dish, flat, still"
+},
+{
+"fr": "plein",
+"en": "full, lots"
+},
+{
+"fr": "pleurer",
+"en": "crying, cry, to cry"
+},
+{
+"fr": "pleut",
+"en": "rains, is raining, rain"
+},
+{
+"fr": "pleuvoir",
+"en": "to rain"
+},
+{
+"fr": "plu",
+"en": "rained, liked each other, liked oneself"
+},
+{
+"fr": "pluie",
+"en": "rain"
+},
+{
+"fr": "plus",
+"en": "more, plus (maths)"
+},
+{
+"fr": "plus de",
+"en": "more"
+},
+{
+"fr": "plusieurs",
+"en": "several, many"
+},
+{
+"fr": "pneu",
+"en": "tire"
+},
+{
+"fr": "poche",
+"en": "pocket, bag's"
+},
+{
+"fr": "poire",
+"en": "pear"
+},
+{
+"fr": "poisson",
+"en": "fish"
+},
+{
+"fr": "poivre",
+"en": "pepper"
+},
+{
+"fr": "poivron",
+"en": "peppers, bell pepper, pepper"
+},
+{
+"fr": "police",
+"en": "police, police's"
+},
+{
+"fr": "policier",
+"en": "police officer, police's"
+},
+{
+"fr": "pomme",
+"en": "apple"
+},
+{
+"fr": "pommes de terre",
+"en": "potatoes"
+},
+{
+"fr": "pompier",
+"en": "fireman, firefighter"
+},
+{
+"fr": "pont",
+"en": "bridge, pont"
+},
+{
+"fr": "pop",
+"en": "pop, pop music"
+},
+{
+"fr": "populaire",
+"en": "popular, people's"
+},
+{
+"fr": "porc",
+"en": "pork"
+},
+{
+"fr": "portable",
+"en": "cell phone, phone's, phone"
+},
+{
+"fr": "portables",
+"en": "cell phones, phones"
+},
+{
+"fr": "portail",
+"en": "gate"
+},
+{
+"fr": "porte",
+"en": "am wearing, door, gate"
+},
+{
+"fr": "portefeuille",
+"en": "wallet, wallet’s"
+},
+{
+"fr": "porter",
+"en": "wearing, carrying, wear"
+},
+{
+"fr": "portugais",
+"en": "Portuguese"
+},
+{
+"fr": "positif",
+"en": "positive"
+},
+{
+"fr": "possible",
+"en": "possible"
+},
+{
+"fr": "poste",
+"en": "position"
+},
+{
+"fr": "poubelle",
+"en": "trash, trash can, garbage"
+},
+{
+"fr": "poulet",
+"en": "chicken"
+},
+{
+"fr": "poupée",
+"en": "doll, doll's"
+},
+{
+"fr": "pour",
+"en": "for, to, in order to"
+},
+{
+"fr": "pour la santé",
+"en": "for health"
+},
+{
+"fr": "pourboire",
+"en": "tip"
+},
+{
+"fr": "pourquoi",
+"en": "why"
+},
+{
+"fr": "pourra",
+"en": "will be able to, can"
+},
+{
+"fr": "pourrai",
+"en": "will be able to, can"
+},
+{
+"fr": "pourrais",
+"en": "could"
+},
+{
+"fr": "pourrait",
+"en": "could"
+},
+{
+"fr": "pourras",
+"en": "will be able to"
+},
+{
+"fr": "pourriez",
+"en": "could"
+},
+{
+"fr": "pourrions",
+"en": "would be able to, could, (we) might"
+},
+{
+"fr": "pourront",
+"en": "(they) will be able to, (they) will be allowed to"
+},
+{
+"fr": "pourtant",
+"en": "yet, though, however"
+},
+{
+"fr": "pousser",
+"en": "grow, push, growing"
+},
+{
+"fr": "pouvaient",
+"en": "were able to, used to be able to"
+},
+{
+"fr": "pouvez",
+"en": "can, may"
+},
+{
+"fr": "pouvez-vous",
+"en": "can you"
+},
+{
+"fr": "pouvez-vous me dire",
+"en": "can you tell me"
+},
+{
+"fr": "pouvoir",
+"en": "can, power's, be able to"
+},
+{
+"fr": "pouvons",
+"en": "can, may"
+},
+{
+"fr": "pratique",
+"en": "practical"
+},
+{
+"fr": "premier",
+"en": "first, first-rate, initial"
+},
+{
+"fr": "première",
+"en": "premiere, first, eleventh grade"
+},
+{
+"fr": "prenait",
+"en": "caught, made, ate"
+},
+{
+"fr": "prend",
+"en": "are having, getting, takes"
+},
+{
+"fr": "prendra",
+"en": "will have, will get, will be taking"
+},
+{
+"fr": "prendrai",
+"en": "will have, will get, will take"
+},
+{
+"fr": "prendras",
+"en": "will have, will take"
+},
+{
+"fr": "prendre",
+"en": "getting, make, take"
+},
+{
+"fr": "prendront",
+"en": "will take, will have, take"
+},
+{
+"fr": "prends",
+"en": "am getting, are having, getting"
+},
+{
+"fr": "prends-tu",
+"en": "do you take"
+},
+{
+"fr": "prenez",
+"en": "are getting, are having, getting"
+},
+{
+"fr": "prenez-vous",
+"en": "are you having"
+},
+{
+"fr": "prennent",
+"en": "are getting, are having, getting"
+},
+{
+"fr": "prenons",
+"en": "let's take, are having, getting"
+},
+{
+"fr": "presque",
+"en": "almost"
+},
+{
+"fr": "pressé",
+"en": "in a rush, in a hurry"
+},
+{
+"fr": "près",
+"en": "near, close, closely"
+},
+{
+"fr": "près de",
+"en": "close to"
+},
+{
+"fr": "près du",
+"en": "close to the"
+},
+{
+"fr": "préfère",
+"en": "prefer, prefers"
+},
+{
+"fr": "préfères",
+"en": "prefer"
+},
+{
+"fr": "préférer",
+"en": "prefer, to prefer"
+},
+{
+"fr": "préféré",
+"en": "favorite"
+},
+{
+"fr": "préférons",
+"en": "(let us) prefer, prefer"
+},
+{
+"fr": "prénom",
+"en": "first name, name's"
+},
+{
+"fr": "prépare",
+"en": "is making, makes, am making"
+},
+{
+"fr": "préparent",
+"en": "make, prepare, are making"
+},
+{
+"fr": "préparer",
+"en": "to prepare, (to) prepare for, (to) plan"
+},
+{
+"fr": "prépares",
+"en": "make, making, are making"
+},
+{
+"fr": "préparez",
+"en": "make, are making, prepare"
+},
+{
+"fr": "préparé",
+"en": "made, produced, prepared"
+},
+{
+"fr": "préparons",
+"en": "make, prepare, let's make"
+},
+{
+"fr": "présenter",
+"en": "introduce, to introduce, presenting"
+},
+{
+"fr": "prévoir",
+"en": "predict, plan"
+},
+{
+"fr": "prévu",
+"en": "planned, expect"
+},
+{
+"fr": "prêt",
+"en": "ready, loan, prepared"
+},
+{
+"fr": "prête",
+"en": "is lending, lending, am lending"
+},
+{
+"fr": "prêter",
+"en": "lending, lend, let's"
+},
+{
+"fr": "prier",
+"en": "(to) pray, pray, praying"
+},
+{
+"fr": "printemps",
+"en": "spring"
+},
+{
+"fr": "pris",
+"en": "gotten, had, busy"
+},
+{
+"fr": "prix",
+"en": "fare, price, prizes"
+},
+{
+"fr": "probablement",
+"en": "probably"
+},
+{
+"fr": "problème",
+"en": "problem"
+},
+{
+"fr": "prochain",
+"en": "next, upcoming"
+},
+{
+"fr": "proche",
+"en": "close"
+},
+{
+"fr": "prof",
+"en": "instructor, teacher, professor"
+},
+{
+"fr": "professeur",
+"en": "teacher, professor, lecturer"
+},
+{
+"fr": "professeurs",
+"en": "professors, teachers"
+},
+{
+"fr": "profession",
+"en": "profession"
+},
+{
+"fr": "professionnel",
+"en": "professionally, expert's, professional"
+},
+{
+"fr": "profond",
+"en": "deep, earnest"
+},
+{
+"fr": "projet",
+"en": "project's, project, plan"
+},
+{
+"fr": "promenade",
+"en": "walk, promenade, trip's"
+},
+{
+"fr": "promener",
+"en": "walk, to walk, walking"
+},
+{
+"fr": "promenons",
+"en": "walk, take for a walk"
+},
+{
+"fr": "promène",
+"en": "take for a walk, walk, take ... for a walk"
+},
+{
+"fr": "promotion",
+"en": "sale, promotion, promotion list"
+},
+{
+"fr": "propre",
+"en": "own, clean, one's"
+},
+{
+"fr": "pu",
+"en": "was able to"
+},
+{
+"fr": "public",
+"en": "public, audience's, audience"
+},
+{
+"fr": "publicité",
+"en": "advertisement, commercial"
+},
+{
+"fr": "puis",
+"en": "then, may (I), next"
+},
+{
+"fr": "pull",
+"en": "sweater, sweater's, jersey's"
+},
+{
+"fr": "purée",
+"en": "mashed potatoes, puréed, mashed"
+},
+{
+"fr": "pyjama",
+"en": "pajamas"
+},
+{
+"fr": "qu'",
+"en": "only, that, than"
+},
+{
+"fr": "qu'est-ce qu'",
+"en": "what is it that, what does, what is"
+},
+{
+"fr": "qu'est-ce que",
+"en": "what"
+},
+{
+"fr": "qu'il",
+"en": "that he, that it, which he"
+},
+{
+"fr": "quai",
+"en": "platform"
+},
+{
+"fr": "quand",
+"en": "when, when's"
+},
+{
+"fr": "quarante",
+"en": "forty"
+},
+{
+"fr": "quart",
+"en": "quarter, a quarter-litre bottle, a quarter-litre pitcher"
+},
+{
+"fr": "quartier",
+"en": "quarter, neighborhood, area's"
+},
+{
+"fr": "quatorze",
+"en": "fourteen, 14"
+},
+{
+"fr": "quatre",
+"en": "four"
+},
+{
+"fr": "quatre-vingt",
+"en": "eighty"
+},
+{
+"fr": "quatre-vingt-dix",
+"en": "ninety"
+},
+{
+"fr": "quatre-vingts",
+"en": "eighty"
+},
+{
+"fr": "quatrième",
+"en": "fourth, fourth gear"
+},
+{
+"fr": "que",
+"en": "that, what, than"
+},
+{
+"fr": "quel",
+"en": "which"
+},
+{
+"fr": "quel âge",
+"en": "how old"
+},
+{
+"fr": "quel temps",
+"en": "what weather"
+},
+{
+"fr": "quelle",
+"en": "what an, what a, what"
+},
+{
+"fr": "quelles",
+"en": "what a, which, what"
+},
+{
+"fr": "quelqu'un",
+"en": "someone"
+},
+{
+"fr": "quelque chose",
+"en": "something"
+},
+{
+"fr": "quelque chose de",
+"en": "something"
+},
+{
+"fr": "quelques",
+"en": "a few, some"
+},
+{
+"fr": "question",
+"en": "question"
+},
+{
+"fr": "queue",
+"en": "line, handle, hull"
+},
+{
+"fr": "québécois",
+"en": "from Quebec, Quebecois, québécois"
+},
+{
+"fr": "qui",
+"en": "that, whom, th"
+},
+{
+"fr": "quinze",
+"en": "fifteen, 15"
+},
+{
+"fr": "quoi",
+"en": "what"
+},
+{
+"fr": "quotidien",
+"en": "daily, daily life"
+},
+{
+"fr": "raconter",
+"en": "tell, telling, to tell"
+},
+{
+"fr": "radio",
+"en": "radio, radio's"
+},
+{
+"fr": "raide",
+"en": "steep, straight, stiff"
+},
+{
+"fr": "raisin",
+"en": "grapes"
+},
+{
+"fr": "raison",
+"en": "reason, right"
+},
+{
+"fr": "randonnée",
+"en": "hiking, hike, backpacking"
+},
+{
+"fr": "range",
+"en": "put away, am putting away, is tidying"
+},
+{
+"fr": "ranger",
+"en": "tidying, tidy up, straighten"
+},
+{
+"fr": "rap",
+"en": "rap"
+},
+{
+"fr": "rapide",
+"en": "fast, quickest"
+},
+{
+"fr": "rapidement",
+"en": "quickly, rapidly, fast"
+},
+{
+"fr": "rappeler",
+"en": "call back, remind, reminding"
+},
+{
+"fr": "rarement",
+"en": "rarely, seldom"
+},
+{
+"fr": "rat",
+"en": "rat"
+},
+{
+"fr": "ratent",
+"en": "fail"
+},
+{
+"fr": "rater",
+"en": "missed, miss, fail"
+},
+{
+"fr": "recette",
+"en": "recipe"
+},
+{
+"fr": "recevoir",
+"en": "to receive, receive, receiving"
+},
+{
+"fr": "reçu",
+"en": "receive, gotten, received"
+},
+{
+"fr": "regardant",
+"en": "looking, watching, looking at"
+},
+{
+"fr": "regarde",
+"en": "am watching, look at, look"
+},
+{
+"fr": "regardent",
+"en": "are watching, look at, watch"
+},
+{
+"fr": "regarder",
+"en": "to look"
+},
+{
+"fr": "regardé",
+"en": "looked, watched, looked at"
+},
+{
+"fr": "regardons",
+"en": "let's look at, are watching, look at"
+},
+{
+"fr": "remercier",
+"en": "thanking, thank"
+},
+{
+"fr": "rempli",
+"en": "filled up, filled, full"
+},
+{
+"fr": "remplir",
+"en": "to fill up, (to) to perform, (to) to carry out"
+},
+{
+"fr": "rencontrer",
+"en": "to meet"
+},
+{
+"fr": "rend",
+"en": "is making, makes, making"
+},
+{
+"fr": "rendez-vous",
+"en": "appointment"
+},
+{
+"fr": "rendre",
+"en": "deliver, making, make"
+},
+{
+"fr": "rendre visite",
+"en": "visit"
+},
+{
+"fr": "rentre",
+"en": "go back, fits, is going home"
+},
+{
+"fr": "rentrer",
+"en": "go back, go home to, go home"
+},
+{
+"fr": "rentreront",
+"en": "will go back, will come home"
+},
+{
+"fr": "renverser",
+"en": "runs, spilled, spill"
+},
+{
+"fr": "repas",
+"en": "meal"
+},
+{
+"fr": "reportage",
+"en": "report, documentary's"
+},
+{
+"fr": "repos",
+"en": "rest"
+},
+{
+"fr": "reposer",
+"en": "rest"
+},
+{
+"fr": "responsable",
+"en": "boss', responsible for, responsible"
+},
+{
+"fr": "ressembler",
+"en": "look like"
+},
+{
+"fr": "restaurant",
+"en": "restaurant, restaurant's"
+},
+{
+"fr": "restaurants",
+"en": "restaurants, diners"
+},
+{
+"fr": "reste",
+"en": "stay, am staying, is staying"
+},
+{
+"fr": "rester",
+"en": "to stay"
+},
+{
+"fr": "resterai",
+"en": "will stay"
+},
+{
+"fr": "restes",
+"en": "stay, leftovers, are staying"
+},
+{
+"fr": "restez",
+"en": "stay, are staying"
+},
+{
+"fr": "resté",
+"en": "stay, stayed, continued"
+},
+{
+"fr": "restée",
+"en": "stay, stayed"
+},
+{
+"fr": "restées",
+"en": "stayed, stay"
+},
+{
+"fr": "restés",
+"en": "been left, stayed, lived on"
+},
+{
+"fr": "resto",
+"en": "restaurant"
+},
+{
+"fr": "retard",
+"en": "delay, lateness, delay's"
+},
+{
+"fr": "retarder",
+"en": "delay, to delay"
+},
+{
+"fr": "retirer",
+"en": "getting, drops, dropped"
+},
+{
+"fr": "retourner",
+"en": "to go back, (to) return, (to) send [something] back"
+},
+{
+"fr": "retrouver",
+"en": "find, recovered, meet up with"
+},
+{
+"fr": "revenez",
+"en": "come back, are coming back"
+},
+{
+"fr": "revenir",
+"en": "to come back, (to) return, (to) come again"
+},
+{
+"fr": "revenons",
+"en": "come back, are coming back"
+},
+{
+"fr": "reviennent",
+"en": "are coming back, come back"
+},
+{
+"fr": "revient",
+"en": "comes back, is coming back, gets back"
+},
+{
+"fr": "revoir",
+"en": "to see again"
+},
+{
+"fr": "rez-de-chaussée",
+"en": "ground floor"
+},
+{
+"fr": "règle",
+"en": "ruler, rule, adjust"
+},
+{
+"fr": "règles",
+"en": "rulers, handle, rules"
+},
+{
+"fr": "récemment",
+"en": "recently"
+},
+{
+"fr": "réception",
+"en": "front desk, reception"
+},
+{
+"fr": "réceptionniste",
+"en": "receptionist"
+},
+{
+"fr": "réfléchir",
+"en": "thinking, reflect, think"
+},
+{
+"fr": "réfrigérateur",
+"en": "fridge, refrigerator, cooler's"
+},
+{
+"fr": "région",
+"en": "region's, region, area's"
+},
+{
+"fr": "réparer",
+"en": "recovered, repair, repaired"
+},
+{
+"fr": "répéter",
+"en": "rehearsing, to practice, repeat"
+},
+{
+"fr": "répond",
+"en": "is answering, answers, replies"
+},
+{
+"fr": "répondent",
+"en": "reply to, answer, are answering"
+},
+{
+"fr": "répondez",
+"en": "are answering, are replying, reply to"
+},
+{
+"fr": "répondons",
+"en": "answer, are answering, are replying"
+},
+{
+"fr": "répondra",
+"en": "will answer"
+},
+{
+"fr": "répondras",
+"en": "will answer"
+},
+{
+"fr": "répondre",
+"en": "to answer"
+},
+{
+"fr": "réponds",
+"en": "answer, are answering, are replying"
+},
+{
+"fr": "répondu",
+"en": "answer, replied, answered"
+},
+{
+"fr": "réponse",
+"en": "answer"
+},
+{
+"fr": "réservation",
+"en": "reservation, booking"
+},
+{
+"fr": "réserver",
+"en": "to book"
+},
+{
+"fr": "réservé",
+"en": "reserved"
+},
+{
+"fr": "réunion",
+"en": "Réunion (island), meeting"
+},
+{
+"fr": "réunir",
+"en": "to gather, to assemble, to bring together"
+},
+{
+"fr": "réussir",
+"en": "passing, to succeed, pass"
+},
+{
+"fr": "réveillant",
+"en": "waking up"
+},
+{
+"fr": "réveillent",
+"en": "awake"
+},
+{
+"fr": "réveiller",
+"en": "wake up, waking, let's"
+},
+{
+"fr": "rêve",
+"en": "am dreaming, dreams, is dreaming"
+},
+{
+"fr": "rêver",
+"en": "dreaming, dream, dreamed"
+},
+{
+"fr": "riche",
+"en": "rich"
+},
+{
+"fr": "rideau",
+"en": "shutter, curtain, screen"
+},
+{
+"fr": "ridicule",
+"en": "ridiculous"
+},
+{
+"fr": "rien",
+"en": "not ... anything, nothing, anything"
+},
+{
+"fr": "rien du tout",
+"en": "nothing at all"
+},
+{
+"fr": "rien ne",
+"en": "nothing, Nothing"
+},
+{
+"fr": "rire",
+"en": "laughing, laugh"
+},
+{
+"fr": "rivière",
+"en": "river, stream's"
+},
+{
+"fr": "riz",
+"en": "rice"
+},
+{
+"fr": "robe",
+"en": "dress"
+},
+{
+"fr": "robinet",
+"en": "faucet"
+},
+{
+"fr": "roi",
+"en": "king"
+},
+{
+"fr": "rond",
+"en": "circle, round, circular"
+},
+{
+"fr": "rose",
+"en": "pink, rose"
+},
+{
+"fr": "roue",
+"en": "cartwheel, wheel, round"
+},
+{
+"fr": "rouge",
+"en": "red"
+},
+{
+"fr": "rouges",
+"en": "red"
+},
+{
+"fr": "route",
+"en": "road, runs, rd"
+},
+{
+"fr": "roux",
+"en": "red-headed, red, redhead"
+},
+{
+"fr": "rôtir",
+"en": "to roast, to grill, to broil"
+},
+{
+"fr": "rue",
+"en": "street, rd"
+},
+{
+"fr": "rugby",
+"en": "rugby"
+},
+{
+"fr": "russe",
+"en": "Russian"
+},
+{
+"fr": "s'",
+"en": "each other, themselves, himself"
+},
+{
+"fr": "s'appelle",
+"en": "is called, calls oneself, named"
+},
+{
+"fr": "s'en fiche",
+"en": "doesn't care, doesn't mind, couldn't care less"
+},
+{
+"fr": "s'est",
+"en": "has, himself, herself"
+},
+{
+"fr": "s'écrit",
+"en": "to be written, to write to each other, to be spelled"
+},
+{
+"fr": "s'il",
+"en": "please, if he"
+},
+{
+"fr": "s'il te plaît",
+"en": "please, if you please, kindly"
+},
+{
+"fr": "s'il vous plaît",
+"en": "please"
+},
+{
+"fr": "s'y",
+"en": "there, to it, at it"
+},
+{
+"fr": "sa",
+"en": "your, her, hero's"
+},
+{
+"fr": "sac",
+"en": "bag, bag's"
+},
+{
+"fr": "sac à dos",
+"en": "backpack"
+},
+{
+"fr": "sac à main",
+"en": "purse"
+},
+{
+"fr": "saignante",
+"en": "rare"
+},
+{
+"fr": "saigner",
+"en": "bleeding, bleed, bleeds"
+},
+{
+"fr": "sais",
+"en": "know, can, know how"
+},
+{
+"fr": "saison",
+"en": "season"
+},
+{
+"fr": "sait",
+"en": "knows, knows how, know"
+},
+{
+"fr": "salade",
+"en": "salad, salad's"
+},
+{
+"fr": "sale",
+"en": "dirty"
+},
+{
+"fr": "saler",
+"en": "cure"
+},
+{
+"fr": "salle",
+"en": "rooms', room's, room"
+},
+{
+"fr": "salle d'attente",
+"en": "waiting room"
+},
+{
+"fr": "salle de bain",
+"en": "bathroom"
+},
+{
+"fr": "salle de classe",
+"en": "classroom"
+},
+{
+"fr": "salle de sport",
+"en": "gym"
+},
+{
+"fr": "salon",
+"en": "salon, living room, parlor"
+},
+{
+"fr": "salut",
+"en": "hi, hey"
+},
+{
+"fr": "samedi",
+"en": "Saturday"
+},
+{
+"fr": "sandale",
+"en": "sandal, flops"
+},
+{
+"fr": "sandwich",
+"en": "sandwich"
+},
+{
+"fr": "sang",
+"en": "blood, bloodshed"
+},
+{
+"fr": "sans",
+"en": "without, no"
+},
+{
+"fr": "sans contact",
+"en": "contactless"
+},
+{
+"fr": "santé",
+"en": "health"
+},
+{
+"fr": "sapin",
+"en": "fir tree, fir, pine"
+},
+{
+"fr": "satisfait",
+"en": "satisfied, serves, satisfies"
+},
+{
+"fr": "sauce",
+"en": "sauce"
+},
+{
+"fr": "saucisse",
+"en": "sausage"
+},
+{
+"fr": "sauf",
+"en": "except, except that, but"
+},
+{
+"fr": "saurai",
+"en": "will know how, will know, know"
+},
+{
+"fr": "sauras",
+"en": "will know, will know (how)"
+},
+{
+"fr": "sauront",
+"en": "will know, will now how"
+},
+{
+"fr": "sauter",
+"en": "jumping, jump, skipping"
+},
+{
+"fr": "sauvage",
+"en": "unsociable, wild, wilder"
+},
+{
+"fr": "savent",
+"en": "know, know how to, can"
+},
+{
+"fr": "savez",
+"en": "know, know how to"
+},
+{
+"fr": "savoir",
+"en": "to know, (to) know how to, knowledge"
+},
+{
+"fr": "savon",
+"en": "soap, soap's"
+},
+{
+"fr": "savons",
+"en": "know, know how to"
+},
+{
+"fr": "scène",
+"en": "scene, stage, scene's"
+},
+{
+"fr": "science",
+"en": "sciences, science"
+},
+{
+"fr": "scooter",
+"en": "motorized scooter"
+},
+{
+"fr": "se",
+"en": "themselves, himself, oneself"
+},
+{
+"fr": "se passe",
+"en": "is going, is happening, happens"
+},
+{
+"fr": "se perd",
+"en": "gets lost, get lost"
+},
+{
+"fr": "se sont",
+"en": "saw, argued, got"
+},
+{
+"fr": "sec",
+"en": "dry"
+},
+{
+"fr": "second",
+"en": "second"
+},
+{
+"fr": "seconde",
+"en": "tenth grade, second, ii"
+},
+{
+"fr": "secrétaire",
+"en": "secretary"
+},
+{
+"fr": "seize",
+"en": "sixteen, 16"
+},
+{
+"fr": "sel",
+"en": "salt"
+},
+{
+"fr": "semaine",
+"en": "week"
+},
+{
+"fr": "semestre",
+"en": "semester, term (UK), semester's"
+},
+{
+"fr": "sens",
+"en": "direction, meanings, smell"
+},
+{
+"fr": "sent",
+"en": "smells, smells like, feel"
+},
+{
+"fr": "sentent",
+"en": "smell, feel"
+},
+{
+"fr": "sentez",
+"en": "smell, feel, are feeling"
+},
+{
+"fr": "sentir",
+"en": "feel, felt, to feel"
+},
+{
+"fr": "sentons",
+"en": "feel, are feeling"
+},
+{
+"fr": "sept",
+"en": "seven, 7"
+},
+{
+"fr": "septembre",
+"en": "September"
+},
+{
+"fr": "septième",
+"en": "seventh"
+},
+{
+"fr": "sera",
+"en": "will be, must have"
+},
+{
+"fr": "serai",
+"en": "will be"
+},
+{
+"fr": "serait-il possible",
+"en": "would it be possible"
+},
+{
+"fr": "seras",
+"en": "will be, feel, 'll be"
+},
+{
+"fr": "seront",
+"en": "will be, they’ll"
+},
+{
+"fr": "serpent",
+"en": "snake, snake's"
+},
+{
+"fr": "sert",
+"en": "is used for, is serving, serve"
+},
+{
+"fr": "sert à",
+"en": "used"
+},
+{
+"fr": "servent",
+"en": "serve"
+},
+{
+"fr": "servent à",
+"en": "are used to"
+},
+{
+"fr": "serveur",
+"en": "server, waiter, waiter's"
+},
+{
+"fr": "serveuses",
+"en": "waitresses, servers"
+},
+{
+"fr": "serviette",
+"en": "napkin, towel"
+},
+{
+"fr": "serviettes",
+"en": "napkins, towels"
+},
+{
+"fr": "servir",
+"en": "serve, serves"
+},
+{
+"fr": "ses",
+"en": "her, one's, his"
+},
+{
+"fr": "seul",
+"en": "only, lonely, alone"
+},
+{
+"fr": "seulement",
+"en": "only, but"
+},
+{
+"fr": "sexe",
+"en": "sex"
+},
+{
+"fr": "séjour",
+"en": "stay, visit, visited"
+},
+{
+"fr": "Sénégal",
+"en": "Senegal"
+},
+{
+"fr": "sénégalais",
+"en": "Senegalese"
+},
+{
+"fr": "série",
+"en": "TV series, series, set"
+},
+{
+"fr": "sérieusement",
+"en": "seriously, considerably, her"
+},
+{
+"fr": "sérieuses",
+"en": "serious"
+},
+{
+"fr": "sérieux",
+"en": "serious, earnest"
+},
+{
+"fr": "shampoing",
+"en": "shampoo"
+},
+{
+"fr": "short",
+"en": "shorts, pair of shorts, bermuda"
+},
+{
+"fr": "si",
+"en": "if, so, yes"
+},
+{
+"fr": "sien",
+"en": "hers"
+},
+{
+"fr": "siècle",
+"en": "century, century's"
+},
+{
+"fr": "siège",
+"en": "seat, sits, chair's"
+},
+{
+"fr": "signer",
+"en": "signing, to sign, sign"
+},
+{
+"fr": "simple",
+"en": "simple, straight, mere"
+},
+{
+"fr": "singe",
+"en": "monkey, monkey's"
+},
+{
+"fr": "sinon",
+"en": "otherwise, except, except that"
+},
+{
+"fr": "site",
+"en": "website, campuses"
+},
+{
+"fr": "six",
+"en": "six, 6"
+},
+{
+"fr": "sixième",
+"en": "sixth"
+},
+{
+"fr": "skateboard",
+"en": "skateboard"
+},
+{
+"fr": "skier",
+"en": "to ski, skiing"
+},
+{
+"fr": "snowboard",
+"en": "snowboarding, snowboard"
+},
+{
+"fr": "soda",
+"en": "soda"
+},
+{
+"fr": "soif",
+"en": "thirst"
+},
+{
+"fr": "soin",
+"en": "care, product, treatment"
+},
+{
+"fr": "soir",
+"en": "night, evening, evenings"
+},
+{
+"fr": "soirée",
+"en": "party, evening, evenings"
+},
+{
+"fr": "soixante",
+"en": "sixty"
+},
+{
+"fr": "soixante-dix",
+"en": "seventy"
+},
+{
+"fr": "sol",
+"en": "floor, ground, soil"
+},
+{
+"fr": "soleil",
+"en": "sun, Catherine wheel, grand circle"
+},
+{
+"fr": "solution",
+"en": "solution"
+},
+{
+"fr": "sombre",
+"en": "dark"
+},
+{
+"fr": "sommeil",
+"en": "sleep"
+},
+{
+"fr": "sommes",
+"en": "are, re"
+},
+{
+"fr": "son",
+"en": "her, hero's, phone's"
+},
+{
+"fr": "sont",
+"en": "feel, are, is"
+},
+{
+"fr": "sont à",
+"en": "are"
+},
+{
+"fr": "sont-elles",
+"en": "are they"
+},
+{
+"fr": "sont-ils",
+"en": "are they, are"
+},
+{
+"fr": "sors",
+"en": "get out, leave, are coming out"
+},
+{
+"fr": "sort",
+"en": "gets out, spell, take out"
+},
+{
+"fr": "sortant",
+"en": "coming out, getting out, going out"
+},
+{
+"fr": "sortent",
+"en": "are leaving, are going out, go out"
+},
+{
+"fr": "sortez",
+"en": "go out, get out, take out"
+},
+{
+"fr": "sorti",
+"en": "got out, go out, went out"
+},
+{
+"fr": "sortie",
+"en": "went out, exit, trip"
+},
+{
+"fr": "sortir",
+"en": "to go out"
+},
+{
+"fr": "sortons",
+"en": "getting, let's go out, are going out"
+},
+{
+"fr": "souhaiter",
+"en": "wish, wishes"
+},
+{
+"fr": "soupe",
+"en": "soup"
+},
+{
+"fr": "sourire",
+"en": "smiling, to smile, smile"
+},
+{
+"fr": "souris",
+"en": "mouse"
+},
+{
+"fr": "sous",
+"en": "under, beneath, cents"
+},
+{
+"fr": "sous la pluie",
+"en": "in the rain"
+},
+{
+"fr": "souvenez",
+"en": "remember"
+},
+{
+"fr": "souvenir",
+"en": "to remember"
+},
+{
+"fr": "souvenons",
+"en": "remember"
+},
+{
+"fr": "souvent",
+"en": "often, frequently"
+},
+{
+"fr": "souviennent",
+"en": "souvenir, memento, memory"
+},
+{
+"fr": "souviens",
+"en": "remember"
+},
+{
+"fr": "spectacle",
+"en": "shown, show, show's"
+},
+{
+"fr": "spécial",
+"en": "special"
+},
+{
+"fr": "spécialement",
+"en": "especially, specially"
+},
+{
+"fr": "sport",
+"en": "sports, exercise, sport"
+},
+{
+"fr": "sportif",
+"en": "athletic, sporting"
+},
+{
+"fr": "stade",
+"en": "stadium"
+},
+{
+"fr": "star",
+"en": "star, star's"
+},
+{
+"fr": "station",
+"en": "station's, station, resort's"
+},
+{
+"fr": "steak",
+"en": "steak"
+},
+{
+"fr": "stressé",
+"en": "stressed"
+},
+{
+"fr": "stylo",
+"en": "pen"
+},
+{
+"fr": "sucre",
+"en": "sugar, sugar cube, piece of sugar"
+},
+{
+"fr": "sud",
+"en": "south"
+},
+{
+"fr": "suffisant",
+"en": "enough"
+},
+{
+"fr": "suis",
+"en": "am, feel, follow"
+},
+{
+"fr": "suisse",
+"en": "Switzerland, Swiss"
+},
+{
+"fr": "super",
+"en": "great, great!, super"
+},
+{
+"fr": "supermarché",
+"en": "supermarket"
+},
+{
+"fr": "supposer",
+"en": "assume, (to) postulate, (to) presuppose"
+},
+{
+"fr": "sur",
+"en": "on, on top of, to"
+},
+{
+"fr": "sur l'avenue",
+"en": "on the avenue, along the avenue"
+},
+{
+"fr": "surfer",
+"en": "surf, surfing, surfs"
+},
+{
+"fr": "surprise",
+"en": "surprise, surprised"
+},
+{
+"fr": "sushi",
+"en": "sushi"
+},
+{
+"fr": "sûr",
+"en": "safe, sure"
+},
+{
+"fr": "sweat-shirt",
+"en": "sweatshirt"
+},
+{
+"fr": "sympa",
+"en": "nice"
+},
+{
+"fr": "synagogue",
+"en": "synagogue"
+},
+{
+"fr": "sœur",
+"en": "sister"
+},
+{
+"fr": "sœurs",
+"en": "sisters, sisters'"
+},
+{
+"fr": "t'",
+"en": "you, yourself, to you"
+},
+{
+"fr": "t'ai",
+"en": "have, did have, have got"
+},
+{
+"fr": "t'appelle",
+"en": "call you, am calling you, do call you"
+},
+{
+"fr": "t'appelles",
+"en": "call yourself, are called, is named"
+},
+{
+"fr": "t'en",
+"en": "you of it, you from it, you about it"
+},
+{
+"fr": "t-shirt",
+"en": "T-shirt"
+},
+{
+"fr": "t-shirts",
+"en": "T-shirts"
+},
+{
+"fr": "ta",
+"en": "your, tone (of voice), key"
+},
+{
+"fr": "table",
+"en": "table"
+},
+{
+"fr": "tableau",
+"en": "painting"
+},
+{
+"fr": "tableaux",
+"en": "tables, paintings, pictures"
+},
+{
+"fr": "taille",
+"en": "height, size"
+},
+{
+"fr": "tante",
+"en": "aunt, aunt's"
+},
+{
+"fr": "tapis",
+"en": "rug, carpet, cloth"
+},
+{
+"fr": "tard",
+"en": "late"
+},
+{
+"fr": "tarte",
+"en": "tart, pie"
+},
+{
+"fr": "tasse",
+"en": "cup, mug"
+},
+{
+"fr": "tasses",
+"en": "mugs, cups"
+},
+{
+"fr": "taxi",
+"en": "taxi, taxi's"
+},
+{
+"fr": "taxis",
+"en": "taxis, cabs, taxi's"
+},
+{
+"fr": "te",
+"en": "you, yourself, to you"
+},
+{
+"fr": "tellement",
+"en": "so much"
+},
+{
+"fr": "tempête",
+"en": "storm"
+},
+{
+"fr": "temple",
+"en": "temple"
+},
+{
+"fr": "temps",
+"en": "time, weather, tense"
+},
+{
+"fr": "tennis",
+"en": "tennis"
+},
+{
+"fr": "terminer",
+"en": "finish, complete"
+},
+{
+"fr": "terrible",
+"en": "terrible"
+},
+{
+"fr": "tes",
+"en": "your"
+},
+{
+"fr": "texte",
+"en": "text, essay's"
+},
+{
+"fr": "télé",
+"en": "TV, television"
+},
+{
+"fr": "télécharger",
+"en": "to download"
+},
+{
+"fr": "téléphone",
+"en": "telephone, phone, call"
+},
+{
+"fr": "télévision",
+"en": "TV, television"
+},
+{
+"fr": "tête",
+"en": "tête, head, head's"
+},
+{
+"fr": "thé",
+"en": "tea"
+},
+{
+"fr": "théâtre",
+"en": "theater, theater's"
+},
+{
+"fr": "ticket",
+"en": "receipt, ticket, receipt's"
+},
+{
+"fr": "tien",
+"en": "yours"
+},
+{
+"fr": "tienne",
+"en": "yours, keep"
+},
+{
+"fr": "tiennes",
+"en": "yours"
+},
+{
+"fr": "tiens",
+"en": "hold, care, here"
+},
+{
+"fr": "timbre",
+"en": "(he/she/it) stamps, (you) put a stamp on!, tone"
+},
+{
+"fr": "timide",
+"en": "shy"
+},
+{
+"fr": "timides",
+"en": "shy"
+},
+{
+"fr": "tirer",
+"en": "pull, draw, pulling"
+},
+{
+"fr": "tiroir",
+"en": "drawer"
+},
+{
+"fr": "toi",
+"en": "you, yourself, yourselves"
+},
+{
+"fr": "toilettes",
+"en": "restroom"
+},
+{
+"fr": "toit",
+"en": "roof"
+},
+{
+"fr": "tomate",
+"en": "tomato, tomatoes"
+},
+{
+"fr": "tomber",
+"en": "fall, falling, be announced"
+},
+{
+"fr": "ton",
+"en": "your"
+},
+{
+"fr": "tort",
+"en": "wrong, fault, mistake"
+},
+{
+"fr": "toujours",
+"en": "always, still, anyway"
+},
+{
+"fr": "touriste",
+"en": "tourist"
+},
+{
+"fr": "touristique",
+"en": "tourist, touristy"
+},
+{
+"fr": "tourne",
+"en": "am turning, films, is turning"
+},
+{
+"fr": "tourner",
+"en": "to turn, turn, (to) turn"
+},
+{
+"fr": "tournes",
+"en": "are turning, turn, break"
+},
+{
+"fr": "tournez",
+"en": "are turning, turn, film"
+},
+{
+"fr": "tourné",
+"en": "broken, run, filmed"
+},
+{
+"fr": "tous",
+"en": "all, anything, all of"
+},
+{
+"fr": "tous les jours",
+"en": "every day, daily"
+},
+{
+"fr": "tout",
+"en": "everything, all, right"
+},
+{
+"fr": "tout de suite",
+"en": "right away"
+},
+{
+"fr": "tout droit",
+"en": "straight"
+},
+{
+"fr": "tout le monde",
+"en": "everyone"
+},
+{
+"fr": "tout neuf",
+"en": "brand new"
+},
+{
+"fr": "tout petit",
+"en": "tiny"
+},
+{
+"fr": "tout seul",
+"en": "by myself, by yourself, by himself"
+},
+{
+"fr": "tout va bien",
+"en": "everything is going well"
+},
+{
+"fr": "toute",
+"en": "all, entire, everything"
+},
+{
+"fr": "toute la journée",
+"en": "all day"
+},
+{
+"fr": "toute neuve",
+"en": "brand new"
+},
+{
+"fr": "toute seule",
+"en": "by myself, by herself, by yourself"
+},
+{
+"fr": "toutes",
+"en": "all, entire, all of"
+},
+{
+"fr": "tôt",
+"en": "early"
+},
+{
+"fr": "train",
+"en": "train"
+},
+{
+"fr": "trains",
+"en": "trains"
+},
+{
+"fr": "tram",
+"en": "tram, streetcar"
+},
+{
+"fr": "tranche",
+"en": "slice"
+},
+{
+"fr": "tranquille",
+"en": "calm, quiet, quietest"
+},
+{
+"fr": "travail",
+"en": "work, job"
+},
+{
+"fr": "travaillais",
+"en": "used to work, was working, were working"
+},
+{
+"fr": "travaillait",
+"en": "was working, worked, used to work"
+},
+{
+"fr": "travaille",
+"en": "am working, work, works"
+},
+{
+"fr": "travaillent",
+"en": "work, are working"
+},
+{
+"fr": "travaillent-elles",
+"en": "do they work"
+},
+{
+"fr": "travailler",
+"en": "to work"
+},
+{
+"fr": "travailleras",
+"en": "will work"
+},
+{
+"fr": "travailles",
+"en": "work, are working"
+},
+{
+"fr": "travailles-tu",
+"en": "do you work"
+},
+{
+"fr": "travaillez",
+"en": "work, are working"
+},
+{
+"fr": "travaillez-vous",
+"en": "do you work, are you working, do you labor"
+},
+{
+"fr": "travaillé",
+"en": "worked"
+},
+{
+"fr": "travaillons",
+"en": "work, are working, let's"
+},
+{
+"fr": "traverser",
+"en": "to cross, cross, let's"
+},
+{
+"fr": "treize",
+"en": "thirteen"
+},
+{
+"fr": "trente",
+"en": "thirty, 30"
+},
+{
+"fr": "très",
+"en": "very, extremely"
+},
+{
+"fr": "tricoter",
+"en": "to knit, knitting, knit"
+},
+{
+"fr": "triste",
+"en": "sad, sadder"
+},
+{
+"fr": "trois",
+"en": "three, 3"
+},
+{
+"fr": "troisième",
+"en": "third, ninth grade"
+},
+{
+"fr": "trompette",
+"en": "trumpet"
+},
+{
+"fr": "trop",
+"en": "too many, too, too much"
+},
+{
+"fr": "trop de",
+"en": "too much, too many"
+},
+{
+"fr": "trottinette",
+"en": "scooter"
+},
+{
+"fr": "trousse",
+"en": "pencil case"
+},
+{
+"fr": "trouvent",
+"en": "find, are thinking, think"
+},
+{
+"fr": "trouver",
+"en": "to find, find, finding"
+},
+{
+"fr": "trouvé",
+"en": "found, figuring"
+},
+{
+"fr": "truc",
+"en": "thing"
+},
+{
+"fr": "tu",
+"en": "you'll, you"
+},
+{
+"fr": "tu marches",
+"en": "walk"
+},
+{
+"fr": "tu t'es",
+"en": "you have, you did, you are"
+},
+{
+"fr": "tu vas",
+"en": "are going to, will"
+},
+{
+"fr": "tu y",
+"en": "there, it"
+},
+{
+"fr": "tuer",
+"en": "kill, killing"
+},
+{
+"fr": "tunisien",
+"en": "Tunisian"
+},
+{
+"fr": "type",
+"en": "guy, type, sort"
+},
+{
+"fr": "typiquement",
+"en": "typical"
+},
+{
+"fr": "u",
+"en": "learned, knew, known"
+},
+{
+"fr": "un",
+"en": "a, an, one"
+},
+{
+"fr": "un autre",
+"en": "another"
+},
+{
+"fr": "un de ces jours",
+"en": "one of these days"
+},
+{
+"fr": "un peu de",
+"en": "a little"
+},
+{
+"fr": "un verre",
+"en": "glass"
+},
+{
+"fr": "une",
+"en": "an, a, one"
+},
+{
+"fr": "une autre",
+"en": "another"
+},
+{
+"fr": "une fête",
+"en": "a party"
+},
+{
+"fr": "une fois",
+"en": "once"
+},
+{
+"fr": "uniforme",
+"en": "uniform"
+},
+{
+"fr": "université",
+"en": "university, college, higher education"
+},
+{
+"fr": "universités",
+"en": "universities, colleges, higher education"
+},
+{
+"fr": "urgences",
+"en": "emergency room"
+},
+{
+"fr": "urgent",
+"en": "urgent, immediate"
+},
+{
+"fr": "usine",
+"en": "factory's, factory, plant's"
+},
+{
+"fr": "utile",
+"en": "useful, relevant"
+},
+{
+"fr": "utilise",
+"en": "is using, am using, use"
+},
+{
+"fr": "utiliser",
+"en": "to use"
+},
+{
+"fr": "utilises",
+"en": "use, are using"
+},
+{
+"fr": "va",
+"en": "fits, suit, go"
+},
+{
+"fr": "vacances",
+"en": "holidays, vacation, vacations"
+},
+{
+"fr": "vache",
+"en": "cow"
+},
+{
+"fr": "vague",
+"en": "wave"
+},
+{
+"fr": "vais",
+"en": "am going, go, am going to"
+},
+{
+"fr": "valise",
+"en": "suitcase"
+},
+{
+"fr": "valises",
+"en": "suitcases"
+},
+{
+"fr": "vas",
+"en": "going, are going to, go"
+},
+{
+"fr": "vas-tu",
+"en": "are you going"
+},
+{
+"fr": "vegan",
+"en": "vegan"
+},
+{
+"fr": "veillent",
+"en": "watch"
+},
+{
+"fr": "vend",
+"en": "is selling, sells, sell"
+},
+{
+"fr": "vendent",
+"en": "are selling, sell"
+},
+{
+"fr": "vendeur",
+"en": "salesperson, sales associate, vendor's"
+},
+{
+"fr": "vendez",
+"en": "sell, are selling"
+},
+{
+"fr": "vendons",
+"en": "are selling, sell, let's"
+},
+{
+"fr": "vendre",
+"en": "to sell, (to) sell out, (to) betray"
+},
+{
+"fr": "vendredi",
+"en": "Friday"
+},
+{
+"fr": "vends",
+"en": "am selling, are selling, sell"
+},
+{
+"fr": "venez",
+"en": "come, are coming"
+},
+{
+"fr": "venez-vous",
+"en": "are you, do you come"
+},
+{
+"fr": "venir",
+"en": "to come, (to) come, comes"
+},
+{
+"fr": "venons",
+"en": "come, are coming, let's"
+},
+{
+"fr": "venons de",
+"en": "have just"
+},
+{
+"fr": "vent",
+"en": "wind"
+},
+{
+"fr": "ventilateur",
+"en": "fan"
+},
+{
+"fr": "ventre",
+"en": "stomach"
+},
+{
+"fr": "venu",
+"en": "came, come"
+},
+{
+"fr": "venue",
+"en": "visit, come, came"
+},
+{
+"fr": "venues",
+"en": "come, visits, came"
+},
+{
+"fr": "venus",
+"en": "came"
+},
+{
+"fr": "verre",
+"en": "drink, glass"
+},
+{
+"fr": "vers",
+"en": "around, toward, to"
+},
+{
+"fr": "vert",
+"en": "green"
+},
+{
+"fr": "veste",
+"en": "jacket"
+},
+{
+"fr": "veulent",
+"en": "want"
+},
+{
+"fr": "veut",
+"en": "wants, want"
+},
+{
+"fr": "veut dire",
+"en": "means"
+},
+{
+"fr": "veux",
+"en": "want"
+},
+{
+"fr": "végétarien",
+"en": "vegetarian"
+},
+{
+"fr": "vélo",
+"en": "bike"
+},
+{
+"fr": "vérifier",
+"en": "to check"
+},
+{
+"fr": "vêtements",
+"en": "clothes"
+},
+{
+"fr": "viande",
+"en": "meat"
+},
+{
+"fr": "vide",
+"en": "dead, empty"
+},
+{
+"fr": "vidéo",
+"en": "video"
+},
+{
+"fr": "vie",
+"en": "life, lives"
+},
+{
+"fr": "vieil",
+"en": "old"
+},
+{
+"fr": "viennent",
+"en": "come, are coming"
+},
+{
+"fr": "viens",
+"en": "come, are coming, am coming"
+},
+{
+"fr": "viens de",
+"en": "come from, have just"
+},
+{
+"fr": "vient",
+"en": "is coming, coming, come"
+},
+{
+"fr": "vieux",
+"en": "old"
+},
+{
+"fr": "village",
+"en": "village"
+},
+{
+"fr": "ville",
+"en": "city, town"
+},
+{
+"fr": "vin",
+"en": "wine, vin"
+},
+{
+"fr": "vingt",
+"en": "twenty, 20"
+},
+{
+"fr": "vingt et unième",
+"en": "twenty-first"
+},
+{
+"fr": "vingtaine",
+"en": "about twenty, twenties"
+},
+{
+"fr": "vingtième",
+"en": "twentieth"
+},
+{
+"fr": "violet",
+"en": "purple"
+},
+{
+"fr": "violon",
+"en": "violin"
+},
+{
+"fr": "visage",
+"en": "face"
+},
+{
+"fr": "visite",
+"en": "am visiting, is visiting, tour"
+},
+{
+"fr": "visitent",
+"en": "visit, are visiting"
+},
+{
+"fr": "visiter",
+"en": "visiting, to visit, visit"
+},
+{
+"fr": "visiterai",
+"en": "will visit, will be visiting"
+},
+{
+"fr": "visiteront",
+"en": "will visit"
+},
+{
+"fr": "visites",
+"en": "tours, visits, visit"
+},
+{
+"fr": "visitez",
+"en": "are visiting, visit"
+},
+{
+"fr": "visité",
+"en": "visited"
+},
+{
+"fr": "visitons",
+"en": "let's visit, are visiting, visit"
+},
+{
+"fr": "vite",
+"en": "fast, quickly, rapidly"
+},
+{
+"fr": "vivre",
+"en": "to live, (to) live"
+},
+{
+"fr": "vocabulaire",
+"en": "vocabulary"
+},
+{
+"fr": "voici",
+"en": "here is, here are, this is"
+},
+{
+"fr": "voie",
+"en": "see, lane, sees"
+},
+{
+"fr": "voient",
+"en": "see, are seeing"
+},
+{
+"fr": "voilà",
+"en": "now, voilà, that’s"
+},
+{
+"fr": "voilier",
+"en": "sailboat"
+},
+{
+"fr": "voir",
+"en": "to see"
+},
+{
+"fr": "vois",
+"en": "are seeing, see, am seeing"
+},
+{
+"fr": "voisin",
+"en": "neighbor, neighbor’s"
+},
+{
+"fr": "voit",
+"en": "see, sees, is seeing"
+},
+{
+"fr": "voiture",
+"en": "car"
+},
+{
+"fr": "voitures",
+"en": "cars"
+},
+{
+"fr": "vol",
+"en": "theft, robbery, flight"
+},
+{
+"fr": "voler",
+"en": "flying, steal, fly"
+},
+{
+"fr": "voleur",
+"en": "thief's, robber, robber's"
+},
+{
+"fr": "volé",
+"en": "stolen, flew, stole"
+},
+{
+"fr": "volleyball",
+"en": "volleyball"
+},
+{
+"fr": "vont",
+"en": "are going to, are going, going"
+},
+{
+"fr": "vos",
+"en": "your"
+},
+{
+"fr": "voter",
+"en": "vote"
+},
+{
+"fr": "votre",
+"en": "your"
+},
+{
+"fr": "voudrais",
+"en": "would like, would want"
+},
+{
+"fr": "voudrait",
+"en": "would like, would want"
+},
+{
+"fr": "voudriez",
+"en": "would like"
+},
+{
+"fr": "voudriez-vous",
+"en": "Would you like"
+},
+{
+"fr": "voudrions",
+"en": "would like, would want"
+},
+{
+"fr": "voudront",
+"en": "will want"
+},
+{
+"fr": "voulais",
+"en": "wanted"
+},
+{
+"fr": "voulait",
+"en": "wanted"
+},
+{
+"fr": "voulez",
+"en": "want"
+},
+{
+"fr": "voulez-vous",
+"en": "do you want"
+},
+{
+"fr": "vouloir",
+"en": "to want"
+},
+{
+"fr": "voulons",
+"en": "want, want to"
+},
+{
+"fr": "voulu",
+"en": "wanted, willed"
+},
+{
+"fr": "vous",
+"en": "you, yourselves, yourself"
+},
+{
+"fr": "vous en",
+"en": "some"
+},
+{
+"fr": "vous êtes",
+"en": "you're"
+},
+{
+"fr": "vous vous êtes",
+"en": "You have"
+},
+{
+"fr": "voyage",
+"en": "am traveling, trip, travel"
+},
+{
+"fr": "voyagent",
+"en": "travel, are traveling"
+},
+{
+"fr": "voyageons",
+"en": "travel, are traveling"
+},
+{
+"fr": "voyager",
+"en": "traveling, travel, to travel"
+},
+{
+"fr": "voyagerai",
+"en": "will travel, traveled, will be traveling"
+},
+{
+"fr": "voyages",
+"en": "travel, trips, are traveling"
+},
+{
+"fr": "voyageur",
+"en": "passenger, traveler, passenger's"
+},
+{
+"fr": "voyagez",
+"en": "travel, are traveling"
+},
+{
+"fr": "voyagez-vous",
+"en": "are you traveling"
+},
+{
+"fr": "voyagé",
+"en": "traveled"
+},
+{
+"fr": "voyez",
+"en": "are seeing, see, check"
+},
+{
+"fr": "voyons",
+"en": "are seeing, see, let's see"
+},
+{
+"fr": "vôtre",
+"en": "yours"
+},
+{
+"fr": "vôtres",
+"en": "yours"
+},
+{
+"fr": "vrai",
+"en": "true, real"
+},
+{
+"fr": "vraiment",
+"en": "really, truly"
+},
+{
+"fr": "vu",
+"en": "saw, see, considering"
+},
+{
+"fr": "vue",
+"en": "saw, view, vision"
+},
+{
+"fr": "web",
+"en": "Web"
+},
+{
+"fr": "week-end",
+"en": "weekend"
+},
+{
+"fr": "week-ends",
+"en": "weekends"
+},
+{
+"fr": "wi-fi",
+"en": "Wi-Fi"
+},
+{
+"fr": "y",
+"en": "there, it"
+},
+{
+"fr": "y en",
+"en": "there"
+},
+{
+"fr": "y sommes",
+"en": "are"
+},
+{
+"fr": "y suis",
+"en": "am there, am at it, am in it"
+},
+{
+"fr": "yaourt",
+"en": "yogurt"
+},
+{
+"fr": "yeux",
+"en": "eyes"
+},
+{
+"fr": "yoga",
+"en": "yoga"
+},
+{
+"fr": "zéro",
+"en": "zero, 0"
+},
+{
+"fr": "zone",
+"en": "region's, area, area's"
+},
+{
+"fr": "zoo",
+"en": "zoo, zoo's"
+},
+{
+"fr": "œil",
+"en": "eye"
+},
+{
+"fr": "œuf",
+"en": "egg"
+},
+{
+"fr": "œufs",
+"en": "eggs"
+}
+]
