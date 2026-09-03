@@ -25,8 +25,12 @@ def _gather(day: dt.date, now: dt.datetime, use_seen: bool):
     kev = fetch_kev(now)
 
     seen = load_seen() if use_seen else {}
+    # Today's own picks must not suppress themselves: without this, re-running
+    # a build for a date that already published would drop its whole front page
+    # and republish the runners-up.
+    already = {url for url, seen_on in seen.items() if seen_on == day.isoformat()}
     caps = {s.name: s.cap for s in sources if s.cap is not None}
-    ranked = rank(items, now, seen, caps=caps)
+    ranked = rank(items, now, {u: d for u, d in seen.items() if u not in already}, caps=caps)
     drill = drill_for(day)
     return build_issue(day, ranked, kev, drill, now), ranked, seen
 

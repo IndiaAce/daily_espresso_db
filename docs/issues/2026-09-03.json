@@ -2,19 +2,37 @@
   "date": "2026-09-03",
   "date_long": "Thursday, September 3, 2026",
   "weekday": "Thursday",
-  "built_at": "2026-09-03T12:25:01.319996+00:00",
+  "built_at": "2026-09-03T12:25:56.663521+00:00",
   "sections": [
     {
       "key": "security",
       "label": "Security",
       "stories": [
         {
-          "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
-          "url": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
+          "title": "Researching Employment Scams",
+          "url": "https://www.schneier.com/blog/archives/2026/09/researching-employment-scams.html",
+          "source": "Schneier on Security",
+          "section": "security",
+          "published": "2026-09-03T11:18:14+00:00",
+          "summary": "Researchers built a fake company to study fake employee scams .",
+          "tags": []
+        },
+        {
+          "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
+          "url": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html",
           "source": "The Hacker News",
           "section": "security",
-          "published": "2026-09-03T08:43:17+00:00",
-          "summary": "The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foundation. \"Our analysis confirmed that an iMessage zero-click…",
+          "published": "2026-09-03T10:43:01+00:00",
+          "summary": "Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads. According to a new report published by the Symantec Threat Hunter Team today, the attack method has been put to use in attacks…",
+          "tags": []
+        },
+        {
+          "title": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means",
+          "url": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
+          "source": "The Hacker News",
+          "section": "security",
+          "published": "2026-09-03T10:36:39+00:00",
+          "summary": "In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Integration/Continuous Deployment (CI/CD) tooling, cloud…",
           "tags": []
         },
         {
@@ -27,30 +45,12 @@
           "tags": []
         },
         {
-          "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
-          "url": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
-          "source": "The Hacker News",
-          "section": "security",
-          "published": "2026-09-03T06:26:59+00:00",
-          "summary": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowdstrike Falcon. \"FalconFlank is a 0day privilege escalation…",
-          "tags": []
-        },
-        {
-          "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
-          "url": "https://www.cisa.gov/news-events/alerts/2026/09/02/cisa-adds-seven-known-exploited-vulnerabilities-catalog",
-          "source": "CISA Advisories",
-          "section": "security",
-          "published": "2026-09-02T12:00:00+00:00",
-          "summary": "CISA has added seven new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-9586 Sangoma Switchvox SQL Injection Vulnerability CVE-2026-48710 Kludex Starlette HTTP Request/Response…",
-          "tags": []
-        },
-        {
-          "title": "Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs",
-          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/",
+          "title": "Plex warns users to patch security vulnerabilities immediately",
+          "url": "https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/",
           "source": "BleepingComputer",
           "section": "security",
-          "published": "2026-09-03T08:55:25+00:00",
-          "summary": "Microsoft is working to fix a known issue that causes crashes and launch failures for Microsoft Teams and New Outlook users after installing updates released since the August 2026 Patch Tuesday. [...]",
+          "published": "2026-09-03T11:02:22+00:00",
+          "summary": "Plex urged users this week to update their desktop clients and media servers immediately to patch multiple security vulnerabilities. [...]",
           "tags": []
         }
       ]
@@ -60,8 +60,35 @@
       "label": "AI & ML",
       "stories": [
         {
-          "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-          "url": "https://huggingface.co/blog/train-to-paint-with-code",
+          "title": "llm-gemini 0.34",
+          "url": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-02T16:39:38+00:00",
+          "summary": "Release: llm-gemini 0.34 New model gemini-3.8-flash for Gemini 3.8 Flash , with low, medium and high thinking levels. #146 Fixed async responses failing to record the resolved model version. Thanks, Charlie Tonneslan . #137 Google released Gemini 3.8 Flash…",
+          "tags": []
+        },
+        {
+          "title": "Claude's new system prompt really doesn't want to reproduce song lyrics",
+          "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-02T14:16:42+00:00",
+          "summary": "Anthropic publish the system prompts for their Claude consumer applications ( Claude.ai and the Claude mobile apps - sadly not for Claude Cowork or Claude Code). I love that they do this, and that they share not just the current prompts but historic changes…",
+          "tags": []
+        },
+        {
+          "title": "Pre-Release of Polars 2.0",
+          "url": "https://pola.rs/posts/announcing-polars-2/",
+          "source": "Hacker News",
+          "section": "ai",
+          "published": "2026-09-03T06:59:08+00:00",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+          "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
           "source": "Hugging Face",
           "section": "ai",
           "published": "2026-09-03T00:00:00+00:00",
@@ -69,39 +96,12 @@
           "tags": []
         },
         {
-          "title": "Quoting Rick Brewster",
-          "url": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
-          "source": "Simon Willison",
+          "title": "Give Your Coding Agents a Memory You Own",
+          "url": "https://huggingface.co/blog/funes",
+          "source": "Hugging Face",
           "section": "ai",
-          "published": "2026-09-02T05:50:57+00:00",
-          "summary": "Direct2D has always been the biggest hurdle for Paint.NET on WINE, and it's clear that it will never be completed enough for Paint.NET's use. And I can't just \"disable\" the use of Direct2D. So, instead, Paint.NET now has an internal, from-scratch, clean-room…",
-          "tags": []
-        },
-        {
-          "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-          "url": "https://openai.com/index/atv-big-air-tour",
-          "source": "OpenAI",
-          "section": "ai",
-          "published": "2026-09-02T12:00:00+00:00",
-          "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
-          "tags": []
-        },
-        {
-          "title": "Claude Fable 5.1 made me a really nice animated pelican",
-          "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
-          "source": "Simon Willison",
-          "section": "ai",
-          "published": "2026-09-01T23:57:28+00:00",
-          "summary": "Today is Claude Fable (and Mythos) 5.1 day . Anthropic say that Fable 5.1 \"sets a new standard for coding, knowledge work, and long-running problem-solving tasks\". Their announcement spends a notable amount of time on scientific research, boasting of a 52.6%…",
-          "tags": []
-        },
-        {
-          "title": "Proactive cyber defense for governments and enterprises",
-          "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-          "source": "Google AI",
-          "section": "ai",
-          "published": "2026-09-02T15:40:00+00:00",
-          "summary": "Introducing Fairwind Program",
+          "published": "2026-09-03T00:00:00+00:00",
+          "summary": "",
           "tags": []
         }
       ]
