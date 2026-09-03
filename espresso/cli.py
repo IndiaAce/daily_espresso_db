@@ -10,7 +10,7 @@ from pathlib import Path
 from .archive import load_seen, publish, save_seen
 from .config import DOCS, load_config
 from .drill import drill_for
-from .fetch import fetch_feed, fetch_kev, fetch_nhl, fetch_weather
+from .fetch import fetch_feed, fetch_kev, fetch_nhl, fetch_tennis, fetch_weather
 from .rank import canonical_url, rank
 from .render import build_issue, build_rotating
 
@@ -29,6 +29,10 @@ def _gather(day: dt.date, now: dt.datetime, use_seen: bool):
     if nhl and config.nhl.get("label"):
         nhl["label"] = config.nhl["label"]
 
+    tennis = fetch_tennis(config.tennis, day) if config.tennis else {}
+    if tennis and config.tennis.get("label"):
+        tennis["label"] = config.tennis["label"]
+
     seen = load_seen() if use_seen else {}
     # Today's own picks must not suppress themselves: without this, re-running
     # a build for a date that already published would drop its whole front page
@@ -45,6 +49,7 @@ def _gather(day: dt.date, now: dt.datetime, use_seen: bool):
         now,
         weather=weather,
         nhl=nhl,
+        tennis=tennis,
         rotating=build_rotating(config.rotating, day),
         masthead=config.masthead,
     )
@@ -118,6 +123,23 @@ def _summarize(issue: dict) -> None:
         state = "offseason" if nhl.get("offseason") else "in season"
         print(f"\n  [NHL · {state}]")
         print(f"    · {m['away']} {m['away_score']} @ {m['home']} {m['home_score']}{ot} — {m['date']}")
+
+    tennis = issue.get("tennis") or {}
+    if tennis.get("following") or tennis.get("events"):
+        live = ", ".join(e["name"] for e in tennis.get("events", []))
+        print(f"\n  [Tennis{' · ' + live if live else ''}]")
+        for player in tennis.get("following", []):
+            for slot in ("last", "next"):
+                m = player.get(slot)
+                if not m:
+                    continue
+                names = " v ".join(p["name"] for p in m["players"])
+                print(f"    · {slot:<4} {m['round']}: {names} ({m['status']})")
+        for tour, ranks in (tennis.get("rankings") or {}).items():
+            top = ", ".join(f"{r['rank']}. {r['name']}" for r in ranks)
+            print(f"    · {tour}: {top}")
+        for up in tennis.get("upcoming", []):
+            print(f"    · next up: {up['name']} ({up['start']})")
 
     if issue.get("rotating"):
         r = issue["rotating"]

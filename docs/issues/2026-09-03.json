@@ -2,7 +2,7 @@
   "date": "2026-09-03",
   "date_long": "Thursday, September 3, 2026",
   "date_mast": "THURSDAY 3 SEPTEMBER 2026",
-  "built_at": "2026-09-03T12:41:22.641791+00:00",
+  "built_at": "2026-09-03T12:58:09.825233+00:00",
   "masthead": {
     "tagline": "Five things, no scrolling",
     "edition": "Vol. I"
@@ -12,6 +12,15 @@
       "key": "email_security",
       "label": "Email Security",
       "stories": [
+        {
+          "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
+          "url": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-09-03T11:58:00+00:00",
+          "summary": "An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 countries. Around 45% of observed activity was associated with…",
+          "tags": []
+        },
         {
           "title": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means",
           "url": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
@@ -28,15 +37,6 @@
           "section": "email_security",
           "published": "2026-09-03T08:55:25+00:00",
           "summary": "Microsoft is working to fix a known issue that causes crashes and launch failures for Microsoft Teams and New Outlook users after installing updates released since the August 2026 Patch Tuesday.",
-          "tags": []
-        },
-        {
-          "title": "Recruitment-Themed Phishing Campaign Targets Enterprise Users",
-          "url": "https://blog.knowbe4.com/recruitment-themed-phishing-campaign-targets-enterprise-users",
-          "source": "KnowBe4",
-          "section": "email_security",
-          "published": "2026-09-02T20:30:01+00:00",
-          "summary": "Researchers at Zimperium are tracking widespread phishing campaigns that use Browser-in-the-Browser (BitB) attacks to trick users into handing over their enterprise credentials. The attackers impersonate real HR employees at major companies and target job…",
           "tags": []
         }
       ]
@@ -64,11 +64,11 @@
           "tags": []
         },
         {
-          "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-          "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-          "source": "Hugging Face",
+          "title": "Audacity 4.0",
+          "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+          "source": "Hacker News",
           "section": "ai",
-          "published": "2026-09-03T00:00:00+00:00",
+          "published": "2026-09-03T10:53:08+00:00",
           "summary": "",
           "tags": []
         }
@@ -119,12 +119,45 @@
           "published": "2026-09-03T11:00:00+00:00",
           "summary": "Welcome to a new Morning Skate in a new month, folks! It only took me three days into the month to get September started, so we’re clearly not in mid-season form around here, but that’s OK. With the calendar turning to September, new routines will begin for…",
           "tags": []
+        },
+        {
+          "title": "2026 Montreal Canadiens Top 25 Under 25: #7 Alexander Zharovsky",
+          "url": "https://www.habseyesontheprize.com/alexander-zharovsky-2026-montreal-canadiens-top-25-under-25-prospect-ranking-scouting-report-stats-projection/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-09-03T10:00:00+00:00",
+          "summary": "Introduction Every so often a prospect comes along whose stock climbs so fast you half-expect the scouts who passed on him to start updating their résumés. Alexander Zharovsky is that guy. When the Montreal Canadiens traded up in the second round of the 2025…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "“Impossible to play them all” – Three days into his return, Alcaraz is already planning to miss tournaments",
+          "url": "https://www.tennismajors.com/us-open-news/its-impossible-to-play-them-all-alcaraz-says-he-will-start-missing-tournaments-860156.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-09-03T05:52:40+00:00",
+          "summary": "Carlos Alcaraz lost four and a half months of this season to a wrist injury, and he says he will now start taking time off by choice. The defending champion put a number on the problem in New York: 40 weeks of tennis a year if a player honors every mandatory…",
+          "tags": []
+        },
+        {
+          "title": "Boulter thrashed by Muchova in US Open second round",
+          "url": "https://www.bbc.co.uk/sport/tennis/videos/c39mjk280e9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-09-03T09:07:44+00:00",
+          "summary": "British number one Katie Boulter wins just one game in a 58-minute demolition by Wimbledon runner-up Karolina Muchova in the US Open second round.",
+          "tags": []
         }
       ]
     }
   },
   "edition_no": 1,
-  "sources_line": "BLEEPINGCOMPUTER, FRANCE 24 EUROPE, HUGGING FACE, KNOWBE4, LE MONDE, SIMON WILLISON, STANLEY CUP OF CHOWDER, THE HACKER NEWS",
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, HACKER NEWS, LE MONDE, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
   "weather": [
     {
       "code": "BOS",
@@ -193,6 +226,182 @@
     "offseason": true,
     "label": "NHL — B's & Habs"
   },
+  "tennis": {
+    "events": [
+      {
+        "name": "US Open",
+        "start": "2026-08-24",
+        "end": "2026-09-14",
+        "venue": "",
+        "major": true
+      }
+    ],
+    "following": [
+      {
+        "name": "Iga Świątek",
+        "last": {
+          "event": "US Open",
+          "grouping": "Women's Singles",
+          "round": "Round 1",
+          "date": "2026-08-31",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Wang Xiyu",
+              "winner": false,
+              "sets": [
+                2.0,
+                3.0
+              ]
+            },
+            {
+              "name": "Iga Swiatek",
+              "winner": true,
+              "sets": [
+                6.0,
+                6.0
+              ]
+            }
+          ],
+          "opponent": "Wang Xiyu",
+          "won": true
+        },
+        "next": {
+          "event": "US Open",
+          "grouping": "Women's Singles",
+          "round": "Round 2",
+          "date": "2026-09-03",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Nadia Podoroska",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Iga Swiatek",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Nadia Podoroska",
+          "won": false
+        }
+      },
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "US Open",
+          "grouping": "Men's Singles",
+          "round": "Round 2",
+          "date": "2026-09-03",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": true,
+              "sets": [
+                4.0,
+                6.0,
+                6.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Jaime Faria",
+              "winner": false,
+              "sets": [
+                6.0,
+                0.0,
+                3.0,
+                2.0
+              ]
+            }
+          ],
+          "opponent": "Jaime Faria",
+          "won": true
+        },
+        "next": {
+          "event": "US Open",
+          "grouping": "Men's Singles",
+          "round": "Round 3",
+          "date": "2026-09-04",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Wu Yibing",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Wu Yibing",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Aryna Sabalenka",
+          "points": 8575.0
+        },
+        {
+          "rank": 2,
+          "name": "Elena Rybakina",
+          "points": 8141.0
+        },
+        {
+          "rank": 3,
+          "name": "Jessica Pegula",
+          "points": 7265.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 12800.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 7790.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 7160.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Guadalajara Open Akron",
+        "tour": "WTA",
+        "start": "2026-09-13",
+        "end": "2026-09-20",
+        "major": false
+      },
+      {
+        "name": "Zavarovalnica Triglav Ljubljana",
+        "tour": "WTA",
+        "start": "2026-09-14",
+        "end": "2026-09-21",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
   "rotating": {
     "label": "Currently Obsessed / GTA VI",
     "caption": "DAYS TO 19 NOVEMBER",
@@ -229,7 +438,7 @@
     }
   },
   "counts": {
-    "stories": 10,
+    "stories": 13,
     "kev": 3
   }
 }

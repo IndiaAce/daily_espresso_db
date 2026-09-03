@@ -215,3 +215,36 @@ cap     = 1
 
 # NHL.com's own feed (https://www.nhl.com/rss/news) returns 200 but serves
 # malformed XML, so the two team blogs carry this section.
+
+# ─── Tennis panel ──────────────────────────────────────────────────────────
+# ESPN's public tennis API. No key. `follow` matches on display name with
+# diacritics folded, so "Iga Swiatek" and "Iga Świątek" both work.
+
+[tennis]
+enabled = true
+label = "Tennis — WTA & ATP"
+follow = ["Iga Świątek", "Carlos Alcaraz"]
+tours = ["wta", "atp"]
+ranking_depth = 3
+upcoming = 2
+
+[[source]]
+name    = "Tennis Majors"
+url     = "https://www.tennismajors.com/feed/"
+section = "tennis"
+weight  = 1.2
+cap     = 1
+
+[[source]]
+name    = "BBC Tennis"
+url     = "https://feeds.bbci.co.uk/sport/tennis/rss.xml"
+section = "tennis"
+weight  = 1.1
+cap     = 1
+
+[[source]]
+name    = "Guardian Tennis"
+url     = "https://www.theguardian.com/sport/tennis/rss"
+section = "tennis"
+weight  = 1.0
+cap     = 1

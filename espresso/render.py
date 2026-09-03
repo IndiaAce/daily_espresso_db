@@ -87,6 +87,7 @@ def build_issue(
     *,
     weather: list[dict[str, Any]] | None = None,
     nhl: dict[str, Any] | None = None,
+    tennis: dict[str, Any] | None = None,
     rotating: dict[str, Any] | None = None,
     masthead: dict[str, Any] | None = None,
 ) -> dict[str, Any]:
@@ -112,6 +113,7 @@ def build_issue(
         "weather": weather or [],
         "kev": kev,
         "nhl": nhl or {},
+        "tennis": tennis or {},
         "rotating": rotating,
         "drill": drill,
         "counts": {

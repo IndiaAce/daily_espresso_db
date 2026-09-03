@@ -9,6 +9,7 @@ from __future__ import annotations
 import datetime as dt
 import html
 import re
+import unicodedata
 from dataclasses import dataclass, field
 from typing import Any
 
@@ -22,6 +23,8 @@ from .config import (
     KEV_WINDOW_DAYS,
     MAX_AGE_DAYS,
     NHL_SCHEDULE_URL,
+    TENNIS_BASE,
+    TENNIS_LOOKAHEAD_WEEKS,
     USER_AGENT,
     WEATHER_URL,
     Source,
@@ -32,6 +35,7 @@ _WS_RE = re.compile(r"\s+")
 # hnrss restates the link and score in the body; it reads as noise next to a real summary.
 _BOILERPLATE_RE = re.compile(r"^\s*(article url|comments url)\s*:", re.I)
 # Feeds that truncate their own summaries leave a marker behind.
+_SPONSOR_RE = re.compile(r"\s+(presented by|pres\. by|sponsored by|powered by)\s+.*$", re.I)
 _TRUNCATION_RE = re.compile(r"\s*(\[\s*(\.{3}|…|read more)\s*\]|\(\s*more\s*\))\s*$", re.I)
 
 
@@ -304,4 +308,186 @@ def fetch_nhl(home: str, rival: str, today: dt.date) -> dict[str, Any]:
 
     state = "offseason" if result["offseason"] else "in season"
     print(f"  · NHL: {state}" + (f", last {home}/{rival} {last['date']}" if last else ""))
+    return result
+
+
+def _fold(name: str) -> str:
+    """Strip diacritics and case so 'Świątek' matches ESPN's 'Swiatek'."""
+    decomposed = unicodedata.normalize("NFKD", name)
+    return "".join(c for c in decomposed if not unicodedata.combining(c)).lower().strip()
+
+
+def _matches(display: str, follow: str) -> bool:
+    a, b = _fold(display), _fold(follow)
+    if b in a:
+        return True
+    # Fall back to surname, which is how these players are usually listed.
+    return bool(b) and b.split()[-1] == a.split()[-1] if a and b else False
+
+
+def _tennis_scoreboard(tour: str, date: str | None = None) -> dict[str, Any]:
+    resp = requests.get(
+        TENNIS_BASE.format(tour=tour) + "/scoreboard",
+        params={"dates": date} if date else None,
+        timeout=HTTP_TIMEOUT,
+        headers={"User-Agent": USER_AGENT},
+    )
+    resp.raise_for_status()
+    return resp.json()
+
+
+def _tennis_match(comp: dict[str, Any], grouping: str, event: str) -> dict[str, Any]:
+    players = []
+    for side in comp.get("competitors", []):
+        athlete = side.get("athlete") or {}
+        players.append(
+            {
+                "name": athlete.get("displayName", ""),
+                "winner": bool(side.get("winner")),
+                "sets": [s.get("value") for s in side.get("linescores", [])],
+            }
+        )
+    status = (comp.get("status") or {}).get("type", {})
+    return {
+        "event": event,
+        "grouping": grouping,
+        "round": (comp.get("round") or {}).get("displayName", ""),
+        "date": (comp.get("date") or "")[:10],
+        "state": status.get("state", ""),
+        "status": status.get("description", ""),
+        "players": players,
+    }
+
+
+def fetch_tennis(config: dict[str, Any], today: dt.date) -> dict[str, Any]:
+    """Current tournaments, the followed players' matches, rankings, and what's
+    next on tour. Every part degrades independently; returns {} on total failure.
+    """
+    if not config.get("enabled", True):
+        return {}
+
+    tours = [t.lower() for t in config.get("tours", ["atp", "wta"])]
+    follow = config.get("follow", [])
+    depth = int(config.get("ranking_depth", 3))
+    want_upcoming = int(config.get("upcoming", 2))
+
+    events: dict[str, dict[str, Any]] = {}
+    matches: list[dict[str, Any]] = []
+
+    for tour in tours:
+        try:
+            board = _tennis_scoreboard(tour)
+        except Exception as exc:  # noqa: BLE001
+            print(f"  ! tennis {tour} scoreboard: {type(exc).__name__}: {exc}")
+            continue
+        for event in board.get("events", []):
+            name = event.get("name", "")
+            events.setdefault(
+                name,
+                {
+                    "name": name,
+                    "start": (event.get("date") or "")[:10],
+                    "end": (event.get("endDate") or "")[:10],
+                    "venue": (event.get("venue") or {}).get("fullName", ""),
+                    "major": bool(event.get("major")),
+                },
+            )
+            if not follow:
+                continue
+            for group in event.get("groupings", []):
+                label = (group.get("grouping") or {}).get("displayName", "")
+                for comp in group.get("competitions", []):
+                    names = [
+                        (c.get("athlete") or {}).get("displayName", "")
+                        for c in comp.get("competitors", [])
+                    ]
+                    if any(_matches(n, f) for n in names for f in follow):
+                        matches.append(_tennis_match(comp, label, name))
+
+    # One match per player per state: their latest result and their next outing.
+    def annotate(match: dict[str, Any] | None, player: str) -> dict[str, Any] | None:
+        """Add who the opponent is and whether our player won — the template
+        can't fold diacritics, so it can't work this out itself."""
+        if not match:
+            return None
+        match = dict(match)
+        mine = next((p for p in match["players"] if _matches(p["name"], player)), None)
+        other = next((p for p in match["players"] if p is not mine), None)
+        match["opponent"] = other["name"] if other else ""
+        match["won"] = bool(mine and mine["winner"])
+        return match
+
+    following = []
+    for player in follow:
+        mine = [m for m in matches if any(_matches(p["name"], player) for p in m["players"])]
+        if not mine:
+            continue
+        played = sorted([m for m in mine if m["state"] == "post"], key=lambda m: m["date"])
+        ahead = sorted([m for m in mine if m["state"] != "post"], key=lambda m: m["date"])
+        following.append(
+            {
+                "name": player,
+                "last": annotate(played[-1] if played else None, player),
+                "next": annotate(ahead[0] if ahead else None, player),
+            }
+        )
+
+    rankings = {}
+    for tour in tours:
+        try:
+            resp = requests.get(
+                TENNIS_BASE.format(tour=tour) + "/rankings",
+                timeout=HTTP_TIMEOUT,
+                headers={"User-Agent": USER_AGENT},
+            )
+            resp.raise_for_status()
+            blocks = resp.json().get("rankings") or []
+            if not blocks:
+                continue
+            rankings[tour.upper()] = [
+                {
+                    "rank": entry.get("current"),
+                    "name": (entry.get("athlete") or {}).get("displayName", ""),
+                    "points": entry.get("points"),
+                }
+                for entry in (blocks[0].get("ranks") or [])[:depth]
+            ]
+        except Exception as exc:  # noqa: BLE001
+            print(f"  ! tennis {tour} rankings: {type(exc).__name__}: {exc}")
+
+    upcoming: dict[str, dict[str, Any]] = {}
+    running = set(events)
+    for weeks in TENNIS_LOOKAHEAD_WEEKS:
+        if len(upcoming) >= want_upcoming:
+            break
+        stamp = (today + dt.timedelta(weeks=weeks)).strftime("%Y%m%d")
+        for tour in tours:
+            try:
+                board = _tennis_scoreboard(tour, stamp)
+            except Exception as exc:  # noqa: BLE001
+                print(f"  ! tennis {tour} +{weeks}w: {type(exc).__name__}: {exc}")
+                continue
+            for event in board.get("events", []):
+                name = event.get("name", "")
+                start = (event.get("date") or "")[:10]
+                if name in running or name in upcoming or start <= today.isoformat():
+                    continue
+                upcoming[name] = {
+                    "name": _SPONSOR_RE.sub("", name).strip(),
+                    "tour": tour.upper(),
+                    "start": start,
+                    "end": (event.get("endDate") or "")[:10],
+                    "major": bool(event.get("major")),
+                }
+
+    result = {
+        "events": sorted(events.values(), key=lambda e: e["start"]),
+        "following": following,
+        "rankings": rankings,
+        "upcoming": sorted(upcoming.values(), key=lambda e: e["start"])[:want_upcoming],
+    }
+    print(
+        f"  · tennis: {len(result['events'])} live, {len(following)} followed, "
+        f"{len(result['upcoming'])} upcoming"
+    )
     return result

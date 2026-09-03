@@ -133,6 +133,74 @@
     {{ s.panel_body(hockey) }}
   </section>
   {% endif %}
+
+  {% set tennis = issue.tennis %}
+  {% set tennis_news = issue.sections.tennis %}
+  {% if tennis.following or tennis_news.stories %}
+  <section class="panel">
+    <div class="panel__head">
+      <h2 class="panel__title">{{ tennis.label | default('Tennis') }}</h2>
+      <span class="panel__count">
+        {%- if tennis.events -%}{{ tennis.events[0].name | upper }}{%- else -%}OFF TOUR{%- endif -%}
+      </span>
+    </div>
+
+    {% for player in tennis.following %}
+    <div class="inset">
+      <div class="inset__head">
+        <span>{{ player.name | upper }}</span>
+        {% if player.last %}<span>{{ player.last.round | upper }}</span>{% endif %}
+      </div>
+      {% if player.last %}
+      <div class="match">
+        {% for side in player.last.players %}
+        <div class="match__row{% if side.winner %} match__row--won{% endif %}">
+          <span class="match__name">{{ side.name }}</span>
+          <span class="match__sets">{% for set in side.sets %}<span>{{ set | int }}</span>{% endfor %}</span>
+        </div>
+        {% endfor %}
+      </div>
+      {% endif %}
+      {% if player.next %}
+      <div class="inset__foot">
+        NEXT · {{ player.next.round | upper }} · {{ player.next.opponent | default('TBD', true) }}
+        {%- if player.next.date %} · {{ player.next.date | shortdate }}{% endif %}
+      </div>
+      {% endif %}
+    </div>
+    {% endfor %}
+
+    {% if tennis.rankings %}
+    <div class="ranks">
+      {% for tour, ranks in tennis.rankings.items() %}
+      <div class="ranks__tour">
+        <div class="ranks__label">{{ tour }}</div>
+        {% for entry in ranks %}
+        <div class="ranks__row"><span class="ranks__n">{{ entry.rank }}</span> {{ entry.name }}</div>
+        {% endfor %}
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    {% if tennis.upcoming %}
+    <div class="upnext">
+      <div class="upnext__label">NEXT ON TOUR</div>
+      {% for event in tennis.upcoming %}
+      <div class="upnext__row">
+        <span class="upnext__name">{{ event.name }}</span>
+        <span class="upnext__date">{{ event.start | shortdate }}</span>
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    {% if tennis_news.stories %}
+    <div class="rule"></div>
+    {{ s.panel_body(tennis_news) }}
+    {% endif %}
+  </section>
+  {% endif %}
 </div>
 {% endblock %}
 

@@ -135,10 +135,20 @@ body {
 .lead-row__main { flex: 3 1 420px; }
 .lead-row__side { flex: 2 1 280px; }
 
+/* Explicit 1 / 2 / 4 columns rather than auto-fit: with four panels a
+   three-column state always orphans the last one onto its own row. */
 .grid-row {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(285px, 1fr));
+  grid-template-columns: 1fr;
   gap: 20px;
+}
+
+@media (min-width: 640px) {
+  .grid-row { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (min-width: 1100px) {
+  .grid-row { grid-template-columns: repeat(4, 1fr); }
 }
 
 /* ── panels ──────────────────────────────────────────────────────────────── */
@@ -398,3 +408,70 @@ body {
   .edition { grid-template-columns: minmax(0, 1fr); gap: 4px; }
   .edition__count { display: none; }
 }
+
+/* ── tennis ──────────────────────────────────────────────────────────────── */
+
+.match { display: flex; flex-direction: column; gap: 3px; }
+
+.match__row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 10px;
+  font-family: var(--serif);
+  font-size: 18px;
+  color: var(--muted);
+}
+
+.match__row--won { color: var(--ink); }
+
+.match__name { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+.match__sets { display: flex; gap: 7px; flex: none; }
+.match__row--won .match__sets span { color: var(--accent); }
+
+.ranks { display: flex; gap: 18px; flex-wrap: wrap; }
+
+.ranks__tour { flex: 1 1 110px; }
+
+.ranks__label {
+  font-family: var(--mono);
+  font-size: 9.5px;
+  letter-spacing: .14em;
+  color: var(--accent);
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.ranks__row {
+  font-size: 12.5px;
+  line-height: 1.5;
+  color: var(--body);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.ranks__n { font-family: var(--mono); font-size: 10px; color: var(--faint); margin-right: 3px; }
+
+.upnext { display: flex; flex-direction: column; gap: 3px; }
+
+.upnext__label {
+  font-family: var(--mono);
+  font-size: 9.5px;
+  letter-spacing: .14em;
+  color: var(--faint);
+  margin-bottom: 2px;
+}
+
+.upnext__row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 10px;
+  font-size: 12.5px;
+  color: var(--body);
+}
+
+.upnext__name { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.upnext__date { font-family: var(--mono); font-size: 10px; color: var(--faint); flex: none; }

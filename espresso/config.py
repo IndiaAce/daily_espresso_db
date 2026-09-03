@@ -24,11 +24,12 @@ SECTIONS = [
     ("ai", "AI / ML Research"),
     ("france", "France & Europe"),
     ("nhl", "NHL"),
+    ("tennis", "Tennis"),
 ]
 
 # The NHL panel spends most of its height on the scoreline box, so it takes
 # fewer stories than the others.
-SECTION_LIMITS = {"email_security": 3, "ai": 3, "france": 3, "nhl": 2}
+SECTION_LIMITS = {"email_security": 3, "ai": 3, "france": 3, "nhl": 2, "tennis": 2}
 
 # Items older than this never appear, even if a feed keeps serving them.
 MAX_AGE_DAYS = 5
@@ -45,6 +46,11 @@ KEV_LIMIT = 3
 
 WEATHER_URL = "https://api.open-meteo.com/v1/forecast"
 NHL_SCHEDULE_URL = "https://api-web.nhle.com/v1/club-schedule-season/{team}/{season}"
+
+TENNIS_BASE = "https://site.api.espn.com/apis/site/v2/sports/tennis/{tour}"
+# Weeks ahead to probe for the next tournaments. Each probe is one request per
+# tour, so this trades build time for how far the "next up" list can see.
+TENNIS_LOOKAHEAD_WEEKS = (2, 3, 4, 6)
 
 
 @dataclass(frozen=True)
@@ -64,6 +70,7 @@ class Config:
     sources: list[Source] = field(default_factory=list)
     weather: list[dict[str, Any]] = field(default_factory=list)
     nhl: dict[str, Any] = field(default_factory=dict)
+    tennis: dict[str, Any] = field(default_factory=dict)
     rotating: dict[str, Any] = field(default_factory=dict)
     masthead: dict[str, Any] = field(default_factory=dict)
 
@@ -96,6 +103,7 @@ def load_config(path: Path | None = None) -> Config:
         sources=sources,
         weather=raw.get("weather", {}).get("place", []),
         nhl=raw.get("nhl", {}),
+        tennis=raw.get("tennis", {}),
         rotating=raw.get("rotating", {}),
         masthead=raw.get("masthead", {}),
     )

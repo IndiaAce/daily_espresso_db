@@ -2,8 +2,8 @@
 
 A one-page morning newsletter that builds itself. Email-security news, the CVEs
 actually being exploited right now, AI/ML research, France & Europe, the Bruins
-and the Canadiens, today's weather, and a French word — published every morning
-to GitHub Pages.
+and the Canadiens, the tennis tours, today's weather, and a French word —
+published every morning to GitHub Pages.
 
 **Live:** https://indiaace.github.io/daily_espresso_db/
 
@@ -18,7 +18,7 @@ data/sources.toml  →  fetch  →  rank  →  render  →  docs/
 
 | Stage | Module | What it does |
 | --- | --- | --- |
-| Fetch | `espresso/fetch.py` | Feeds, plus CISA KEV, Open-Meteo, and the NHL API. Every fetcher swallows its own errors and returns empty — one dead source must never cost a morning issue. |
+| Fetch | `espresso/fetch.py` | Feeds, plus CISA KEV, Open-Meteo, the NHL API, and ESPN's tennis API. Every fetcher swallows its own errors and returns empty — one dead source must never cost a morning issue. |
 | Rank | `espresso/rank.py` | Drops URLs already published, dedupes near-identical headlines across sources, scores by `source weight × recency decay` (halves every 36h), applies per-source caps, and filters out webinar/sponsored noise. |
 | Drill | `espresso/drill.py` | Picks the day's French cards from `sha256(date)`, so the same day always yields the same word. |
 | Render | `espresso/render.py` | Jinja2 → HTML. |
@@ -58,7 +58,7 @@ Useful flags:
 
 Everything editable lives in [`data/sources.toml`](data/sources.toml).
 
-**Feeds.** `section` is one of `email_security`, `ai`, `france`, `nhl`.
+**Feeds.** `section` is one of `email_security`, `ai`, `france`, `nhl`, `tennis`.
 
 ```toml
 [[source]]
@@ -86,9 +86,27 @@ countdown_date = "2026-11-19"
 ```
 
 **Weather** takes any number of `[[weather.place]]` blocks (Open-Meteo, no key).
+
 **The NHL panel** takes a `home` and `rival` team code and finds their last
 head-to-head — falling back to last season through the summer, so the box still
 has a score to show in the offseason.
+
+**The tennis panel** runs off ESPN's public tennis API (no key):
+
+```toml
+[tennis]
+follow = ["Iga Świątek", "Carlos Alcaraz"]   # diacritics folded before matching
+tours = ["wta", "atp"]
+ranking_depth = 3      # top N shown per tour
+upcoming = 2           # how many future tournaments to list
+```
+
+For each followed player it shows the last completed match with its scoreline and
+who they play next; then the top of both rankings, then what's next on tour.
+Upcoming events are found by probing a few dates ahead
+(`TENNIS_LOOKAHEAD_WEEKS` in `config.py`) — ESPN's scoreboard only knows about
+the tournament running on a given date, so there's no season-calendar endpoint to
+ask. Sponsor suffixes ("… presented by …") are trimmed off tournament names.
 
 Section sizes and the staleness cutoff are in
 [`espresso/config.py`](espresso/config.py) (`SECTION_LIMITS`, `MAX_AGE_DAYS`,
