@@ -1,65 +1,119 @@
-# Daily Espresso — feed registry.
-# Edit this file to add/remove sources; no code changes needed.
-#
-#   section  one of: security | ai
-#   weight   multiplier on the recency score. 1.0 is neutral.
-#            Raise it for sources whose every post you'd want to see,
-#            lower it for high-volume firehoses.
-#   cap      optional per-source ceiling, so one chatty feed can't
-#            crowd out the rest of a section.
+# ═══════════════════════════════════════════════════════════════════════════
+#  Daily Espresso — everything editable lives here.
+# ═══════════════════════════════════════════════════════════════════════════
+
+[masthead]
+tagline = "Five things, no scrolling"
+edition = "Vol. I"
+
+# ─── Weather strip ─────────────────────────────────────────────────────────
+# Open-Meteo. No key, no account. Add or remove places freely.
+
+[[weather.place]]
+code = "BOS"
+latitude = 42.3601
+longitude = -71.0589
+timezone = "America/New_York"
+
+[[weather.place]]
+code = "PAR"
+latitude = 48.8566
+longitude = 2.3522
+timezone = "Europe/Paris"
+
+# ─── NHL panel ─────────────────────────────────────────────────────────────
+# Team codes drive the head-to-head box. `home` is the team the panel is
+# written from; `rival` is the other half of the matchup it looks for.
+
+[nhl]
+home = "BOS"
+rival = "MTL"
+label = "NHL — B's & Habs"
+
+# ─── Rotating slot ─────────────────────────────────────────────────────────
+# The dark panel. Change `label`, `countdown_*` and the entries whenever the
+# obsession changes; set `enabled = false` to collapse the panel entirely.
+
+[rotating]
+enabled = true
+label = "Currently Obsessed / GTA VI"
+countdown_date = "2026-11-19"
+countdown_caption = "DAYS TO 19 NOVEMBER"
+
+[[rotating.entry]]
+title = "The leak didn't move the date"
+body = """
+Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November \
+still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, \
+X and Google chasing the handle CyberLeek."""
+
+[[rotating.entry]]
+title = "Someone is counter-programming launch day"
+body = """
+Devolver Digital has a mystery game dated 19 November. Pre-orders have been open \
+since June: Standard $79.99, Ultimate $99.99, no special edition."""
+
+# ─── Feeds ─────────────────────────────────────────────────────────────────
+#   section  email_security | ai | france
+#   weight   multiplier on the recency score; 1.0 is neutral
+#   cap      optional per-source ceiling within its section
+#   require  optional keywords — a general feed only contributes items that
+#            mention one of these, which is how broad security feeds are
+#            narrowed down to the email beat
 
 [[source]]
-name    = "CISA Advisories"
-url     = "https://www.cisa.gov/cybersecurity-advisories/all.xml"
-section = "security"
-weight  = 1.4
-cap     = 2
+name    = "Proofpoint"
+url     = "https://www.proofpoint.com/us/rss.xml"
+section = "email_security"
+weight  = 1.2
+
+[[source]]
+name    = "KnowBe4"
+url     = "https://blog.knowbe4.com/rss.xml"
+section = "email_security"
+weight  = 1.0
+cap     = 1
 
 [[source]]
 name    = "The Hacker News"
 url     = "https://feeds.feedburner.com/TheHackersNews"
-section = "security"
-weight  = 1.0
+section = "email_security"
+weight  = 1.1
 cap     = 2
-
-[[source]]
-name    = "Krebs on Security"
-url     = "https://krebsonsecurity.com/feed/"
-section = "security"
-weight  = 1.5
-
-[[source]]
-name    = "Project Zero"
-url     = "https://googleprojectzero.blogspot.com/feeds/posts/default"
-section = "security"
-weight  = 1.6
+require = ["phish", "email", "bec", "spoof", "inbox", "outlook", "microsoft 365",
+           "m365", "workspace", "smtp", "quishing", "spam", "mailbox", "credential"]
 
 [[source]]
 name    = "BleepingComputer"
 url     = "https://www.bleepingcomputer.com/feed/"
-section = "security"
-weight  = 0.9
+section = "email_security"
+weight  = 1.0
 cap     = 2
+require = ["phish", "email", "bec", "spoof", "inbox", "outlook", "microsoft 365",
+           "m365", "workspace", "smtp", "quishing", "spam", "mailbox", "credential"]
+
+[[source]]
+name    = "Krebs on Security"
+url     = "https://krebsonsecurity.com/feed/"
+section = "email_security"
+weight  = 1.4
+require = ["phish", "email", "bec", "spoof", "inbox", "scam", "credential", "spam"]
 
 [[source]]
 name    = "Dark Reading"
 url     = "https://www.darkreading.com/rss.xml"
-section = "security"
-weight  = 0.8
-cap     = 2
+section = "email_security"
+weight  = 0.9
+cap     = 1
+require = ["phish", "email", "bec", "spoof", "inbox", "credential", "identity"]
 
 [[source]]
-name    = "Schneier on Security"
-url     = "https://www.schneier.com/feed/atom/"
-section = "security"
-weight  = 1.1
-
-[[source]]
-name    = "Hacker News"
-url     = "https://hnrss.org/frontpage?points=150"
-section = "ai"
+name    = "CISA Advisories"
+url     = "https://www.cisa.gov/cybersecurity-advisories/all.xml"
+section = "email_security"
 weight  = 1.0
-cap     = 3
+cap     = 1
+require = ["phish", "email", "exchange", "outlook", "smtp", "spoof"]
 
 [[source]]
 name    = "Simon Willison"
@@ -69,17 +123,10 @@ weight  = 1.5
 cap     = 2
 
 [[source]]
-name    = "arXiv cs.AI"
-url     = "https://export.arxiv.org/rss/cs.AI"
+name    = "Hacker News"
+url     = "https://hnrss.org/frontpage?points=150"
 section = "ai"
-weight  = 0.7
-cap     = 1
-
-[[source]]
-name    = "arXiv cs.LG"
-url     = "https://export.arxiv.org/rss/cs.LG"
-section = "ai"
-weight  = 0.7
+weight  = 0.9
 cap     = 1
 
 [[source]]
@@ -87,18 +134,84 @@ name    = "OpenAI"
 url     = "https://openai.com/news/rss.xml"
 section = "ai"
 weight  = 1.3
-cap     = 2
+cap     = 1
 
 [[source]]
 name    = "Hugging Face"
 url     = "https://huggingface.co/blog/feed.xml"
 section = "ai"
 weight  = 1.1
-cap     = 2
+cap     = 1
 
 [[source]]
 name    = "Google AI"
 url     = "https://blog.google/technology/ai/rss/"
 section = "ai"
-weight  = 1.1
+weight  = 1.0
+cap     = 1
+
+[[source]]
+name    = "arXiv cs.AI"
+url     = "https://export.arxiv.org/rss/cs.AI"
+section = "ai"
+weight  = 0.6
+cap     = 1
+
+[[source]]
+name    = "arXiv cs.LG"
+url     = "https://export.arxiv.org/rss/cs.LG"
+section = "ai"
+weight  = 0.6
+cap     = 1
+
+[[source]]
+name    = "France 24"
+url     = "https://www.france24.com/en/france/rss"
+section = "france"
+weight  = 1.4
 cap     = 2
+
+[[source]]
+name    = "France 24 Europe"
+url     = "https://www.france24.com/en/europe/rss"
+section = "france"
+weight  = 1.1
+cap     = 1
+
+[[source]]
+name    = "Le Monde"
+url     = "https://www.lemonde.fr/en/rss/une.xml"
+section = "france"
+weight  = 1.3
+cap     = 2
+
+[[source]]
+name    = "Euronews"
+url     = "https://www.euronews.com/rss?level=theme&name=news"
+section = "france"
+weight  = 0.8
+cap     = 1
+
+[[source]]
+name    = "BBC Europe"
+url     = "https://feeds.bbci.co.uk/news/world/europe/rss.xml"
+section = "france"
+weight  = 0.9
+cap     = 1
+
+[[source]]
+name    = "Stanley Cup of Chowder"
+url     = "https://www.stanleycupofchowder.com/rss/index.xml"
+section = "nhl"
+weight  = 1.2
+cap     = 1
+
+[[source]]
+name    = "Habs Eyes on the Prize"
+url     = "https://www.habseyesontheprize.com/rss/index.xml"
+section = "nhl"
+weight  = 1.2
+cap     = 1
+
+# NHL.com's own feed (https://www.nhl.com/rss/news) returns 200 but serves
+# malformed XML, so the two team blogs carry this section.

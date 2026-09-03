@@ -61,12 +61,13 @@ def _read_editions(out: Path) -> list[dict[str, Any]]:
             {
                 "date": issue["date"],
                 "date_long": issue.get("date_long", issue["date"]),
+                "date_mast": day.strftime("%-d %b %Y").upper(),
                 "href": f"{day:%Y}/{day:%m}/{day:%d}.html",
                 "counts": issue.get("counts", {}),
                 "headline": next(
                     (
                         s["stories"][0]["title"]
-                        for s in issue.get("sections", [])
+                        for s in issue.get("sections", {}).values()
                         if s.get("stories")
                     ),
                     "",
@@ -83,9 +84,18 @@ def publish(issue: dict[str, Any], out: Path | None = None) -> dict[str, Path]:
     out.mkdir(parents=True, exist_ok=True)
     copy_assets(out)
 
-    # JSON snapshot first: the archive index is rebuilt from these.
     snapshot = out / "issues" / f"{issue['date']}.json"
     snapshot.parent.mkdir(parents=True, exist_ok=True)
+
+    # Edition number counts issues on disk, so rebuilding a past date keeps its
+    # number and a fresh date takes the next one.
+    existing = sorted(p.stem for p in snapshot.parent.glob("*.json"))
+    if issue["date"] in existing:
+        issue["edition_no"] = existing.index(issue["date"]) + 1
+    else:
+        issue["edition_no"] = sum(1 for d in existing if d < issue["date"]) + 1
+
+    # JSON snapshot next: the archive index is rebuilt from these.
     with open(snapshot, "w", encoding="utf-8") as fh:
         json.dump(issue, fh, ensure_ascii=False, indent=2)
 

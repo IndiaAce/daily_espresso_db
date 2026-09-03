@@ -3,29 +3,32 @@
 {% block description %}Every edition of the Daily Espresso.{% endblock %}
 
 {% block body %}
-<header class="mast wrap">
-  <div class="mast__kicker mono">
-    <span>Archive</span>
-    <span>{{ editions | length }} edition{{ '' if editions | length == 1 else 's' }}</span>
+<header class="mast">
+  <div class="mast__top">
+    <div class="mast__id">
+      <div class="mast__edition">Back issues</div>
+      <h1 class="mast__title"><a href="{{ root_prefix }}index.html">Daily Espresso</a></h1>
+    </div>
+    <div class="mast__meta">
+      <div class="mast__date">{{ editions | length }} EDITION{{ '' if editions | length == 1 else 'S' }}</div>
+      <div>Every morning, filed</div>
+    </div>
   </div>
-  <h1 class="mast__title">Back<br><em>issues</em></h1>
 </header>
 
-<main class="wrap">
-  <section class="section">
-    {% if editions %}
-      {% for edition in editions %}
-      <a class="edition" href="{{ edition.href }}">
-        <span class="edition__date">{{ edition.date }}</span>
-        <span class="edition__headline">{{ edition.headline or edition.date_long }}</span>
-        <span class="edition__counts mono">{{ edition.counts.stories | default(0) }} stories</span>
-      </a>
-      {% endfor %}
-    {% else %}
-      <p class="empty">No editions yet.</p>
-    {% endif %}
-  </section>
-</main>
+<section class="panel">
+  {% if editions %}
+    {% for edition in editions %}
+    <a class="edition" href="{{ edition.href }}">
+      <span class="edition__date">{{ edition.date_mast | default(edition.date) }}</span>
+      <span class="edition__headline">{{ edition.headline or edition.date_long }}</span>
+      <span class="edition__count">{{ edition.counts.stories | default(0) }} stories</span>
+    </a>
+    {% endfor %}
+  {% else %}
+    <p class="panel__empty">No editions yet.</p>
+  {% endif %}
+</section>
 {% endblock %}
 
-{% block foot_left %}Archive{% endblock %}
+{% block foot_left %}ARCHIVE{% endblock %}

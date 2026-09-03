@@ -1,63 +1,49 @@
 {
   "date": "2026-09-03",
   "date_long": "Thursday, September 3, 2026",
-  "weekday": "Thursday",
-  "built_at": "2026-09-03T12:26:41.612148+00:00",
-  "sections": [
-    {
-      "key": "security",
-      "label": "Security",
+  "date_mast": "THURSDAY 3 SEPTEMBER 2026",
+  "built_at": "2026-09-03T12:40:45.914931+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
       "stories": [
-        {
-          "title": "Researching Employment Scams",
-          "url": "https://www.schneier.com/blog/archives/2026/09/researching-employment-scams.html",
-          "source": "Schneier on Security",
-          "section": "security",
-          "published": "2026-09-03T11:18:14+00:00",
-          "summary": "Researchers built a fake company to study fake employee scams .",
-          "tags": []
-        },
-        {
-          "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
-          "url": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html",
-          "source": "The Hacker News",
-          "section": "security",
-          "published": "2026-09-03T10:43:01+00:00",
-          "summary": "Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads. According to a new report published by the Symantec Threat Hunter Team today, the attack method has been put to use in attacks…",
-          "tags": []
-        },
         {
           "title": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means",
           "url": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
           "source": "The Hacker News",
-          "section": "security",
+          "section": "email_security",
           "published": "2026-09-03T10:36:39+00:00",
           "summary": "In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Integration/Continuous Deployment (CI/CD) tooling, cloud…",
           "tags": []
         },
         {
-          "title": "Microsoft says KB5120998 Windows update resets desktop settings",
-          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/",
+          "title": "Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs",
+          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/",
           "source": "BleepingComputer",
-          "section": "security",
-          "published": "2026-09-03T12:16:32+00:00",
-          "summary": "Microsoft has confirmed that desktop settings are lost or reset on some Windows devices after installing the KB5120998 August 2026 preview update. [...]",
+          "section": "email_security",
+          "published": "2026-09-03T08:55:25+00:00",
+          "summary": "Microsoft is working to fix a known issue that causes crashes and launch failures for Microsoft Teams and New Outlook users after installing updates released since the August 2026 Patch Tuesday.",
           "tags": []
         },
         {
-          "title": "Plex warns users to patch security vulnerabilities immediately",
-          "url": "https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/",
-          "source": "BleepingComputer",
-          "section": "security",
-          "published": "2026-09-03T11:02:22+00:00",
-          "summary": "Plex urged users this week to update their desktop clients and media servers immediately to patch multiple security vulnerabilities. [...]",
+          "title": "Recruitment-Themed Phishing Campaign Targets Enterprise Users",
+          "url": "https://blog.knowbe4.com/recruitment-themed-phishing-campaign-targets-enterprise-users",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-09-02T20:30:01+00:00",
+          "summary": "Researchers at Zimperium are tracking widespread phishing campaigns that use Browser-in-the-Browser (BitB) attacks to trick users into handing over their enterprise credentials. The attackers impersonate real HR employees at major companies and target job…",
           "tags": []
         }
       ]
     },
-    {
+    "ai": {
       "key": "ai",
-      "label": "AI & ML",
+      "label": "AI / ML Research",
       "stories": [
         {
           "title": "llm-gemini 0.34",
@@ -78,15 +64,6 @@
           "tags": []
         },
         {
-          "title": "Pre-Release of Polars 2.0",
-          "url": "https://pola.rs/posts/announcing-polars-2/",
-          "source": "Hacker News",
-          "section": "ai",
-          "published": "2026-09-03T06:59:08+00:00",
-          "summary": "",
-          "tags": []
-        },
-        {
           "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
           "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
           "source": "Hugging Face",
@@ -94,17 +71,81 @@
           "published": "2026-09-03T00:00:00+00:00",
           "summary": "",
           "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Gloria Steinem, journalist and icon of feminism, dies aged 92",
+          "url": "https://www.lemonde.fr/en/obituaries/article/2026/09/03/gloria-steinem-an-icon-of-american-feminism-dies-aged-92_6757119_15.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-03T11:08:40+00:00",
+          "summary": "The trailblazing activist and leader of second-wave feminism died on Wednesday at the age of 92.",
+          "tags": []
         },
         {
-          "title": "Give Your Coding Agents a Memory You Own",
-          "url": "https://huggingface.co/blog/funes",
-          "source": "Hugging Face",
-          "section": "ai",
-          "published": "2026-09-03T00:00:00+00:00",
-          "summary": "",
+          "title": "Debt, a new challenge for democracies",
+          "url": "https://www.lemonde.fr/en/opinion/article/2026/09/03/debt-a-new-challenge-for-democracies_6757118_23.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-03T10:30:30+00:00",
+          "summary": "The rise in long-term interest rates drives up the cost of government debt, just as funding needs reach unprecedented levels. Restoring public finances requires unpopular choices and risks fueling the discontent that extremist parties thrive on.",
+          "tags": []
+        },
+        {
+          "title": "Spain's Sanchez says no 'solid proof' that Morocco planned Ceuta crisis",
+          "url": "https://www.france24.com/en/video/20260903-spain-s-sanchez-says-no-solid-proof-that-morocco-planned-ceuta-crisis",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-09-03T11:58:47+00:00",
+          "summary": "Spanish Prime Minister Pedro Sanchez has told lawmakers that there is no evidence the Ceuta migrant crisis was orchestrated by Morocco's government. His remarks come a day after tens of thousands of people took part in protests across the country to criticize…",
           "tags": []
         }
       ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Morning Skate: September",
+          "url": "https://www.stanleycupofchowder.com/morning-skate-open-threads/59199/morning-skate-september",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-09-03T11:00:00+00:00",
+          "summary": "Welcome to a new Morning Skate in a new month, folks! It only took me three days into the month to get September started, so we’re clearly not in mid-season form around here, but that’s OK. With the calendar turning to September, new routines will begin for…",
+          "tags": []
+        },
+        {
+          "title": "2026 Montreal Canadiens Top 25 Under 25: #7 Alexander Zharovsky",
+          "url": "https://www.habseyesontheprize.com/alexander-zharovsky-2026-montreal-canadiens-top-25-under-25-prospect-ranking-scouting-report-stats-projection/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-09-03T10:00:00+00:00",
+          "summary": "Introduction Every so often a prospect comes along whose stock climbs so fast you half-expect the scouts who passed on him to start updating their résumés. Alexander Zharovsky is that guy. When the Montreal Canadiens traded up in the second round of the 2025…",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 1,
+  "sources_line": "BLEEPINGCOMPUTER, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, HUGGING FACE, KNOWBE4, LE MONDE, SIMON WILLISON, STANLEY CUP OF CHOWDER, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 25,
+      "low": 17,
+      "conditions": "light rain"
+    },
+    {
+      "code": "PAR",
+      "high": 26,
+      "low": 18,
+      "conditions": "overcast"
     }
   ],
   "kev": [
@@ -140,19 +181,42 @@
       "due": "2026-09-05",
       "ransomware": false,
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-49869"
-    },
-    {
-      "cve": "CVE-2026-82329",
-      "vendor": "JFrog",
-      "product": "Artifactory",
-      "name": "JFrog Artifactory Improper Authentication Vulnerability",
-      "summary": "JFrog Artifactory contains an improper authentication vulnerability that under default configuration can allow an unauthenticated attacker with network access to obtain administrative privileges.",
-      "added": "2026-09-02",
-      "due": "2026-09-05",
-      "ransomware": false,
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-82329"
     }
   ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-09-20",
+      "away": "WSH",
+      "home": "BOS"
+    },
+    "offseason": true,
+    "label": "NHL — B's & Habs"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 77
+  },
   "drill": {
     "cards": [
       {
@@ -174,7 +238,7 @@
     }
   },
   "counts": {
-    "stories": 10,
-    "kev": 4
+    "stories": 11,
+    "kev": 3
   }
 }

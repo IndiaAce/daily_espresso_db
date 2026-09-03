@@ -1,10 +1,11 @@
-"""Paths and the source registry."""
+"""Paths, the source registry, and the standing config for the fixed panels."""
 
 from __future__ import annotations
 
 import tomllib
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from pathlib import Path
+from typing import Any
 
 ROOT = Path(__file__).resolve().parent.parent
 
@@ -17,14 +18,17 @@ SOURCES_FILE = DATA / "sources.toml"
 FRENCH_FILE = DATA / "french.json"
 SEEN_FILE = DATA / "seen.json"
 
-# Sections, in the order they appear in an issue.
+# Feed-driven sections. The template places them; this only routes sources.
 SECTIONS = [
-    ("security", "Security"),
-    ("ai", "AI & ML"),
+    ("email_security", "Email Security"),
+    ("ai", "AI / ML Research"),
+    ("france", "France & Europe"),
+    ("nhl", "NHL"),
 ]
 
-# How many items survive into each section.
-SECTION_LIMITS = {"security": 5, "ai": 5}
+# The NHL panel spends most of its height on the scoreline box, so it takes
+# fewer stories than the others.
+SECTION_LIMITS = {"email_security": 3, "ai": 3, "france": 3, "nhl": 2}
 
 # Items older than this never appear, even if a feed keeps serving them.
 MAX_AGE_DAYS = 5
@@ -32,12 +36,15 @@ MAX_AGE_DAYS = 5
 # How long a URL stays suppressed in seen.json before it is forgotten.
 SEEN_RETENTION_DAYS = 90
 
-USER_AGENT = "daily-espresso/0.1 (+https://github.com/IndiaAce/daily_espresso_db)"
+USER_AGENT = "daily-espresso/0.2 (+https://github.com/IndiaAce/daily_espresso_db)"
 HTTP_TIMEOUT = 20
 
 KEV_URL = "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json"
 KEV_WINDOW_DAYS = 14
-KEV_LIMIT = 4
+KEV_LIMIT = 3
+
+WEATHER_URL = "https://api.open-meteo.com/v1/forecast"
+NHL_SCHEDULE_URL = "https://api-web.nhle.com/v1/club-schedule-season/{team}/{season}"
 
 
 @dataclass(frozen=True)
@@ -47,9 +54,21 @@ class Source:
     section: str
     weight: float = 1.0
     cap: int | None = None
+    # When set, an item must mention one of these to qualify. Lets a general
+    # security feed contribute to a narrow section without a separate source.
+    require: tuple[str, ...] = ()
 
 
-def load_sources(path: Path | None = None) -> list[Source]:
+@dataclass
+class Config:
+    sources: list[Source] = field(default_factory=list)
+    weather: list[dict[str, Any]] = field(default_factory=list)
+    nhl: dict[str, Any] = field(default_factory=dict)
+    rotating: dict[str, Any] = field(default_factory=dict)
+    masthead: dict[str, Any] = field(default_factory=dict)
+
+
+def load_config(path: Path | None = None) -> Config:
     """Read sources.toml. Unknown sections are dropped with a warning."""
     path = path or SOURCES_FILE
     with open(path, "rb") as fh:
@@ -69,6 +88,14 @@ def load_sources(path: Path | None = None) -> list[Source]:
                 section=section,
                 weight=float(entry.get("weight", 1.0)),
                 cap=entry.get("cap"),
+                require=tuple(k.lower() for k in entry.get("require", [])),
             )
         )
-    return sources
+
+    return Config(
+        sources=sources,
+        weather=raw.get("weather", {}).get("place", []),
+        nhl=raw.get("nhl", {}),
+        rotating=raw.get("rotating", {}),
+        masthead=raw.get("masthead", {}),
+    )

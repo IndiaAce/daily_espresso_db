@@ -4,21 +4,24 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{% block title %}Daily Espresso{% endblock %}</title>
-<meta name="description" content="{% block description %}A small, fast morning newsletter — security, AI, and a little French.{% endblock %}">
-<meta name="color-scheme" content="light dark">
+<meta name="description" content="{% block description %}Five things, no scrolling.{% endblock %}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#9749;</text></svg>">
 <link rel="stylesheet" href="{{ asset_prefix }}/espresso.css">
 </head>
 <body>
+<div class="page"><div class="sheet">
 {% block body %}{% endblock %}
-<footer class="foot wrap mono">
-  <span>{% block foot_left %}Daily Espresso{% endblock %}</span>
+<footer class="foot">
+  <span>{% block foot_left %}{% endblock %}</span>
   <span>
-    <a href="{{ root_prefix }}index.html">Today</a> ·
-    <a href="{{ root_prefix }}archive.html">Archive</a> ·
-    <a href="https://lukewescott.com">lukewescott.com</a>
+    <a href="{{ root_prefix }}index.html">TODAY</a> ·
+    <a href="{{ root_prefix }}archive.html">ARCHIVE</a> ·
+    <a href="https://lukewescott.com">LUKEWESCOTT.COM</a>
   </span>
 </footer>
+</div></div>
 {% block scripts %}{% endblock %}
 </body>
 </html>

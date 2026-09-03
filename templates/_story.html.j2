@@ -1,0 +1,18 @@
+{% macro story(item, lead=False) %}
+<article class="story{% if lead %} story--lead{% endif %}">
+  <h3 class="story__title"><a href="{{ item.url }}" rel="noopener">{{ item.title }}</a></h3>
+  {% if item.summary %}<p class="story__body">{{ item.summary }}</p>{% endif %}
+  <div class="story__meta">{{ item.source }}{% if item.published %} · {{ item.published | timeago }}{% endif %}</div>
+</article>
+{% endmacro %}
+
+{% macro panel_body(section) %}
+{% if section.stories %}
+  {% for item in section.stories %}
+    {% if not loop.first %}<div class="rule"></div>{% endif %}
+    {{ story(item, lead=loop.first) }}
+  {% endfor %}
+{% else %}
+  <p class="panel__empty">Nothing on this beat today.</p>
+{% endif %}
+{% endmacro %}

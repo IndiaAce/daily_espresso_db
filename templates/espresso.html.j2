@@ -1,96 +1,139 @@
 {% extends "_base.html.j2" %}
+{% import "_story.html.j2" as s %}
 {% block title %}Daily Espresso — {{ issue.date_long }}{% endblock %}
-{% block description %}{{ issue.counts.stories }} stories and {{ issue.counts.kev }} actively-exploited CVEs for {{ issue.date_long }}.{% endblock %}
+{% block description %}{{ issue.masthead.tagline | default('Five things, no scrolling') }} — {{ issue.date_long }}.{% endblock %}
 
 {% block body %}
-<header class="mast wrap">
-  <div class="mast__kicker mono">
-    <span>{{ issue.date_long }}</span>
-    <span>Edition {{ issue.date }}</span>
+<header class="mast">
+  <div class="mast__top">
+    <div class="mast__id">
+      <div class="mast__edition">{{ issue.masthead.edition | default('Vol. I') }} — No. {{ issue.edition_no }}</div>
+      <h1 class="mast__title"><a href="{{ root_prefix }}index.html">Daily Espresso</a></h1>
+    </div>
+    <div class="mast__meta">
+      <div class="mast__date">{{ issue.date_mast }}</div>
+      <div>{{ issue.masthead.tagline | default('Five things, no scrolling') }}</div>
+    </div>
   </div>
-  <h1 class="mast__title">Daily<br><em>Espresso</em></h1>
-  <div class="mast__meta mono">
-    <span>{{ issue.counts.stories }} stories</span>
-    <span>{{ issue.counts.kev }} exploited CVEs</span>
-    <span>{{ issue.drill.cards | length }} French cards</span>
+
+  {% if issue.weather or issue.drill.cards %}
+  <div class="strip">
+    {% if issue.weather %}
+    <div class="strip__weather">
+      {% for place in issue.weather %}
+      <span><strong class="strip__code">{{ place.code }}</strong> {{ place.high }}° / {{ place.low }}°{% if place.conditions %} · {{ place.conditions }}{% endif %}</span>
+      {% endfor %}
+    </div>
+    {% endif %}
+    {% if issue.drill.quiz %}
+    <div>
+      <span class="strip__label">MOT DU JOUR</span>
+      <span class="strip__word">{{ issue.drill.quiz.fr }}</span>
+      <span>— {{ issue.drill.quiz.en }}</span>
+    </div>
+    {% endif %}
   </div>
+  {% endif %}
 </header>
 
-<main class="wrap">
-  {% if issue.kev %}
-  <section class="section">
-    <div class="section__head">
-      <span class="section__num">00</span>
-      <h2 class="section__title">Actively exploited</h2>
-      <span class="section__count mono">CISA KEV</span>
+<div class="lead-row">
+  {% set email = issue.sections.email_security %}
+  <section class="panel panel--lead lead-row__main">
+    <div class="panel__head">
+      <h2 class="panel__title">{{ email.label }}</h2>
+      <span class="panel__count">{{ '%02d' | format(email.stories | length) }} items</span>
     </div>
-    <div class="kev">
-      {% for vuln in issue.kev %}
-      <a class="kev__row{% if vuln.ransomware %} kev__row--ransom{% endif %}" href="{{ vuln.url }}" rel="noopener">
-        <div class="kev__head">
-          <span class="kev__cve">{{ vuln.cve }}</span>
+    {{ s.panel_body(email) }}
+
+    {% if issue.kev %}
+    <div class="inset">
+      <div class="inset__head">
+        <span>ACTIVELY EXPLOITED · CISA KEV</span>
+        <span>LAST 14 DAYS</span>
+      </div>
+      <div class="kev">
+        {% for vuln in issue.kev %}
+        <div class="kev__row">
+          <a class="kev__cve" href="{{ vuln.url }}" rel="noopener">{{ vuln.cve }}</a>
           <span class="kev__vendor">{{ vuln.vendor }} {{ vuln.product }}</span>
           {% if vuln.ransomware %}<span class="kev__flag">ransomware</span>{% endif %}
         </div>
-        <p class="kev__desc">{{ vuln.summary }}</p>
-        <div class="kev__due mono">Added {{ vuln.added }}{% if vuln.due %} · remediate by {{ vuln.due }}{% endif %}</div>
-      </a>
-      {% endfor %}
+        {% endfor %}
+      </div>
+      <div class="inset__foot">REMEDIATE BY {{ issue.kev[0].due }}</div>
     </div>
+    {% endif %}
+  </section>
+
+  {% if issue.rotating %}
+  <section class="panel panel--dark lead-row__side">
+    <div class="panel__head">
+      <h2 class="panel__title">{{ issue.rotating.label }}</h2>
+      <span class="panel__count">rotating slot</span>
+    </div>
+    {% if issue.rotating.days is not none and issue.rotating.days >= 0 %}
+    <div class="count">
+      <div class="count__n">{{ issue.rotating.days }}</div>
+      <div class="count__caption">{{ issue.rotating.caption }}</div>
+    </div>
+    {% endif %}
+    {% for entry in issue.rotating.entries %}
+    {% if not loop.first %}<div class="rule"></div>{% endif %}
+    <article class="story{% if loop.first %} story--lead{% endif %}">
+      <h3 class="story__title">{{ entry.title }}</h3>
+      <p class="story__body">{{ entry.body }}</p>
+    </article>
+    {% endfor %}
   </section>
   {% endif %}
+</div>
 
-  {% for section in issue.sections %}
-  <section class="section">
-    <div class="section__head">
-      <span class="section__num">{{ '%02d' | format(loop.index) }}</span>
-      <h2 class="section__title">{{ section.label }}</h2>
-      <span class="section__count mono">{{ section.stories | length }}</span>
+<div class="grid-row">
+  {% for key in ['ai', 'france'] %}
+  {% set section = issue.sections[key] %}
+  <section class="panel">
+    <div class="panel__head">
+      <h2 class="panel__title">{{ section.label }}</h2>
+      <span class="panel__count">{{ '%02d' | format(section.stories | length) }}</span>
     </div>
-    {% if section.stories %}
-      {% for item in section.stories %}
-      <a class="story" href="{{ item.url }}" rel="noopener">
-        <h3 class="story__title">{{ item.title }}</h3>
-        {% if item.summary %}<p class="story__summary">{{ item.summary }}</p>{% endif %}
-        <div class="story__meta mono">
-          <span class="story__source">{{ item.source }}</span>
-          <span class="story__dot">/</span>
-          <span>{{ item.url | domain }}</span>
-          {% if item.published %}
-          <span class="story__dot">/</span>
-          <span>{{ item.published | timeago }}</span>
-          {% endif %}
-        </div>
-      </a>
-      {% endfor %}
-    {% else %}
-      <p class="empty">Nothing worth your morning here today.</p>
-    {% endif %}
+    {{ s.panel_body(section) }}
   </section>
   {% endfor %}
 
-  {% if issue.drill.cards %}
-  <section class="section">
-    <div class="section__head">
-      <span class="section__num">{{ '%02d' | format(issue.sections | length + 1) }}</span>
-      <h2 class="section__title">Un peu de français</h2>
-      <span class="section__count mono">{{ issue.drill.cards | length }}</span>
+  {% set hockey = issue.sections.nhl %}
+  {% if issue.nhl.last_meeting or hockey.stories %}
+  <section class="panel">
+    <div class="panel__head">
+      <h2 class="panel__title">{{ issue.nhl.label | default(hockey.label) }}</h2>
+      <span class="panel__count">{{ 'OFFSEASON' if issue.nhl.offseason else 'IN SEASON' }}</span>
     </div>
-    <div class="drill">
-      {% for card in issue.drill.cards %}
-      <div class="card{% if loop.first %} card--quiz{% endif %}">
-        <span class="card__fr">{{ card.fr }}</span>
-        <span class="card__en">{{ card.en }}</span>
+    {% if issue.nhl.last_meeting %}
+    {% set m = issue.nhl.last_meeting %}
+    <div class="inset">
+      <div class="inset__head">
+        <span>LAST MEETING · {{ m.date | shortdate }}</span>
+        <span>{{ m.venue | upper }}</span>
       </div>
-      {% endfor %}
+      <div class="score">
+        {% set away_won = m.away_score > m.home_score %}
+        <span>{{ m.away }} <strong class="{{ 'score__win' if away_won else 'score__lose' }}">{{ m.away_score }}</strong></span>
+        <span class="score__slash">/</span>
+        <span>{{ m.home }} <strong class="{{ 'score__lose' if away_won else 'score__win' }}">{{ m.home_score }}</strong></span>
+        {% if m.overtime %}<span class="score__ot">{{ m.period }}</span>{% endif %}
+      </div>
+      <div class="inset__foot">
+        {% if issue.nhl.next_game %}
+        NEXT · {{ issue.nhl.next_game.date | shortdate }} · {{ issue.nhl.next_game.away }} @ {{ issue.nhl.next_game.home }}
+        {% else %}
+        NEXT GAME · TBD
+        {% endif %}
+      </div>
     </div>
+    {% endif %}
+    {{ s.panel_body(hockey) }}
   </section>
   {% endif %}
-</main>
+</div>
 {% endblock %}
 
-{% block foot_left %}Brewed {{ issue.built_at[:16] | replace('T', ' ') }} UTC{% if permalink %} · <a href="{{ permalink }}">permalink</a>{% endif %}{% endblock %}
-
-{% block scripts %}
-<script src="{{ asset_prefix }}/espresso.js" defer></script>
-{% endblock %}
+{% block foot_left %}ASSEMBLED {{ issue.date_mast }} · {{ issue.sources_line }}{% endblock %}
