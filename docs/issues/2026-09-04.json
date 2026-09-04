@@ -2,7 +2,7 @@
   "date": "2026-09-04",
   "date_long": "Friday, September 4, 2026",
   "date_mast": "FRIDAY 4 SEPTEMBER 2026",
-  "built_at": "2026-09-04T12:30:41.241314+00:00",
+  "built_at": "2026-09-04T14:53:39.726825+00:00",
   "masthead": {
     "tagline": "Five things, no scrolling",
     "edition": "Vol. I"
@@ -12,6 +12,15 @@
       "key": "email_security",
       "label": "Email Security",
       "stories": [
+        {
+          "title": "39 New Methods That Compromise Passkey Authentication",
+          "url": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-09-04T14:01:11+00:00",
+          "summary": "Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token explains how attackers can abuse authentication prompts, synced credentials, enrollment, recovery, and other…",
+          "tags": []
+        },
         {
           "title": "Exchange Online outage causes email delays, 'Server busy' errors",
           "url": "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/",
@@ -28,15 +37,6 @@
           "section": "email_security",
           "published": "2026-09-03T18:02:47+00:00",
           "summary": "The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click “Allow.” Why break in when someone might open the door? That idea runs through this edition. Attackers use real tools, fake login pages…",
-          "tags": []
-        },
-        {
-          "title": "Proofpoint Brings OpenAI GPT Cyber Models into Security Operations to Help Defenders Investigate Threats Faster",
-          "url": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-soc-analyst-agent-openai-daybreak",
-          "source": "Proofpoint",
-          "section": "email_security",
-          "published": "2026-09-03T11:53:38+00:00",
-          "summary": "",
           "tags": []
         }
       ]
@@ -64,12 +64,12 @@
           "tags": []
         },
         {
-          "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-          "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-          "source": "OpenAI",
+          "title": "Discovery of a new OpenAI agent message board",
+          "url": "https://collusion.wiki/",
+          "source": "Hacker News",
           "section": "ai",
-          "published": "2026-09-03T13:15:00+00:00",
-          "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+          "published": "2026-09-04T11:54:53+00:00",
+          "summary": "",
           "tags": []
         }
       ]
@@ -79,30 +79,30 @@
       "label": "France & Europe",
       "stories": [
         {
-          "title": "'The question of meaning is the first you must ask yourself, even before taking out your camera': Jean-François Leroy, director of Visa pour l'image, pens letter to young…",
-          "url": "https://www.lemonde.fr/en/culture/article/2026/09/04/the-question-of-meaning-is-the-first-you-must-ask-yourself-even-before-taking-out-your-camera-jean-francois-leroy-director-of-visa-pour-l-image-pens-letter-to-young-photojournalists_6757164_30.html",
+          "title": "France unveils €1 billion farm aid package after summer of drought and heatwaves",
+          "url": "https://www.lemonde.fr/en/environment/article/2026/09/04/france-unveils-1-billion-farm-aid-package-after-summer-of-drought-and-heatwaves_6757169_114.html",
           "source": "Le Monde",
           "section": "france",
-          "published": "2026-09-04T12:00:08+00:00",
-          "summary": "In a book to be published in September, the co-founder and head of the international photojournalism festival in Perpignan, who died on August 31, addresses a letter to young photojournalists, urging them to approach their subjects with a journalistic rather…",
+          "published": "2026-09-04T14:11:00+00:00",
+          "summary": "Agriculture Minister Annie Genevard announced a package of measures, including compensation for climate-related crop losses, tax relief for hard-hit farms and a new €235 million fund to help producers prepare next year's crop.",
           "tags": []
         },
         {
-          "title": "Optimized urinals and buried underwear at 2026 Ig Nobels",
-          "url": "https://www.lemonde.fr/en/international/article/2026/09/04/optimized-urinals-and-buried-underwear-at-2026-ig-nobels_6757163_4.html",
+          "title": "France adopts fairer world map ahead of UN vote on more balanced geography",
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/04/france-adopts-fairer-world-map-ahead-of-un-vote-on-more-balanced-geography_6757168_4.html",
           "source": "Le Monde",
           "section": "france",
-          "published": "2026-09-04T11:08:09+00:00",
-          "summary": "The Ig Nobel Prize is a parody of the Nobel Prize, which is awarded every autumn to celebrate 10 unusual or trivial achievements in scientific research.",
+          "published": "2026-09-04T14:02:13+00:00",
+          "summary": "As part of a movement led by the African Union, Paris announced on Friday that it will abandon the Mercator projection to better reflect the physical reality of the planet. France will now appear smaller on world maps.",
           "tags": []
         },
         {
-          "title": "Stability or fiasco? Giorgia Meloni becomes longest-serving Italian PM",
-          "url": "https://www.france24.com/en/tv-shows/press-review/20260904-stability-or-fiasco-giorgia-meloni-becomes-longest-serving-italian-pm",
+          "title": "Russian drone ‘aimed directly’ at Ukraine security service HQ, Zelensky says",
+          "url": "https://www.france24.com/en/europe/20260904-russian-drone-aimed-directly-at-ukraine-security-service-hq-zelensky-says",
           "source": "France 24 Europe",
           "section": "france",
-          "published": "2026-09-04T10:29:00+00:00",
-          "summary": "PRESS REVIEW – Friday, September 4: Italy's Giorgia Meloni becomes the longest-serving prime minister in Italy's postwar history. While she's celebrated by the rightwing press, the leftwing press say her leadership is a fiasco. Also, is Europe gearing up for…",
+          "published": "2026-09-04T13:59:22+00:00",
+          "summary": "A Russian drone struck the headquarters of Ukraine's SBU security services in Kyiv on Friday afternoon, said Ukrainian President Volodymyr Zelensky, injuring five people. The attack followed a series of deadly overnight strikes across Ukraine, including the…",
           "tags": []
         }
       ]
@@ -145,29 +145,29 @@
           "tags": []
         },
         {
-          "title": "100 influencers invited to US Open spark debate on 'tennis etiquette'",
-          "url": "https://www.bbc.co.uk/sport/tennis/articles/cy8zqd4zg14o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Tennis",
+          "title": "Premier League, Italian GP, WSL and US Open tennis – follow with us",
+          "url": "https://www.theguardian.com/sport/2026/sep/04/premier-league-italian-gp-wsl-and-us-open-tennis-follow-with-us",
+          "source": "Guardian Tennis",
           "section": "tennis",
-          "published": "2026-09-04T07:16:07+00:00",
-          "summary": "The behaviour of influencers and content creators has become a major talking point at this year's US Open amid incidents of matches being disrupted.",
+          "published": "2026-09-04T14:43:02+00:00",
+          "summary": "Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports Continue reading...",
           "tags": []
         }
       ]
     }
   },
   "edition_no": 2,
-  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, LE MONDE, OPENAI, PROOFPOINT, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "sources_line": "BLEEPINGCOMPUTER, FRANCE 24 EUROPE, GUARDIAN TENNIS, HABS EYES ON THE PRIZE, HACKER NEWS, LE MONDE, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
   "weather": [
     {
       "code": "BOS",
-      "high": 26,
+      "high": 29,
       "low": 18,
       "conditions": "fog"
     },
     {
       "code": "PAR",
-      "high": 27,
+      "high": 28,
       "low": 20,
       "conditions": "overcast"
     }
