@@ -1,0 +1,444 @@
+{
+  "date": "2026-09-04",
+  "date_long": "Friday, September 4, 2026",
+  "date_mast": "FRIDAY 4 SEPTEMBER 2026",
+  "built_at": "2026-09-04T12:30:41.241314+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Exchange Online outage causes email delays, 'Server busy' errors",
+          "url": "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-09-04T12:22:30+00:00",
+          "summary": "Microsoft is working to resolve an ongoing Exchange Online outage that is delaying email sent to and received from external domains.",
+          "tags": []
+        },
+        {
+          "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
+          "url": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-09-03T18:02:47+00:00",
+          "summary": "The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click “Allow.” Why break in when someone might open the door? That idea runs through this edition. Attackers use real tools, fake login pages…",
+          "tags": []
+        },
+        {
+          "title": "Proofpoint Brings OpenAI GPT Cyber Models into Security Operations to Help Defenders Investigate Threats Faster",
+          "url": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-soc-analyst-agent-openai-daybreak",
+          "source": "Proofpoint",
+          "section": "email_security",
+          "published": "2026-09-03T11:53:38+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "August newsletter is out",
+          "url": "https://simonwillison.net/2026/Sep/4/august-newsletter/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-04T05:54:40+00:00",
+          "summary": "The August edition of my sponsors-only monthly newsletter is out. If you are a sponsor (or if you start a sponsorship now) you can access it here . This month: We got more details on OpenAl's accidental cyberattacks One-shotting Raccoon Heist games with Fable…",
+          "tags": []
+        },
+        {
+          "title": "GPT‑6 Astra",
+          "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-03T20:18:41+00:00",
+          "summary": "GPT‑6 Astra GPT-6 Astra is \"rolling out today to a limited set of organizations and over the coming days will become available to all ChatGPT Plus, Pro, Business, and Enterprise users, as well as through the OpenAI API and AWS\" - I've not tried it yet myself…",
+          "tags": []
+        },
+        {
+          "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+          "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-09-03T13:15:00+00:00",
+          "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "'The question of meaning is the first you must ask yourself, even before taking out your camera': Jean-François Leroy, director of Visa pour l'image, pens letter to young…",
+          "url": "https://www.lemonde.fr/en/culture/article/2026/09/04/the-question-of-meaning-is-the-first-you-must-ask-yourself-even-before-taking-out-your-camera-jean-francois-leroy-director-of-visa-pour-l-image-pens-letter-to-young-photojournalists_6757164_30.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-04T12:00:08+00:00",
+          "summary": "In a book to be published in September, the co-founder and head of the international photojournalism festival in Perpignan, who died on August 31, addresses a letter to young photojournalists, urging them to approach their subjects with a journalistic rather…",
+          "tags": []
+        },
+        {
+          "title": "Optimized urinals and buried underwear at 2026 Ig Nobels",
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/04/optimized-urinals-and-buried-underwear-at-2026-ig-nobels_6757163_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-04T11:08:09+00:00",
+          "summary": "The Ig Nobel Prize is a parody of the Nobel Prize, which is awarded every autumn to celebrate 10 unusual or trivial achievements in scientific research.",
+          "tags": []
+        },
+        {
+          "title": "Stability or fiasco? Giorgia Meloni becomes longest-serving Italian PM",
+          "url": "https://www.france24.com/en/tv-shows/press-review/20260904-stability-or-fiasco-giorgia-meloni-becomes-longest-serving-italian-pm",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-09-04T10:29:00+00:00",
+          "summary": "PRESS REVIEW – Friday, September 4: Italy's Giorgia Meloni becomes the longest-serving prime minister in Italy's postwar history. While she's celebrated by the rightwing press, the leftwing press say her leadership is a fiasco. Also, is Europe gearing up for…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "2026 Montreal Canadiens Top 25 Under 25: #6 Jacob Fowler",
+          "url": "https://www.habseyesontheprize.com/jacob-fowler-2026-montreal-canadiens-top-25-under-25-prospect-ranking-scouting-report-stats-projection/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-09-04T10:00:00+00:00",
+          "summary": "Introduction It can be hard to analyze goalies, let alone goaltending prospects, in this exercise. I have misjudged plenty of talents between the pipes for better and for worse, but for the first time in a long time there’s a goaltender who makes it easy to…",
+          "tags": []
+        },
+        {
+          "title": "Get the best of Stanley Cup of Chowder on the new SB Nation app",
+          "url": "https://www.stanleycupofchowder.com/general/59179/get-the-best-of-stanley-cup-of-chowder-on-the-new-sb-nation-app",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-09-01T13:00:00+00:00",
+          "summary": "It’s a big day for Stanley Cup of Chowder. Today, the SB Nation app is live, and it’s the best way to follow the Bruins. You can download it by searching SB Nation for iOS or Android. A year ago we made some big changes to our community, including offering…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "No top seed in the Open Era has done this: Zverev goes five sets twice in two rounds",
+          "url": "https://www.tennismajors.com/us-open-news/no-top-seed-in-the-open-era-has-done-this-zverev-goes-five-sets-twice-in-two-rounds-860226.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-09-04T06:20:09+00:00",
+          "summary": "Alexander Zverev has played ten sets in two matches at the US Open and lost four of them, and no No. 1 seed in the Open Era has gone the distance in both of his opening rounds at a Grand Slam before. He beat Quentin Halys 6-4, 4-6, 7-6 (3), 6-7 (3), 6-3 on…",
+          "tags": []
+        },
+        {
+          "title": "100 influencers invited to US Open spark debate on 'tennis etiquette'",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cy8zqd4zg14o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-09-04T07:16:07+00:00",
+          "summary": "The behaviour of influencers and content creators has become a major talking point at this year's US Open amid incidents of matches being disrupted.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 2,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, LE MONDE, OPENAI, PROOFPOINT, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 26,
+      "low": 18,
+      "conditions": "fog"
+    },
+    {
+      "code": "PAR",
+      "high": 27,
+      "low": 20,
+      "conditions": "overcast"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-59822",
+      "vendor": "BerriAI",
+      "product": "LiteLLM",
+      "name": "BerriAI LiteLLM Improper Authentication Vulnerability",
+      "summary": "BerriAI LiteLLM contains an improper authentication vulnerability in the MCP Streamable HTTP endpoint that could allow an unauthenticated attacker to establish an authenticated MCP session using an arbitrary Bearer…",
+      "added": "2026-09-02",
+      "due": "2026-09-16",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-59822"
+    },
+    {
+      "cve": "CVE-2026-48710",
+      "vendor": "Kludex",
+      "product": "Starlette",
+      "name": "Kludex Starlette HTTP Request/Response Smuggling Vulnerability",
+      "summary": "Kludex Starlette contains a HTTP request/response smuggling vulnerability that could allow attackers to inject paths into the host part, prepending the actual path leading to issues such as authentication bypass when…",
+      "added": "2026-09-02",
+      "due": "2026-09-16",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-48710"
+    },
+    {
+      "cve": "CVE-2026-49869",
+      "vendor": "Kestra",
+      "product": "Kestra OSS",
+      "name": "Kestra OSS OS Command Injection Vulnerability",
+      "summary": "Kestra OSS contains an OS command injection vulnerability that could allow an unauthenticated remote attacker to create and execute arbitrary workflows without credentials.",
+      "added": "2026-09-02",
+      "due": "2026-09-05",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-49869"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-09-20",
+      "away": "WSH",
+      "home": "BOS"
+    },
+    "offseason": true,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "US Open",
+        "start": "2026-08-24",
+        "end": "2026-09-14",
+        "venue": "",
+        "major": true
+      }
+    ],
+    "following": [
+      {
+        "name": "Iga Świątek",
+        "last": {
+          "event": "US Open",
+          "grouping": "Women's Singles",
+          "round": "Round 2",
+          "date": "2026-09-03",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Nadia Podoroska",
+              "winner": false,
+              "sets": [
+                3.0,
+                2.0
+              ]
+            },
+            {
+              "name": "Iga Swiatek",
+              "winner": true,
+              "sets": [
+                6.0,
+                6.0
+              ]
+            }
+          ],
+          "opponent": "Nadia Podoroska",
+          "won": true
+        },
+        "next": {
+          "event": "US Open",
+          "grouping": "Women's Singles",
+          "round": "Round 3",
+          "date": "2026-09-05",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Marie Bouzkova",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Iga Swiatek",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Marie Bouzkova",
+          "won": false
+        }
+      },
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "US Open",
+          "grouping": "Men's Singles",
+          "round": "Round 2",
+          "date": "2026-09-03",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": true,
+              "sets": [
+                4.0,
+                6.0,
+                6.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Jaime Faria",
+              "winner": false,
+              "sets": [
+                6.0,
+                0.0,
+                3.0,
+                2.0
+              ]
+            }
+          ],
+          "opponent": "Jaime Faria",
+          "won": true
+        },
+        "next": {
+          "event": "US Open",
+          "grouping": "Men's Singles",
+          "round": "Round 3",
+          "date": "2026-09-04",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Wu Yibing",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Wu Yibing",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Aryna Sabalenka",
+          "points": 8575.0
+        },
+        {
+          "rank": 2,
+          "name": "Elena Rybakina",
+          "points": 8141.0
+        },
+        {
+          "rank": 3,
+          "name": "Jessica Pegula",
+          "points": 7265.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 12800.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 7790.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 7160.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Guadalajara Open Akron",
+        "tour": "WTA",
+        "start": "2026-09-13",
+        "end": "2026-09-20",
+        "major": false
+      },
+      {
+        "name": "Zavarovalnica Triglav Ljubljana",
+        "tour": "WTA",
+        "start": "2026-09-14",
+        "end": "2026-09-21",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 76
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "nuageux",
+        "en": "cloud, cloudy"
+      },
+      {
+        "fr": "elles sont",
+        "en": "they are, They are"
+      },
+      {
+        "fr": "ressembler",
+        "en": "look like"
+      }
+    ],
+    "quiz": {
+      "fr": "nuageux",
+      "en": "cloud, cloudy"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
