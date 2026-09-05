@@ -1,0 +1,423 @@
+{
+  "date": "2026-09-05",
+  "date_long": "Saturday, September 5, 2026",
+  "date_mast": "SATURDAY 5 SEPTEMBER 2026",
+  "built_at": "2026-09-05T13:49:01.733569+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
+          "url": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-09-05T07:31:53+00:00",
+          "summary": "Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe. The Arctic Wolf Adversary Research Team said it observed attackers exploiting CVE-2026-81578 and…",
+          "tags": []
+        },
+        {
+          "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
+          "url": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-09-04T15:57:15+00:00",
+          "summary": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters. \"Instead of using these characters to hide instructions from people while exposing them to AI models, the attacker used them to…",
+          "tags": []
+        },
+        {
+          "title": "Bypassing the Gatekeepers: How a Global Phishing Campaign Turns Google's Infrastructure into a Trust Proxy",
+          "url": "https://blog.knowbe4.com/bypassing-the-gatekeepers-how-a-global-phishing-campaign-turns-googles-infrastructure-into-a-trust-proxy",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-09-04T20:00:01+00:00",
+          "summary": "Lead Analysts : Prabhakaran Ravichandhiran, Jeewan Singh Jalal, Karthikeyan Dharmaraj and Sripathi Kumar",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "The Pelican comparison grid for Astra is pretty interesting",
+          "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-04T23:59:05+00:00",
+          "summary": "I got access to GPT-6 Astra this afternoon, so naturally I used it to generate SVGs of pelicans riding bicycles - at low, medium, high, xhigh and max reasoning levels (Astra doesn't support reasoning=none). Then I rendered those pelicans in a comparison grid…",
+          "tags": []
+        },
+        {
+          "title": "OpenAI's rogue agents were caught communicating via public wikis",
+          "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-04T17:38:48+00:00",
+          "summary": "Here we go again... Discovery of a new OpenAI agent message board by Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, and Thomas Larsen describes the latest accidental cyberattack by models being trained by OpenAI. This time it was agents engaged in some…",
+          "tags": []
+        },
+        {
+          "title": "AI handles incidents, engineers lose touch with their systems",
+          "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+          "source": "Hacker News",
+          "section": "ai",
+          "published": "2026-09-05T07:52:50+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "US ambassador says Israel has responsibility for Palestinians during West Bank visit",
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/05/us-ambassador-says-israel-has-responsibility-for-palestinians-during-west-bank-visit_6757194_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-05T12:54:32+00:00",
+          "summary": "'One of the messages that we have been sending and we will continue to send is that people in these communities have a right to live with a level of security and safety, and that the government has a responsibility to make sure that that happens,' said Mike…",
+          "tags": []
+        },
+        {
+          "title": "Germany's Soviet past looms over high-stakes election in Saxony-Anhalt: 'I do not consider Russians to be enemies'",
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/05/in-germany-memories-of-the-soviet-legacy-are-at-the-heart-of-saxony-anhalt-s-state-election-i-do-not-consider-russians-to-be-enemies_6757193_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-05T10:59:06+00:00",
+          "summary": "Ahead of elections on Sunday, in which the far-right Alternative for Germany could win in this region of the former East Germany, the city of Stendal – where 10,000 Red Army soldiers were stationed during the Cold War – exemplifies the unique relationship…",
+          "tags": []
+        },
+        {
+          "title": "Two senior Reform UK officials resign as Farage faces fresh foreign donations scandal",
+          "url": "https://www.france24.com/en/europe/20260905-two-senior-reform-uk-officials-resign-as-farage-faces-fresh-foreign-donations-scandal",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-09-05T06:30:29+00:00",
+          "summary": "Two senior officials from the hard-right Reform UK party stepped down Friday following a hidden-camera investigation that appeared to show them soliciting substantial foreign funding for party-commissioned opinion polls and a potential £500,000 donation from…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": []
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "September 5, 1996: The day Pete Sampras was sick on court but still beat Alex Corretja at US Open",
+          "url": "https://www.tennismajors.com/us-open-news/september-5-1996-the-day-sick-sampras-beat-corretja-285975.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-09-05T13:07:42+00:00",
+          "summary": "Pete Sampras had a tough 1996, on and off the court, but brought out one of his most iconic performances ever at the US Open against Alex Corretja.",
+          "tags": []
+        },
+        {
+          "title": "No Brits left in US Open singles - but are there reasons to be positive?",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cy4zvjk74ppo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-09-05T09:26:14+00:00",
+          "summary": "There will be no British interest in the second week of another Grand Slam at the US Open - but is it all doom and gloom?",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 3,
+  "sources_line": "BBC TENNIS, FRANCE 24 EUROPE, HACKER NEWS, KNOWBE4, LE MONDE, SIMON WILLISON, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 22,
+      "low": 16,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 24,
+      "low": 17,
+      "conditions": "overcast"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-85046",
+      "vendor": "Google",
+      "product": "Chromium V8",
+      "name": "Google Chromium V8 Type Confusion Vulnerability",
+      "summary": "Google Chromium V8 contains a type confusion vulnerability that allows a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that…",
+      "added": "2026-09-04",
+      "due": "2026-09-18",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-85046"
+    },
+    {
+      "cve": "CVE-2026-59822",
+      "vendor": "BerriAI",
+      "product": "LiteLLM",
+      "name": "BerriAI LiteLLM Improper Authentication Vulnerability",
+      "summary": "BerriAI LiteLLM contains an improper authentication vulnerability in the MCP Streamable HTTP endpoint that could allow an unauthenticated attacker to establish an authenticated MCP session using an arbitrary Bearer…",
+      "added": "2026-09-02",
+      "due": "2026-09-16",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-59822"
+    },
+    {
+      "cve": "CVE-2026-48710",
+      "vendor": "Kludex",
+      "product": "Starlette",
+      "name": "Kludex Starlette HTTP Request/Response Smuggling Vulnerability",
+      "summary": "Kludex Starlette contains a HTTP request/response smuggling vulnerability that could allow attackers to inject paths into the host part, prepending the actual path leading to issues such as authentication bypass when…",
+      "added": "2026-09-02",
+      "due": "2026-09-16",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-48710"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-09-20",
+      "away": "WSH",
+      "home": "BOS"
+    },
+    "offseason": true,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "US Open",
+        "start": "2026-08-24",
+        "end": "2026-09-14",
+        "venue": "",
+        "major": true
+      }
+    ],
+    "following": [
+      {
+        "name": "Iga Świątek",
+        "last": {
+          "event": "US Open",
+          "grouping": "Women's Singles",
+          "round": "Round 2",
+          "date": "2026-09-03",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Nadia Podoroska",
+              "winner": false,
+              "sets": [
+                3.0,
+                2.0
+              ]
+            },
+            {
+              "name": "Iga Swiatek",
+              "winner": true,
+              "sets": [
+                6.0,
+                6.0
+              ]
+            }
+          ],
+          "opponent": "Nadia Podoroska",
+          "won": true
+        },
+        "next": {
+          "event": "US Open",
+          "grouping": "Women's Singles",
+          "round": "Round 3",
+          "date": "2026-09-05",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Marie Bouzkova",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Iga Swiatek",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Marie Bouzkova",
+          "won": false
+        }
+      },
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "US Open",
+          "grouping": "Men's Singles",
+          "round": "Round 3",
+          "date": "2026-09-04",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": true,
+              "sets": [
+                6.0,
+                6.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Wu Yibing",
+              "winner": false,
+              "sets": [
+                3.0,
+                4.0,
+                1.0
+              ]
+            }
+          ],
+          "opponent": "Wu Yibing",
+          "won": true
+        },
+        "next": {
+          "event": "US Open",
+          "grouping": "Men's Singles",
+          "round": "Round 4",
+          "date": "2026-09-06",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Tommy Paul",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Tommy Paul",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Aryna Sabalenka",
+          "points": 8575.0
+        },
+        {
+          "rank": 2,
+          "name": "Elena Rybakina",
+          "points": 8141.0
+        },
+        {
+          "rank": 3,
+          "name": "Jessica Pegula",
+          "points": 7265.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 12800.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 7790.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 7160.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Guadalajara Open Akron",
+        "tour": "WTA",
+        "start": "2026-09-13",
+        "end": "2026-09-20",
+        "major": false
+      },
+      {
+        "name": "Zavarovalnica Triglav Ljubljana",
+        "tour": "WTA",
+        "start": "2026-09-14",
+        "end": "2026-09-21",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 75
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "champion",
+        "en": "champion"
+      },
+      {
+        "fr": "crayon",
+        "en": "pencil"
+      },
+      {
+        "fr": "souviennent",
+        "en": "souvenir, memento, memory"
+      }
+    ],
+    "quiz": {
+      "fr": "champion",
+      "en": "champion"
+    }
+  },
+  "counts": {
+    "stories": 11,
+    "kev": 3
+  }
+}
