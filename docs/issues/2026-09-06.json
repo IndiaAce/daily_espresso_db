@@ -1,0 +1,447 @@
+{
+  "date": "2026-09-06",
+  "date_long": "Sunday, September 6, 2026",
+  "date_mast": "SUNDAY 6 SEPTEMBER 2026",
+  "built_at": "2026-09-06T14:05:31.450078+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
+          "url": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-09-05T16:52:33+00:00",
+          "summary": "JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to breach its own environment. \"Cadence users…",
+          "tags": []
+        },
+        {
+          "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
+          "url": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-09-05T14:17:02+00:00",
+          "summary": "Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk. The exposed information includes customer names, email addresses, phone numbers, shipping…",
+          "tags": []
+        },
+        {
+          "title": "Companies Have 6 Months to Prepare for Automated Attacks",
+          "url": "https://www.darkreading.com/cybersecurity-operations/companies-six-months-prepare-automated-attacks",
+          "source": "Dark Reading",
+          "section": "email_security",
+          "published": "2026-09-04T15:57:31+00:00",
+          "summary": "Frontier AI models have already demonstrated they can autonomously — and in some cases, inadvertently — conduct end-to-end compromises, but the situation will become more urgent very soon.",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Quoting Zach Kehs",
+          "url": "https://simonwillison.net/2026/Sep/6/zach-kehs/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-06T08:42:49+00:00",
+          "summary": "If you continue to add floors and rooms to a building forever, it will collapse. Software faces no such constraint. The code can always get worse. There can always be a new layer of indirection or a reduction in performance. — Zach Kehs , There's No Limit to…",
+          "tags": []
+        },
+        {
+          "title": "Introducing GPT-6 Astra for developers",
+          "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-05T23:27:48+00:00",
+          "summary": "Introducing GPT-6 Astra for developers Blink and you'll miss it, but there's a familiar creature at 1m59s : Across the board, Astra has more attention to detail, better understanding of the user's prompt, and can build more sophisticated outputs. In…",
+          "tags": []
+        },
+        {
+          "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+          "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+          "source": "Hacker News",
+          "section": "ai",
+          "published": "2026-09-06T07:21:06+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "At Lille's Braderie, French presidential candidates promote their platforms while criticizing far-right RN",
+          "url": "https://www.lemonde.fr/en/politics/article/2026/09/06/at-lille-s-braderie-french-presidential-candidates-promote-their-platforms-while-criticizing-far-right-rn_6757222_5.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-06T13:57:41+00:00",
+          "summary": "Gabriel Attal, Jean-Luc Mélenchon and Marine Tondelier took advantage of the two million expected visitors at the famous flea market on Saturday to present their ideas and denounce recent statements made by the far-right Rassemblement National, which has…",
+          "tags": []
+        },
+        {
+          "title": "Jordan Bardella's European tour marred by controversy on immigration and Ukraine",
+          "url": "https://www.lemonde.fr/en/politics/article/2026/09/06/jordan-bardella-s-european-tour-marred-by-controversy-on-immigration-and-ukraine_6757218_5.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-06T11:23:39+00:00",
+          "summary": "The far-right Rassemblement National president's visits to the United Kingdom and Italy on Friday and Saturday, intended to improve the party's image on the European stage, turned into a fiasco.",
+          "tags": []
+        },
+        {
+          "title": "'A bad sign': US envoys head to Kyiv after three-hour talks with Putin",
+          "url": "https://www.france24.com/en/a-bad-sign-us-envoys-head-to-kyiv-after-three-hour-talks-with-putin",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-09-06T06:18:30+00:00",
+          "summary": "As US envoys Steve Witkoff and Jared Kushner head to Kyiv following what the White House described as \"substantive\" talks with Russian President Vladimir Putin, FRANCE 24 correspondent Gulliver Cragg talks about what he describes as a climate of scepticism in…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Sunday Habs Headlines: Aatos Koivu gets started with a goal",
+          "url": "https://www.habseyesontheprize.com/montreal-canadiens-news-gleb-pugachyov-mhl-khl-season-aatos-koivu-goal-highlight-video-lane-hutson-alternate-captain-arber-xhekaj-contract-negotiations-nhl-atlanta-expansion/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-09-06T08:00:00+00:00",
+          "summary": "Montreal Canadiens news and notes Aatos Koivu has gotten off on the right foot with a showcase of his shooting talent: An absolute rocket from Aatos Koivu on the power play, his first goal of the season. This is the shot that #Habs fans has heard about, but…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "One-handed backhand: Tsitsipas has a 149-year “streak to save”, and Shelton is standing in front of it",
+          "url": "https://www.tennismajors.com/us-open-news/one-handed-backhand-tsitsipas-has-a-149-year-streak-to-save-and-shelton-is-standing-in-front-of-it-860402.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-09-06T13:45:43+00:00",
+          "summary": "Stefanos Tsitsipas is the last man with a one-handed backhand left in the 2026 US Open, and by one count a one-hander has reached a Grand Slam semi-final in every year since 1877, a run that has not yet been extended in 2026. Tsitsipas, ranked No. 53 and into…",
+          "tags": []
+        },
+        {
+          "title": "Fritz and Cobolli shocked as men's seeds tumble",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cdr7531m7xjo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-09-06T05:16:35+00:00",
+          "summary": "Taylor Fritz and Flavio Cobolli lose in the third round as six top-10 seeds are knocked out of the men's singles in the first week at the US Open.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 4,
+  "sources_line": "BBC TENNIS, DARK READING, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, HACKER NEWS, LE MONDE, SIMON WILLISON, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 21,
+      "low": 15,
+      "conditions": "drizzle"
+    },
+    {
+      "code": "PAR",
+      "high": 29,
+      "low": 16,
+      "conditions": "overcast"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-85046",
+      "vendor": "Google",
+      "product": "Chromium V8",
+      "name": "Google Chromium V8 Type Confusion Vulnerability",
+      "summary": "Google Chromium V8 contains a type confusion vulnerability that allows a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that…",
+      "added": "2026-09-04",
+      "due": "2026-09-18",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-85046"
+    },
+    {
+      "cve": "CVE-2026-59822",
+      "vendor": "BerriAI",
+      "product": "LiteLLM",
+      "name": "BerriAI LiteLLM Improper Authentication Vulnerability",
+      "summary": "BerriAI LiteLLM contains an improper authentication vulnerability in the MCP Streamable HTTP endpoint that could allow an unauthenticated attacker to establish an authenticated MCP session using an arbitrary Bearer…",
+      "added": "2026-09-02",
+      "due": "2026-09-16",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-59822"
+    },
+    {
+      "cve": "CVE-2026-48710",
+      "vendor": "Kludex",
+      "product": "Starlette",
+      "name": "Kludex Starlette HTTP Request/Response Smuggling Vulnerability",
+      "summary": "Kludex Starlette contains a HTTP request/response smuggling vulnerability that could allow attackers to inject paths into the host part, prepending the actual path leading to issues such as authentication bypass when…",
+      "added": "2026-09-02",
+      "due": "2026-09-16",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-48710"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-09-20",
+      "away": "WSH",
+      "home": "BOS"
+    },
+    "offseason": true,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "US Open",
+        "start": "2026-08-24",
+        "end": "2026-09-14",
+        "venue": "",
+        "major": true
+      },
+      {
+        "name": "Montreux Nestlé Open",
+        "start": "2026-09-06",
+        "end": "2026-09-14",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "ATIK Antalya Open",
+        "start": "2026-09-06",
+        "end": "2026-09-14",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Iga Świątek",
+        "last": {
+          "event": "US Open",
+          "grouping": "Women's Singles",
+          "round": "Round 3",
+          "date": "2026-09-05",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Marie Bouzkova",
+              "winner": false,
+              "sets": [
+                6.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Iga Swiatek",
+              "winner": true,
+              "sets": [
+                7.0,
+                7.0
+              ]
+            }
+          ],
+          "opponent": "Marie Bouzkova",
+          "won": true
+        },
+        "next": {
+          "event": "US Open",
+          "grouping": "Women's Singles",
+          "round": "Round 4",
+          "date": "2026-09-07",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Zheng Qinwen",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Iga Swiatek",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Zheng Qinwen",
+          "won": false
+        }
+      },
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "US Open",
+          "grouping": "Men's Singles",
+          "round": "Round 3",
+          "date": "2026-09-04",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": true,
+              "sets": [
+                6.0,
+                6.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Wu Yibing",
+              "winner": false,
+              "sets": [
+                3.0,
+                4.0,
+                1.0
+              ]
+            }
+          ],
+          "opponent": "Wu Yibing",
+          "won": true
+        },
+        "next": {
+          "event": "US Open",
+          "grouping": "Men's Singles",
+          "round": "Round 4",
+          "date": "2026-09-06",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Tommy Paul",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Tommy Paul",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Aryna Sabalenka",
+          "points": 8575.0
+        },
+        {
+          "rank": 2,
+          "name": "Elena Rybakina",
+          "points": 8141.0
+        },
+        {
+          "rank": 3,
+          "name": "Jessica Pegula",
+          "points": 7265.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 12800.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 7790.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 7160.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Zavarovalnica Triglav Ljubljana",
+        "tour": "WTA",
+        "start": "2026-09-14",
+        "end": "2026-09-21",
+        "major": false
+      },
+      {
+        "name": "BBVA Open Internacional De Valencia",
+        "tour": "WTA",
+        "start": "2026-09-14",
+        "end": "2026-09-21",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 74
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "santé",
+        "en": "health"
+      },
+      {
+        "fr": "plage",
+        "en": "beach"
+      },
+      {
+        "fr": "normal",
+        "en": "normal, regular"
+      }
+    ],
+    "quiz": {
+      "fr": "santé",
+      "en": "health"
+    }
+  },
+  "counts": {
+    "stories": 12,
+    "kev": 3
+  }
+}
