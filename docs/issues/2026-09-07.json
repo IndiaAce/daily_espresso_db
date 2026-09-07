@@ -1,0 +1,458 @@
+{
+  "date": "2026-09-07",
+  "date_long": "Monday, September 7, 2026",
+  "date_mast": "MONDAY 7 SEPTEMBER 2026",
+  "built_at": "2026-09-07T15:53:50.225366+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations",
+          "url": "https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-09-07T15:39:51+00:00",
+          "summary": "A phishing-as-a-service framework called BigBear 2.0 has been used to bypass multi-factor authentication at 258 organizations and steal more than 5,000 Microsoft 365 credentials.",
+          "tags": []
+        },
+        {
+          "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
+          "url": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-09-07T07:53:04+00:00",
+          "summary": "Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities. \"The payloads are protected with javascript-obfuscator, using multiple…",
+          "tags": []
+        },
+        {
+          "title": "Attackers conceal phishing lures using invisible Unicode characters",
+          "url": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-09-06T14:23:46+00:00",
+          "summary": "Threat actors have adopted the ASCII smuggling technique in phishing campaigns, using invisible Unicode characters to evade email security filters.",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Research acceleration: The view inside OpenAI",
+          "url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-06T23:57:40+00:00",
+          "summary": "Research acceleration: The view inside OpenAI Apparently today is RSI day at OpenAI, for Recursive Self-Improvement - I think it's their new AGI. Both this piece and the new essay An Alien Mind (by Chief Scientist Jakub Pachocki) talk about it, and this one…",
+          "tags": []
+        },
+        {
+          "title": "Supporting independent journalism in Ukraine",
+          "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-09-07T00:00:00+00:00",
+          "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+          "tags": []
+        },
+        {
+          "title": "The purpose of DNS is to spread scams",
+          "url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-06T14:40:07+00:00",
+          "summary": "The purpose of DNS is to spread scams Terence Eden shares some daunting statistics in support of his take that \"the Domain Name System's purpose seems to be a vector for criminals to run scams on people at a terrifyingly high rate\". On this Interisle report (…",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "French wine yields drop to new historic low after searing summer heat",
+          "url": "https://www.france24.com/en/france/20260907-scorching-summer-pushes-french-wine-harvest-to-new-historic-low",
+          "source": "France 24",
+          "section": "france",
+          "published": "2026-09-07T11:57:17+00:00",
+          "summary": "French wine production is expected to suffer its worst harvest in some 70 years with the agriculture ministry on Monday forecasting a 6 percent drop in output after a summer of scorching temperatures, heatwaves and drought. France last week announced more…",
+          "tags": []
+        },
+        {
+          "title": "Raymond Depardon revisits photojournalist past at Visa Pour l'Image festival",
+          "url": "https://www.lemonde.fr/en/culture/article/2026/09/07/raymond-depardon-revisits-photojournalist-past-at-visa-pour-l-image-festival_6757255_30.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-07T14:30:05+00:00",
+          "summary": "Eighty black-and-white prints from the Vietnam War and the Munich Olympics hostage crisis bear witness to the career of the French photographer, who lived through the golden age of photo agencies before turning to more documentary work and cinema.",
+          "tags": []
+        },
+        {
+          "title": "France stunned by the far-right's victory in Germany's Saxony-Anhalt regional elections",
+          "url": "https://www.lemonde.fr/en/france/article/2026/09/07/france-stunned-by-the-far-right-s-victory-in-germany-s-saxony-anhalt-regional-elections_6757254_7.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-07T14:00:12+00:00",
+          "summary": "France's political parties quickly responded to Alternative for Germany's (AfD) victory on Sunday, each analyzing the results. Within the far-right Rassemblement National, the win caused considerable discomfort: it severed ties with AfD in the European…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "2026 Montreal Canadiens Top 25 Under 25: #5 Kaiden Guhle",
+          "url": "https://www.habseyesontheprize.com/kaiden-guhle-2026-montreal-canadiens-top-25-under-25-prospect-ranking-scouting-report-stats-projection/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-09-07T10:00:00+00:00",
+          "summary": "Introduction Kaiden Guhle is an established mid-pairing defenceman at the NHL level. That’s the whole profile. You may now rush to the comments. All kidding aside, the joke is that while Guhle is undeniably a key part of the Canadiens and a talented…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "September 7, 1953: The day Maureen “Little Mo” Connolly became the first woman to complete the calendar-year Grand Slam",
+          "url": "https://www.tennismajors.com/us-open-news/september-7-1953-the-day-maureen-connolly-completed-the-first-grand-slam-in-the-history-of-womens-tennis-483952.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-09-07T10:15:00+00:00",
+          "summary": "Every day Tennis Majors takes you back in time to celebrate a great moment in tennis history. Today, we go back to 1953 to witness how 18-year-old became the first woman and only the second player in tennis history to sweep all the four Majors in the same year",
+          "tags": []
+        },
+        {
+          "title": "US Open tennis 2026: Swiatek v Zheng, Osaka v Rybakina and more on day nine – live",
+          "url": "https://www.theguardian.com/sport/live/2026/sep/07/us-open-tennis-2026-swiatek-v-zheng-osaka-v-rybakina-and-more-on-day-nine-live",
+          "source": "Guardian Tennis",
+          "section": "tennis",
+          "published": "2026-09-07T15:53:47+00:00",
+          "summary": "Will influencers and weed smokers bring down US Open? Send your thoughts to Daniel via email Back on Armstrong, we’re still level but at 4-4, Potapova playing with confidence and poise. She holds to 30, and Andreeva must now serve to stay in set one. Zheng…",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 5,
+  "sources_line": "BLEEPINGCOMPUTER, FRANCE 24, GUARDIAN TENNIS, HABS EYES ON THE PRIZE, LE MONDE, OPENAI, SIMON WILLISON, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 27,
+      "low": 12,
+      "conditions": "clear"
+    },
+    {
+      "code": "PAR",
+      "high": 29,
+      "low": 20,
+      "conditions": "overcast"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-85046",
+      "vendor": "Google",
+      "product": "Chromium V8",
+      "name": "Google Chromium V8 Type Confusion Vulnerability",
+      "summary": "Google Chromium V8 contains a type confusion vulnerability that allows a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that…",
+      "added": "2026-09-04",
+      "due": "2026-09-18",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-85046"
+    },
+    {
+      "cve": "CVE-2026-59822",
+      "vendor": "BerriAI",
+      "product": "LiteLLM",
+      "name": "BerriAI LiteLLM Improper Authentication Vulnerability",
+      "summary": "BerriAI LiteLLM contains an improper authentication vulnerability in the MCP Streamable HTTP endpoint that could allow an unauthenticated attacker to establish an authenticated MCP session using an arbitrary Bearer…",
+      "added": "2026-09-02",
+      "due": "2026-09-16",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-59822"
+    },
+    {
+      "cve": "CVE-2026-48710",
+      "vendor": "Kludex",
+      "product": "Starlette",
+      "name": "Kludex Starlette HTTP Request/Response Smuggling Vulnerability",
+      "summary": "Kludex Starlette contains a HTTP request/response smuggling vulnerability that could allow attackers to inject paths into the host part, prepending the actual path leading to issues such as authentication bypass when…",
+      "added": "2026-09-02",
+      "due": "2026-09-16",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-48710"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-09-20",
+      "away": "WSH",
+      "home": "BOS"
+    },
+    "offseason": true,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "US Open",
+        "start": "2026-08-24",
+        "end": "2026-09-14",
+        "venue": "",
+        "major": true
+      },
+      {
+        "name": "Montreux Nestlé Open",
+        "start": "2026-09-06",
+        "end": "2026-09-14",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "ATIK Antalya Open",
+        "start": "2026-09-06",
+        "end": "2026-09-14",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Kia Open",
+        "start": "2026-09-07",
+        "end": "2026-09-14",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Iga Świątek",
+        "last": {
+          "event": "US Open",
+          "grouping": "Women's Singles",
+          "round": "Round 3",
+          "date": "2026-09-05",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Marie Bouzkova",
+              "winner": false,
+              "sets": [
+                6.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Iga Swiatek",
+              "winner": true,
+              "sets": [
+                7.0,
+                7.0
+              ]
+            }
+          ],
+          "opponent": "Marie Bouzkova",
+          "won": true
+        },
+        "next": {
+          "event": "US Open",
+          "grouping": "Women's Singles",
+          "round": "Round 4",
+          "date": "2026-09-07",
+          "state": "in",
+          "status": "In Progress",
+          "players": [
+            {
+              "name": "Zheng Qinwen",
+              "winner": false,
+              "sets": [
+                0.0
+              ]
+            },
+            {
+              "name": "Iga Swiatek",
+              "winner": false,
+              "sets": [
+                2.0
+              ]
+            }
+          ],
+          "opponent": "Zheng Qinwen",
+          "won": false
+        }
+      },
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "US Open",
+          "grouping": "Men's Singles",
+          "round": "Round 4",
+          "date": "2026-09-06",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": true,
+              "sets": [
+                6.0,
+                6.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Tommy Paul",
+              "winner": false,
+              "sets": [
+                4.0,
+                3.0,
+                4.0
+              ]
+            }
+          ],
+          "opponent": "Tommy Paul",
+          "won": true
+        },
+        "next": {
+          "event": "US Open",
+          "grouping": "Men's Singles",
+          "round": "Quarterfinal",
+          "date": "2026-09-09",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Ben Shelton",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Ben Shelton",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Aryna Sabalenka",
+          "points": 8575.0
+        },
+        {
+          "rank": 2,
+          "name": "Elena Rybakina",
+          "points": 8141.0
+        },
+        {
+          "rank": 3,
+          "name": "Jessica Pegula",
+          "points": 7265.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 12800.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 7790.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 7160.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Korea Open",
+        "tour": "WTA",
+        "start": "2026-09-21",
+        "end": "2026-09-28",
+        "major": false
+      },
+      {
+        "name": "Singapore Tennis Open",
+        "tour": "WTA",
+        "start": "2026-09-21",
+        "end": "2026-09-28",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 73
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "sera",
+        "en": "will be, must have"
+      },
+      {
+        "fr": "grandir",
+        "en": "to grow"
+      },
+      {
+        "fr": "côté",
+        "en": "side"
+      }
+    ],
+    "quiz": {
+      "fr": "sera",
+      "en": "will be, must have"
+    }
+  },
+  "counts": {
+    "stories": 12,
+    "kev": 3
+  }
+}
