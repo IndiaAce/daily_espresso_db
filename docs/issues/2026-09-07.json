@@ -2,7 +2,7 @@
   "date": "2026-09-07",
   "date_long": "Monday, September 7, 2026",
   "date_mast": "MONDAY 7 SEPTEMBER 2026",
-  "built_at": "2026-09-07T15:53:50.225366+00:00",
+  "built_at": "2026-09-07T16:22:47.893290+00:00",
   "masthead": {
     "tagline": "Five things, no scrolling",
     "edition": "Vol. I"
@@ -13,30 +13,30 @@
       "label": "Email Security",
       "stories": [
         {
+          "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
+          "url": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-09-07T15:51:56+00:00",
+          "summary": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information technology (IT) help desk vishing, adversary-in-the-middle (AitM)…",
+          "tags": []
+        },
+        {
+          "title": "⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
+          "url": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-09-07T14:36:07+00:00",
+          "summary": "Turning off email images should at least stop the pictures. This week, attackers had a workaround: a scannable QR code built out of text. It still appears, even with images blocked. A small detail, but an annoying one if that was a precaution you were…",
+          "tags": []
+        },
+        {
           "title": "BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations",
           "url": "https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/",
           "source": "BleepingComputer",
           "section": "email_security",
           "published": "2026-09-07T15:39:51+00:00",
           "summary": "A phishing-as-a-service framework called BigBear 2.0 has been used to bypass multi-factor authentication at 258 organizations and steal more than 5,000 Microsoft 365 credentials.",
-          "tags": []
-        },
-        {
-          "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
-          "url": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
-          "source": "The Hacker News",
-          "section": "email_security",
-          "published": "2026-09-07T07:53:04+00:00",
-          "summary": "Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities. \"The payloads are protected with javascript-obfuscator, using multiple…",
-          "tags": []
-        },
-        {
-          "title": "Attackers conceal phishing lures using invisible Unicode characters",
-          "url": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
-          "source": "BleepingComputer",
-          "section": "email_security",
-          "published": "2026-09-06T14:23:46+00:00",
-          "summary": "Threat actors have adopted the ASCII smuggling technique in phishing campaigns, using invisible Unicode characters to evade email security filters.",
           "tags": []
         }
       ]
@@ -79,30 +79,30 @@
       "label": "France & Europe",
       "stories": [
         {
+          "title": "Letter from Paris | Paris, people and power",
+          "url": "https://www.lemonde.fr/en/m-le-mag/article/2026/09/07/letter-from-paris-paris-people-and-power_6757259_117.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-07T16:00:05+00:00",
+          "summary": "Twice a month, M magazine's editorial director, Marie-Pierre Lannelongue, fills you in on the latest about fashion, culture, travel and more.",
+          "tags": []
+        },
+        {
+          "title": "'I'm not going to just sit and watch TV': Residents adapt to new heatwave peak in Toulouse",
+          "url": "https://www.lemonde.fr/en/environment/article/2026/09/07/i-m-not-going-to-just-sit-and-watch-tv-residents-adapt-to-new-heatwave-peak-in-toulouse_6757258_114.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-07T15:49:31+00:00",
+          "summary": "After a summer marked by repeated heatwaves, high temperatures lingered in the southern French city on Friday, where national weather service Météo-France recorded 37.2°C, a record for Toulouse in September.",
+          "tags": []
+        },
+        {
           "title": "French wine yields drop to new historic low after searing summer heat",
           "url": "https://www.france24.com/en/france/20260907-scorching-summer-pushes-french-wine-harvest-to-new-historic-low",
           "source": "France 24",
           "section": "france",
           "published": "2026-09-07T11:57:17+00:00",
           "summary": "French wine production is expected to suffer its worst harvest in some 70 years with the agriculture ministry on Monday forecasting a 6 percent drop in output after a summer of scorching temperatures, heatwaves and drought. France last week announced more…",
-          "tags": []
-        },
-        {
-          "title": "Raymond Depardon revisits photojournalist past at Visa Pour l'Image festival",
-          "url": "https://www.lemonde.fr/en/culture/article/2026/09/07/raymond-depardon-revisits-photojournalist-past-at-visa-pour-l-image-festival_6757255_30.html",
-          "source": "Le Monde",
-          "section": "france",
-          "published": "2026-09-07T14:30:05+00:00",
-          "summary": "Eighty black-and-white prints from the Vietnam War and the Munich Olympics hostage crisis bear witness to the career of the French photographer, who lived through the golden age of photo agencies before turning to more documentary work and cinema.",
-          "tags": []
-        },
-        {
-          "title": "France stunned by the far-right's victory in Germany's Saxony-Anhalt regional elections",
-          "url": "https://www.lemonde.fr/en/france/article/2026/09/07/france-stunned-by-the-far-right-s-victory-in-germany-s-saxony-anhalt-regional-elections_6757254_7.html",
-          "source": "Le Monde",
-          "section": "france",
-          "published": "2026-09-07T14:00:12+00:00",
-          "summary": "France's political parties quickly responded to Alternative for Germany's (AfD) victory on Sunday, each analyzing the results. Within the far-right Rassemblement National, the win caused considerable discomfort: it severed ties with AfD in the European…",
           "tags": []
         }
       ]
@@ -140,7 +140,7 @@
           "url": "https://www.theguardian.com/sport/live/2026/sep/07/us-open-tennis-2026-swiatek-v-zheng-osaka-v-rybakina-and-more-on-day-nine-live",
           "source": "Guardian Tennis",
           "section": "tennis",
-          "published": "2026-09-07T15:53:47+00:00",
+          "published": "2026-09-07T16:19:24+00:00",
           "summary": "Will influencers and weed smokers bring down US Open? Send your thoughts to Daniel via email Back on Armstrong, we’re still level but at 4-4, Potapova playing with confidence and poise. She holds to 30, and Andreeva must now serve to stay in set one. Zheng…",
           "tags": []
         }
@@ -291,14 +291,14 @@
               "name": "Zheng Qinwen",
               "winner": false,
               "sets": [
-                0.0
+                2.0
               ]
             },
             {
               "name": "Iga Swiatek",
               "winner": false,
               "sets": [
-                2.0
+                5.0
               ]
             }
           ],
