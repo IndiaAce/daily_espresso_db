@@ -1,0 +1,416 @@
+{
+  "date": "2026-09-09",
+  "date_long": "Wednesday, September 9, 2026",
+  "date_mast": "WEDNESDAY 9 SEPTEMBER 2026",
+  "built_at": "2026-09-09T15:04:32.792728+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root",
+          "url": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-09-09T08:19:32+00:00",
+          "summary": "cPanel has patched a flaw that it says lets a single hosting account take control of an entire server. An authenticated account holder with mail-related privileges can create files of their choosing on the server through EmailTrack and, from there, run code…",
+          "tags": []
+        },
+        {
+          "title": "Proofpoint 2026 Voice of the CISO Report Finds Cyber Resilience Improving, While AI Expands the CISO Mandate",
+          "url": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-2026-voice-ciso-report-finds-cyber-resilience-improving-while-ai",
+          "source": "Proofpoint",
+          "section": "email_security",
+          "published": "2026-09-09T02:03:11+00:00",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
+          "url": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-09-08T13:48:16+00:00",
+          "summary": "Threat actors are continuing to leverage artificial intelligence (AI) to streamline their operations, with one financially motivated hacking group employing an autonomous, multi-agent attack framework to carry out a large-scale credential harvesting campaign…",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Quoting Terence Tao",
+          "url": "https://simonwillison.net/2026/Sep/9/terence-tao/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-09T00:20:17+00:00",
+          "summary": "I wrote recently about how the collection of good, fruitful open problems is now being mined in a non-renewable fashion, leading to the potential scenario of these problems becoming scarce. [...] We have now seen that even the rumor of someone working on a…",
+          "tags": []
+        },
+        {
+          "title": "On the Navier–Stokes Millennium Prize Problem",
+          "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-08T23:55:12+00:00",
+          "summary": "On the Navier–Stokes Millennium Prize Problem Impressive result from OpenAI, who used an unreleased model to produce a resolution to the Navier–Stokes existence and smoothness problem , one of the seven Millennium Prize Problems that have been subject to a…",
+          "tags": []
+        },
+        {
+          "title": "Tailwind Labs is joining Shopify",
+          "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+          "source": "Hacker News",
+          "section": "ai",
+          "published": "2026-09-09T13:27:11+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "European Commission pushes to simplify and 'Europeanize' public procurement",
+          "url": "https://www.lemonde.fr/en/economy/article/2026/09/09/european-commission-pushes-to-simplify-and-europeanize-public-procurement_6757348_19.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-09T14:44:05+00:00",
+          "summary": "The reform aims to 'end the dominance of price as a criterion,' which in practice benefits Chinese products, explained Stéphane Séjourné, the European Commission's executive vice president. Public procurement across the EU amounts to €2.6 trillion each year…",
+          "tags": []
+        },
+        {
+          "title": "Far-right defendants confront violent past at Paris trial over murder of Argentine rugby star",
+          "url": "https://www.lemonde.fr/en/france/article/2026/09/09/far-right-defendants-confront-violent-past-at-paris-trial-over-murder-of-argentine-rugby-star_6757344_7.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-09T12:47:22+00:00",
+          "summary": "Loïk Le Priol and Romain Bouvier went on trial in the Paris criminal court on Monday for shooting and killing former rugby player Federico Martin Aramburu in March 2022. Both were members of Groupe Union Défense (GUD), a far-right student group, before it was…",
+          "tags": []
+        },
+        {
+          "title": "Rungis market chief on supply chains and feeding the world",
+          "url": "https://www.france24.com/en/tv-shows/entre-nous/20260909-rungis-market-chief-on-supply-chains-and-feeding-the-world",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-09-09T13:05:48+00:00",
+          "summary": "In today’s edition, FRANCE 24’s Delano D'Souza speaks with the man at the heart of France's food supply chain. Stéphane Layani is the head of the Rungis wholesale food market – the largest of its kind in Europe – and chairman of the World Union of Wholesale…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "2026 Montreal Canadiens Top 25 Under 25: #3 Juraj Slafkovský",
+          "url": "https://www.habseyesontheprize.com/juraj-slafkovsky-2026-montreal-canadiens-top-25-under-25-prospect-ranking-scouting-report-stats-projection/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-09-09T10:00:00+00:00",
+          "summary": "Introduction “How many more tiers does Juraj Slafkovský still have before he reaches the peak of his powers?” That is what we asked last year after a second consecutive 50-odd-point season cemented the Košičan as a cornerstone of the Montreal Canadiens’…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "History made past 3am: Shelton ends Alcaraz’s US Open reign at the latest finish the tournament has ever seen",
+          "url": "https://www.tennismajors.com/us-open-news/history-made-past-3am-shelton-ends-alcarazs-us-open-reign-at-the-latest-finish-the-tournament-has-ever-seen-860615.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-09-09T08:06:00+00:00",
+          "summary": "Ben Shelton (No. 8) beat Carlos Alcaraz (No. 2) 6-7 (5), 6-1, 6-3, 1-6, 7-6 (7) in the quarterfinals of the US Open, taking the deciding tie-break 10-7, at the latest finish in the tournament's history. in the quarterfinals of the US Open 2026, winning the…",
+          "tags": []
+        },
+        {
+          "title": "US Open 2026 quarter-finals: Zheng v Rybakina, Andreeva v Gauff – live",
+          "url": "https://www.theguardian.com/sport/live/2026/sep/09/us-open-tennis-2026-quarter-finals-rybakina-zheng-andreeva-gauff-blockx-khachanov-live",
+          "source": "Guardian Tennis",
+          "section": "tennis",
+          "published": "2026-09-09T15:00:01+00:00",
+          "summary": "Rolling updates from the last eight at Flushing Meadows Shelton wins after night of vomit, sweat and home hopes Get in touch: email Katy | And follow us over on TikTok 11.30am New York/4.30pm BST Women’s singles quarter-final Zheng Qinwen (Chn) v Elena…",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 7,
+  "sources_line": "FRANCE 24 EUROPE, GUARDIAN TENNIS, HABS EYES ON THE PRIZE, HACKER NEWS, LE MONDE, PROOFPOINT, SIMON WILLISON, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 26,
+      "low": 14,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 21,
+      "low": 13,
+      "conditions": "overcast"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-75650",
+      "vendor": "Adobe",
+      "product": "Commerce and Magento",
+      "name": "Adobe Commerce and Magento Improper Neutralization of Special Elements Used in a Template Engine Vulnerability",
+      "summary": "Adobe Commerce and Magento Open Source contain an improper neutralization of special elements used in a template engine vulnerability that could allow an attacker to execute arbitrary code.",
+      "added": "2026-09-08",
+      "due": "2026-09-11",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-75650"
+    },
+    {
+      "cve": "CVE-2026-81963",
+      "vendor": "Microsoft",
+      "product": "Windows",
+      "name": "Microsoft Windows Link Following Vulnerability",
+      "summary": "Microsoft Windows Update Stack contains a link following vulnerability that allows a local attacker to escalate privileges locally up to SYSTEM.",
+      "added": "2026-09-08",
+      "due": "2026-09-22",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-81963"
+    },
+    {
+      "cve": "CVE-2026-86218",
+      "vendor": "N-able",
+      "product": "N-central",
+      "name": "N-able N-central Static Code Injection Vulnerability",
+      "summary": "N-able N-central contains a static code injection vulnerability that could allow for pre-authentication remote code execution.",
+      "added": "2026-09-08",
+      "due": "2026-09-11",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-86218"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-09-20",
+      "away": "WSH",
+      "home": "BOS"
+    },
+    "offseason": true,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "US Open",
+        "start": "2026-08-24",
+        "end": "2026-09-14",
+        "venue": "",
+        "major": true
+      },
+      {
+        "name": "Montreux Nestlé Open",
+        "start": "2026-09-06",
+        "end": "2026-09-14",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "ATIK Antalya Open",
+        "start": "2026-09-06",
+        "end": "2026-09-14",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Kia Open",
+        "start": "2026-09-07",
+        "end": "2026-09-14",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Iga Świątek",
+        "last": {
+          "event": "US Open",
+          "grouping": "Women's Singles",
+          "round": "Round 4",
+          "date": "2026-09-07",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Zheng Qinwen",
+              "winner": true,
+              "sets": [
+                7.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Iga Swiatek",
+              "winner": false,
+              "sets": [
+                5.0,
+                3.0
+              ]
+            }
+          ],
+          "opponent": "Zheng Qinwen",
+          "won": false
+        },
+        "next": null
+      },
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "US Open",
+          "grouping": "Men's Singles",
+          "round": "Quarterfinal",
+          "date": "2026-09-09",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": [
+                7.0,
+                1.0,
+                3.0,
+                6.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Ben Shelton",
+              "winner": true,
+              "sets": [
+                6.0,
+                6.0,
+                6.0,
+                1.0,
+                7.0
+              ]
+            }
+          ],
+          "opponent": "Ben Shelton",
+          "won": false
+        },
+        "next": null
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Aryna Sabalenka",
+          "points": 8575.0
+        },
+        {
+          "rank": 2,
+          "name": "Elena Rybakina",
+          "points": 8141.0
+        },
+        {
+          "rank": 3,
+          "name": "Jessica Pegula",
+          "points": 7265.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 12800.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 7790.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 7160.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Korea Open",
+        "tour": "WTA",
+        "start": "2026-09-21",
+        "end": "2026-09-28",
+        "major": false
+      },
+      {
+        "name": "Singapore Tennis Open",
+        "tour": "WTA",
+        "start": "2026-09-21",
+        "end": "2026-09-28",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 71
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "ligne",
+        "en": "line"
+      },
+      {
+        "fr": "oublier",
+        "en": "to forget"
+      },
+      {
+        "fr": "photographie",
+        "en": "photography, photograph, photo's"
+      }
+    ],
+    "quiz": {
+      "fr": "ligne",
+      "en": "line"
+    }
+  },
+  "counts": {
+    "stories": 12,
+    "kev": 3
+  }
+}
