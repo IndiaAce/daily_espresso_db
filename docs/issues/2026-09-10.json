@@ -1,0 +1,425 @@
+{
+  "date": "2026-09-10",
+  "date_long": "Thursday, September 10, 2026",
+  "date_mast": "THURSDAY 10 SEPTEMBER 2026",
+  "built_at": "2026-09-10T14:56:43.187926+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Proofpoint Expands AI-Powered Investigations to Microsoft 365 and Deepens Insider Risk Visibility into AI Activity",
+          "url": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-expands-ai-powered-investigations-microsoft-365-and-deepens",
+          "source": "Proofpoint",
+          "section": "email_security",
+          "published": "2026-09-10T13:21:38+00:00",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "The Workforce Has a Blind Spot, and It’s Ringing",
+          "url": "https://blog.knowbe4.com/workforce-blind-spot-vishing",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-09-10T11:45:00+00:00",
+          "summary": "With inboxes increasingly well guarded, cybercriminals are turning to a more vulnerable front in their attacks against your digital workforce.",
+          "tags": []
+        },
+        {
+          "title": "Trezor warns users of email provider breach, phishing attacks",
+          "url": "https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-09-10T06:56:33+00:00",
+          "summary": "Trezor warned customers on Wednesday that threat actors who breached its third-party email provider are targeting them in phishing attacks.",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Quoting Calif Research",
+          "url": "https://simonwillison.net/2026/Sep/10/calif-research/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-10T00:56:41+00:00",
+          "summary": "Today, we're releasing a demo of WeWorm, the first zero-click worm to spread through WeChat calls across iOS and Android. [...] The victim does not need to answer the call, or interact with their phone at all. Even if they do answer, they hear nothing, and…",
+          "tags": []
+        },
+        {
+          "title": ".blend URL Viewer",
+          "url": "https://simonwillison.net/2026/Sep/9/blender-viewer/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-09T23:58:32+00:00",
+          "summary": "Tool: .blend URL Viewer I'm continuing to have a lot of fun with GPT-6 Astra and Blender (see my TIL ). As a big fan of the Imperial Fabergé Easter eggs , I've always thought it would be fun to make some new ones that celebrate popular culture. Yesterday I…",
+          "tags": []
+        },
+        {
+          "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
+          "url": "https://news.ycombinator.com/item?id=49643556",
+          "source": "Hacker News",
+          "section": "ai",
+          "published": "2026-09-10T13:39:53+00:00",
+          "summary": "I've reset this more than once and the last time I made a careful note of when I did it and to my surprise I found it re-enabled when I checked just now. Make sure you check this thing to see if it hasn't been re-enabled if you believe it to be off right now…",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "US midterms: 'The danger is not so much massive electoral fraud as a deliberately engineered fog of doubt'",
+          "url": "https://www.lemonde.fr/en/opinion/article/2026/09/10/us-midterms-the-danger-is-not-so-much-massive-electoral-fraud-as-a-deliberately-engineered-fog-of-doubt_6757388_23.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-10T14:45:06+00:00",
+          "summary": "Worried about losing his majority in the House of Representatives and the Senate in the November 3 midterm elections, US President Donald Trump has ramped up efforts to undermine the electoral process, warns lawyer Reed Brody.",
+          "tags": []
+        },
+        {
+          "title": "France's Epstein probe identifies 'potential recruiters'",
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/10/france-s-epstein-probe-identifies-potential-recruiters_6757387_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-10T14:21:10+00:00",
+          "summary": "Paris prosecutor Laure Beccuau revealed said that new leads had been identified as part of an investigation into alleged human trafficking.",
+          "tags": []
+        },
+        {
+          "title": "Revisited: Consequences of the 2022 Nord Stream pipeline sabotage are still being felt",
+          "url": "https://www.france24.com/en/tv-shows/revisited/20260910-revisited-consequences-of-the-2022-nord-stream-pipeline-sabotage-are-still-being-felt",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-09-10T13:07:59+00:00",
+          "summary": "It is one of the most spectacular acts of sabotage committed since World War II. On the night of September 26, 2022, three of the four pipes of the Nord Stream 1 and Nord Stream 2 gas pipelines exploded on the seabed of the Baltic Sea. 465 thousand metric…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Morning Skate: Memory",
+          "url": "https://www.stanleycupofchowder.com/morning-skate-open-threads/59213/morning-skate-memory",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-09-10T11:00:00+00:00",
+          "summary": "Welcome to another edition of the offseason Morning Skate, folks! As we get into the double-digit dates of September, we’re getting nearer to the preseason Morning Skate, so…you’ve almost made it. Barry Melrose passes away The hockey world got some sad news…",
+          "tags": []
+        },
+        {
+          "title": "2026 Montreal Canadiens Top 25 Under 25: #2 Ivan Demidov",
+          "url": "https://www.habseyesontheprize.com/ivan-demidov-2026-montreal-canadiens-top-25-under-25-prospect-ranking-scouting-report-stats-projection/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-09-10T10:00:00+00:00",
+          "summary": "Introduction Ivan Demidov certainly knew how to make an introduction. Not even a week after touching down in Montreal in the most anticipated athletic air arrival in Canada since Robert Herjavec , Demidov registered his first NHL point, followed by his first…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "What tennis can teach employers about building a healthier, more engaged workforce",
+          "url": "https://www.tennismajors.com/others-news/what-tennis-can-teach-employers-about-building-a-healthier-more-engaged-workforce-860673.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-09-10T13:31:35+00:00",
+          "summary": "Tennis is often viewed primarily as an individual sport, but the lessons it offers extend well beyond the court.",
+          "tags": []
+        },
+        {
+          "title": "Top four seeds in historic semi-final line-up",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cx2z3zl90eno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-09-10T10:54:23+00:00",
+          "summary": "For the first time since 1975, the top four seeds in the women's US Open singles draw have reached the semi-finals.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 8,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, HACKER NEWS, KNOWBE4, LE MONDE, PROOFPOINT, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 31,
+      "low": 21,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 21,
+      "low": 11,
+      "conditions": "overcast"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-19490",
+      "vendor": "Citrix",
+      "product": "NetScaler",
+      "name": "Citrix NetScaler Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+      "summary": "Citrix NetScaler ADC and NetScaler Gateway contain an authentication-bypass vulnerability involving an alternate path or channel. When the NetScaler appliance is configured as an AAA virtual server or as a Gateway (SSL…",
+      "added": "2026-09-09",
+      "due": "2026-09-12",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-19490"
+    },
+    {
+      "cve": "CVE-2025-25249",
+      "vendor": "Fortinet",
+      "product": "Multiple Products",
+      "name": "Fortinet Multiple Products Heap-based Buffer Overflow Vulnerability",
+      "summary": "Fortinet FortiOS, FortiSwitchManager, and FortiSASE contain a heap-based buffer overflow vulnerability that allows an attacker to execute unauthorized code or commands via specially crafted packets.",
+      "added": "2026-09-09",
+      "due": "2026-09-12",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-25249"
+    },
+    {
+      "cve": "CVE-2026-87491",
+      "vendor": "Google",
+      "product": "Chromium V8",
+      "name": "Google Chromium V8 Out of Bounds Write Vulnerability",
+      "summary": "Google Chromium V8 contains an out of bounds write vulnerability that allows a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers…",
+      "added": "2026-09-09",
+      "due": "2026-09-23",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-87491"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-09-20",
+      "away": "WSH",
+      "home": "BOS"
+    },
+    "offseason": true,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "US Open",
+        "start": "2026-08-24",
+        "end": "2026-09-14",
+        "venue": "",
+        "major": true
+      },
+      {
+        "name": "Montreux Nestlé Open",
+        "start": "2026-09-06",
+        "end": "2026-09-14",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "ATIK Antalya Open",
+        "start": "2026-09-06",
+        "end": "2026-09-14",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Kia Open",
+        "start": "2026-09-07",
+        "end": "2026-09-14",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Iga Świątek",
+        "last": {
+          "event": "US Open",
+          "grouping": "Women's Singles",
+          "round": "Round 4",
+          "date": "2026-09-07",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Zheng Qinwen",
+              "winner": true,
+              "sets": [
+                7.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Iga Swiatek",
+              "winner": false,
+              "sets": [
+                5.0,
+                3.0
+              ]
+            }
+          ],
+          "opponent": "Zheng Qinwen",
+          "won": false
+        },
+        "next": null
+      },
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "US Open",
+          "grouping": "Men's Singles",
+          "round": "Quarterfinal",
+          "date": "2026-09-09",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": [
+                7.0,
+                1.0,
+                3.0,
+                6.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Ben Shelton",
+              "winner": true,
+              "sets": [
+                6.0,
+                6.0,
+                6.0,
+                1.0,
+                7.0
+              ]
+            }
+          ],
+          "opponent": "Ben Shelton",
+          "won": false
+        },
+        "next": null
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Aryna Sabalenka",
+          "points": 8575.0
+        },
+        {
+          "rank": 2,
+          "name": "Elena Rybakina",
+          "points": 8141.0
+        },
+        {
+          "rank": 3,
+          "name": "Jessica Pegula",
+          "points": 7265.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 12800.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 7790.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 7160.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Korea Open",
+        "tour": "WTA",
+        "start": "2026-09-21",
+        "end": "2026-09-28",
+        "major": false
+      },
+      {
+        "name": "Singapore Tennis Open",
+        "tour": "WTA",
+        "start": "2026-09-21",
+        "end": "2026-09-28",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 70
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "appartements",
+        "en": "apartments"
+      },
+      {
+        "fr": "promenade",
+        "en": "walk, promenade, trip's"
+      },
+      {
+        "fr": "courriel",
+        "en": "email"
+      }
+    ],
+    "quiz": {
+      "fr": "appartements",
+      "en": "apartments"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
