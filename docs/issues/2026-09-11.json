@@ -1,0 +1,416 @@
+{
+  "date": "2026-09-11",
+  "date_long": "Friday, September 11, 2026",
+  "date_mast": "FRIDAY 11 SEPTEMBER 2026",
+  "built_at": "2026-09-11T14:56:43.918802+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
+          "url": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-09-11T11:30:00+00:00",
+          "summary": "Security teams have become exceptionally talented at finding vulnerabilities. Now, it’s time to turn our attention to optimizing the process for determining which of those vulnerabilities actually create a path to compromise. A critical vulnerability may look…",
+          "tags": []
+        },
+        {
+          "title": "Phishing Campaign Targets Employees with Malicious SVG Files",
+          "url": "https://blog.knowbe4.com/phishing-campaign-targets-employees-with-malicious-svg-files",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-09-11T13:00:02+00:00",
+          "summary": "Researchers at INKY observed a major phishing campaign that used SVG (Scalable Vector Graphics) image files to deliver malicious JavaScript. While abuse of SVG files isn’t new, INKY says their use in phishing campaigns has exploded over the past year.",
+          "tags": []
+        },
+        {
+          "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
+          "url": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-09-11T06:19:59+00:00",
+          "summary": "Cisco has revealed that three distinct threat clusters linked to ransomware and state-sponsored attacks have been exploiting two recently patched Secure Firewall Management Center (FMC) vulnerabilities. The attacks leverage CVE-2026-20079 (CVSS score: 10.0)…",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Soft-deprecating re.match()",
+          "url": "https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-11T14:47:57+00:00",
+          "summary": "Soft-deprecating re.match() Python has a concept of soft deprecation , where APIs are marked as \"should no longer be used to write new code\" without any promise/threat to remove them in the future. Python 3.15 release manager Hugo van Kemenade describes how…",
+          "tags": []
+        },
+        {
+          "title": "Don't sleep on wrapture",
+          "url": "https://simonwillison.net/2026/Sep/11/wrapture/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-11T13:51:32+00:00",
+          "summary": "Graham Dumpleton's new monkey patching package wrapture is shaping up to be an indispensable tool for Python developers. I'm not sure why I've seen so little buzz about it! Graham has been posting new tutorials for it almost daily since the initial release on…",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: Can we please limit the AI news flood?",
+          "url": "https://news.ycombinator.com/item?id=49657850",
+          "source": "Hacker News",
+          "section": "ai",
+          "published": "2026-09-11T13:11:04+00:00",
+          "summary": "Over past couple months I noticed that HN feed is almost exclusively AI or AI-adjacent news. Meanwhile the legitimately, broadly-hacker stuff gets left out for the most part. I noticed that because the things I find genuinely interesting that I post here now…",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "New York marks 25th anniversary of World Trade Center attacks",
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/11/new-york-marks-25th-anniversary-of-world-trade-center-attacks_6757426_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-11T14:38:32+00:00",
+          "summary": "Civilians joined bereaved family members and political figures in New York on Friday for 25th-anniversary commemorations of the September 11, 2001 attacks on the World Trade Center. Designed to be apolitical, the ceremonies did not escape controversy due to…",
+          "tags": []
+        },
+        {
+          "title": "Anti-addiction groups criticize French presidential candidate's beer video",
+          "url": "https://www.lemonde.fr/en/politics/article/2026/09/11/anti-addiction-groups-enraged-by-french-presidential-candidate-s-beer-video_6757425_5.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-11T14:02:50+00:00",
+          "summary": "Gabriel Attal launched what he called the '1,000 bistros' campaign, brandishing a half pint of beer. Groups said his video violated the French law regulating the promotion of alcohol.",
+          "tags": []
+        },
+        {
+          "title": "I'm extremely worried by extremists that win elections in Europe: Luxembourg's PM Luc Frieden",
+          "url": "https://www.france24.com/en/tv-shows/talking-europe/20260911-i-m-extremely-worried-by-extremists-that-win-elections-in-europe-luxembourg-s-pm-luc-frieden",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-09-11T14:53:30+00:00",
+          "summary": "\"European strategic autonomy\" is a buzz phrase in Brussels and in EU capitals these days. What does it mean for space policy? That was one of the central points that we raised with the Prime Minister of Luxembourg, Luc Frieden, during his visit to Paris for…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "2026 Montreal Canadiens Top 25 Under 25: #1 Lane Hutson",
+          "url": "https://www.habseyesontheprize.com/lane-hutson-2026-montreal-canadiens-top-25-under-25-prospect-ranking-scouting-report-stats-projection/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-09-11T10:00:00+00:00",
+          "summary": "Introduction It’s very easy to underestimate Lane Hutson. It’s very hard to underestimate him in the same way more than once. At first, there were questions about his size , to the point where the draft-eligible Hutson brought in endocrinology reports to try…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Fifty-eight years after Ashe’s triumph, two Black Americans meet for a place in the US Open final",
+          "url": "https://www.tennismajors.com/us-open-news/fifty-eight-years-after-ashes-triumph-two-black-americans-meet-for-a-place-in-the-us-open-final-860715.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-09-11T12:50:03+00:00",
+          "summary": "Frances Tiafoe and Ben Shelton qualified for the US Open semifinals on the 58th anniversary of Arthur Ashe's title, and will play each other on the court that bears his name for the right to be the first Black American man in the final since 1968. Coco Gauff…",
+          "tags": []
+        },
+        {
+          "title": "Bed at 6:45am - US Open semi-finalists fight effects of late-night finishes",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/crk3jjp2l35o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-09-11T09:09:59+00:00",
+          "summary": "New York is known as the city that never sleeps. But that comes at a price for US Open stars - including men's semi-finalists Ben Shelton and Alexander Zverev.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 9,
+  "sources_line": "BBC TENNIS, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, HACKER NEWS, KNOWBE4, LE MONDE, SIMON WILLISON, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 26,
+      "low": 16,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 26,
+      "low": 15,
+      "conditions": "showers"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-86060",
+      "vendor": "MikroTik",
+      "product": "RouterOS",
+      "name": "MikroTik RouterOS Improper Neutralization of Argument Delimiters in a Command Vulnerability",
+      "summary": "MikroTik RouterOS contains an improper neutralization of argument delimiters in a command vulnerability which allows an attacked to change the trusted RouterOS policy mask, leading to privilege escalation.",
+      "added": "2026-09-10",
+      "due": "2026-09-13",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-86060"
+    },
+    {
+      "cve": "CVE-2026-67277",
+      "vendor": "MikroTik",
+      "product": "RouterOS",
+      "name": "MikroTik RouterOS Missing Authentication for Critical Function Vulnerability",
+      "summary": "MikroTik RouterOS contains a missing authenticaion for critical function vulnerability which allows kernel memory disclosure and denial of service in the btest service.",
+      "added": "2026-09-10",
+      "due": "2026-09-13",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-67277"
+    },
+    {
+      "cve": "CVE-2026-19490",
+      "vendor": "Citrix",
+      "product": "NetScaler",
+      "name": "Citrix NetScaler Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+      "summary": "Citrix NetScaler ADC and NetScaler Gateway contain an authentication-bypass vulnerability involving an alternate path or channel. When the NetScaler appliance is configured as an AAA virtual server or as a Gateway (SSL…",
+      "added": "2026-09-09",
+      "due": "2026-09-12",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-19490"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-09-20",
+      "away": "WSH",
+      "home": "BOS"
+    },
+    "offseason": true,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "US Open",
+        "start": "2026-08-24",
+        "end": "2026-09-14",
+        "venue": "",
+        "major": true
+      },
+      {
+        "name": "Montreux Nestlé Open",
+        "start": "2026-09-06",
+        "end": "2026-09-14",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "ATIK Antalya Open",
+        "start": "2026-09-06",
+        "end": "2026-09-14",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Kia Open",
+        "start": "2026-09-07",
+        "end": "2026-09-14",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Iga Świątek",
+        "last": {
+          "event": "US Open",
+          "grouping": "Women's Singles",
+          "round": "Round 4",
+          "date": "2026-09-07",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Zheng Qinwen",
+              "winner": true,
+              "sets": [
+                7.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Iga Swiatek",
+              "winner": false,
+              "sets": [
+                5.0,
+                3.0
+              ]
+            }
+          ],
+          "opponent": "Zheng Qinwen",
+          "won": false
+        },
+        "next": null
+      },
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "US Open",
+          "grouping": "Men's Singles",
+          "round": "Quarterfinal",
+          "date": "2026-09-09",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": [
+                7.0,
+                1.0,
+                3.0,
+                6.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Ben Shelton",
+              "winner": true,
+              "sets": [
+                6.0,
+                6.0,
+                6.0,
+                1.0,
+                7.0
+              ]
+            }
+          ],
+          "opponent": "Ben Shelton",
+          "won": false
+        },
+        "next": null
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Aryna Sabalenka",
+          "points": 8575.0
+        },
+        {
+          "rank": 2,
+          "name": "Elena Rybakina",
+          "points": 8141.0
+        },
+        {
+          "rank": 3,
+          "name": "Jessica Pegula",
+          "points": 7265.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 12800.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 7790.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 7160.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Korea Open",
+        "tour": "WTA",
+        "start": "2026-09-21",
+        "end": "2026-09-28",
+        "major": false
+      },
+      {
+        "name": "Singapore Tennis Open",
+        "tour": "WTA",
+        "start": "2026-09-21",
+        "end": "2026-09-28",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 69
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "s'il vous plaît",
+        "en": "please"
+      },
+      {
+        "fr": "montre",
+        "en": "show, points to, point to"
+      },
+      {
+        "fr": "au bout de",
+        "en": "at the end of"
+      }
+    ],
+    "quiz": {
+      "fr": "s'il vous plaît",
+      "en": "please"
+    }
+  },
+  "counts": {
+    "stories": 12,
+    "kev": 3
+  }
+}
