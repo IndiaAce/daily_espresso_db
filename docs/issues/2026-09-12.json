@@ -1,0 +1,430 @@
+{
+  "date": "2026-09-12",
+  "date_long": "Saturday, September 12, 2026",
+  "date_mast": "SATURDAY 12 SEPTEMBER 2026",
+  "built_at": "2026-09-12T13:59:07.815771+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "FBI Alert: OAuth Consent Phishing is Targeting Users of Messaging Apps",
+          "url": "https://blog.knowbe4.com/fbi-alert-oauth-consent-phishing-is-targeting-users-of-messaging-apps",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-09-11T20:00:01+00:00",
+          "summary": "The U.S. Federal Bureau of Investigation (FBI) has issued an advisory warning of a wave of OAuth consent phishing attacks targeting “prominent victims, their family members, and personal acquaintances.” OAuth phishing is an increasingly popular social…",
+          "tags": []
+        },
+        {
+          "title": "Florida confirms DMV database breached via stolen police account",
+          "url": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-09-11T19:00:29+00:00",
+          "summary": "The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach, saying the attackers gained access using credentials belonging to a police department employee.",
+          "tags": []
+        },
+        {
+          "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
+          "url": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-09-11T17:26:50+00:00",
+          "summary": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from Microsoft 365 services.",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+          "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-09-14T00:00:00+00:00",
+          "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+          "tags": []
+        },
+        {
+          "title": "OpenAI agents attacked RubyGems back in May",
+          "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-12T00:42:25+00:00",
+          "summary": "OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx - three of the four authors of the report on the agent attack on disused wikis ( previously ) last week. This time…",
+          "tags": []
+        },
+        {
+          "title": "So you want to use OpenRouter?",
+          "url": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-11T22:49:18+00:00",
+          "summary": "So you want to use OpenRouter? One of OpenRouter's selling points is that it \"handles fallbacks automatically and picks the most cost-effective option for each request\", so you can call a single API endpoint for a model and get routed to the best available…",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Hedge funds increasingly speculate on French debt, raising specter of crisis",
+          "url": "https://www.lemonde.fr/en/economy/article/2026/09/12/hedge-funds-increasingly-speculate-on-french-debt-raising-specter-of-crisis_6757450_19.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-12T11:21:22+00:00",
+          "summary": "Hedge funds now account for more than half of all European bond trading. France, which carries one of the highest debt levels in Western Europe, has become concerned about these creditors, whose profiles are less predictable than those of public institutions…",
+          "tags": []
+        },
+        {
+          "title": "Isolated by Iran and Yemeni Houthi rebels, Saudi Arabia seeks US backing",
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/12/isolated-by-iran-and-yemeni-houthi-rebels-saudi-arabia-seeks-us-backing_6757448_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-12T09:52:45+00:00",
+          "summary": "With Tehran-allied rebels seizing control of the Bab al-Mandab Strait between the Red Sea and the Indian Ocean on Thursday, and Iran blocking the Strait of Hormuz, the kingdom is at risk of losing all maritime access for its oil tankers.",
+          "tags": []
+        },
+        {
+          "title": "French police suspect Normandy train derailment was result of sabotage",
+          "url": "https://www.france24.com/en/europe/20260912-french-police-investigate-suspected-sabotage-in-train-derailment",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-09-12T08:48:48+00:00",
+          "summary": "A police source said Saturday that French investigators suspect sabotage caused a train derailment in northwest France after a fragment of rail was found on the track. At least 44 people were injured in the derailment that occurred a day earlier, including an…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Saturday Habs Headlines: David Reinbacher set to get his chance",
+          "url": "https://www.habseyesontheprize.com/montreal-canadiens-news-chris-kreider-speculation-david-reinbacher-tyler-thorpe-tom-wilson-owen-protz-luke-mittlestadt-cole-caufield-nhl-27-dylan-larkin-captain-gavin-mckenna-prospect-challenge/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-09-12T08:00:00+00:00",
+          "summary": "Montreal Canadiens news and notes You can’t read much into what happens at this stage of summer training, but David Reinbacher and Adam Engström working out with the NHL regulars is notable. [ La Presse ] Would Chris Kreider help the Canadiens? [ TVA Sports ]…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "The summit of the women’s season: Sabalenka meets Rybakina with the ranking settled and everything else still on the line",
+          "url": "https://www.tennismajors.com/us-open-news/the-summit-of-the-womens-season-sabalenka-meets-rybakina-with-the-ranking-settled-and-everything-else-still-on-the-line-860794.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-09-12T13:52:05+00:00",
+          "summary": "Aryna Sabalenka plays Elena Rybakina in the final of the US Open 2026, the third final at this tournament between the world No. 1 and No. 2 since 2000. Rybakina takes the No. 1 ranking on Monday regardless of the result, ending Sabalenka's 99-week run…",
+          "tags": []
+        },
+        {
+          "title": "'Red rag to a bull' - Sabalenka's extra motivation to win US Open",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cly59yjl5d5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-09-12T09:04:13+00:00",
+          "summary": "Aryna Sabalenka has lost the world number one ranking to Elena Rybakina - but has the chance to take revenge in the US Open final.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 10,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, KNOWBE4, LE MONDE, OPENAI, SIMON WILLISON, TENNIS MAJORS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 22,
+      "low": 10,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 25,
+      "low": 15,
+      "conditions": "overcast"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-84869",
+      "vendor": "ConnectWise",
+      "product": "ScreenConnect",
+      "name": "ConnectWise ScreenConnect Improper Privilege Management and Missing Authorization Vulnerability",
+      "summary": "ConnectWise ScreenConnect contains both an improper privilege management and missing authorization vulnerability that may allow an attacker to file transfer and execution through an active remote sessions without…",
+      "added": "2026-09-11",
+      "due": "2026-09-14",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-84869"
+    },
+    {
+      "cve": "CVE-2026-42016",
+      "vendor": "JFrog",
+      "product": "Artifactory",
+      "name": "JFrog Artifactory Incorrect Authorization Vulnerability",
+      "summary": "JFrog Artifactory contains an incorrect authorization vulnerability that allows leads to privilege escalation attack due to a validation check of the token signature/issuer and not the token’s scope.",
+      "added": "2026-09-11",
+      "due": "2026-09-25",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-42016"
+    },
+    {
+      "cve": "CVE-2026-42018",
+      "vendor": "JFrog",
+      "product": "Artifactory",
+      "name": "JFrog Artifactory Improper Authentication Vulnerability",
+      "summary": "JFrog Artifactory contains an improper authentication vulnerability that could return an internal anonymous-user token to an unauthenticated caller when anonymous access is disabled, potentially exposing sensitive…",
+      "added": "2026-09-11",
+      "due": "2026-09-25",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-42018"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-09-20",
+      "away": "WSH",
+      "home": "BOS"
+    },
+    "offseason": true,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "US Open",
+        "start": "2026-08-24",
+        "end": "2026-09-14",
+        "venue": "",
+        "major": true
+      },
+      {
+        "name": "Montreux Nestlé Open",
+        "start": "2026-09-06",
+        "end": "2026-09-14",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "ATIK Antalya Open",
+        "start": "2026-09-06",
+        "end": "2026-09-14",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Kia Open",
+        "start": "2026-09-07",
+        "end": "2026-09-13",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Guadalajara Open presentado por Santander",
+        "start": "2026-09-12",
+        "end": "2026-09-20",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "SP Open",
+        "start": "2026-09-12",
+        "end": "2026-09-21",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Iga Świątek",
+        "last": {
+          "event": "US Open",
+          "grouping": "Women's Singles",
+          "round": "Round 4",
+          "date": "2026-09-07",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Zheng Qinwen",
+              "winner": true,
+              "sets": [
+                7.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Iga Swiatek",
+              "winner": false,
+              "sets": [
+                5.0,
+                3.0
+              ]
+            }
+          ],
+          "opponent": "Zheng Qinwen",
+          "won": false
+        },
+        "next": null
+      },
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "US Open",
+          "grouping": "Men's Singles",
+          "round": "Quarterfinal",
+          "date": "2026-09-09",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": [
+                7.0,
+                1.0,
+                3.0,
+                6.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Ben Shelton",
+              "winner": true,
+              "sets": [
+                6.0,
+                6.0,
+                6.0,
+                1.0,
+                7.0
+              ]
+            }
+          ],
+          "opponent": "Ben Shelton",
+          "won": false
+        },
+        "next": null
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Aryna Sabalenka",
+          "points": 8575.0
+        },
+        {
+          "rank": 2,
+          "name": "Elena Rybakina",
+          "points": 8141.0
+        },
+        {
+          "rank": 3,
+          "name": "Jessica Pegula",
+          "points": 7265.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 12800.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 7790.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 7160.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Korea Open",
+        "tour": "WTA",
+        "start": "2026-09-21",
+        "end": "2026-09-28",
+        "major": false
+      },
+      {
+        "name": "Singapore Tennis Open",
+        "tour": "WTA",
+        "start": "2026-09-21",
+        "end": "2026-09-28",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 68
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "normal",
+        "en": "normal, regular"
+      },
+      {
+        "fr": "homme de ménage",
+        "en": "cleaning man"
+      },
+      {
+        "fr": "cuillère",
+        "en": "spoon"
+      }
+    ],
+    "quiz": {
+      "fr": "normal",
+      "en": "normal, regular"
+    }
+  },
+  "counts": {
+    "stories": 12,
+    "kev": 3
+  }
+}
