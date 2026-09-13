@@ -1,0 +1,439 @@
+{
+  "date": "2026-09-13",
+  "date_long": "Sunday, September 13, 2026",
+  "date_mast": "SUNDAY 13 SEPTEMBER 2026",
+  "built_at": "2026-09-13T14:53:14.110874+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
+          "url": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-09-13T10:11:48+00:00",
+          "summary": "Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach cloud environments. The first campaign…",
+          "tags": []
+        },
+        {
+          "title": "Survey: Companies Cite Phishing as their Top AI-Enabled Fraud Concern",
+          "url": "https://blog.knowbe4.com/survey-companies-cite-phishing-as-their-top-ai-enabled-fraud-concern",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-09-11T16:00:00+00:00",
+          "summary": "A recent survey from Experian found that 60% of companies report fraud losses that are “somewhat or significantly higher” than in previous years, with a majority of respondents citing AI-generated phishing attacks as their top AI-related fraud concern.",
+          "tags": []
+        },
+        {
+          "title": "Threat Actor Generates 1M Personalized Fraud Emails in 3 Days",
+          "url": "https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days",
+          "source": "Dark Reading",
+          "section": "email_security",
+          "published": "2026-09-11T19:21:08+00:00",
+          "summary": "Cybercriminals behind malicious email campaigns no longer have to compromise volume for credibility, or vice versa, thanks to AI.",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
+          "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-12T23:56:42+00:00",
+          "summary": "Here's a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning: I live at <my address>. Figure out 5K and 10K running routes from me that loop from my house. Use OSM data. It worked for 27 minutes and produced exactly what I'd asked for, as…",
+          "tags": []
+        },
+        {
+          "title": "California Brown Pelican",
+          "url": "https://simonwillison.net/2026/Sep/12/sighting-399708714/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-12T21:16:09+00:00",
+          "summary": "California Brown Pelican, in San Mateo County, CA, US The Pacifica Pier shut down at the start of June after a crack in the concrete walkway made access to the pier unsafe. It has since been entirely taken over by pelicans! Tags: wildlife",
+          "tags": []
+        },
+        {
+          "title": "Homebrew 7.0.0",
+          "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
+          "source": "Hacker News",
+          "section": "ai",
+          "published": "2026-09-13T08:41:17+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Radio France staff strike over appointment of far-right weekly editor",
+          "url": "https://www.france24.com/en/france/20260913-radio-france-staff-strike-over-appointment-of-far-right-weekly-editor",
+          "source": "France 24",
+          "section": "france",
+          "published": "2026-09-13T12:44:54+00:00",
+          "summary": "Staff at public broadcaster Radio France began a two-day strike on Sunday over the appointment of Charles Sapin, deputy editor-in-chief at far-right weekly Valeurs Actuelles. Unions accuse Sapin of promoting far-right ideas ahead of next spring's presidential…",
+          "tags": []
+        },
+        {
+          "title": "France apologises for diplomatic spat with US to lift block on new ambassador to Washington",
+          "url": "https://www.france24.com/en/france/20260913-france-apologises-for-diplomatic-spat-with-us-to-lift-block-on-new-ambassador-to-washington",
+          "source": "France 24",
+          "section": "france",
+          "published": "2026-09-13T09:01:17+00:00",
+          "summary": "The French UN mission said it regretted an online post criticising a US vote at the UN General Assembly in a move that should clear the way for the new French ambassador Aurélien Lechevallier to take up his post in Washington.",
+          "tags": []
+        },
+        {
+          "title": "OpenAI will not go public in 2026, says CEO Sam Altman",
+          "url": "https://www.lemonde.fr/en/economy/article/2026/09/13/openai-will-not-go-public-in-2026-says-ceo-sam-altman_6757470_19.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-13T10:57:40+00:00",
+          "summary": "Citing safety concerns, Altman told 'Fortune' business magazine that 'right now would be an ill-advised moment' for OpenAI, the maker of ChatGPT, to become a public company.",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Prospect Showcase PREVIEW/LIVETHREAD",
+          "url": "https://www.stanleycupofchowder.com/bruins-gameday/59222/prospect-showcase-preview-livethread",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-09-13T10:00:00+00:00",
+          "summary": "Just the Facts Bruins Prospect Showcase Roster Forwards Attilio Biasca, Cole Chandler, Jordan Duguay, Riley Duran, James Hagens, Dans Locmelis, Will Manchuso, Nolan Renwick, Jake Schmaltz, Ryan Tattle, Niko Tournas, Kalle Vaisanen, Jaxsin Vaughan, Thomas…",
+          "tags": []
+        },
+        {
+          "title": "Sunday Habs Headlines: Chris Kreider chose Montreal fit over more money",
+          "url": "https://www.habseyesontheprize.com/montreal-canadiens-news-chris-kreider-contract-details-performance-bonus-nick-suzuki-aleksander-barkov-debate-alexandr-legkov-dillan-bentley-mark-stone-extension/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-09-13T08:00:00+00:00",
+          "summary": "Montreal Canadiens news and notes Chris Kreider had bigger offers, but chose to sign with Montreal. [ Sportsnet ] Kreider arrives to a Canadiens team with several familiar faces. [ TVA Sports ] Kreider’s deal has a $2.15-million base salary, with $3.25…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "September 13, 2010: The day Rafael Nadal completed the career Grand Slam",
+          "url": "https://www.tennismajors.com/us-open-news/september-13-day-rafael-nadal-completed-career-grand-slam-289427.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-09-13T14:08:34+00:00",
+          "summary": "Every day, Tennis Majors takes you back to the biggest moments in tennis history. On September 13, 2010, Rafael Nadal defeated Novak Djokovic in four sets to win his first US Open title",
+          "tags": []
+        },
+        {
+          "title": "Rybakina beats Sabalenka to win US Open for the first time",
+          "url": "https://www.bbc.co.uk/sport/tennis/videos/cq63znqlq70o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-09-13T10:30:31+00:00",
+          "summary": "Elena Rybakina beats the two-time defending champion Aryna Sabalenka to win her first US Open and her third Grand Slam title overall.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 11,
+  "sources_line": "BBC TENNIS, DARK READING, FRANCE 24, HABS EYES ON THE PRIZE, HACKER NEWS, KNOWBE4, LE MONDE, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 24,
+      "low": 16,
+      "conditions": "heavy rain"
+    },
+    {
+      "code": "PAR",
+      "high": 27,
+      "low": 18,
+      "conditions": "overcast"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-84869",
+      "vendor": "ConnectWise",
+      "product": "ScreenConnect",
+      "name": "ConnectWise ScreenConnect Improper Privilege Management and Missing Authorization Vulnerability",
+      "summary": "ConnectWise ScreenConnect contains both an improper privilege management and missing authorization vulnerability that may allow an attacker to file transfer and execution through an active remote sessions without…",
+      "added": "2026-09-11",
+      "due": "2026-09-14",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-84869"
+    },
+    {
+      "cve": "CVE-2026-42016",
+      "vendor": "JFrog",
+      "product": "Artifactory",
+      "name": "JFrog Artifactory Incorrect Authorization Vulnerability",
+      "summary": "JFrog Artifactory contains an incorrect authorization vulnerability that allows leads to privilege escalation attack due to a validation check of the token signature/issuer and not the token’s scope.",
+      "added": "2026-09-11",
+      "due": "2026-09-25",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-42016"
+    },
+    {
+      "cve": "CVE-2026-42018",
+      "vendor": "JFrog",
+      "product": "Artifactory",
+      "name": "JFrog Artifactory Improper Authentication Vulnerability",
+      "summary": "JFrog Artifactory contains an improper authentication vulnerability that could return an internal anonymous-user token to an unauthenticated caller when anonymous access is disabled, potentially exposing sensitive…",
+      "added": "2026-09-11",
+      "due": "2026-09-25",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-42018"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-09-20",
+      "away": "WSH",
+      "home": "BOS"
+    },
+    "offseason": true,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "US Open",
+        "start": "2026-08-24",
+        "end": "2026-09-14",
+        "venue": "",
+        "major": true
+      },
+      {
+        "name": "Montreux Nestlé Open",
+        "start": "2026-09-06",
+        "end": "2026-09-14",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "ATIK Antalya Open",
+        "start": "2026-09-06",
+        "end": "2026-09-14",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Kia Open",
+        "start": "2026-09-07",
+        "end": "2026-09-13",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Guadalajara Open presentado por Santander",
+        "start": "2026-09-12",
+        "end": "2026-09-20",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "SP Open",
+        "start": "2026-09-12",
+        "end": "2026-09-21",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Iga Świątek",
+        "last": {
+          "event": "US Open",
+          "grouping": "Women's Singles",
+          "round": "Round 4",
+          "date": "2026-09-07",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Zheng Qinwen",
+              "winner": true,
+              "sets": [
+                7.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Iga Swiatek",
+              "winner": false,
+              "sets": [
+                5.0,
+                3.0
+              ]
+            }
+          ],
+          "opponent": "Zheng Qinwen",
+          "won": false
+        },
+        "next": null
+      },
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "US Open",
+          "grouping": "Men's Singles",
+          "round": "Quarterfinal",
+          "date": "2026-09-09",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": [
+                7.0,
+                1.0,
+                3.0,
+                6.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Ben Shelton",
+              "winner": true,
+              "sets": [
+                6.0,
+                6.0,
+                6.0,
+                1.0,
+                7.0
+              ]
+            }
+          ],
+          "opponent": "Ben Shelton",
+          "won": false
+        },
+        "next": null
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Aryna Sabalenka",
+          "points": 8575.0
+        },
+        {
+          "rank": 2,
+          "name": "Elena Rybakina",
+          "points": 8141.0
+        },
+        {
+          "rank": 3,
+          "name": "Jessica Pegula",
+          "points": 7265.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 12800.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 7790.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 7160.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Korea Open",
+        "tour": "WTA",
+        "start": "2026-09-21",
+        "end": "2026-09-28",
+        "major": false
+      },
+      {
+        "name": "Singapore Tennis Open",
+        "tour": "WTA",
+        "start": "2026-09-21",
+        "end": "2026-09-28",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 67
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "voyez",
+        "en": "are seeing, see, check"
+      },
+      {
+        "fr": "physique",
+        "en": "physics, physical, physical appearance"
+      },
+      {
+        "fr": "par",
+        "en": "through, by, per"
+      }
+    ],
+    "quiz": {
+      "fr": "voyez",
+      "en": "are seeing, see, check"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
