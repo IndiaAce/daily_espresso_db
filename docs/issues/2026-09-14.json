@@ -1,0 +1,430 @@
+{
+  "date": "2026-09-14",
+  "date_long": "Monday, September 14, 2026",
+  "date_mast": "MONDAY 14 SEPTEMBER 2026",
+  "built_at": "2026-09-14T16:55:07.226283+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
+          "url": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-09-14T16:15:58+00:00",
+          "summary": "A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments.",
+          "tags": []
+        },
+        {
+          "title": "Social Engineering Campaign Uses Phony NDAs to Avoid Detection",
+          "url": "https://blog.knowbe4.com/social-engineering-campaign-uses-phony-ndas-to-avoid-detection",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-09-14T16:00:01+00:00",
+          "summary": "Researchers at Gen Digital are tracking a sophisticated social engineering campaign that’s using phony NDA documents to trick employees into moving the conversation to WhatsApp and personal email accounts. The attackers targeted an employee at Gen itself, but…",
+          "tags": []
+        },
+        {
+          "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
+          "url": "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-09-14T12:15:23+00:00",
+          "summary": "Attackers can combine social engineering with malicious OAuth applications to gain access to Google Workspace data without relying solely on stolen passwords. This webinar examines two attacks to show how these breaches unfold and which security controls can…",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Quoting Laurie Voss",
+          "url": "https://simonwillison.net/2026/Sep/14/laurie-voss/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-14T14:34:29+00:00",
+          "summary": "The cost of writing code collapsed, and the cost of reviewing, fixing and operating it is following, and I'm assuming it gets there. What's left of making software is finding out what people actually want, defining it precisely, and making it pleasant to use…",
+          "tags": []
+        },
+        {
+          "title": "How Fyxer built an AI executive assistant people trust",
+          "url": "https://openai.com/index/fyxer",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-09-14T12:00:00+00:00",
+          "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+          "tags": []
+        },
+        {
+          "title": "commit-rewriter 0.1",
+          "url": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-14T00:28:10+00:00",
+          "summary": "Release: commit-rewriter 0.1 I built this little web app the other day to help edit the commit messages for the Datasette security releases . The initial commits were full of coding agent cruft and references to issue IDs from our private repository, so they…",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "El Niño: Understanding the weather-disrupting event and why it could break records this year",
+          "url": "https://www.lemonde.fr/en/environment/article/2026/09/14/el-nino-understanding-the-weather-disrupting-event-and-why-it-could-break-records-this-year_6757520_114.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-14T16:30:09+00:00",
+          "summary": "The El Niño climate anomaly, which occurs in the Pacific every two to seven years, triggers droughts and floods, disrupts entire sectors of the economy, and raises global temperatures.",
+          "tags": []
+        },
+        {
+          "title": "EU 'concerned' about Turkey anti-LGBTQ raids",
+          "url": "https://www.lemonde.fr/en/turkey/article/2026/09/14/eu-concerned-about-turkey-anti-lgbtq-raids_6757519_219.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-14T15:57:19+00:00",
+          "summary": "Turkish police on Sunday swooped on gay bars and the homes of LGBTQ+ activists in raids that the authorities said were aimed at boosting traditional family values. At least 60 people were arrested.",
+          "tags": []
+        },
+        {
+          "title": "Sweden faces political uncertainty after knife-edge election",
+          "url": "https://www.france24.com/en/europe/20260914-sweden-faces-political-uncertainty-after-knife-edge-election",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-09-14T09:25:14+00:00",
+          "summary": "Sweden was bracing for a protracted struggle to form a government on Monday after election results showed a thin and uncertain lead for the left-wing opposition, while the far-right Sweden Democrats lost ground for the first time since entering parliament 16…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Montreal Canadiens golf tournament highlights: Martin St-Louis signs multi-year extension, Josh Anderson named alternate",
+          "url": "https://www.habseyesontheprize.com/montreal-canadiens-golf-tournament-highlights-quotes-martin-st-louis-signs-multi-year-extension-josh-anderson-named-alternate/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-09-14T12:09:30+00:00",
+          "summary": "The Montreal Canadiens season unofficially started on Monday morning with their annual golf tournament in Laval-Sur-Le-Lac, kicking off their 2026-27 training camp and season. That didn’t mean they didn’t get some housekeeping things completed early, with…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "September 14, 2009: The day Del Potro stunned five-time defending champ Federer in five sets to win the US Open",
+          "url": "https://www.tennismajors.com/us-open-news/september-14-2009-del-potro-stuns-federer-five-set-final-us-open-289734.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-09-14T09:30:00+00:00",
+          "summary": "Every day, Tennis Majors takes you back to the biggest moments in tennis history. On September 14, 2009, Juan Martin del Potro came from behind to triumph in his first Grand Slam final over a red-hot Roger Federer",
+          "tags": []
+        },
+        {
+          "title": "From Challenger Tour to Davis Cup - GB's Samuel on 'surreal' year",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cx2zn34j47no?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-09-14T12:13:20+00:00",
+          "summary": "Briton Toby Samuel is to make his Davis Cup debut for Great Britain after what he calls a \"surreal\" 12 months.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 12,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, KNOWBE4, LE MONDE, OPENAI, SIMON WILLISON, TENNIS MAJORS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 21,
+      "low": 12,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 29,
+      "low": 18,
+      "conditions": "overcast"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-84869",
+      "vendor": "ConnectWise",
+      "product": "ScreenConnect",
+      "name": "ConnectWise ScreenConnect Improper Privilege Management and Missing Authorization Vulnerability",
+      "summary": "ConnectWise ScreenConnect contains both an improper privilege management and missing authorization vulnerability that may allow an attacker to file transfer and execution through an active remote sessions without…",
+      "added": "2026-09-11",
+      "due": "2026-09-14",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-84869"
+    },
+    {
+      "cve": "CVE-2026-42016",
+      "vendor": "JFrog",
+      "product": "Artifactory",
+      "name": "JFrog Artifactory Incorrect Authorization Vulnerability",
+      "summary": "JFrog Artifactory contains an incorrect authorization vulnerability that allows leads to privilege escalation attack due to a validation check of the token signature/issuer and not the token’s scope.",
+      "added": "2026-09-11",
+      "due": "2026-09-25",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-42016"
+    },
+    {
+      "cve": "CVE-2026-42018",
+      "vendor": "JFrog",
+      "product": "Artifactory",
+      "name": "JFrog Artifactory Improper Authentication Vulnerability",
+      "summary": "JFrog Artifactory contains an improper authentication vulnerability that could return an internal anonymous-user token to an unauthenticated caller when anonymous access is disabled, potentially exposing sensitive…",
+      "added": "2026-09-11",
+      "due": "2026-09-25",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-42018"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-09-20",
+      "away": "WSH",
+      "home": "BOS"
+    },
+    "offseason": true,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "US Open",
+        "start": "2026-08-24",
+        "end": "2026-09-14",
+        "venue": "",
+        "major": true
+      },
+      {
+        "name": "Guadalajara Open presentado por Santander",
+        "start": "2026-09-12",
+        "end": "2026-09-20",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "SP Open",
+        "start": "2026-09-12",
+        "end": "2026-09-21",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "BBVA Open Internacional De Valencia",
+        "start": "2026-09-13",
+        "end": "2026-09-21",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Caldas da Rainha Ladies Open",
+        "start": "2026-09-13",
+        "end": "2026-09-21",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Zavarovalnica Triglav Ljubljana",
+        "start": "2026-09-14",
+        "end": "2026-09-21",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Iga Świątek",
+        "last": {
+          "event": "US Open",
+          "grouping": "Women's Singles",
+          "round": "Round 4",
+          "date": "2026-09-07",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Zheng Qinwen",
+              "winner": true,
+              "sets": [
+                7.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Iga Swiatek",
+              "winner": false,
+              "sets": [
+                5.0,
+                3.0
+              ]
+            }
+          ],
+          "opponent": "Zheng Qinwen",
+          "won": false
+        },
+        "next": null
+      },
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "US Open",
+          "grouping": "Men's Singles",
+          "round": "Quarterfinal",
+          "date": "2026-09-09",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": [
+                7.0,
+                1.0,
+                3.0,
+                6.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Ben Shelton",
+              "winner": true,
+              "sets": [
+                6.0,
+                6.0,
+                6.0,
+                1.0,
+                7.0
+              ]
+            }
+          ],
+          "opponent": "Ben Shelton",
+          "won": false
+        },
+        "next": null
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9901.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7875.0
+        },
+        {
+          "rank": 3,
+          "name": "Jessica Pegula",
+          "points": 7265.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 11500.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9690.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5560.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Chengdu Open",
+        "tour": "ATP",
+        "start": "2026-09-23",
+        "end": "2026-09-30",
+        "major": false
+      },
+      {
+        "name": "Hangzhou Open",
+        "tour": "ATP",
+        "start": "2026-09-23",
+        "end": "2026-09-30",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 66
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "inviter",
+        "en": "to invite"
+      },
+      {
+        "fr": "parle",
+        "en": "talking, am talking, is talking"
+      },
+      {
+        "fr": "dedans",
+        "en": "inside, inwards"
+      }
+    ],
+    "quiz": {
+      "fr": "inviter",
+      "en": "to invite"
+    }
+  },
+  "counts": {
+    "stories": 12,
+    "kev": 3
+  }
+}
