@@ -1,0 +1,439 @@
+{
+  "date": "2026-09-15",
+  "date_long": "Tuesday, September 15, 2026",
+  "date_mast": "TUESDAY 15 SEPTEMBER 2026",
+  "built_at": "2026-09-15T15:31:03.727639+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
+          "url": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-09-15T11:26:36+00:00",
+          "summary": "Introduction Security teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the phishing simulation? Does this SIEM rule fire on this particular technique? And, in more mature…",
+          "tags": []
+        },
+        {
+          "title": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers",
+          "url": "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-09-15T11:12:32+00:00",
+          "summary": "Cybersecurity researchers have disclosed details of a mass-scanning campaign that has targeted Vite deployments siphon sensitive data. The first is an automated effort aimed at internet-exposed Vite development servers that's designed to steal cloud…",
+          "tags": []
+        },
+        {
+          "title": "Cisco patches Secure Email Gateway zero-day exploited in attacks",
+          "url": "https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-09-15T07:31:09+00:00",
+          "summary": "Cisco warned customers to patch a critical Secure Email Gateway zero-day security flaw that threat actors have been exploiting in attacks.",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "The contagion of fear",
+          "url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-14T21:18:13+00:00",
+          "summary": "The contagion of fear Bryan Cantrill responds to the tweet by former Anthropic employee Jacob Coxon confirming that many Anthropic researchers believe AI \"could kill us all by the end of the decade\". Bryan shares a story of his own youthful mistakes causing…",
+          "tags": []
+        },
+        {
+          "title": "What blog posts influenced your thinking the most?",
+          "url": "https://simonwillison.net/2026/Sep/14/influences/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-14T20:21:48+00:00",
+          "summary": "My comment on What blog posts influenced your thinking the most? — Lobste.rs. An early Joel Spolsky one for me was The Law of Leaky Abstractions . I read that near the start of my career and it's encouraged me to always be looking for improved understanding…",
+          "tags": []
+        },
+        {
+          "title": "New insights from Google’s AI & Economy ATLAS",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+          "source": "Google AI",
+          "section": "ai",
+          "published": "2026-09-15T13:00:00+00:00",
+          "summary": "Text \"AI & Economy Atlas v1.0 2026\" with the Google G and a spinning globe illustration",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "French banker Matthieu Pigasse's thwarted bid for the Socialist presidential nomination",
+          "url": "https://www.lemonde.fr/en/politics/article/2026/09/15/french-banker-matthieu-pigasse-s-thwarted-bid-for-the-socialist-presidential-nomination_6757555_5.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-15T15:00:07+00:00",
+          "summary": "The investment banker said he was open to running in the presidential primary held by the Socialists and their center-left allies, but accused the party's leadership of having closed the door on him.",
+          "tags": []
+        },
+        {
+          "title": "Million-euro burglary at Paris luxury hotel targets Malian businessman Oumar Gambi",
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/15/million-euro-burglary-at-paris-luxury-hotel-targets-malian-businessman-oumar-gambi_6757553_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-15T13:00:11+00:00",
+          "summary": "Thieves broke into the room of a well-known Malian entrepreneur with close ties to Congolese President Denis Sassou Nguesso by scaling the façade of the Plaza Athénée.",
+          "tags": []
+        },
+        {
+          "title": "Paris ex-mayor says 'collective failure' led to abuse of children in school care",
+          "url": "http://www.france24.com/en/europe/20260915-paris-ex-mayor-says-collective-failure-led-to-abuse-of-children-in-school-care",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-09-15T15:27:35+00:00",
+          "summary": "Former Paris mayor Anne Hidalgo acknowledged a “collective failure” to protect children on Tuesday as police investigate more than 200 allegations of violence, mistreatment and sexual abuse at the French capital’s state-run nurseries and primary schools for…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Morning Thread: James",
+          "url": "https://www.stanleycupofchowder.com/morning-skate-open-threads/59230/morning-thread-james",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-09-15T11:00:00+00:00",
+          "summary": "Welcome back, everyone. It’s Tuesday! ///Jason Alexander as Duckman voice The Bruins finished up their prospect challenge; actually managing to pull away with both games after monday, and while there’s plenty to like; Loke Johansson looked really solid as a…",
+          "tags": []
+        },
+        {
+          "title": "2026 Montreal Canadiens Top 25 Under 25: The biggest rises and largest drops",
+          "url": "https://www.habseyesontheprize.com/2026-montreal-canadiens-top-25-under-25-the-biggest-rises-largest-drops-prospect-ranking-bryce-pickford-luke-mittelstadt-alexis-cournoyer-owen-protz-yevgeni-volokhin-alexander-zharovsky-florian-xhekaj/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-09-15T10:00:00+00:00",
+          "summary": "Each year once the order has been revealed, we do a final reflection on the Montreal Canadiens’ Top 25 Under 25 to highlight the biggest movers from the previous summer, both those who had impressive years to climb higher and those who dropped lower with…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "September 15, 1971: The day a US Open final ended in a tiebreak for the first time",
+          "url": "https://www.tennismajors.com/us-open-news/september-15-1971-a-us-open-final-ends-in-a-tiebreak-for-the-first-time-289967.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-09-15T12:12:38+00:00",
+          "summary": "Every day, Tennis Majors takes you back in time to the biggest moments in tennis history. On September 15, 1971, Stan Smith became the first player to win a Grand Slam in a final-set tiebreak",
+          "tags": []
+        },
+        {
+          "title": "Draper decides not to play again this season",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/c539m40rvzgxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-09-15T14:34:44+00:00",
+          "summary": "Former world number four Jack Draper will not play again this season, but says he is aiming to return to the tour at the start of next year.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 13,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, GOOGLE AI, HABS EYES ON THE PRIZE, LE MONDE, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 19,
+      "low": 9,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 33,
+      "low": 18,
+      "conditions": "overcast"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-76461",
+      "vendor": "Cisco",
+      "product": "Secure Email Gateway",
+      "name": "Cisco Secure Email Gateway SQL Injection Vulnerability",
+      "summary": "Cisco AsyncOS software for Cisco Secure Email Gateway (SEG) contains a SQL injection vulnerability that could allow an unauthenticated, remote attacker to execute arbitrary commands with root privileges on the…",
+      "added": "2026-09-14",
+      "due": "2026-09-17",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-76461"
+    },
+    {
+      "cve": "CVE-2026-84869",
+      "vendor": "ConnectWise",
+      "product": "ScreenConnect",
+      "name": "ConnectWise ScreenConnect Improper Privilege Management and Missing Authorization Vulnerability",
+      "summary": "ConnectWise ScreenConnect contains both an improper privilege management and missing authorization vulnerability that may allow an attacker to file transfer and execution through an active remote sessions without…",
+      "added": "2026-09-11",
+      "due": "2026-09-14",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-84869"
+    },
+    {
+      "cve": "CVE-2026-42016",
+      "vendor": "JFrog",
+      "product": "Artifactory",
+      "name": "JFrog Artifactory Incorrect Authorization Vulnerability",
+      "summary": "JFrog Artifactory contains an incorrect authorization vulnerability that allows leads to privilege escalation attack due to a validation check of the token signature/issuer and not the token’s scope.",
+      "added": "2026-09-11",
+      "due": "2026-09-25",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-42016"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-09-20",
+      "away": "WSH",
+      "home": "BOS"
+    },
+    "offseason": true,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "US Open",
+        "start": "2026-08-24",
+        "end": "2026-09-14",
+        "venue": "",
+        "major": true
+      },
+      {
+        "name": "Guadalajara Open presentado por Santander",
+        "start": "2026-09-12",
+        "end": "2026-09-20",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "SP Open",
+        "start": "2026-09-12",
+        "end": "2026-09-21",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "BBVA Open Internacional De Valencia",
+        "start": "2026-09-13",
+        "end": "2026-09-21",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Caldas da Rainha Ladies Open",
+        "start": "2026-09-13",
+        "end": "2026-09-21",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Zavarovalnica Triglav Ljubljana",
+        "start": "2026-09-14",
+        "end": "2026-09-21",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Iga Świątek",
+        "last": {
+          "event": "US Open",
+          "grouping": "Women's Singles",
+          "round": "Round 4",
+          "date": "2026-09-07",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Zheng Qinwen",
+              "winner": true,
+              "sets": [
+                7.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Iga Swiatek",
+              "winner": false,
+              "sets": [
+                5.0,
+                3.0
+              ]
+            }
+          ],
+          "opponent": "Zheng Qinwen",
+          "won": false
+        },
+        "next": null
+      },
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "US Open",
+          "grouping": "Men's Singles",
+          "round": "Quarterfinal",
+          "date": "2026-09-09",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": [
+                7.0,
+                1.0,
+                3.0,
+                6.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Ben Shelton",
+              "winner": true,
+              "sets": [
+                6.0,
+                6.0,
+                6.0,
+                1.0,
+                7.0
+              ]
+            }
+          ],
+          "opponent": "Ben Shelton",
+          "won": false
+        },
+        "next": null
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9901.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7875.0
+        },
+        {
+          "rank": 3,
+          "name": "Jessica Pegula",
+          "points": 7265.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 11500.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9690.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5560.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Chengdu Open",
+        "tour": "ATP",
+        "start": "2026-09-23",
+        "end": "2026-09-30",
+        "major": false
+      },
+      {
+        "name": "Hangzhou Open",
+        "tour": "ATP",
+        "start": "2026-09-23",
+        "end": "2026-09-30",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 65
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "dollar",
+        "en": "dollar"
+      },
+      {
+        "fr": "étudié",
+        "en": "studied"
+      },
+      {
+        "fr": "ambulance",
+        "en": "ambulance, ems"
+      }
+    ],
+    "quiz": {
+      "fr": "dollar",
+      "en": "dollar"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
