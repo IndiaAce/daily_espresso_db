@@ -1,0 +1,430 @@
+{
+  "date": "2026-09-16",
+  "date_long": "Wednesday, September 16, 2026",
+  "date_mast": "WEDNESDAY 16 SEPTEMBER 2026",
+  "built_at": "2026-09-16T15:23:08.882766+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
+          "url": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-09-16T11:58:00+00:00",
+          "summary": "N0va is targeting organizations across North America and Europe with phishing campaigns that impersonate trusted services and abuse legitimate authentication flows. Successful attacks can give threat actors access to valid accounts without relying on obvious…",
+          "tags": []
+        },
+        {
+          "title": "Threat Intelligence Alone Won't Close the Exploitation Gap",
+          "url": "https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-09-16T11:15:48+00:00",
+          "summary": "A leaked credential shows up in a criminal marketplace, or a vulnerability gets a disclosure advisory, and either one can be weaponized against a real target before most security teams have triaged the alert. Attackers are combining that kind of intelligence…",
+          "tags": []
+        },
+        {
+          "title": "Warning: New Phishing Kit Targets Hundreds of Organizations",
+          "url": "https://blog.knowbe4.com/warning-new-phishing-kit-targets-hundreds-of-organizations",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-09-16T13:00:08+00:00",
+          "summary": "Attackers have used a new phishing platform called “BigBear 2.0” to target hundreds of organizations across more than forty countries, according to researchers at CloudSEK. In about 10% of cases, the phishing attacks were able to bypass multifactor…",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Reimagining advertising with AI",
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-09-16T13:00:00+00:00",
+          "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+          "tags": []
+        },
+        {
+          "title": "Gemini Live audio",
+          "url": "https://simonwillison.net/2026/Sep/15/gemini-live/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-15T22:47:07+00:00",
+          "summary": "Tool: Gemini Live audio Google released Gemini 3.8 Live and 3.8 Live Extended Thinking today - two new speech-to-speech models that are a similar shape to OpenAI's GPT-Live family. I pointed GPT-6 Astra Extra High at the documentation and had it build me this…",
+          "tags": []
+        },
+        {
+          "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Works",
+          "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
+          "source": "Hacker News",
+          "section": "ai",
+          "published": "2026-09-16T13:18:47+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Europe baffled by France's sudden leniency toward Russian oligarch Usmanov",
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/16/europe-baffled-by-france-s-sudden-leniency-toward-russian-oligarch-usmanov_6757593_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-16T13:19:59+00:00",
+          "summary": "To the surprise of its European partners, Paris has requested that billionaire Alisher Usmanov, known for his close ties to Vladimir Putin, be taken off the list of sanctioned Russian individuals.",
+          "tags": []
+        },
+        {
+          "title": "French PM remains vague on funding to fight gender-based and sexual violence",
+          "url": "https://www.lemonde.fr/en/france/article/2026/09/16/french-pm-remains-vague-on-funding-to-fight-gender-based-and-sexual-violence_6757592_7.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-16T13:06:57+00:00",
+          "summary": "In an op-ed in Le Monde, French Prime Minister Sébastien Lecornu evoked for the first time a 'multi-year plan' of resources dedicated to combating gender-based and sexual violence, but did not specify what additional funds might be allocated.",
+          "tags": []
+        },
+        {
+          "title": "Former Kosovo president sentenced to 25 years for war crimes",
+          "url": "http://www.france24.com/en/europe/20260916-former-kosovo-president-sentenced-to-25-years-for-war-crimes",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-09-16T12:55:41+00:00",
+          "summary": "Former Kosovo President Hashim Thaci was found guilty of war crimes committed as part of the Kosovo Liberation Army including murder, torture and illegal arrests by a tribunal in The Hague on Wednesday. Thaci was sentenced to 25 ​years in prison alongside…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Kaiden Guhle to miss 4-5 weeks after off-season surgery",
+          "url": "https://www.habseyesontheprize.com/kaiden-guhle-to-miss-4-5-weeks-after-off-season-surgery-injury-news-montreal-canadiens-adductor/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-09-16T14:55:56+00:00",
+          "summary": "The Montreal Canadiens have announced that defender Kaiden Guhle will miss the start of the season, expecting him to miss the first four to five weeks of the season. Mise à jour médicale : Le défenseur Kaiden Guhle a subi une intervention chirurgicale mineure…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Charlotte to host WTA Finals from 2027",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cmly495rnkq7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-09-16T14:00:12+00:00",
+          "summary": "The WTA Finals will take place in the American city of Charlotte from 2027 on a three-year deal.",
+          "tags": []
+        },
+        {
+          "title": "September 16, 2007: The day Lindsay Davenport won her comeback tournament after a maternity break",
+          "url": "https://www.tennismajors.com/wta-tour-news/september-16-2007-the-day-davenport-won-her-comeback-tournament-after-giving-birth-290273.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-09-15T23:14:08+00:00",
+          "summary": "Every day, Tennis Majors takes you back in time to relive a tennis event which happened on this specific day. On this day in 2007, three-time Grand Slam champion Lindsay Davenport completed her comeback after giving birth to her son with an unexpected title",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 14,
+  "sources_line": "BBC TENNIS, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, HACKER NEWS, KNOWBE4, LE MONDE, OPENAI, SIMON WILLISON, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 27,
+      "low": 11,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 22,
+      "low": 15,
+      "conditions": "overcast"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-58704",
+      "vendor": "Google",
+      "product": "Pixel",
+      "name": "Google Pixel Improper Authorization Vulnerability",
+      "summary": "Google Pixel devices contain an improper authorization vulnerability in the cellular modem. A logic error may allow an attacker to bypass permission checks and escalate privileges.",
+      "added": "2026-09-16",
+      "due": "2026-09-19",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-58704"
+    },
+    {
+      "cve": "CVE-2026-76461",
+      "vendor": "Cisco",
+      "product": "Secure Email Gateway",
+      "name": "Cisco Secure Email Gateway SQL Injection Vulnerability",
+      "summary": "Cisco AsyncOS software for Cisco Secure Email Gateway (SEG) contains a SQL injection vulnerability that could allow an unauthenticated, remote attacker to execute arbitrary commands with root privileges on the…",
+      "added": "2026-09-14",
+      "due": "2026-09-17",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-76461"
+    },
+    {
+      "cve": "CVE-2026-84869",
+      "vendor": "ConnectWise",
+      "product": "ScreenConnect",
+      "name": "ConnectWise ScreenConnect Improper Privilege Management and Missing Authorization Vulnerability",
+      "summary": "ConnectWise ScreenConnect contains both an improper privilege management and missing authorization vulnerability that may allow an attacker to transfer and execute files through an active remote session without…",
+      "added": "2026-09-11",
+      "due": "2026-09-14",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-84869"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-09-20",
+      "away": "WSH",
+      "home": "BOS"
+    },
+    "offseason": true,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "US Open",
+        "start": "2026-08-24",
+        "end": "2026-09-14",
+        "venue": "",
+        "major": true
+      },
+      {
+        "name": "Guadalajara Open presentado por Santander",
+        "start": "2026-09-12",
+        "end": "2026-09-20",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "SP Open",
+        "start": "2026-09-12",
+        "end": "2026-09-21",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "BBVA Open Internacional De Valencia",
+        "start": "2026-09-13",
+        "end": "2026-09-21",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Caldas da Rainha Ladies Open",
+        "start": "2026-09-13",
+        "end": "2026-09-21",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Zavarovalnica Triglav Ljubljana",
+        "start": "2026-09-14",
+        "end": "2026-09-21",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Iga Świątek",
+        "last": {
+          "event": "US Open",
+          "grouping": "Women's Singles",
+          "round": "Round 4",
+          "date": "2026-09-07",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Zheng Qinwen",
+              "winner": true,
+              "sets": [
+                7.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Iga Swiatek",
+              "winner": false,
+              "sets": [
+                5.0,
+                3.0
+              ]
+            }
+          ],
+          "opponent": "Zheng Qinwen",
+          "won": false
+        },
+        "next": null
+      },
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "US Open",
+          "grouping": "Men's Singles",
+          "round": "Quarterfinal",
+          "date": "2026-09-09",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": [
+                7.0,
+                1.0,
+                3.0,
+                6.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Ben Shelton",
+              "winner": true,
+              "sets": [
+                6.0,
+                6.0,
+                6.0,
+                1.0,
+                7.0
+              ]
+            }
+          ],
+          "opponent": "Ben Shelton",
+          "won": false
+        },
+        "next": null
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9901.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7875.0
+        },
+        {
+          "rank": 3,
+          "name": "Jessica Pegula",
+          "points": 7265.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 11500.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9690.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5560.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Jingshan Tennis Open",
+        "tour": "WTA",
+        "start": "2026-09-28",
+        "end": "2026-10-05",
+        "major": false
+      },
+      {
+        "name": "Adana Open",
+        "tour": "WTA",
+        "start": "2026-09-28",
+        "end": "2026-10-05",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 64
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "sorti",
+        "en": "got out, go out, went out"
+      },
+      {
+        "fr": "voler",
+        "en": "flying, steal, fly"
+      },
+      {
+        "fr": "annonce",
+        "en": "is announcing, announce, announcement"
+      }
+    ],
+    "quiz": {
+      "fr": "sorti",
+      "en": "got out, go out, went out"
+    }
+  },
+  "counts": {
+    "stories": 12,
+    "kev": 3
+  }
+}
