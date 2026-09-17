@@ -1,0 +1,375 @@
+{
+  "date": "2026-09-17",
+  "date_long": "Thursday, September 17, 2026",
+  "date_mast": "THURSDAY 17 SEPTEMBER 2026",
+  "built_at": "2026-09-17T15:29:55.177979+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
+          "url": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-09-17T14:01:11+00:00",
+          "summary": "AI is making credential theft faster and easier to scale, giving attackers more opportunities to abuse valid identities. Specops explains why identity security must go beyond successful authentication by verifying that both the user and the device requesting…",
+          "tags": []
+        },
+        {
+          "title": "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records",
+          "url": "https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-09-17T07:30:01+00:00",
+          "summary": "A security breach at Gyazo, Helpfeel's image-sharing service, exposed about 23.62 million user records, including email addresses and password hashes, the Kyoto-based company said in a notice published Wednesday. It also exposed about 490 million image…",
+          "tags": []
+        },
+        {
+          "title": "Microsoft shares workaround for Windows domain login issues",
+          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-09-17T08:24:48+00:00",
+          "summary": "Microsoft shared a temporary fix on Wednesday for a known issue that prevents Windows 11 users from logging in with valid domain credentials after installing the September 2026 security updates.",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "datasette 1.0a40",
+          "url": "https://simonwillison.net/2026/Sep/16/datasette/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-16T23:51:43+00:00",
+          "summary": "Release: datasette 1.0a40 Same security fix as 0.65.5 , plus some neat new features and bug fixes: Plugins can now launch and manage background tasks using the new datasette.add_background_task() method. Thanks, Alex Garcia . I've migrated Datasette to httpx2…",
+          "tags": []
+        },
+        {
+          "title": "Claude Cowork and chat are now one Claude",
+          "url": "https://simonwillison.net/2026/Sep/16/one-claude/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-16T18:09:49+00:00",
+          "summary": "Claude Cowork and chat are now one Claude In hopefully good news for anyone who, like me, was increasingly confused at Cowork v.s. Claude v.s. Claude Code: Starting today, Claude Cowork and chat are merging into one Claude. Bring a quick question, or hand…",
+          "tags": []
+        },
+        {
+          "title": "Our framework for reporting model misalignment",
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-09-16T17:00:00+00:00",
+          "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Britain's far right keeps up pressure over small boats despite falling immigration",
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/17/britain-s-far-right-keeps-up-pressure-over-small-boats-despite-falling-immigration_6757633_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-17T14:30:10+00:00",
+          "summary": "As both legal and illegal immigration figures fall, far-right groups, backed by nationalist parties, have staged protests against irregular Channel crossings in small boats – even though these crossings account for only a very small share of total migration.",
+          "tags": []
+        },
+        {
+          "title": "France to host two table tennis World Cups, building on Olympics momentum and Lebrun brothers",
+          "url": "https://www.lemonde.fr/en/sports/article/2026/09/17/france-to-host-two-table-tennis-world-cups-building-on-olympics-momentum-and-lebrun-brothers_6757629_9.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-17T12:51:37+00:00",
+          "summary": "The French Table Tennis Federation announced on Thursday that France will host the 2027 and 2028 editions of the sport's singles World Cup, first in Montpellier and then in Paris.",
+          "tags": []
+        },
+        {
+          "title": "English village holds symbolic vote to leave UK",
+          "url": "http://www.france24.com/en/english-village-holds-symbolic-vote-to-leave-uk",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-09-17T15:17:08+00:00",
+          "summary": "A village in Oxfordshire has held a symbolic referendum to leave the United Kingdom in protest against government plans to house up to 1,200 asylum seekers at a nearby military base. While the vote has no legal force, it highlights wider tensions over the…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Montreal Canadiens lines at practice: Kreider on the top line",
+          "url": "https://www.habseyesontheprize.com/montreal-canadiens-lines-at-practice-kreider-on-the-top-line-groups-suzuki/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-09-17T14:45:00+00:00",
+          "summary": "The first skate to touch the ice at the CN Sports Complex in Brossard on Thursday morning was unsurprisingly Lane Hutson. Also unsurprisingly, Group A had what is expected to be the team’s top two lines along with Hutson. The Groups for the first day seem to…",
+          "tags": []
+        },
+        {
+          "title": "Morning Skate: Camping",
+          "url": "https://www.stanleycupofchowder.com/morning-skate-open-threads/59238/morning-skate-camping",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-09-17T11:00:00+00:00",
+          "summary": "After a summer of trade rumors, arguing about NHL Network lists, and watching paint dry, your long, international nightmare is over: training camp begins. Well, technically training camp began yesterday, but it was a day of off-ice activities only. Today…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Six-time Grand Slam champion Salisbury retires",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/c617j8qdk2v8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-09-17T10:29:52+00:00",
+          "summary": "Former world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury retires from professional tennis.",
+          "tags": []
+        },
+        {
+          "title": "September 17, 1994: The day Vitas Gerulaitis tragically died in his sleep from carbon monoxide poisoning",
+          "url": "https://www.tennismajors.com/atp/september-17-1994-the-day-vitas-gerulaitis-tragically-died-in-his-sleep-495264.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-09-16T23:54:39+00:00",
+          "summary": "Every day Tennis Majors takes you back in time to celebrate a significant moment in tennis history. Today, we go back to 1994, to the day tennis great Vitas Gerulaitis died at the age of 40 from an accidental case of carbon monoxide poisoning",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 15,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, LE MONDE, OPENAI, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 26,
+      "low": 18,
+      "conditions": "heavy rain"
+    },
+    {
+      "code": "PAR",
+      "high": 22,
+      "low": 14,
+      "conditions": "light rain"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-58704",
+      "vendor": "Google",
+      "product": "Pixel",
+      "name": "Google Pixel Improper Authorization Vulnerability",
+      "summary": "Google Pixel devices contain an improper authorization vulnerability in the cellular modem. A logic error may allow an attacker to bypass permission checks and escalate privileges.",
+      "added": "2026-09-16",
+      "due": "2026-09-19",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-58704"
+    },
+    {
+      "cve": "CVE-2026-76460",
+      "vendor": "Cisco",
+      "product": "Identity Services Engine",
+      "name": "Cisco Identity Services Engine Incorrect Use of Privileged APIs Vulnerability",
+      "summary": "Cisco Identity Services Engine (ISE) and Cisco ISE Passive Identity Connector (ISE-PIC) contain an incorrect use of privileged APIs vulnerability that could allow an unauthenticated, remote attacker to gain unauthorized…",
+      "added": "2026-09-16",
+      "due": "2026-09-19",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-76460"
+    },
+    {
+      "cve": "CVE-2026-87886",
+      "vendor": "Acronis",
+      "product": "Backup",
+      "name": "Acronis Backup Incorrect Default Permissions Vulnerability",
+      "summary": "Acronis Backup plugin for cPanel & WHM and extension for Plesk contains an incorrect default permissions vulnerability that could allow for privilege escalation.",
+      "added": "2026-09-16",
+      "due": "2026-09-19",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-87886"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-09-20",
+      "away": "WSH",
+      "home": "BOS"
+    },
+    "offseason": true,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Guadalajara Open presentado por Santander",
+        "start": "2026-09-12",
+        "end": "2026-09-20",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "SP Open",
+        "start": "2026-09-12",
+        "end": "2026-09-21",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "BBVA Open Internacional De Valencia",
+        "start": "2026-09-13",
+        "end": "2026-09-21",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Caldas da Rainha Ladies Open",
+        "start": "2026-09-13",
+        "end": "2026-09-21",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Zavarovalnica Triglav Ljubljana",
+        "start": "2026-09-14",
+        "end": "2026-09-21",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Chengdu Open",
+        "start": "2026-09-23",
+        "end": "2026-09-30",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Hangzhou Open",
+        "start": "2026-09-23",
+        "end": "2026-09-30",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9901.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7875.0
+        },
+        {
+          "rank": 3,
+          "name": "Jessica Pegula",
+          "points": 7265.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 11500.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9690.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5560.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Jingshan Tennis Open",
+        "tour": "WTA",
+        "start": "2026-09-28",
+        "end": "2026-10-05",
+        "major": false
+      },
+      {
+        "name": "Adana Open",
+        "tour": "WTA",
+        "start": "2026-09-28",
+        "end": "2026-10-05",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 63
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "sœurs",
+        "en": "sisters, sisters'"
+      },
+      {
+        "fr": "ne porte pas",
+        "en": "does not wear, is not wearing, does not carry"
+      },
+      {
+        "fr": "aller",
+        "en": "let's, wasn't, to go"
+      }
+    ],
+    "quiz": {
+      "fr": "sœurs",
+      "en": "sisters, sisters'"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
