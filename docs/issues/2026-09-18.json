@@ -1,0 +1,380 @@
+{
+  "date": "2026-09-18",
+  "date_long": "Friday, September 18, 2026",
+  "date_mast": "FRIDAY 18 SEPTEMBER 2026",
+  "built_at": "2026-09-18T14:53:43.256500+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Secure enterprise sharing with access reviews for Microsoft 365",
+          "url": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-09-18T14:00:10+00:00",
+          "summary": "Microsoft 365 makes sharing files easy, but access can remain long after its original purpose has ended, leaving organizations with little visibility into who can still reach sensitive data. tenfold Software explains how centralized access governance and…",
+          "tags": []
+        },
+        {
+          "title": "Webinar: Which Google Workspace security controls actually matter?",
+          "url": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-09-18T13:10:19+00:00",
+          "summary": "Fast-growing companies face countless recommendations for securing Google Workspace, but not every control provides the same value. This webinar examines real-world breaches to explore which security controls matter most, which may be overrated, and where…",
+          "tags": []
+        },
+        {
+          "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
+          "url": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-09-17T18:08:28+00:00",
+          "summary": "A critical vulnerability in Check Point's Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network. The Security Management Server is the system that controls firewall policy…",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "The Creative Spirit of Who Framed Roger Rabbit",
+          "url": "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-18T14:36:41+00:00",
+          "summary": "The Creative Spirit of Who Framed Roger Rabbit I love Who Framed Roger Rabbit , the 1988 movie by Robert Zemeckis. I haven't watched it in quite a few years, and Cypress Frankenfeld just pointed out this sequence from early in the movie: It's a pelican riding…",
+          "tags": []
+        },
+        {
+          "title": "Be alert: targeted attacks on prominent Rustaceans",
+          "url": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-17T23:59:19+00:00",
+          "summary": "Be alert: targeted attacks on prominent Rustaceans Important warning from Adam Harvey and the crates security team: We believe that there is an ongoing campaign targeting rust-lang members and owners of popular crates that is attempting to compromise devices…",
+          "tags": []
+        },
+        {
+          "title": "New experts join Google’s AI & Economy team",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+          "source": "Google AI",
+          "section": "ai",
+          "published": "2026-09-18T14:00:00+00:00",
+          "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Swedish Social Democrat Andersson tasked with forming government",
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/18/sweden-s-magdalena-andersson-tasked-with-forming-government_6757680_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-18T14:32:38+00:00",
+          "summary": "Magdalena Andersson, who previously served as prime minister in 2021-2022, must bridge deep divisions within the left-wing bloc, which won a three-seat parliamentary majority.",
+          "tags": []
+        },
+        {
+          "title": "Kylian Mbappé leaves Nike and signs with On",
+          "url": "https://www.lemonde.fr/en/economy/article/2026/09/18/kylian-mbappe-leaves-nike-and-signs-with-on_6757679_19.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-18T14:23:09+00:00",
+          "summary": "Swiss sportswear brand On is making a major move into the football market with the signing of the Real Madrid forward.",
+          "tags": []
+        },
+        {
+          "title": "Far-right politician Éric Zemmour joins 2027 French presidential race",
+          "url": "https://www.france24.com/en/france/20260918-far-right-politician-%C3%A9ric-zemmour-joins-2027-french-presidential-race",
+          "source": "France 24",
+          "section": "france",
+          "published": "2026-09-18T09:06:31+00:00",
+          "summary": "French far-right politician Éric Zemmour said on Friday that he would run in next year's presidential election, joining far-right candidate Marine Le Pen, who was runner-up to President Emmanuel Macron in the last two elections. Zemmour is campaigning on a…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Friday Habs Headlines: Training camp opens",
+          "url": "https://www.habseyesontheprize.com/montreal-canadiens-news-training-camp-lines-chris-kreider-top-line-cole-caufield-summer-training-jakub-dobes-starting-role-arber-xhekaj-lineup-spot-dylan-larkin-trade-request/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-09-18T08:00:00+00:00",
+          "summary": "Montreal Canadiens news and notes Why Day 1 isn’t too soon to read into the Canadiens’ forward line combinations. [ Sportsnet ] What The Athletic saw on Day 1. [ The Athletic ] With Chris Kreider in the mix, the Canadiens could ice two potent top lines. […",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Tsitsipas and Nakashima added to UTS Gothenburg field",
+          "url": "https://www.tennismajors.com/uts-news/tsitsipas-and-nakashima-added-to-uts-gothenburg-field-861184.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-09-18T11:30:27+00:00",
+          "summary": "The UTS Tour has confirmed Stefanos Tsitsipas and Brandon Nakashima for its season-ending Super Stage at the Scandinavium on 12-13 December, taking the line-up to five of eight players with US$1 million and the year-end UTS crown at stake.",
+          "tags": []
+        },
+        {
+          "title": "Sports quiz of the week: records, hazards, complaints and boring events",
+          "url": "https://www.theguardian.com/sport/2026/sep/18/sports-quiz-football-cricket-racing-tennis-cycling-golf-athletics",
+          "source": "Guardian Tennis",
+          "section": "tennis",
+          "published": "2026-09-18T07:00:11+00:00",
+          "summary": "Have you followed the big stories in football, cricket, motor racing, tennis, cycling, golf, athletics and American football? Continue reading...",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 16,
+  "sources_line": "BLEEPINGCOMPUTER, FRANCE 24, GOOGLE AI, GUARDIAN TENNIS, HABS EYES ON THE PRIZE, LE MONDE, SIMON WILLISON, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 26,
+      "low": 16,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 22,
+      "low": 13,
+      "conditions": "overcast"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2025-39964",
+      "vendor": "Linux",
+      "product": "Kernel",
+      "name": "Linux Kernel Race Condition Vulnerability",
+      "summary": "Linux Kernel contains a race condition vulnerability which allows concurrent writes to the same AF_ALG socket causing data to be unpredictably interleaved and creating inconsistencies in the socket's internal state.",
+      "added": "2026-09-18",
+      "due": "2026-09-21",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-39964"
+    },
+    {
+      "cve": "CVE-2026-53266",
+      "vendor": "Linux",
+      "product": "Kernel",
+      "name": "Linux Kernel Out-of-Bounds Write Vulnerability",
+      "summary": "Linux Kernel contains an out-of-bounds write vulnerability in the ebtables SNAT target which allows an ARP sender hardware address rewrite to write directly into a nonlinear socket-buffer fragment backed by a…",
+      "added": "2026-09-18",
+      "due": "2026-09-21",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-53266"
+    },
+    {
+      "cve": "CVE-2026-58704",
+      "vendor": "Google",
+      "product": "Pixel",
+      "name": "Google Pixel Improper Authorization Vulnerability",
+      "summary": "Google Pixel devices contain an improper authorization vulnerability in the cellular modem. A logic error may allow an attacker to bypass permission checks and escalate privileges.",
+      "added": "2026-09-16",
+      "due": "2026-09-19",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-58704"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-09-20",
+      "away": "WSH",
+      "home": "BOS"
+    },
+    "offseason": true,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Guadalajara Open presentado por Santander",
+        "start": "2026-09-12",
+        "end": "2026-09-20",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "SP Open",
+        "start": "2026-09-12",
+        "end": "2026-09-21",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "BBVA Open Internacional De Valencia",
+        "start": "2026-09-13",
+        "end": "2026-09-21",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Caldas da Rainha Ladies Open",
+        "start": "2026-09-13",
+        "end": "2026-09-21",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Zavarovalnica Triglav Ljubljana",
+        "start": "2026-09-14",
+        "end": "2026-09-21",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Korea Open",
+        "start": "2026-09-18",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Singapore Tennis Open presented by BNP Paribas",
+        "start": "2026-09-18",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Chengdu Open",
+        "start": "2026-09-23",
+        "end": "2026-09-30",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Hangzhou Open",
+        "start": "2026-09-23",
+        "end": "2026-09-30",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9901.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7875.0
+        },
+        {
+          "rank": 3,
+          "name": "Jessica Pegula",
+          "points": 7265.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 11500.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9690.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5560.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Jingshan Tennis Open",
+        "tour": "WTA",
+        "start": "2026-09-28",
+        "end": "2026-10-05",
+        "major": false
+      },
+      {
+        "name": "Adana Open",
+        "tour": "WTA",
+        "start": "2026-09-28",
+        "end": "2026-10-05",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 62
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "arrivé",
+        "en": "arrived, finished, happened"
+      },
+      {
+        "fr": "réfrigérateur",
+        "en": "fridge, refrigerator, cooler's"
+      },
+      {
+        "fr": "cœur",
+        "en": "heart, hearted"
+      }
+    ],
+    "quiz": {
+      "fr": "arrivé",
+      "en": "arrived, finished, happened"
+    }
+  },
+  "counts": {
+    "stories": 12,
+    "kev": 3
+  }
+}
