@@ -1,0 +1,380 @@
+{
+  "date": "2026-09-19",
+  "date_long": "Saturday, September 19, 2026",
+  "date_mast": "SATURDAY 19 SEPTEMBER 2026",
+  "built_at": "2026-09-19T14:17:50.091462+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
+          "url": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-09-19T07:51:34+00:00",
+          "summary": "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first reported by The Wall Street Journal. The incidents occurred in…",
+          "tags": []
+        },
+        {
+          "title": "Cisco Zero-Day Highlights API Endpoint Authentication Issues",
+          "url": "https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues",
+          "source": "Dark Reading",
+          "section": "email_security",
+          "published": "2026-09-18T19:26:47+00:00",
+          "summary": "The authentication bypass flaw CVE-2026-76460 impacts Cisco's Identity Services Engine (ISE) and received a maximum 10 out of 10 CVSS score.",
+          "tags": []
+        },
+        {
+          "title": "Alert: AI is Accelerating Targeted Social Engineering Attacks",
+          "url": "https://blog.knowbe4.com/alert-ai-is-accelerating-targeted-social-engineering-attacks",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-09-16T16:00:01+00:00",
+          "summary": "AI tools are drastically improving the speed of the reconnaissance stage of targeted social engineering attacks, according to researchers at ESET. Attackers can use these tools to trawl the internet for publicly available information about potential victims…",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+          "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-18T23:57:57+00:00",
+          "summary": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI Gemini finally caught up on Felony Bench ! The hacks, which the company confirmed on Friday, occurred in May as part of a test run by the company Irregular, which was also involved in…",
+          "tags": []
+        },
+        {
+          "title": "Note on 18th September 2026",
+          "url": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-18T19:21:32+00:00",
+          "summary": "Being a computer scientist who refuses to find anything about LLMs interesting right now is a bit like being a geneticist who refuses to find anything interesting about the recently opened Jurassic Park. Tags: llms , ai , generative-ai",
+          "tags": []
+        },
+        {
+          "title": "Laya the open source version of Jev",
+          "url": "https://laya.convaiinnovations.com/",
+          "source": "Hacker News",
+          "section": "ai",
+          "published": "2026-09-19T10:46:58+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "French public debt to reach new record level in 2027, exceeding 120% of GDP",
+          "url": "https://www.lemonde.fr/en/politics/article/2026/09/19/french-public-debt-to-reach-new-record-level-in-2027-exceeding-120-of-gdp_6757714_5.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-19T14:09:07+00:00",
+          "summary": "The government submitted its draft budget bill to the High Council of Public Finances on Friday. The bill provides for new tax increases, which are set to be the main factor in reducing the budget deficit. The public debt, meanwhile, will continue to rise.",
+          "tags": []
+        },
+        {
+          "title": "Trump administration destabilized by AI surge ahead of Xi Jinping's visit",
+          "url": "https://www.lemonde.fr/en/economy/article/2026/09/19/trump-administration-destabilized-by-ai-surge-ahead-of-xi-jinping-s-visit_6757713_19.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-19T13:46:39+00:00",
+          "summary": "On Friday, CNN revealed that an AI error nearly led the US military to board a Chinese ship suspected of carrying nuclear material near the Strait of Hormuz. Donald Trump, meanwhile, fears that a recession could be triggered by the AI bubble bursting…",
+          "tags": []
+        },
+        {
+          "title": "Putin says Europe is 'preparing for war'",
+          "url": "https://www.france24.com/en/putin-says-europe-is-preparing-for-war",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-09-19T13:04:36+00:00",
+          "summary": "As the West continues to denounce Russian aggression in Ukraine and to support Kyiv with a host of economic and military measures, Russian President Vladimir Putin says that Nato is expanding its reach and influence with the intention of preparing for war…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Saturday Habs Headlines: David Reinbacher out to prove he’s NHL-ready",
+          "url": "https://www.habseyesontheprize.com/montreal-canadiens-news-david-reinbacher-youll-see-this-weekend-florian-xhekaj-roster-arber-kirby-dach-chris-kreider-power-play-connor-mcdavid-shakhir-mukhamadullin-kirill-marchenko-quotes-columbus/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-09-19T08:00:00+00:00",
+          "summary": "Montreal Canadiens news and notes David Reinbacher says he’s ready to play in the NHL. Why does he feel that way? “You’ll see this weekend.” [ La Presse ] Florian Xhekaj knows he has to prove he’s better than one of the veteran players to earn a spot on…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Jovic returns to the Guadalajara final and a career-high No. 13, and will meet Stearns for the title",
+          "url": "https://www.tennismajors.com/wta-tour-news/jovic-returns-to-the-guadalajara-final-and-a-career-high-no-13-and-will-meet-stearns-for-the-title-861230.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-09-19T03:15:06+00:00",
+          "summary": "Peyton Stearns beat Liudmila Samsonova 7-6 (7), 6-2 on Saturday night and will face American Iva Jovic, the second seed, for the title",
+          "tags": []
+        },
+        {
+          "title": "Alex de Minaur roars back to life as Australia and Poland share spoils in Davis Cup",
+          "url": "https://www.theguardian.com/sport/2026/sep/19/tennis-davis-cup-australia-poland-day-one-report-alex-de-minaur-kasnikowski-duckworth-majchrzak",
+          "source": "Guardian Tennis",
+          "section": "tennis",
+          "published": "2026-09-19T05:56:49+00:00",
+          "summary": "World No 9 beats Maks Kasnikowski 6-3, 6-0 in World Group I tie James Duckworth loses to Kamil Majchrzak 2-6, 6-3, 6-3 in Brisbane Alex de Minaur has taken his frustrations out in a Davis Cup thumping to put Australia up 1-0 in their must-win Brisbane tie…",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 17,
+  "sources_line": "DARK READING, FRANCE 24 EUROPE, GUARDIAN TENNIS, HABS EYES ON THE PRIZE, HACKER NEWS, KNOWBE4, LE MONDE, SIMON WILLISON, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 17,
+      "low": 10,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 24,
+      "low": 14,
+      "conditions": "overcast"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2025-39964",
+      "vendor": "Linux",
+      "product": "Kernel",
+      "name": "Linux Kernel Race Condition Vulnerability",
+      "summary": "Linux Kernel contains a race condition vulnerability which allows concurrent writes to the same AF_ALG socket causing data to be unpredictably interleaved and creating inconsistencies in the socket's internal state.",
+      "added": "2026-09-18",
+      "due": "2026-09-21",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-39964"
+    },
+    {
+      "cve": "CVE-2026-53266",
+      "vendor": "Linux",
+      "product": "Kernel",
+      "name": "Linux Kernel Out-of-Bounds Write Vulnerability",
+      "summary": "Linux Kernel contains an out-of-bounds write vulnerability in the ebtables SNAT target which allows an ARP sender hardware address rewrite to write directly into a nonlinear socket-buffer fragment backed by a…",
+      "added": "2026-09-18",
+      "due": "2026-09-21",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-53266"
+    },
+    {
+      "cve": "CVE-2025-39682",
+      "vendor": "Linux",
+      "product": "Kernel",
+      "name": "Linux Kernel Improper Check for Unusual or Exceptional Conditions Vulnerability",
+      "summary": "Linux Kernel contains an improper check for unusual or exceptional conditions vulnerability in the TLS receive path which allows a zero-length record retrieved from the rx_list to bypass the intended recvmsg()…",
+      "added": "2026-09-18",
+      "due": "2026-09-21",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-39682"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-09-20",
+      "away": "WSH",
+      "home": "BOS"
+    },
+    "offseason": true,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Guadalajara Open presentado por Santander",
+        "start": "2026-09-12",
+        "end": "2026-09-20",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "SP Open",
+        "start": "2026-09-12",
+        "end": "2026-09-21",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "BBVA Open Internacional De Valencia",
+        "start": "2026-09-13",
+        "end": "2026-09-21",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Caldas da Rainha Ladies Open",
+        "start": "2026-09-13",
+        "end": "2026-09-21",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Zavarovalnica Triglav Ljubljana",
+        "start": "2026-09-14",
+        "end": "2026-09-21",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Korea Open",
+        "start": "2026-09-18",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Singapore Tennis Open presented by BNP Paribas",
+        "start": "2026-09-18",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Chengdu Open",
+        "start": "2026-09-23",
+        "end": "2026-09-30",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Hangzhou Open",
+        "start": "2026-09-23",
+        "end": "2026-09-30",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9901.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7875.0
+        },
+        {
+          "rank": 3,
+          "name": "Jessica Pegula",
+          "points": 7265.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 11500.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9690.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5560.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Jingshan Tennis Open",
+        "tour": "WTA",
+        "start": "2026-09-28",
+        "end": "2026-10-05",
+        "major": false
+      },
+      {
+        "name": "Adana Open",
+        "tour": "WTA",
+        "start": "2026-09-28",
+        "end": "2026-10-05",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 61
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "attacher",
+        "en": "fasten, tie, tying"
+      },
+      {
+        "fr": "Australie",
+        "en": "Australia"
+      },
+      {
+        "fr": "par exemple",
+        "en": "for example"
+      }
+    ],
+    "quiz": {
+      "fr": "attacher",
+      "en": "fasten, tie, tying"
+    }
+  },
+  "counts": {
+    "stories": 12,
+    "kev": 3
+  }
+}
