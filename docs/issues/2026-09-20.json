@@ -1,0 +1,394 @@
+{
+  "date": "2026-09-20",
+  "date_long": "Sunday, September 20, 2026",
+  "date_mast": "SUNDAY 20 SEPTEMBER 2026",
+  "built_at": "2026-09-20T14:38:46.185914+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Identity Visibility in 2026: The Foundation of Identity Security",
+          "url": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-09-19T13:28:41+00:00",
+          "summary": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual Data Breach Investigations Report. This…",
+          "tags": []
+        },
+        {
+          "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
+          "url": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-09-15T18:54:14+00:00",
+          "summary": "Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN. Elastic Security Labs is tracking the activity under the moniker REF9334. Active since at least May 2025, the…",
+          "tags": []
+        },
+        {
+          "title": "Attackers Use Passkey-Themed Phishing to Breach Cloud Environments",
+          "url": "https://blog.knowbe4.com/attackers-use-passkey-themed-phishing-to-breach-cloud-environments",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-09-15T20:00:00+00:00",
+          "summary": "Researchers at Microsoft are tracking a social engineering campaign that uses passkey-themed lures to trick users into granting persistent access to their accounts and online work environments.",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "datasette-auth-github 1.0",
+          "url": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-19T19:52:02+00:00",
+          "summary": "Release: datasette-auth-github 1.0 I run this GitHub login plugin on the agent.datasette.io demo site and I noticed that my authenticated sessions weren't lasting very long. It turned out that the plugin was setting cookies without a Max-Age parameter, so…",
+          "tags": []
+        },
+        {
+          "title": "California Sea Lion, Brandt's Cormorant",
+          "url": "https://simonwillison.net/2026/Sep/19/sighting-401567341/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-19T17:10:08+00:00",
+          "summary": "California Sea Lion, Brandt's Cormorant, in Pillar Point Harbor, CA, US I only noticed this after I had taken the photo: Morris the Northern Gannet is peeking out from behind the base of the sign. Tags: wildlife",
+          "tags": []
+        },
+        {
+          "title": "RSA-896",
+          "url": "https://saweis.net/posts/rsa-896.html",
+          "source": "Hacker News",
+          "section": "ai",
+          "published": "2026-09-20T02:19:33+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Warren Buffett hands over $1 trillion financial empire to son",
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/20/warren-buffett-hands-over-his-1-trillion-financial-empire-to-his-son_6757738_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-20T13:30:01+00:00",
+          "summary": "Nicknamed the 'Oracle of Omaha,' the 96-year-old magnate renowned for his financial acumen passed the chairmanship of the board of Berkshire Hathaway – the conglomerate he led for 60 years – to his son, Howard Buffett.",
+          "tags": []
+        },
+        {
+          "title": "'Benjamin Netanyahu has literally sabotaged Israeli diplomacy'",
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/20/benjamin-netanyahu-has-literally-sabotaged-israeli-diplomacy_6757737_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-20T12:36:49+00:00",
+          "summary": "The Foreign Ministry, which once stood at the forefront of Israel's influence abroad, has been systematically undermined by the current prime minister, argues historian Jean-Pierre Filiu.",
+          "tags": []
+        },
+        {
+          "title": "Germany: Could regional polls force Friedrich Merz to step down?",
+          "url": "https://www.france24.com/en/germany-could-regional-polls-froce-friedrich-merz-to-step-down",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-09-20T10:26:10+00:00",
+          "summary": "Polling is underway in the German capital Berlin and the largely rural state of Mecklenburg-Western Pomerania for regional elections. Both elections are seen as a test for Germany's centre-right Chancellor Friedrich Merz. He has already scheduled a crisis…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Sunday Habs Headlines: It’s the little things",
+          "url": "https://www.habseyesontheprize.com/habs-headlines-its-the-little-things-training-camp-kirby-dach-juraj-slafkovsky-ivan-demidov-canadiens-culture-preseason-tristan-jarry-edmonton-oilers-quinn-hughes/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-09-20T08:00:00+00:00",
+          "summary": "Montreal Canadiens news and notes The Canadiens are making small adjustments after last season’s deep playoff run, with a focus on spending less time defending in their own zone. [ TSN ] It’a a make-or-break season for Kirby Dach. [ Montreal Gazette ] Juraj…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "GB reach Davis Cup Finals as Patten and Skupski win",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/c60re2wqr9j2o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-09-20T13:22:36+00:00",
+          "summary": "Great Britain will play in the Davis Cup Finals for the first time since 2023 after taking an unassailable 3-0 lead against Ecuador in London.",
+          "tags": []
+        },
+        {
+          "title": "September 20, 1973: The day Billie Jean King defeated Bobby Riggs in the famous “Battle of the Sexes”",
+          "url": "https://www.tennismajors.com/wta-tour-news/september-20-1973-the-battle-of-the-sexes-291148.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-09-19T22:22:47+00:00",
+          "summary": "Every day, Tennis Majors takes you back to one of the most iconic moments in tennis history. On this day in 1973, Billie Jean King set out to champion the cause of women's tennis by taking on a 55-year-old Bobby Riggs, once the top-ranked player in the world…",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 18,
+  "sources_line": "BBC TENNIS, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, HACKER NEWS, KNOWBE4, LE MONDE, SIMON WILLISON, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 16,
+      "low": 10,
+      "conditions": "rain"
+    },
+    {
+      "code": "PAR",
+      "high": 23,
+      "low": 15,
+      "conditions": "overcast"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2025-39964",
+      "vendor": "Linux",
+      "product": "Kernel",
+      "name": "Linux Kernel Race Condition Vulnerability",
+      "summary": "Linux Kernel contains a race condition vulnerability which allows concurrent writes to the same AF_ALG socket causing data to be unpredictably interleaved and creating inconsistencies in the socket's internal state.",
+      "added": "2026-09-18",
+      "due": "2026-09-21",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-39964"
+    },
+    {
+      "cve": "CVE-2026-53266",
+      "vendor": "Linux",
+      "product": "Kernel",
+      "name": "Linux Kernel Out-of-Bounds Write Vulnerability",
+      "summary": "Linux Kernel contains an out-of-bounds write vulnerability in the ebtables SNAT target which allows an ARP sender hardware address rewrite to write directly into a nonlinear socket-buffer fragment backed by a…",
+      "added": "2026-09-18",
+      "due": "2026-09-21",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-53266"
+    },
+    {
+      "cve": "CVE-2025-39682",
+      "vendor": "Linux",
+      "product": "Kernel",
+      "name": "Linux Kernel Improper Check for Unusual or Exceptional Conditions Vulnerability",
+      "summary": "Linux Kernel contains an improper check for unusual or exceptional conditions vulnerability in the TLS receive path which allows a zero-length record retrieved from the rx_list to bypass the intended recvmsg()…",
+      "added": "2026-09-18",
+      "due": "2026-09-21",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-39682"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-09-20",
+      "away": "WSH",
+      "home": "BOS"
+    },
+    "offseason": true,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "SP Open",
+        "start": "2026-09-12",
+        "end": "2026-09-21",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "BBVA Open Internacional De Valencia",
+        "start": "2026-09-13",
+        "end": "2026-09-21",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Caldas da Rainha Ladies Open",
+        "start": "2026-09-13",
+        "end": "2026-09-21",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Zavarovalnica Triglav Ljubljana",
+        "start": "2026-09-14",
+        "end": "2026-09-21",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Korea Open",
+        "start": "2026-09-18",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Singapore Tennis Open presented by BNP Paribas",
+        "start": "2026-09-18",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Delta Motors Tolentino Open",
+        "start": "2026-09-20",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Eupago Porto Open",
+        "start": "2026-09-20",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Turk Telekom Ankara Open",
+        "start": "2026-09-20",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Chengdu Open",
+        "start": "2026-09-23",
+        "end": "2026-09-30",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Hangzhou Open",
+        "start": "2026-09-23",
+        "end": "2026-09-30",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9901.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7875.0
+        },
+        {
+          "rank": 3,
+          "name": "Jessica Pegula",
+          "points": 7265.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 11500.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9690.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5560.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Jingshan Tennis Open",
+        "tour": "WTA",
+        "start": "2026-09-28",
+        "end": "2026-10-05",
+        "major": false
+      },
+      {
+        "name": "Adana Open",
+        "tour": "WTA",
+        "start": "2026-09-28",
+        "end": "2026-10-05",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 60
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "il y avait",
+        "en": "there was, there were"
+      },
+      {
+        "fr": "espagnol",
+        "en": "Spanish"
+      },
+      {
+        "fr": "coton",
+        "en": "cotton"
+      }
+    ],
+    "quiz": {
+      "fr": "il y avait",
+      "en": "there was, there were"
+    }
+  },
+  "counts": {
+    "stories": 12,
+    "kev": 3
+  }
+}
