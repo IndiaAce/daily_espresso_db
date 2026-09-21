@@ -1,0 +1,364 @@
+{
+  "date": "2026-09-21",
+  "date_long": "Monday, September 21, 2026",
+  "date_mast": "MONDAY 21 SEPTEMBER 2026",
+  "built_at": "2026-09-21T16:57:04.772794+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Microsoft reminds admins to migrate Entra ID users to passkeys",
+          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-09-21T13:16:20+00:00",
+          "summary": "Microsoft has reminded admins to migrate Entra ID users to phishing-resistant authentication methods to avoid sign-in disruptions after it retires SMS first-factor sign-in starting in February 2027.",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+          "source": "Hugging Face",
+          "section": "ai",
+          "published": "2026-09-21T13:44:34+00:00",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "Quoting voxium",
+          "url": "https://simonwillison.net/2026/Sep/20/voxium/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-20T21:06:43+00:00",
+          "summary": "It has been half a month since I started a new role at a big company. Nobody knows anything here. The specs, code, tests, PRDs, tickets, resolution of those tickets, reports, etc., everything is made by Claude Code. Nobody on my team likes this. They are…",
+          "tags": []
+        },
+        {
+          "title": "llm-keys-ui 0.1",
+          "url": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-20T19:22:19+00:00",
+          "summary": "Release: llm-keys-ui 0.1 This plugin solves a very specific problem. I've started using Codex Remote to run coding agents on various machines while controlling them from my phone. Sometimes I use those machines to hack on LLM projects, and occasionally that…",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "US networks including Fox News halt Trump pool coverage over White House ban",
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/21/us-networks-including-fox-news-halt-trump-coverage-over-white-house-ban_6757780_5.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-21T16:03:50+00:00",
+          "summary": "In solidarity with CNN, major US broadcasters ABC, CBS, Fox and NBC announced the suspension of their TV pool coverage of President Donald Trump on Monday.",
+          "tags": []
+        },
+        {
+          "title": "'We can counter the AfD': In this eastern German city, local leaders refuse to give ground",
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/21/we-can-counter-the-afd-in-this-eastern-german-city-local-leaders-refuse-to-give-ground_6757787_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-21T16:00:06+00:00",
+          "summary": "'Europe's far right takes root' (1/6). In Weissenfels, Saxony-Anhalt, the far-right AfD scored a historic result in the regional election held on September 6. Conservative Mayor Martin Papke (CDU) believes that '80% of the far right's success comes from its…",
+          "tags": []
+        },
+        {
+          "title": "EU fines Google €403 million for improperly using location data",
+          "url": "https://www.france24.com/en/europe/20260921-eu-fines-google-%E2%82%AC403-million-for-improperly-using-location-data",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-09-21T15:05:05+00:00",
+          "summary": "Ireland, on behalf of the European Union, said Monday it had fined Google €403 million for improperly using users' location data between May 2018 and February 2020. However, the eight-year delay drew some criticism, as the European Consumer Organisation said…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Montreal Canadiens lineup vs. Senators: Lots of regulars in Trois-Rivières",
+          "url": "https://www.habseyesontheprize.com/montreal-canadiens-lineup-vs-senators-lots-of-regulars-in-trois-rivieres-suzuki-reinbacher-slafkovsky/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-09-21T14:40:13+00:00",
+          "summary": "The Montreal Canadiens are in Trois-Rivières for Kraft Hockeyville against the Ottawa Senators for a game on Monday night. There are a lot of regulars who have made the trip to play in the game including Cole Caufield, Nick Suzuki, Juraj Slafkovský, Ivan…",
+          "tags": []
+        },
+        {
+          "title": "Morning Skate: Shootout",
+          "url": "https://www.stanleycupofchowder.com/morning-skate-open-threads/59260/morning-skate-shootout",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-09-21T11:00:00+00:00",
+          "summary": "Welcome to the last full week of September, folks! Believe it or not, Opening Night is just a week from tomorrow, meaning we don’t have much time left to just sit around here and stare at each other. Soak it all in while you can. B’s start the preseason with…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Best not to underestimate us - GB plan BJK Cup upset against all-star Czechs",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/c6n453wd3gdyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-09-21T13:34:05+00:00",
+          "summary": "Great Britain face the Czech Republic at the Billie Jean King Cup Finals on Tuesday - and know full well the size of the challenge facing them.",
+          "tags": []
+        },
+        {
+          "title": "September 21, 2003: The day world No 1 Ferrero was stunned by Calleri in Davis Cup",
+          "url": "https://www.tennismajors.com/others-news/davis-cup-news/september-21-2003-calleri-stuns-world-no-1-ferrero-davis-cup-291338.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-09-21T04:10:00+00:00",
+          "summary": "Every day, Tennis Majors takes you back to one of the most iconic moments in tennis history. On this day in 2001, Agustin Calleri hit more than 100 winners in a three-set victory over world No 1 Juan Carlos Ferrero to cause a major upset in the Davis Cup",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 19,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, HUGGING FACE, LE MONDE, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 20,
+      "low": 12,
+      "conditions": "light drizzle"
+    },
+    {
+      "code": "PAR",
+      "high": 22,
+      "low": 13,
+      "conditions": "overcast"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2025-39964",
+      "vendor": "Linux",
+      "product": "Kernel",
+      "name": "Linux Kernel Race Condition Vulnerability",
+      "summary": "Linux Kernel contains a race condition vulnerability which allows concurrent writes to the same AF_ALG socket causing data to be unpredictably interleaved and creating inconsistencies in the socket's internal state.",
+      "added": "2026-09-18",
+      "due": "2026-09-21",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-39964"
+    },
+    {
+      "cve": "CVE-2026-53266",
+      "vendor": "Linux",
+      "product": "Kernel",
+      "name": "Linux Kernel Out-of-Bounds Write Vulnerability",
+      "summary": "Linux Kernel contains an out-of-bounds write vulnerability in the ebtables SNAT target which allows an ARP sender hardware address rewrite to write directly into a nonlinear socket-buffer fragment backed by a…",
+      "added": "2026-09-18",
+      "due": "2026-09-21",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-53266"
+    },
+    {
+      "cve": "CVE-2025-39682",
+      "vendor": "Linux",
+      "product": "Kernel",
+      "name": "Linux Kernel Improper Check for Unusual or Exceptional Conditions Vulnerability",
+      "summary": "Linux Kernel contains an improper check for unusual or exceptional conditions vulnerability in the TLS receive path which allows a zero-length record retrieved from the rx_list to bypass the intended recvmsg()…",
+      "added": "2026-09-18",
+      "due": "2026-09-21",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-39682"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-09-22",
+      "away": "PHI",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "SP Open",
+        "start": "2026-09-12",
+        "end": "2026-09-22",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Korea Open",
+        "start": "2026-09-18",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Singapore Tennis Open presented by BNP Paribas",
+        "start": "2026-09-18",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Delta Motors Tolentino Open",
+        "start": "2026-09-20",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Eupago Porto Open",
+        "start": "2026-09-20",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Turk Telekom Ankara Open",
+        "start": "2026-09-20",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Chengdu Open",
+        "start": "2026-09-22",
+        "end": "2026-09-30",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "AITO Hangzhou Open",
+        "start": "2026-09-22",
+        "end": "2026-09-30",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9901.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7875.0
+        },
+        {
+          "rank": 3,
+          "name": "Jessica Pegula",
+          "points": 7265.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 11500.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9690.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5560.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "China Open",
+        "tour": "WTA",
+        "start": "2026-09-30",
+        "end": "2026-10-12",
+        "major": false
+      },
+      {
+        "name": "Kinoshita Group Japan Open Tennis Championships",
+        "tour": "ATP",
+        "start": "2026-09-30",
+        "end": "2026-10-07",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 59
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "ne",
+        "en": "not"
+      },
+      {
+        "fr": "désagréable",
+        "en": "unpleasant"
+      },
+      {
+        "fr": "mangé",
+        "en": "eaten, ate, had"
+      }
+    ],
+    "quiz": {
+      "fr": "ne",
+      "en": "not"
+    }
+  },
+  "counts": {
+    "stories": 11,
+    "kev": 3
+  }
+}
