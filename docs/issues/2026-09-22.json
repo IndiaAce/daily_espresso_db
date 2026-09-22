@@ -1,0 +1,375 @@
+{
+  "date": "2026-09-22",
+  "date_long": "Tuesday, September 22, 2026",
+  "date_mast": "TUESDAY 22 SEPTEMBER 2026",
+  "built_at": "2026-09-22T15:29:17.209289+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "DORA Year Two: Can Your SOC Actually See the Attack?",
+          "url": "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-09-22T11:45:00+00:00",
+          "summary": "When the Digital Operational Resilience Act (DORA) became enforceable across the European Union in January 2025, it triggered an administrative sprint. Financial entities spent the first year establishing risk governance, assessing third-party service…",
+          "tags": []
+        },
+        {
+          "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
+          "url": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-09-22T11:17:41+00:00",
+          "summary": "A SharePoint Server vulnerability that Microsoft initially classified as a spoofing flaw with a CVSS score of 6.5 actually enables authenticated remote code execution, according to full technical details published today by Viettel Cyber Security researcher…",
+          "tags": []
+        },
+        {
+          "title": "AI-Assisted Phishing Campaign Sent Over A Million Personalized Emails",
+          "url": "https://blog.knowbe4.com/ai-assisted-phishing-campaign-sent-over-a-million-personalized-emails",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-09-22T13:00:03+00:00",
+          "summary": "Researchers at Microsoft are tracking an AI-assisted phishing campaign that sent over a million emails attempting to conduct payment diversion scams.",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
+          "url": "https://simonwillison.net/2026/Sep/21/jev/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-21T23:09:20+00:00",
+          "summary": "Last week TypeSafe AI unveiled Jev , their first example of a new category of model that they are calling \"System One models\" (I'm with Maggie Appleton, I think \"decision models\" is a better name for these). Jev is an interesting variant on the usual LLM…",
+          "tags": []
+        },
+        {
+          "title": "Cloudflare Python Workers are now generally available",
+          "url": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-21T22:25:44+00:00",
+          "summary": "Cloudflare Python Workers are now generally available After a two year preview, Cloudflare's support for running Python code in their server-side Workers platform is now stable: \"Python is now a first-class, fully supported language on the Cloudflare…",
+          "tags": []
+        },
+        {
+          "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+          "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+          "source": "Hacker News",
+          "section": "ai",
+          "published": "2026-09-22T13:52:15+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "UN chief says fossil fuel majors treat atmosphere like 'open sewer'",
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/22/un-chief-says-fossil-fuel-majors-treat-atmosphere-like-open-sewer_6757817_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-22T14:42:10+00:00",
+          "summary": "Antonio Guterres slammed the energy industry at the UN General Assembly on Tuesday. 'Those who polluted the most, and profited the most, must do far more to repair the damage they caused,' he urged.",
+          "tags": []
+        },
+        {
+          "title": "'Politicians know rising gas prices can cost them votes'",
+          "url": "https://www.lemonde.fr/en/opinion/article/2026/09/22/politicians-know-rising-gas-prices-can-cost-them-votes_6757815_23.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-22T13:30:10+00:00",
+          "summary": "The increase in fuel prices generates public anger and poses a dilemma for authorities, who must decide whether to implement support measures. Economic choices, Le Monde columnist Isabelle Chaperon notes, often hinge on upcoming elections.",
+          "tags": []
+        },
+        {
+          "title": "Ladin: Dolomites villages refuse to give up on ancient language",
+          "url": "https://www.france24.com/en/europe/20260922-ladin-dolomites-villages-refuse-to-give-up-on-ancient-language",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-09-22T13:30:40+00:00",
+          "summary": "Year after year, the mountains of the Dolomites become more popular with tourists. Amid millions of visitors, 30,000 inhabitants speak a language only they understand: Ladin, one of the oldest minority languages in Europe.",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Bottom Six Minutes: Position battle on the blue line",
+          "url": "https://www.habseyesontheprize.com/habs-news-training-camp-preseason-defence-position-roster-reinbacher-xhekaj-struble-habs-lines/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-09-22T12:41:17+00:00",
+          "summary": "The Montreal Canadiens were dealt the dreaded injury blow before the preseason even began this year, with Kaiden Guhle set to miss up to five weeks due to an adductor issue. As disappointing as that was to hear, it created an interesting storyline for their…",
+          "tags": []
+        },
+        {
+          "title": "Bruins vs. Flyers PRESEASON PREVIEW:",
+          "url": "https://www.stanleycupofchowder.com/bruins-gameday/59253/bruins-vs-flyers-preseason-preview",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-09-22T10:00:00+00:00",
+          "summary": "Just the Facts What happened last game? The Bruins played a tight game where Jake Schmaltz and Charlie McAvoy scored, and it went to the shootout with James Hagens once again stepping in to play the hero. Bruins WIN 3-2! Mike DiPietro also had a huge game for…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "GB out of BJK Cup as Kartal & Boulter beaten by Czechs",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cmkg75dyz154o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-09-22T14:56:17+00:00",
+          "summary": "Sonay Kartal and Katie Boulter lose their singles matches as Great Britain are beaten by a strong Czech Republic side in the Billie Jean King Cup quarter-finals.",
+          "tags": []
+        },
+        {
+          "title": "Great Britain exit Billie Jean King Cup to mighty Czechia in quarter-finals",
+          "url": "https://www.theguardian.com/sport/2026/sep/22/great-britain-exit-billie-jean-king-cup-tennis-czechia-quarter-finals",
+          "source": "Guardian Tennis",
+          "section": "tennis",
+          "published": "2026-09-22T14:59:06+00:00",
+          "summary": "Defeats for Kartal and Boulter condemn Britain to loss Men will play Germany in quarter-finals of Davis Cup Great Britain’s stay at the Billie Jean King Cup Finals lasted only one match as they fell to Czechia in the quarter-finals in Shenzhen. Anne…",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 20,
+  "sources_line": "BBC TENNIS, FRANCE 24 EUROPE, GUARDIAN TENNIS, HABS EYES ON THE PRIZE, HACKER NEWS, KNOWBE4, LE MONDE, SIMON WILLISON, STANLEY CUP OF CHOWDER, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 17,
+      "low": 12,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 24,
+      "low": 12,
+      "conditions": "clear"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-7273",
+      "vendor": "Zyxel",
+      "product": "GS1900 Series Switches",
+      "name": "Zyxel GS1900 Series Switches Stack-Based Buffer Overflow Vulnerability",
+      "summary": "Zyxel GS1900 series switches contain a stack-based buffer overflow vulnerability in the CGI program which could allow a LAN-based, unauthenticated attacker to exploit the flaw and potentially execute OS commands via a…",
+      "added": "2026-09-21",
+      "due": "2026-09-24",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-7273"
+    },
+    {
+      "cve": "CVE-2025-39964",
+      "vendor": "Linux",
+      "product": "Kernel",
+      "name": "Linux Kernel Race Condition Vulnerability",
+      "summary": "Linux Kernel contains a race condition vulnerability which allows concurrent writes to the same AF_ALG socket causing data to be unpredictably interleaved and creating inconsistencies in the socket's internal state.",
+      "added": "2026-09-18",
+      "due": "2026-09-21",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-39964"
+    },
+    {
+      "cve": "CVE-2026-53266",
+      "vendor": "Linux",
+      "product": "Kernel",
+      "name": "Linux Kernel Out-of-Bounds Write Vulnerability",
+      "summary": "Linux Kernel contains an out-of-bounds write vulnerability in the ebtables SNAT target which allows an ARP sender hardware address rewrite to write directly into a nonlinear socket-buffer fragment backed by a…",
+      "added": "2026-09-18",
+      "due": "2026-09-21",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-53266"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-09-22",
+      "away": "PHI",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Korea Open",
+        "start": "2026-09-18",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Singapore Tennis Open presented by BNP Paribas",
+        "start": "2026-09-18",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Delta Motors Tolentino Open",
+        "start": "2026-09-20",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Eupago Porto Open",
+        "start": "2026-09-20",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Turk Telekom Ankara Open",
+        "start": "2026-09-20",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Chengdu Open",
+        "start": "2026-09-22",
+        "end": "2026-09-30",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "AITO Hangzhou Open",
+        "start": "2026-09-22",
+        "end": "2026-09-30",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9901.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7875.0
+        },
+        {
+          "rank": 3,
+          "name": "Jessica Pegula",
+          "points": 7265.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 11500.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9690.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5560.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "China Open",
+        "tour": "WTA",
+        "start": "2026-09-30",
+        "end": "2026-10-12",
+        "major": false
+      },
+      {
+        "name": "Kinoshita Group Japan Open Tennis Championships",
+        "tour": "ATP",
+        "start": "2026-09-30",
+        "end": "2026-10-07",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 58
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "adresse",
+        "en": "address"
+      },
+      {
+        "fr": "avions",
+        "en": "planes, used to have, had"
+      },
+      {
+        "fr": "mode",
+        "en": "fashion, fad"
+      }
+    ],
+    "quiz": {
+      "fr": "adresse",
+      "en": "address"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
