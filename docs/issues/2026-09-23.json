@@ -1,0 +1,375 @@
+{
+  "date": "2026-09-23",
+  "date_long": "Wednesday, September 23, 2026",
+  "date_mast": "WEDNESDAY 23 SEPTEMBER 2026",
+  "built_at": "2026-09-23T15:23:47.043690+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
+          "url": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-09-23T14:17:58+00:00",
+          "summary": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server, Cisco Talos said on September 22. The models can choose to steal Windows credentials, saved browser passwords, and crypto wallet…",
+          "tags": []
+        },
+        {
+          "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
+          "url": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-09-23T13:52:46+00:00",
+          "summary": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for Windows, Linux, and macOS. According to…",
+          "tags": []
+        },
+        {
+          "title": "Are Your AI Assistants the Next Attack Surface?",
+          "url": "https://blog.knowbe4.com/are-your-ai-assistants-the-next-attack-surface",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-09-23T15:00:00+00:00",
+          "summary": "Lead Analysts : Shikhar Dalela, Maddhav Grandy and Jeewan Singh Jalal",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Two years of OpenAI Academy",
+          "url": "https://openai.com/index/two-years-of-openai-academy",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-09-23T16:00:00+00:00",
+          "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+          "tags": []
+        },
+        {
+          "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
+          "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-23T02:53:19+00:00",
+          "summary": "SF October 14th: A Birds of a Feather Session on Agentic Engineering I'm hosting an evening event with Jesse Vincent in San Francisco on Wednesday 14th October for people who are building weird and interesting things with and on top of coding agents. Think of…",
+          "tags": []
+        },
+        {
+          "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+          "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-22T23:46:41+00:00",
+          "summary": "Yesterday was Grok 4.7 ( pelicans ) and MiMo v2.6 Flash/Pro ( more pelicans ). Today Anthropic released Claude Opus 5.5 , and around an hour later OpenAI released GPT-6 Sol and GPT-6 Luna . It's going to take a while to get a good read on all of these new…",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "'We can feel the RN wave coming': A traditional stronghold of French conservatives shifts right",
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/23/we-can-feel-the-rn-wave-coming-a-traditional-stronghold-of-french-conservatives-shifts-right_6757863_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-23T14:00:08+00:00",
+          "summary": "'Europe's far right takes root' (2/6). As the Rassemblement National pursues a meticulous grassroots strategy in the largely rural department of Seine-et-Marne, on the outskirts of Paris, right-leaning voters have been sliding, election after election, toward…",
+          "tags": []
+        },
+        {
+          "title": "ICC convicts Central African Republic rebel leader on crimes against humanity charges",
+          "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/09/23/icc-convicts-central-african-republic-rebel-leader-on-crimes-against-humanity-charges_6757862_124.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-23T13:47:11+00:00",
+          "summary": "The International Criminal Court found that, while he headed a special police unit, Mahamat Saïd Abdel Kani oversaw beatings and mistreatment as the country spiraled into civil war in 2013.",
+          "tags": []
+        },
+        {
+          "title": "Europe lifts sanctions against two Russians",
+          "url": "https://www.france24.com/en/europe-lifts-sanctions-against-two-russians",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-09-23T08:26:17+00:00",
+          "summary": "The EU has agreed to remove Russian billionaires Alisher Usmanov and Mikhail Fridman from its sanctions list, while extending restrictions on nearly 3,000 individuals and companies linked to Russia’s war in Ukraine for another three years. The decision came…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Bruins vs. Flyers PRESEASON: B’s play it close then blow the doors open in 5-1 WIN!",
+          "url": "https://www.stanleycupofchowder.com/bruins-gameday/59275/bruins-vs-flyers-preseason-bs-play-it-close-then-blow-the-doors-open-in-5-1-win",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-09-23T10:45:00+00:00",
+          "summary": "First Period This! Was a fairly back and forth period! Nearly 10 shots for both sides! But both goalies were up to the task…right up until the late period, when Michael Eyssimont got a shot through Dan Vladar who had ended up losing their stick as the…",
+          "tags": []
+        },
+        {
+          "title": "Wednesday Habs Headlines: Florian Xhekaj has “a presence”",
+          "url": "https://www.habseyesontheprize.com/montreal-canadiens-news-florian-xhekaj-lineup-decision-samuel-montembeault-alex-newhook-chris-kreider-gary-bettman-commissioner-expansion-michael-andlauer-brady-tkachuk-ted-leonisis-board-of-governors/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-09-23T08:00:00+00:00",
+          "summary": "Montreal Canadiens news and notes The Habs face difficult roster decisions, beginning with Florian Xhekaj. [ Montreal Gazette | La Presse | Journal de Montreal ] Montreal’s late first-round pick at the 2026 NHL Draft says more about the present than the…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "September 23, 1989: The day Aaron Krickstein showed why he was called “Marathon Man”",
+          "url": "https://www.tennismajors.com/atp/september-23-1989-the-day-aaron-krickstein-produced-an-amazing-comeback-291852.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-09-23T02:06:51+00:00",
+          "summary": "Every day, Tennis Majors takes you back to some of the most famous moments in tennis history. On September 23, 1989, Aaron Krickstein showed everyone why he could never be written off",
+          "tags": []
+        },
+        {
+          "title": "'Be comfortable in your own identity' - Agassi's advice to Raducanu",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cwd08m2x93mpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-09-23T05:18:54+00:00",
+          "summary": "As Emma Raducanu plots a route back to the pinnacle of tennis, the Briton is taking inspiration from Andre Agassi's 2009 autobiography.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 21,
+  "sources_line": "BBC TENNIS, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, KNOWBE4, LE MONDE, OPENAI, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 17,
+      "low": 9,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 26,
+      "low": 13,
+      "conditions": "overcast"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-93952",
+      "vendor": "Arista",
+      "product": "VeloCloud Orchestrator",
+      "name": "Arista VeloCloud Orchestrator Improper Input Validation Vulnerability",
+      "summary": "Arista VeloCloud Orchestrator (VCO) on-prem contains an improper input validation vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful…",
+      "added": "2026-09-22",
+      "due": "2026-09-25",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-93952"
+    },
+    {
+      "cve": "CVE-2026-94127",
+      "vendor": "F5",
+      "product": "BIG-IP APM",
+      "name": "F5 BIG-IP APM Heap-based Buffer Overflow Vulnerability",
+      "summary": "F5 BIG-IP APM contains a heap-based buffer overflow vulnerability when access policy and an OAuth profile are configured on a virtual server. This vulnerability could allow an unauthenticated attacker to perform remote…",
+      "added": "2026-09-22",
+      "due": "2026-09-25",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-94127"
+    },
+    {
+      "cve": "CVE-2026-93616",
+      "vendor": "Check Point",
+      "product": "Multiple Products",
+      "name": "Check Point Multiple Products Path Traversal Vulnerability",
+      "summary": "Check Point Security Management Server, Multi-Domain Security Management Server, Log Server, Multi-Domain Log Server, and SmartEvent contain a path traversal vulnerability that allows an unauthenticated attacker to…",
+      "added": "2026-09-22",
+      "due": "2026-09-25",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-93616"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-09-24",
+      "away": "BOS",
+      "home": "PHI"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Korea Open",
+        "start": "2026-09-18",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Singapore Tennis Open presented by BNP Paribas",
+        "start": "2026-09-18",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Delta Motors Tolentino Open",
+        "start": "2026-09-20",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Eupago Porto Open",
+        "start": "2026-09-20",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Turk Telekom Ankara Open",
+        "start": "2026-09-20",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Chengdu Open",
+        "start": "2026-09-22",
+        "end": "2026-09-30",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "AITO Hangzhou Open",
+        "start": "2026-09-22",
+        "end": "2026-09-30",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9901.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7875.0
+        },
+        {
+          "rank": 3,
+          "name": "Jessica Pegula",
+          "points": 7265.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 11500.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9690.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5560.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "China Open",
+        "tour": "WTA",
+        "start": "2026-09-30",
+        "end": "2026-10-12",
+        "major": false
+      },
+      {
+        "name": "Samsun Open",
+        "tour": "WTA",
+        "start": "2026-10-04",
+        "end": "2026-10-12",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 57
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "album",
+        "en": "album, volume"
+      },
+      {
+        "fr": "corps",
+        "en": "body"
+      },
+      {
+        "fr": "après",
+        "en": "after, afterwards, from"
+      }
+    ],
+    "quiz": {
+      "fr": "album",
+      "en": "album, volume"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
