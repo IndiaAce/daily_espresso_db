@@ -1,0 +1,375 @@
+{
+  "date": "2026-09-24",
+  "date_long": "Thursday, September 24, 2026",
+  "date_mast": "THURSDAY 24 SEPTEMBER 2026",
+  "built_at": "2026-09-24T15:47:09.014166+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls",
+          "url": "https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-09-24T12:05:27+00:00",
+          "summary": "The logistics sector has become the target of a new malicious cyber campaign that distributes an Android spyware codenamed Corp MDM. According to Have I Been Squatted, the campaign uses fake Google Play pages branded as CEVA and TKW Logistics to distribute an…",
+          "tags": []
+        },
+        {
+          "title": "Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore",
+          "url": "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-09-24T11:00:00+00:00",
+          "summary": "AI coding agents are changing how quickly developers can build and ship software as well as how quickly credentials can become exposed. According to GitGuardian’s 2026 State of Secrets Sprawl Report, commits identified as AI-assisted are leaking secrets at…",
+          "tags": []
+        },
+        {
+          "title": "GitLab Email Addresses Can Be Weaponized for Supply Chain Attacks",
+          "url": "https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks",
+          "source": "Dark Reading",
+          "section": "email_security",
+          "published": "2026-09-23T20:53:38+00:00",
+          "summary": "Incoming email addresses automatically assigned to each user on the platform contain highly privileged access tokens that attackers can use.",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+          "source": "Hugging Face",
+          "section": "ai",
+          "published": "2026-09-24T14:08:57+00:00",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "Gemini 3.8 TTS Playground",
+          "url": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-23T17:12:27+00:00",
+          "summary": "Tool: Gemini 3.8 TTS Playground Google released two new Gemini text-to-speech models today - gemini-3.8-flash-tts and gemini-3.8-flash-lite-tts . They come with a library of over 2,000 voices, plus the ability to create a custom voice with \"just a 30-second…",
+          "tags": []
+        },
+        {
+          "title": "Shadow roots, explained with live examples",
+          "url": "https://simonwillison.net/2026/Sep/23/shadow-roots/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-23T16:37:18+00:00",
+          "summary": "Tool: Shadow roots, explained with live examples Prompt to Fable 5.1 Medium: Build an artifact to explain shadow roots in CSS with interactive examples Tags: css",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "'We must call a war a war, whether it is informational, cyber, hybrid or covert'",
+          "url": "https://www.lemonde.fr/en/opinion/article/2026/09/24/we-must-call-a-war-a-war-whether-it-is-informational-cyber-hybrid-or-covert_6757906_23.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-24T15:00:10+00:00",
+          "summary": "After four and a half years of war, Vladimir Putin's failure to conquer Ukraine has prompted him to escalate his campaign, seeking to destroy Ukraine and destabilize Europe, writes columnist Sylvie Kauffmann.",
+          "tags": []
+        },
+        {
+          "title": "EU sanctions Russian propagandist Xenia Fedorova, recently expelled from France",
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/24/eu-sanctions-russian-propagandist-xenia-fedorova-recently-expelled-from-france_6757905_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-24T14:07:23+00:00",
+          "summary": "The EU accuses Fedorova of 'dissemination of pro-Russian narratives in France and the Union in the context of Russia's war of aggression against Ukraine,' according to a listing published on Thursday.",
+          "tags": []
+        },
+        {
+          "title": "Schism with rebel Catholic sect casts a pall over Pope Leo’s visit to France",
+          "url": "https://www.france24.com/en/europe/20260924-schism-ultra-conservative-rebel-sect-sspx-pope-leo-visit-france-catholics-lourdes",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-09-24T15:18:23+00:00",
+          "summary": "The Vatican’s recent excommunication of followers of a Catholic splinter sect, the Society of Saint Pius X, has revived a longstanding feud within the Roman Catholic Church ahead of Pope Leo XIV’s state visit to France. The ultra-conservative group has…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Thursday Habs Headlines: Roster battles heat up",
+          "url": "https://www.habseyesontheprize.com/habs-headlines-roster-battles-heat-up-preseason-david-reinbacher-florian-xhekaj-samuel-montembeault-jakub-dobes-nhl-waivers-prospects/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-09-24T08:00:00+00:00",
+          "summary": "Montreal Canadiens news and notes With many players making an impression, Canadiens management face some difficult decisions heading into next week’s season opener. [ Montreal Gazette ] Canadiens hopefuls can take a page from Jake Evans’s book and focus less…",
+          "tags": []
+        },
+        {
+          "title": "Public Skate: Bruins vs. Flyers, Preseason",
+          "url": "https://www.stanleycupofchowder.com/gameday-open-threads/59272/public-skate-bruins-vs-flyers-preseason",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-09-22T21:00:00+00:00",
+          "summary": "Welcome to another edition of preseason Bruins hockey, folks! After starting the preseason with a 3-2 shootout win over Washington on Sunday night, the B’s will host the Philadelphia Flyers at TD Garden tonight. The Flyers played their first preseason game…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "“I let them win in America, now it’s our turn”: Noah puts London on Agassi as the captains meet again",
+          "url": "https://www.tennismajors.com/others-news/laver-cup/i-let-them-win-in-america-now-its-our-turn-noah-puts-london-on-agassi-as-the-captains-meet-again-861687.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-09-24T14:57:05+00:00",
+          "summary": "Second-year captains Andre Agassi and Yannick Noah explain what the Laver Cup job actually involves, with Agassi saying a captain cannot parachute into champions' lives and make magic, only avoid screwing them up, and Noah pointing to the year-round phone…",
+          "tags": []
+        },
+        {
+          "title": "'I suffered, but I enjoyed' - Alcaraz on smiling after defeat at 3:34am",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cmvgy73zvwx1o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-09-24T06:56:50+00:00",
+          "summary": "Carlos Alcaraz discusses his US Open return, why he \"misses\" rival Jannik Sinner and his excitement for this year's Laver Cup.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 22,
+  "sources_line": "BBC TENNIS, DARK READING, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, HUGGING FACE, LE MONDE, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 17,
+      "low": 8,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 23,
+      "low": 15,
+      "conditions": "overcast"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-93952",
+      "vendor": "Arista",
+      "product": "VeloCloud Orchestrator",
+      "name": "Arista VeloCloud Orchestrator Improper Input Validation Vulnerability",
+      "summary": "Arista VeloCloud Orchestrator (VCO) on-prem contains an improper input validation vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful…",
+      "added": "2026-09-22",
+      "due": "2026-09-25",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-93952"
+    },
+    {
+      "cve": "CVE-2026-94127",
+      "vendor": "F5",
+      "product": "BIG-IP APM",
+      "name": "F5 BIG-IP APM Heap-based Buffer Overflow Vulnerability",
+      "summary": "F5 BIG-IP APM contains a heap-based buffer overflow vulnerability when access policy and an OAuth profile are configured on a virtual server. This vulnerability could allow an unauthenticated attacker to perform remote…",
+      "added": "2026-09-22",
+      "due": "2026-09-25",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-94127"
+    },
+    {
+      "cve": "CVE-2026-93616",
+      "vendor": "Check Point",
+      "product": "Multiple Products",
+      "name": "Check Point Multiple Products Path Traversal Vulnerability",
+      "summary": "Check Point Security Management Server, Multi-Domain Security Management Server, Log Server, Multi-Domain Log Server, and SmartEvent contain a path traversal vulnerability that allows an unauthenticated attacker to…",
+      "added": "2026-09-22",
+      "due": "2026-09-25",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-93616"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-09-24",
+      "away": "BOS",
+      "home": "PHI"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Korea Open",
+        "start": "2026-09-18",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Singapore Tennis Open presented by BNP Paribas",
+        "start": "2026-09-18",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Delta Motors Tolentino Open",
+        "start": "2026-09-20",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Eupago Porto Open",
+        "start": "2026-09-20",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Turk Telekom Ankara Open",
+        "start": "2026-09-20",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Chengdu Open",
+        "start": "2026-09-22",
+        "end": "2026-09-30",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "AITO Hangzhou Open",
+        "start": "2026-09-22",
+        "end": "2026-09-30",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9901.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7875.0
+        },
+        {
+          "rank": 3,
+          "name": "Jessica Pegula",
+          "points": 7265.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 11500.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9690.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5560.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "China Open",
+        "tour": "WTA",
+        "start": "2026-09-30",
+        "end": "2026-10-12",
+        "major": false
+      },
+      {
+        "name": "Samsun Open",
+        "tour": "WTA",
+        "start": "2026-10-04",
+        "end": "2026-10-12",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 56
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "après-midis",
+        "en": "afternoons"
+      },
+      {
+        "fr": "prendra",
+        "en": "will have, will get, will be taking"
+      },
+      {
+        "fr": "bien sûr",
+        "en": "of course"
+      }
+    ],
+    "quiz": {
+      "fr": "après-midis",
+      "en": "afternoons"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
