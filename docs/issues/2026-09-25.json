@@ -1,0 +1,382 @@
+{
+  "date": "2026-09-25",
+  "date_long": "Friday, September 25, 2026",
+  "date_mast": "FRIDAY 25 SEPTEMBER 2026",
+  "built_at": "2026-09-25T15:46:54.238397+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance",
+          "url": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-09-25T14:51:10+00:00",
+          "summary": "AI agents can operate through human credentials and take actions that existing SOC 2 controls may not distinguish from human activity. Token Security explains why SOC 2 needs to adapt to address the security gaps created by agent identities.",
+          "tags": []
+        },
+        {
+          "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison",
+          "url": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-09-25T11:35:14+00:00",
+          "summary": "A Kosovar national has pleaded guilty to operating Rydox, a large illegal online marketplace that sold stolen personal information, login credentials, credit card details, and cybercrime tools.",
+          "tags": []
+        },
+        {
+          "title": "AI-Generated Phishing Pages Are Impersonating Antivirus Services",
+          "url": "https://blog.knowbe4.com/ai-generated-phishing-pages-are-impersonating-antivirus-services",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-09-24T20:00:01+00:00",
+          "summary": "Scammers are using AI to generate phishing pages that impersonate antivirus products, according to Malwarebytes.",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Note on 24th September 2026",
+          "url": "https://simonwillison.net/2026/Sep/24/harder/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-24T23:31:08+00:00",
+          "summary": "The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder. We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge. Tags…",
+          "tags": []
+        },
+        {
+          "title": "commit-rewriter 0.2",
+          "url": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-24T20:06:53+00:00",
+          "summary": "Release: commit-rewriter 0.2 Support for branches other than the default branch. Use uvx commit-rewriter --branch other to run against another branch. #3 Tags: git",
+          "tags": []
+        },
+        {
+          "title": "The Mafia may be keeping fentanyl out of Italy",
+          "url": "https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy",
+          "source": "Hacker News",
+          "section": "ai",
+          "published": "2026-09-25T10:20:20+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Pope Leo XIV, in Paris, cautions against losing humanity in 'paradise of machines'",
+          "url": "https://www.lemonde.fr/en/france/article/2026/09/25/pope-leo-xiv-in-paris-cautions-against-losing-humanity-in-paradise-of-machines_6757933_8.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-25T12:45:49+00:00",
+          "summary": "In a speech at the start of his four-day visit to France, the pope warned against the dangers of AI and other technologies, stressed that 'authentic secularity' should not exclude religion, and urged France to be a 'tireless champion of peace.'",
+          "tags": []
+        },
+        {
+          "title": "Zinédine Zidane takes charge of first match as France manager",
+          "url": "https://www.lemonde.fr/en/sports/article/2026/09/25/zinedine-zidane-takes-charge-of-first-match-as-france-manager_6757949_9.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-25T12:40:11+00:00",
+          "summary": "France plays away to Turkey in the Nations League on Friday for Zidane's first match as a manager since he left Real Madrid in 2021.",
+          "tags": []
+        },
+        {
+          "title": "EU vows to pursue €120 million fine on X after US backs Musk's court challenge",
+          "url": "https://www.france24.com/en/europe/20260925-eu-vows-to-pursue-%E2%82%AC120-million-fine-on-x-after-us-backs-musk-s-court-challenge",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-09-25T15:01:34+00:00",
+          "summary": "The European Union on Friday said it will pursue a €120 million fine against the X social network after the US Justice Department said it supported the efforts of X owner Elon Musk to have the case annulled. The bloc fined the platform in 2025 for breaching…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Friday Habs Headlines: Kirby Dach knows who he is",
+          "url": "https://www.habseyesontheprize.com/montreal-canadiens-news-kirby-dach-david-reinbacher-roster-battle-defence-mike-matheson-habs-playoffs-odds-brayden-klimpke-captain-saskatoon-adam-fantilli-contract/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-09-25T08:00:00+00:00",
+          "summary": "Montreal Canadiens news and notes Finally healthy, Kirby Dach is in tough to win over the fans. [ Sportsnet | TSN | La Presse | RDS ] Arpon Basu thinks that David Reinbacher makes the Canadiens better. [ TSN 690 (Audio) ] Florian Xhekaj is cut from the same…",
+          "tags": []
+        },
+        {
+          "title": "Public Skate: Bruins vs. Flyers, Preseason Pt. II",
+          "url": "https://www.stanleycupofchowder.com/gameday-open-threads/59288/public-skate-bruins-vs-flyers-preseason-pt-ii",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-09-24T21:30:00+00:00",
+          "summary": "Welcome to preseason game 3 of 4, folks! The Bruins and Flyers will renew acquaintances tonight in Philadelphia, just a couple of days after the B’s beat the Flyers at TD Garden by a score of 5-1. Per the NHL website, this game will be broadcast on NESN+…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "“My knee is not where I would like it to be”: Sinner pulls out of Beijing and gives up the title he won last year",
+          "url": "https://www.tennismajors.com/atp/my-knee-is-not-where-i-would-like-it-to-be-sinner-pulls-out-of-beijing-and-gives-up-the-title-he-won-last-year-861748.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-09-25T12:36:15+00:00",
+          "summary": "World No. 1 Jannik Sinner has announced his withdrawal from the China Open in Beijing, citing a persistent knee injury that has kept him off court since Wimbledon. This decision means he will not defend his title, adding to a series of missed tournaments and…",
+          "tags": []
+        },
+        {
+          "title": "Alcaraz tops the bill as the Laver Cup returns to London still aiming to prove its worth",
+          "url": "https://www.theguardian.com/sport/2026/sep/24/alcaraz-tops-the-bill-as-the-laver-cup-returns-to-london-still-aiming-to-prove-its-worth",
+          "source": "Guardian Tennis",
+          "section": "tennis",
+          "published": "2026-09-24T17:16:42+00:00",
+          "summary": "The Ryder Cup-style event has struggled financially since its legendary founder, Roger Federer, retired but still offers a spectacle unlike any other in tennis The sight of a tennis player marching to the bathroom between sets has become increasingly common…",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 23,
+  "sources_line": "BLEEPINGCOMPUTER, FRANCE 24 EUROPE, GUARDIAN TENNIS, HABS EYES ON THE PRIZE, HACKER NEWS, KNOWBE4, LE MONDE, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 20,
+      "low": 7,
+      "conditions": "light drizzle"
+    },
+    {
+      "code": "PAR",
+      "high": 28,
+      "low": 14,
+      "conditions": "overcast"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-67279",
+      "vendor": "MikroTik",
+      "product": "RouterOS",
+      "name": "Mikrotik RouterOS Improper Enforcement of Behavioral Workflow Vulnerability",
+      "summary": "Mikrotik RouterOS contains an improper enforcement of behavioral workflow vulnerability that could allow an unauthenticated client to open a session channel and send an exec request. This vulnerability can be chained to…",
+      "added": "2026-09-25",
+      "due": "2026-09-28",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-67279"
+    },
+    {
+      "cve": "CVE-2026-65660",
+      "vendor": "Microsoft",
+      "product": "SharePoint",
+      "name": "Microsoft SharePoint Code Injection Vulnerability",
+      "summary": "Microsoft SharePoint contains a code injection vulnerability which could allow an authorized attacker to execute code over a network.",
+      "added": "2026-09-25",
+      "due": "2026-09-28",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-65660"
+    },
+    {
+      "cve": "CVE-2026-5430",
+      "vendor": "WSO2",
+      "product": "Multiple Products",
+      "name": "WSO2 Multiple Products Path Traversal Vulnerability ",
+      "summary": "WSO2 API Control Plane, API Manager, Traffic Manager & Universal Gateway contain a path traversal vulnerability that could allow for unrestricted file upload and lead to remote code execution.",
+      "added": "2026-09-24",
+      "due": "2026-09-27",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-5430"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-09-25",
+      "away": "BOS",
+      "home": "WSH"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Korea Open",
+        "start": "2026-09-18",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Singapore Tennis Open presented by BNP Paribas",
+        "start": "2026-09-18",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Delta Motors Tolentino Open",
+        "start": "2026-09-20",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Eupago Porto Open",
+        "start": "2026-09-20",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Turk Telekom Ankara Open",
+        "start": "2026-09-20",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Chengdu Open",
+        "start": "2026-09-22",
+        "end": "2026-09-30",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "AITO Hangzhou Open",
+        "start": "2026-09-22",
+        "end": "2026-09-30",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Jingshan Tennis Open",
+        "start": "2026-09-25",
+        "end": "2026-10-05",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9901.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7875.0
+        },
+        {
+          "rank": 3,
+          "name": "Jessica Pegula",
+          "points": 7265.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 11500.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9690.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5560.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "China Open",
+        "tour": "WTA",
+        "start": "2026-09-30",
+        "end": "2026-10-12",
+        "major": false
+      },
+      {
+        "name": "Samsun Open",
+        "tour": "WTA",
+        "start": "2026-10-04",
+        "end": "2026-10-12",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 55
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "passé",
+        "en": "spent, shown, past"
+      },
+      {
+        "fr": "et onze",
+        "en": "and eleven, and eleven o'clock, and eleven years old"
+      },
+      {
+        "fr": "Chine",
+        "en": "China"
+      }
+    ],
+    "quiz": {
+      "fr": "passé",
+      "en": "spent, shown, past"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
