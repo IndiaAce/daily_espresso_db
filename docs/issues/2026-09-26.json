@@ -1,0 +1,389 @@
+{
+  "date": "2026-09-26",
+  "date_long": "Saturday, September 26, 2026",
+  "date_mast": "SATURDAY 26 SEPTEMBER 2026",
+  "built_at": "2026-09-26T14:56:32.504120+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "What Microsoft’s Latest Email Benchmark Proves About Defense-in-Depth",
+          "url": "https://blog.knowbe4.com/what-microsofts-latest-email-benchmark-proves-about-defense-in-depth",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-09-25T22:53:34+00:00",
+          "summary": "Let’s face it: inertia is often the most common yet most dangerous adversary when it comes to acquiring new technology, especially in cybersecurity.",
+          "tags": []
+        },
+        {
+          "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
+          "url": "https://thehackernews.com/2026/09/compromised-github-actions-came-back.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-09-25T14:44:41+00:00",
+          "summary": "Two actions-cool GitHub Actions have been disabled for a second time after the repositories became accessible last week, months after they were compromised during the May 2026 Mini Shai-Hulud campaign. The affected GitHub Actions are listed below …",
+          "tags": []
+        },
+        {
+          "title": "'Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing",
+          "url": "https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing",
+          "source": "Dark Reading",
+          "section": "email_security",
+          "published": "2026-09-24T21:04:03+00:00",
+          "summary": "Agentic AI can smuggle arbitrary instructions from the Web, across multiple apps, into trusted internal communications channels.",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Quoting John Gruber",
+          "url": "https://simonwillison.net/2026/Sep/25/john-gruber/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-25T17:22:01+00:00",
+          "summary": "Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta’s cloud) and because it’s packaged in an easy-to-install easy-to-use way. It’s literally…",
+          "tags": []
+        },
+        {
+          "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+          "url": "https://openai.com/index/proaction",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-09-25T19:00:00+00:00",
+          "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+          "tags": []
+        },
+        {
+          "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+          "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
+          "source": "Hacker News",
+          "section": "ai",
+          "published": "2026-09-26T10:55:56+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "France sending military resources to Saudi Arabia brings discreet defense ties into spotlight",
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/26/france-sending-military-resources-to-saudi-arabia-brings-discreet-defense-ties-into-spotlight_6757983_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-26T14:00:50+00:00",
+          "summary": "By announcing the deployment of soldiers, radars, and defense systems to protect Saudi Arabia's energy infrastructure, which has been targeted by the pro-Iranian Houthi forces from Yemen, President Macron is taking a geopolitical shift at a time when Riyadh…",
+          "tags": []
+        },
+        {
+          "title": "Germany chooses Munich for Olympics host bid",
+          "url": "https://www.lemonde.fr/en/sports/article/2026/09/26/germany-chooses-munich-for-olympics-host-bid_6757982_9.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-26T13:30:02+00:00",
+          "summary": "The German Olympic Committee was given a choice between Munich and the Cologne/Rhine-Ruhr region after Berlin withdrew on Thursday and Hamburg did in May.",
+          "tags": []
+        },
+        {
+          "title": "Live: Vatican estimates 700,000 people gathered for Pope Leo's Mass in central Paris",
+          "url": "https://www.france24.com/en/europe/20260926-live-more-than-half-a-million-expected-at-pope-s-open-air-mass-in-paris",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-09-26T06:59:41+00:00",
+          "summary": "Pope Leo XIV held an outdoor Mass at Paris’s Place de la Concorde before a crowd of hundreds of thousands of believers on Saturday. The Vatican estimated that some 700,000 people had gathered for the giant open-air event. Follow our liveblog for all the…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Saturday Habs Headlines: Phillip Danault confident ahead of new season",
+          "url": "https://www.habseyesontheprize.com/montreal-canadiens-news-kirill-marchenko-trade-rumours-phillip-danault-confidence-chris-kreider-excited-kaiden-guhle-practice-2028-29-salary-cap-projection-macklin-celebrini-captain-leevi-merilainen/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-09-26T08:00:00+00:00",
+          "summary": "Montreal Canadiens news and notes Phillip Danault was unable to have an impact on the offensively challenged Los Angeles Kings last year, but his run to the Eastern Conference Final has restored his confidence. [ La Presse ] Chris Kreider already experienced…",
+          "tags": []
+        },
+        {
+          "title": "Bruins vs. Caps FINAL PRESEASON GAME: DC Dress Rehearsal",
+          "url": "https://www.stanleycupofchowder.com/bruins-gameday/59293/bruins-vs-caps-final-preseason-game-dc-dress-rehearsal",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-09-25T18:53:08+00:00",
+          "summary": "Just the Facts What happened last game? Boston did not have a particularly good time, but Mike DiPietro seems pretty good! 2-0 Flyers Win. Game Preview As the Bruins are now on their final preseason game, the roster for tonight’s contest will almost certainly…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Top seed Vacherot is out in Chengdu, beaten by qualifier Harris two weeks before he defends in Shanghai",
+          "url": "https://www.tennismajors.com/atp/top-seed-vacherot-is-out-in-chengdu-beaten-by-qualifier-harris-two-weeks-before-he-defends-in-shanghai-861806.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-09-26T10:45:05+00:00",
+          "summary": "Lloyd Harris defeated Valentin Vacherot 6-4, 7-6 (5) on Saturday and will face Pole Hubert Hurkacz, the No 5 seed, in the next round",
+          "tags": []
+        },
+        {
+          "title": "Sinner ruled out of China Open with knee injury",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/c38xkkj0q5ggo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-09-25T21:45:48+00:00",
+          "summary": "World number one Jannik Sinner will not be defending his China Open title as he continues to recover from a knee problem.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 24,
+  "sources_line": "BBC TENNIS, DARK READING, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, HACKER NEWS, KNOWBE4, LE MONDE, OPENAI, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 16,
+      "low": 13,
+      "conditions": "heavy rain"
+    },
+    {
+      "code": "PAR",
+      "high": 23,
+      "low": 16,
+      "conditions": "overcast"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-67279",
+      "vendor": "MikroTik",
+      "product": "RouterOS",
+      "name": "Mikrotik RouterOS Improper Enforcement of Behavioral Workflow Vulnerability",
+      "summary": "Mikrotik RouterOS contains an improper enforcement of behavioral workflow vulnerability that could allow an unauthenticated client to open a session channel and send an exec request. This vulnerability can be chained to…",
+      "added": "2026-09-25",
+      "due": "2026-09-28",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-67279"
+    },
+    {
+      "cve": "CVE-2026-65660",
+      "vendor": "Microsoft",
+      "product": "SharePoint",
+      "name": "Microsoft SharePoint Code Injection Vulnerability",
+      "summary": "Microsoft SharePoint contains a code injection vulnerability which could allow an authorized attacker to execute code over a network.",
+      "added": "2026-09-25",
+      "due": "2026-09-28",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-65660"
+    },
+    {
+      "cve": "CVE-2026-87902",
+      "vendor": "WordPress",
+      "product": "Core",
+      "name": "WordPress Core Remote File Inclusion Vulnerability",
+      "summary": "WordPress Core contains a remote file inclusion vulnerability which could allow an unauthenticated attacker to make page-template resolution include a chosen readable local `.php` file outside the active theme…",
+      "added": "2026-09-25",
+      "due": "2026-09-28",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-87902"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-09-29",
+      "away": "NYR",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Korea Open",
+        "start": "2026-09-18",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Singapore Tennis Open presented by BNP Paribas",
+        "start": "2026-09-18",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Delta Motors Tolentino Open",
+        "start": "2026-09-20",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Eupago Porto Open",
+        "start": "2026-09-20",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Turk Telekom Ankara Open",
+        "start": "2026-09-20",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Chengdu Open",
+        "start": "2026-09-22",
+        "end": "2026-09-30",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "AITO Hangzhou Open",
+        "start": "2026-09-22",
+        "end": "2026-09-30",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Jingshan Tennis Open",
+        "start": "2026-09-25",
+        "end": "2026-10-05",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Adana Open",
+        "start": "2026-09-26",
+        "end": "2026-10-05",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9901.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7875.0
+        },
+        {
+          "rank": 3,
+          "name": "Jessica Pegula",
+          "points": 7265.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 11500.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9690.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5560.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "China Open",
+        "tour": "WTA",
+        "start": "2026-09-30",
+        "end": "2026-10-12",
+        "major": false
+      },
+      {
+        "name": "Samsun Open",
+        "tour": "WTA",
+        "start": "2026-10-04",
+        "end": "2026-10-12",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 54
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "employé",
+        "en": "hired, employee, employee's"
+      },
+      {
+        "fr": "plante",
+        "en": "plants, is planting, plant"
+      },
+      {
+        "fr": "où",
+        "en": "where"
+      }
+    ],
+    "quiz": {
+      "fr": "employé",
+      "en": "hired, employee, employee's"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
