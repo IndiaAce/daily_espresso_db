@@ -1,0 +1,403 @@
+{
+  "date": "2026-09-27",
+  "date_long": "Sunday, September 27, 2026",
+  "date_mast": "SUNDAY 27 SEPTEMBER 2026",
+  "built_at": "2026-09-27T15:36:13.374787+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
+          "url": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-09-26T18:22:52+00:00",
+          "summary": "The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex. The new findings come from Ontinue, which described the…",
+          "tags": []
+        },
+        {
+          "title": "Microsoft pauses KB5002907 update after Office license deactivations",
+          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-09-26T15:50:38+00:00",
+          "summary": "Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations.",
+          "tags": []
+        },
+        {
+          "title": "Warning: New Phishing Kit Targets Sales Teams",
+          "url": "https://blog.knowbe4.com/warning-new-phishing-kit-targets-sales-teams",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-09-25T20:00:00+00:00",
+          "summary": "Threat actors are using a new phishing kit called “GhostCode” to target sales teams with phony business inquiries, according to researchers at eSentire. The threat actors begin the attack using the targeted company’s web contact form, so the messages won’t be…",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Kākāpō Party",
+          "url": "https://simonwillison.net/2026/Sep/26/kakapo-party/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-26T23:39:06+00:00",
+          "summary": "Tool: Kākāpō Party I presented a closing keynote for the WeAreDevelopers World Congress North America yesterday. As a STAR moment I decided to weave in references to the record breaking kākāpō breeding season we had in 2026. For my closing slide I wanted to…",
+          "tags": []
+        },
+        {
+          "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+          "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+          "source": "Hacker News",
+          "section": "ai",
+          "published": "2026-09-27T08:44:04+00:00",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "Northern Gannet, Great Blue Heron, California Brown Pelican",
+          "url": "https://simonwillison.net/2026/Sep/25/sighting-403293902/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-25T02:07:04+00:00",
+          "summary": "Northern Gannet, Great Blue Heron, California Brown Pelican, in Monterey Bay National Marine Sanctuary, CA, US, CA New 200-800mm Canon EF lens got me my best photo of Morris yet. They really like hanging out under that sign in the harbor! Tags: photography …",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Grand Paris Express metro opening faces fresh delay",
+          "url": "https://www.lemonde.fr/en/economy/article/2026/09/27/grand-paris-express-metro-opening-faces-fresh-delay_6758006_19.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-27T12:00:09+00:00",
+          "summary": "After the delay to Line 15 announced in June, a further postponement was announced for the future automatic metro lines 16 and 17, north and east of Paris.",
+          "tags": []
+        },
+        {
+          "title": "Trump administration is trying to reshape election rules to its advantage ahead of midterm elections",
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/27/trump-administration-is-trying-to-reshape-election-rules-to-its-advantage-ahead-of-midterm-elections_6758005_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-27T11:00:08+00:00",
+          "summary": "The Supreme Court prevented Republicans on Friday from redrawing Missouri's electoral map to their benefit, but the party has managed to reshape districts in many other states. Meanwhile, the White House sought to purge voter rolls and limit mail-in voting.",
+          "tags": []
+        },
+        {
+          "title": "First Protestant march in Catholic area in nearly 30 years",
+          "url": "https://www.france24.com/en/first-protestant-march-in-catholic-area-in-nearly-30-years",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-09-27T13:54:28+00:00",
+          "summary": "Tensions are running high in Northern Ireland after the High Court in Belfast approved a controversial parade. Around 2,000 protesters have blocked the route into a Catholic area where the Protestant march was due to pass. It is the first time in nearly 30…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "David Pastrnak named Bruins captain",
+          "url": "https://www.stanleycupofchowder.com/general/59299/david-pastrnak-named-bruins-captain",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-09-27T14:57:12+00:00",
+          "summary": "The Boston Bruins have officially named David Pastrnak as the 28th captain in team history! This completes the entire cycle of the Perfection line being given the “C”, but it is extremely well earned for Pasta. I think we all had some semblance of this…",
+          "tags": []
+        },
+        {
+          "title": "Bottom Six Minutes: Who makes the Habs roster?",
+          "url": "https://www.habseyesontheprize.com/habs-news-preseason-roster-samuel-montembeault-kirby-dach-reinbacher-engstrom-habs-roster-cuts/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-09-27T12:55:53+00:00",
+          "summary": "Splitting their two split-squad games against the Ottawa Senators on Saturday night, the Montreal Canadiens have reached the end of their preseason calendar. As a team that entered the preseason without many lineup spots up for grabs, it was never likely to…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Fernandez saves set point, then sweeps Gibson aside to win Singapore title",
+          "url": "https://www.tennismajors.com/wta-tour-news/fernandez-saves-set-point-then-sweeps-gibson-aside-to-win-singapore-title-861896.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-09-27T10:50:06+00:00",
+          "summary": "Leylah Fernandez (No. 6) saved a set point against Talia Gibson and did not lose another game, winning 7-5, 6-0 to take the Singapore title. The Canadian, handed a wild card after a visa problem wrecked her plans for Brazil, lifted her sixth career trophy.",
+          "tags": []
+        },
+        {
+          "title": "Czechs beat Ukraine for 12th Billie Jean King Cup title",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cqdj4vgxn1g1o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-09-27T13:57:26+00:00",
+          "summary": "The Czech Republic ease past Ukraine to win the Billie Jean King Cup for the 12th time thanks to wins for 2026 Wimbledon finalists Karolina Muchova and Linda Noskova.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 25,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, HACKER NEWS, KNOWBE4, LE MONDE, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 16,
+      "low": 14,
+      "conditions": "rain"
+    },
+    {
+      "code": "PAR",
+      "high": 28,
+      "low": 14,
+      "conditions": "overcast"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-67279",
+      "vendor": "MikroTik",
+      "product": "RouterOS",
+      "name": "Mikrotik RouterOS Improper Enforcement of Behavioral Workflow Vulnerability",
+      "summary": "Mikrotik RouterOS contains an improper enforcement of behavioral workflow vulnerability that could allow an unauthenticated client to open a session channel and send an exec request. This vulnerability can be chained to…",
+      "added": "2026-09-25",
+      "due": "2026-09-28",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-67279"
+    },
+    {
+      "cve": "CVE-2026-65660",
+      "vendor": "Microsoft",
+      "product": "SharePoint",
+      "name": "Microsoft SharePoint Code Injection Vulnerability",
+      "summary": "Microsoft SharePoint contains a code injection vulnerability which could allow an authorized attacker to execute code over a network.",
+      "added": "2026-09-25",
+      "due": "2026-09-28",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-65660"
+    },
+    {
+      "cve": "CVE-2026-87902",
+      "vendor": "WordPress",
+      "product": "Core",
+      "name": "WordPress Core Remote File Inclusion Vulnerability",
+      "summary": "WordPress Core contains a remote file inclusion vulnerability which could allow an unauthenticated attacker to make page-template resolution include a chosen readable local `.php` file outside the active theme…",
+      "added": "2026-09-25",
+      "due": "2026-09-28",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-87902"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-09-29",
+      "away": "NYR",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Korea Open",
+        "start": "2026-09-18",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Singapore Tennis Open presented by BNP Paribas",
+        "start": "2026-09-18",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Delta Motors Tolentino Open",
+        "start": "2026-09-20",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Eupago Porto Open",
+        "start": "2026-09-20",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Turk Telekom Ankara Open",
+        "start": "2026-09-20",
+        "end": "2026-09-28",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Chengdu Open",
+        "start": "2026-09-22",
+        "end": "2026-09-30",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "AITO Hangzhou Open",
+        "start": "2026-09-22",
+        "end": "2026-09-30",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Jingshan Tennis Open",
+        "start": "2026-09-25",
+        "end": "2026-10-05",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Adana Open",
+        "start": "2026-09-26",
+        "end": "2026-10-05",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "China Open",
+        "start": "2026-09-27",
+        "end": "2026-10-12",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Kinoshita Group Japan Open Tennis Championships",
+        "start": "2026-09-27",
+        "end": "2026-10-07",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9901.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7875.0
+        },
+        {
+          "rank": 3,
+          "name": "Jessica Pegula",
+          "points": 7265.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 11500.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9690.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5560.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Samsun Open",
+        "tour": "WTA",
+        "start": "2026-10-04",
+        "end": "2026-10-12",
+        "major": false
+      },
+      {
+        "name": "Suzhou Open",
+        "tour": "WTA",
+        "start": "2026-10-05",
+        "end": "2026-10-12",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 53
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "en retard",
+        "en": "late"
+      },
+      {
+        "fr": "mexicaines",
+        "en": "Mexican"
+      },
+      {
+        "fr": "cuillère",
+        "en": "spoon"
+      }
+    ],
+    "quiz": {
+      "fr": "en retard",
+      "en": "late"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
