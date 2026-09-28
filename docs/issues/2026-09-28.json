@@ -1,0 +1,412 @@
+{
+  "date": "2026-09-28",
+  "date_long": "Monday, September 28, 2026",
+  "date_mast": "MONDAY 28 SEPTEMBER 2026",
+  "built_at": "2026-09-28T18:33:45.909476+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
+          "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-09-28T15:49:27+00:00",
+          "summary": "The JadePuffer ransomware operator is targeting Azure tenants with agent-driven attacks that conduct reconnaissance, steal credentials, and destroy core components.",
+          "tags": []
+        },
+        {
+          "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
+          "url": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-09-28T14:00:10+00:00",
+          "summary": "Infostealer logs exposed AI account credentials and sessions tied to more than 80,000 corporate domains, creating risks ranging from stolen conversations to LLMjacking. SOCRadar examines the growing market for stolen AI logins and how organizations can…",
+          "tags": []
+        },
+        {
+          "title": "FBI Alert: Phishing Attacks Are Impersonating Law Enforcement",
+          "url": "https://blog.knowbe4.com/fbi-alert-phishing-attacks-are-impersonating-law-enforcement",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-09-28T13:00:02+00:00",
+          "summary": "The U.S. Federal Bureau of Investigation (FBI) has issued an alert warning that widespread fraud campaigns are impersonating law enforcement or government officials to trick users into handing over money or sensitive information.",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Quoting Muse AI Agent",
+          "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-28T04:01:30+00:00",
+          "summary": "Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:15 and waited, messaged a bunch of times, and nobody came down. He left angry at 9:38 and left a negative rating. Worse, my auto-reply told him \"Yep I'm here!\" at 9:27 when you…",
+          "tags": []
+        },
+        {
+          "title": "2026 in LLMs (so far)",
+          "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-27T23:54:15+00:00",
+          "summary": "On Friday I gave the closing keynote at the WeAreDevelopers World Congress North America in San Jose. I tied together the key trends from the past year into a chronological exploration of everything that happened in 2026. The video is on YouTube ; here are my…",
+          "tags": []
+        },
+        {
+          "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+          "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-09-28T07:00:00+00:00",
+          "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "FIFA forgot about car it had made available to French football boss Le Graët",
+          "url": "https://www.lemonde.fr/en/sports/article/2026/09/28/fifa-forgot-about-car-it-had-made-available-to-french-football-boss-le-graet_6758046_9.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-28T16:09:26+00:00",
+          "summary": "Last spring, FIFA sought to recover a vehicle it had made available to the former head of the French Football Federation, Noël Le Graët, for his visits to Paris.",
+          "tags": []
+        },
+        {
+          "title": "US deportations 'triggering cascade' of rights abuses, say UN experts",
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/28/us-deportations-triggering-cascade-of-rights-abuses-say-un-experts_6758045_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-28T15:52:59+00:00",
+          "summary": "Since US President Donald Trump took office in January 2025, Washington has been signing deals with developing countries to take migrants who cannot legally be sent home.",
+          "tags": []
+        },
+        {
+          "title": "Hybrid warfare: The threat of Russia looms over the Mediterranean",
+          "url": "https://www.france24.com/en/europe/20260928-hybrid-warfare-the-threat-of-russia-looms-over-the-mediterranean",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-09-28T15:39:45+00:00",
+          "summary": "The CIA has reportedly warned several countries that Russia is preparing to launch hybrid operations across the Mediterranean Sea. But is the risk real, or is it a form of cyber warfare?",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Monday Habs Headlines: David Reinbacher has to wait, but his opportunity will come",
+          "url": "https://www.habseyesontheprize.com/montreal-canadiens-news-david-reinbacher-cut-opening-night-roster-samuel-montembeault-chris-kreider-pre-season-comments-ivan-demidov-contract-bargain-mike-matheson-fined-david-pastrnak-captain-bruins/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-09-28T08:00:00+00:00",
+          "summary": "Montreal Canadiens news and notes David Reinbacher didn’t make the team out of camp, but his opportunity could still come this year, and definitely will in 2027-28 with several expiring contracts. [ La Presse ] Most people enjoyed the short pre-season, but…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Mouratoglou defends Alcaraz against the charge of complaining about the calendar while playing the Laver Cup",
+          "url": "https://www.tennismajors.com/atp/mouratoglou-defends-alcaraz-against-the-charge-of-complaining-about-the-calendar-while-playing-the-laver-cup-862066.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-09-28T13:26:50+00:00",
+          "summary": "Patrick Mouratoglou says the critics who mock Carlos Alcaraz for calling the season too heavy while playing the Laver Cup have misread the complaint: \"It's not physical, it's mental. Carlos is a player that saturates when he plays too much tennis.\" A…",
+          "tags": []
+        },
+        {
+          "title": "Zverev comeback leads Europe to Laver Cup victory",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/c3dx0w2rqqzpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-09-27T16:55:10+00:00",
+          "summary": "Alexander Zverev recovers from his day two defeat by Alex de Minaur to beat Learner Tien and clinch the Laver Cup title for Team Europe on the final day.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 26,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, KNOWBE4, LE MONDE, OPENAI, SIMON WILLISON, TENNIS MAJORS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 14,
+      "low": 13,
+      "conditions": "heavy rain"
+    },
+    {
+      "code": "PAR",
+      "high": 24,
+      "low": 18,
+      "conditions": "light rain"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-88772",
+      "vendor": "Citrix",
+      "product": "NetScaler",
+      "name": "Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability",
+      "summary": "Citrix NetScaler ADC and NetScaler Gateway contain an improper restriction of operations within the bounds of a memory buffer vulnerability that could allow for remote code execution or denial of service",
+      "added": "2026-09-27",
+      "due": "2026-09-30",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-88772"
+    },
+    {
+      "cve": "CVE-2026-88771",
+      "vendor": "Citrix",
+      "product": "NetScaler",
+      "name": "Citrix NetScaler Improper Input Validation Vulnerability",
+      "summary": "Citrix NetScaler ADC and NetScaler Gateway contain an improper input validation vulnerability that could allow an unauthenticated attacker to execute arbitrary commands.",
+      "added": "2026-09-27",
+      "due": "2026-09-30",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-88771"
+    },
+    {
+      "cve": "CVE-2026-67279",
+      "vendor": "MikroTik",
+      "product": "RouterOS",
+      "name": "Mikrotik RouterOS Improper Enforcement of Behavioral Workflow Vulnerability",
+      "summary": "Mikrotik RouterOS contains an improper enforcement of behavioral workflow vulnerability that could allow an unauthenticated client to open a session channel and send an exec request. This vulnerability can be chained to…",
+      "added": "2026-09-25",
+      "due": "2026-09-28",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-67279"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-09-29",
+      "away": "NYR",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Chengdu Open",
+        "start": "2026-09-22",
+        "end": "2026-09-30",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "AITO Hangzhou Open",
+        "start": "2026-09-22",
+        "end": "2026-09-30",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Jingshan Tennis Open",
+        "start": "2026-09-25",
+        "end": "2026-10-05",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Adana Open",
+        "start": "2026-09-26",
+        "end": "2026-10-05",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "China Open",
+        "start": "2026-09-27",
+        "end": "2026-10-12",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Kinoshita Group Japan Open Tennis Championships",
+        "start": "2026-09-27",
+        "end": "2026-10-07",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Iga Świątek",
+        "last": null,
+        "next": {
+          "event": "China Open",
+          "grouping": "Women's Singles",
+          "round": "Round 2",
+          "date": "2026-10-03",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Iga Swiatek",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "TBD",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "TBD",
+          "won": false
+        }
+      },
+      {
+        "name": "Carlos Alcaraz",
+        "last": null,
+        "next": {
+          "event": "Kinoshita Group Japan Open Tennis Championships",
+          "grouping": "Men's Singles",
+          "round": "Round 1",
+          "date": "2026-09-30",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Alex Michelsen",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Alex Michelsen",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9901.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7810.0
+        },
+        {
+          "rank": 3,
+          "name": "Jessica Pegula",
+          "points": 7265.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 11500.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9690.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5560.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Rolex Shanghai Masters",
+        "tour": "ATP",
+        "start": "2026-10-07",
+        "end": "2026-10-19",
+        "major": false
+      },
+      {
+        "name": "Wuhan Open",
+        "tour": "WTA",
+        "start": "2026-10-12",
+        "end": "2026-10-19",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 52
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "nous",
+        "en": "we, us, our"
+      },
+      {
+        "fr": "confirmer",
+        "en": "confirm, confirming"
+      },
+      {
+        "fr": "rire",
+        "en": "laughing, laugh"
+      }
+    ],
+    "quiz": {
+      "fr": "nous",
+      "en": "we, us, our"
+    }
+  },
+  "counts": {
+    "stories": 12,
+    "kev": 3
+  }
+}
