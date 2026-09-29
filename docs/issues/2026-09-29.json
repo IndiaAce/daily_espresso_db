@@ -1,0 +1,421 @@
+{
+  "date": "2026-09-29",
+  "date_long": "Tuesday, September 29, 2026",
+  "date_mast": "TUESDAY 29 SEPTEMBER 2026",
+  "built_at": "2026-09-29T16:51:12.513955+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Govern Claude AI with KnowBe4’s Agent Risk Manager",
+          "url": "https://blog.knowbe4.com/govern-claude-ai-with-knowbe4s-agent-risk-manager",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-09-29T16:30:00+00:00",
+          "summary": "Agent Risk Manager, KnowBe4’s AI agent security product in the KnowBe4 Platform , integrates with the Claude Compliance API to help organizations monitor Claude activity and detect risks in real time.",
+          "tags": []
+        },
+        {
+          "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
+          "url": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-09-29T06:08:25+00:00",
+          "summary": "A malicious MCP server could trick an application built on the official MCP Python SDK into handing over the OAuth credentials it uses to log in to a real service, the SDK's maintainers said in a security advisory. Affected versions sent the client secret…",
+          "tags": []
+        },
+        {
+          "title": "JadePuffer AI Actor Compromises Azure Tenant in Destructive Cloud Attack",
+          "url": "https://www.darkreading.com/cloud-security/jadepuffer-ai-actor-azure-tenant-destructive-cloud-attack",
+          "source": "Dark Reading",
+          "section": "email_security",
+          "published": "2026-09-28T15:33:21+00:00",
+          "summary": "The \"agentic threat actor\" may have used exposed credentials to access resources and delete cloud-based storage, applications, and databases.",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+          "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+          "source": "Hugging Face",
+          "section": "ai",
+          "published": "2026-09-29T15:30:38+00:00",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "Claude Sonnet 5.5",
+          "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-28T22:07:38+00:00",
+          "summary": "Claude Sonnet 5.5 New Sonnet model from Anthropic today. They say it \"runs 30%+ faster, and costs up to 30% less for most work\" - it's priced the same as Sonnet 5 but appears to beat it on every benchmark, and should be cheaper to run as well. Here are some…",
+          "tags": []
+        },
+        {
+          "title": "Quoting @joedaroo",
+          "url": "https://simonwillison.net/2026/Sep/28/joedaroo/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-28T19:11:42+00:00",
+          "summary": "To say that we were surprised at the jump and suddenness of the capabilities of our models when it came to “cyber” or “swarming” or “message boards” or anything else related to the incidents is an understatement. Security posture takes time to develop. It’s…",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Legion of Honour: Police investigate corruption claims for France’s top award",
+          "url": "https://www.france24.com/en/france/20260929-legion-of-honour-police-investigate-corruption-claims-for-france-s-top-award",
+          "source": "France 24",
+          "section": "france",
+          "published": "2026-09-29T14:43:40+00:00",
+          "summary": "French police took a top general into custody last week as part of an ongoing probe into potential bribery among the selection committee for the country’s highest decoration, the Legion of Honour. Investigations centre on possible payoffs for awards including…",
+          "tags": []
+        },
+        {
+          "title": "Eiffel Tower chief to step down over removal of women staff during Hindu group's visit",
+          "url": "https://www.france24.com/en/france/20260929-eiffel-tower-chief-to-step-down-over-removal-of-women-staff-during-hindu-group-visit-baps",
+          "source": "France 24",
+          "section": "france",
+          "published": "2026-09-29T14:22:29+00:00",
+          "summary": "The head of the Eiffel Tower is set to step down in the wake of a controversy sparked by the removal of female workers during a private visit of the Paris landmark by members of the Hindu sect BAPS, which triggered a staff walkout earlier this month and…",
+          "tags": []
+        },
+        {
+          "title": "EU proposes postponing climate regulation to curb rising fuel prices",
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/29/eu-proposes-postponing-climate-regulation-to-curb-rising-fuel-prices_6758082_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-29T16:24:31+00:00",
+          "summary": "At a summit of EU countries, Energy Commissioner Dan Jorgensen proposed that greenhouse gas monitoring rules be pushed back one year, adding that the EU predicted the upcoming winter would be 'challenging,' with 'very high prices.'",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "The hockey IQ Nikita Kucherov says has gone missing from the NHL is found in Montreal",
+          "url": "https://www.habseyesontheprize.com/habs-nikita-kucherov-missing-hockey-iq-is-in-montreal-faster-and-dummer-comment-cole-caufield-lane-hutson-jake-evans-martin-st-louis-50-goals/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-09-29T12:00:00+00:00",
+          "summary": "Nikita Kucherov doesn’t say much to reporters, so when he does, there’s a tendency to latch onto it. At the Tampa Bay Lightning’s media day, Kucherov was asked how hockey has changed over his career. “ The game now is a lot faster, but dumb, I think that’s…",
+          "tags": []
+        },
+        {
+          "title": "Preview: Bruins begin a new season by hosting the Rangers",
+          "url": "https://www.stanleycupofchowder.com/26-27-game-coverage/59307/preview-bruins-begin-a-new-season-by-hosting-the-rangers",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-09-29T11:00:00+00:00",
+          "summary": "Just the facts Know your enemy Game notes We’re back at it, folks! See ya tonight!",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "September 29, 1988: The day Graf took the penultimate step to the Golden Slam",
+          "url": "https://www.tennismajors.com/olympic-games/september-29-1988-the-day-steffi-graf-made-the-first-olympic-final-293480.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-09-29T04:30:00+00:00",
+          "summary": "Every day, Tennis Majors takes you back to one of the most iconic moments in tennis history. On September 29, 1988, Steffi Graf beat Zina Garrison and reached the Olympic final putting her one win away from a unique achievement that no one else has ever…",
+          "tags": []
+        },
+        {
+          "title": "Laver Cup 2026: Topknots and top shots as Team Europe triumph – in pictures",
+          "url": "https://www.theguardian.com/sport/gallery/2026/sep/27/laver-cup-2026-tennis-europe-world-gallery-in-pictures",
+          "source": "Guardian Tennis",
+          "section": "tennis",
+          "published": "2026-09-27T19:56:04+00:00",
+          "summary": "Our photographer, Tom Jenkins, was at the O2 in London where some of the world’s best players produced an entertaining battle Continue reading...",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 27,
+  "sources_line": "DARK READING, FRANCE 24, GUARDIAN TENNIS, HABS EYES ON THE PRIZE, HUGGING FACE, KNOWBE4, LE MONDE, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 18,
+      "low": 12,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 28,
+      "low": 17,
+      "conditions": "overcast"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-86950",
+      "vendor": "Apple",
+      "product": "Multiple Products",
+      "name": "Apple Multiple Products Out-of-Bounds Write Vulnerability",
+      "summary": "Apple iOS, macOS, and iPadOS contain an out-of-bounds write vulnerability in CoreGraphics that may lead to arbitrary code execution.",
+      "added": "2026-09-29",
+      "due": "2026-10-02",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-86950"
+    },
+    {
+      "cve": "CVE-2026-88772",
+      "vendor": "Citrix",
+      "product": "NetScaler",
+      "name": "Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability",
+      "summary": "Citrix NetScaler ADC and NetScaler Gateway contain an improper restriction of operations within the bounds of a memory buffer vulnerability that could allow for remote code execution or denial of service",
+      "added": "2026-09-27",
+      "due": "2026-09-30",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-88772"
+    },
+    {
+      "cve": "CVE-2026-88771",
+      "vendor": "Citrix",
+      "product": "NetScaler",
+      "name": "Citrix NetScaler Improper Input Validation Vulnerability",
+      "summary": "Citrix NetScaler ADC and NetScaler Gateway contain an improper input validation vulnerability that could allow an unauthenticated attacker to execute arbitrary commands.",
+      "added": "2026-09-27",
+      "due": "2026-09-30",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-88771"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-09-29",
+      "away": "NYR",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Chengdu Open",
+        "start": "2026-09-22",
+        "end": "2026-09-30",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "AITO Hangzhou Open",
+        "start": "2026-09-22",
+        "end": "2026-09-30",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Jingshan Tennis Open",
+        "start": "2026-09-25",
+        "end": "2026-10-05",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Adana Open",
+        "start": "2026-09-26",
+        "end": "2026-10-05",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "China Open",
+        "start": "2026-09-27",
+        "end": "2026-10-12",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Kinoshita Group Japan Open Tennis Championships",
+        "start": "2026-09-27",
+        "end": "2026-10-07",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Iga Świątek",
+        "last": null,
+        "next": {
+          "event": "China Open",
+          "grouping": "Women's Singles",
+          "round": "Round 2",
+          "date": "2026-10-03",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Iga Swiatek",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "TBD",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "TBD",
+          "won": false
+        }
+      },
+      {
+        "name": "Carlos Alcaraz",
+        "last": null,
+        "next": {
+          "event": "Kinoshita Group Japan Open Tennis Championships",
+          "grouping": "Men's Singles",
+          "round": "Round 1",
+          "date": "2026-10-01",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Alex Michelsen",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Alex Michelsen",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9901.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7810.0
+        },
+        {
+          "rank": 3,
+          "name": "Jessica Pegula",
+          "points": 7265.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 11500.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9690.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5560.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Rolex Shanghai Masters",
+        "tour": "ATP",
+        "start": "2026-10-07",
+        "end": "2026-10-19",
+        "major": false
+      },
+      {
+        "name": "Wuhan Open",
+        "tour": "WTA",
+        "start": "2026-10-12",
+        "end": "2026-10-19",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 51
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "courriel",
+        "en": "email"
+      },
+      {
+        "fr": "éteindre",
+        "en": "turn off, put out, turning off"
+      },
+      {
+        "fr": "tu",
+        "en": "you'll, you"
+      }
+    ],
+    "quiz": {
+      "fr": "courriel",
+      "en": "email"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
