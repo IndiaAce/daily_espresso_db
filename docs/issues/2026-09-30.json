@@ -1,0 +1,407 @@
+{
+  "date": "2026-09-30",
+  "date_long": "Wednesday, September 30, 2026",
+  "date_mast": "WEDNESDAY 30 SEPTEMBER 2026",
+  "built_at": "2026-09-30T16:46:06.246847+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access",
+          "url": "https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-09-30T10:45:00+00:00",
+          "summary": "ANY.RUN researchers traced a US-focused CSuite phishing campaign across 351 sandbox analyses, with 51% of submissions coming from the United States. Technology, manufacturing, government, and consulting organizations showed the highest exposure. By combining…",
+          "tags": []
+        },
+        {
+          "title": "Russia's Star Blizzard Ditches ClickFix to Widen Phishing Net",
+          "url": "https://www.darkreading.com/threat-intelligence/russia-star-blizzard-apt-ditches-clickfix-widen-phishing-net",
+          "source": "Dark Reading",
+          "section": "email_security",
+          "published": "2026-09-30T15:02:25+00:00",
+          "summary": "The APT actor is using a new tactic, dubbed \"RedFlick,\" against Ukrainian-linked targets such as NGOs, think tanks, and journalists to deploy its CosmicPulse backdoor.",
+          "tags": []
+        },
+        {
+          "title": "Report: Social Engineering Attacks Are Increasingly Using Audio and Video Deepfakes",
+          "url": "https://blog.knowbe4.com/report-social-engineering-attacks-are-increasingly-using-audio-and-video-deepfakes",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-09-29T20:00:01+00:00",
+          "summary": "41% of CISOs said an audio deepfake targeted their organization within the last 12 months, according to a new survey by Gartner. Additionally, 36% of respondents said employees were targeted by deepfake video calls over the past year. Craig Porter, Director…",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Helping small businesses put AI to work",
+          "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-09-30T10:00:00+00:00",
+          "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+          "tags": []
+        },
+        {
+          "title": "Quoting Anthropic Frontier Red Team",
+          "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-29T22:20:28+00:00",
+          "summary": "We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks in 4% of the trials; Claude Mythos Preview did so in 6%. Although GLM-5.3 performs below…",
+          "tags": []
+        },
+        {
+          "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+          "url": "https://simonwillison.net/2026/Sep/29/hn-49898129/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-09-29T18:27:48+00:00",
+          "summary": "My comment on GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price — Hacker News. I'm a bit late with the pelicans because I was live-blogging the keynote: https://simonwillison.net/2026/Sep/29/openai-devday-2026-liv... Here they are for GPT-6.1-Sol…",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Trump turns to self-regulation by industry leaders rather than new AI rules",
+          "url": "https://www.lemonde.fr/en/economy/article/2026/09/30/trump-turns-to-self-regulation-by-industry-leaders-rather-than-new-ai-rules_6758115_19.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-30T16:18:19+00:00",
+          "summary": "One month before the midterm elections, US President Donald Trump gathered leading AI executives at the White House to reset his administration's messaging on the contentious issue.",
+          "tags": []
+        },
+        {
+          "title": "French court classifies 1943 Nazi-era roundup as crime against humanity",
+          "url": "https://www.lemonde.fr/en/history/article/2026/09/30/french-court-classifies-1943-nazi-era-roundup-as-crime-against-humanity_6758114_157.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-09-30T16:06:06+00:00",
+          "summary": "Some 20,000 people were displaced in the raids, carried out in January 1943 on orders from the Nazis, with the Vichy regime's active collaboration, in an area of Marseille's historic center that was a known hub for people of immigrant origin.",
+          "tags": []
+        },
+        {
+          "title": "Macron says UK’s return to EU would be ‘excellent news’",
+          "url": "https://www.france24.com/en/europe/20260930-live-macron-sanchez-hold-joint-press-conference-during-french-president-s-spain-visit",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-09-30T11:49:56+00:00",
+          "summary": "Speaking alongside Spanish Prime Minister Pedro Sanchez on Wednesday, French President Emmanuel Macron said that it would be \"a good decision\" if the UK decided to rejoin the European Union. The two leaders met at the Moncloa Palace in Madrid on the second…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Bottom Six Minutes: Depth earns a season-opener win for the Habs",
+          "url": "https://www.habseyesontheprize.com/habs-leafs-recap-score-result-highlights-habs-news-bottom-six-minutes-bolduc-dach-carrier-anderson-habs-news/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-09-30T15:55:08+00:00",
+          "summary": "Kicking off their highly anticipated 2026-27 campaign, the Montreal Canadiens were in Ontario on Tuesday night to visit their longtime rivals in the Toronto Maple Leafs. Despite giving up a goal on just the second shot of the game, the Habs rallied back with…",
+          "tags": []
+        },
+        {
+          "title": "Recap: Late goals lift B’s to Opening Night win over Rangers",
+          "url": "https://www.stanleycupofchowder.com/26-27-game-coverage/59319/recap-late-goals-lift-bs-to-opening-night-win-over-rangers",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-09-30T03:12:19+00:00",
+          "summary": "After waiting all summer for hockey to return, the Bruins made you wait another 40+ minutes before their 2026-2027 really began. The Bruins got three goals just 75 seconds apart late in the third period to turn what had been a relatively sleepy affair into a…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Alcaraz: Best-of-five stays for Slams, calendar needs change",
+          "url": "https://www.tennismajors.com/atp/alcaraz-best-of-five-stays-for-slams-calendar-needs-change-862206.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-09-30T13:32:48+00:00",
+          "summary": "Asked in Tokyo whether the majors should drop best-of-five, Carlos Alcaraz refused the idea outright: \"If we take away that and play the best of three, I think we're killing the legacy of the Grand Slams.\" What he would change instead is the number of weeks…",
+          "tags": []
+        },
+        {
+          "title": "Djokovic wins first match since Wimbledon in China",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cq20vxxdxk54o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-09-30T14:50:46+00:00",
+          "summary": "Novak Djokovic beats Nuno Borges at the China Open to secure his first win since reaching the Wimbledon semi-finals in July.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 28,
+  "sources_line": "BBC TENNIS, DARK READING, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, KNOWBE4, LE MONDE, OPENAI, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 19,
+      "low": 15,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 23,
+      "low": 21,
+      "conditions": "rain"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-86950",
+      "vendor": "Apple",
+      "product": "Multiple Products",
+      "name": "Apple Multiple Products Out-of-Bounds Write Vulnerability",
+      "summary": "Apple iOS, macOS, and iPadOS contain an out-of-bounds write vulnerability in CoreGraphics that may lead to arbitrary code execution.",
+      "added": "2026-09-29",
+      "due": "2026-10-02",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-86950"
+    },
+    {
+      "cve": "CVE-2026-88772",
+      "vendor": "Citrix",
+      "product": "NetScaler",
+      "name": "Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability",
+      "summary": "Citrix NetScaler ADC and NetScaler Gateway contain an improper restriction of operations within the bounds of a memory buffer vulnerability that could allow for remote code execution or denial of service",
+      "added": "2026-09-27",
+      "due": "2026-09-30",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-88772"
+    },
+    {
+      "cve": "CVE-2026-88771",
+      "vendor": "Citrix",
+      "product": "NetScaler",
+      "name": "Citrix NetScaler Improper Input Validation Vulnerability",
+      "summary": "Citrix NetScaler ADC and NetScaler Gateway contain an improper input validation vulnerability that could allow an unauthenticated attacker to execute arbitrary commands.",
+      "added": "2026-09-27",
+      "due": "2026-09-30",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-88771"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-10-02",
+      "away": "BOS",
+      "home": "WPG"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Jingshan Tennis Open",
+        "start": "2026-09-25",
+        "end": "2026-10-05",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Adana Open",
+        "start": "2026-09-26",
+        "end": "2026-10-05",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "China Open",
+        "start": "2026-09-27",
+        "end": "2026-10-12",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Kinoshita Group Japan Open Tennis Championships",
+        "start": "2026-09-27",
+        "end": "2026-10-07",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Iga Świątek",
+        "last": null,
+        "next": {
+          "event": "China Open",
+          "grouping": "Women's Singles",
+          "round": "Round 2",
+          "date": "2026-10-03",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Iga Swiatek",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "TBD",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "TBD",
+          "won": false
+        }
+      },
+      {
+        "name": "Carlos Alcaraz",
+        "last": null,
+        "next": {
+          "event": "Kinoshita Group Japan Open Tennis Championships",
+          "grouping": "Men's Singles",
+          "round": "Round 1",
+          "date": "2026-10-01",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Alex Michelsen",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Alex Michelsen",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9901.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7810.0
+        },
+        {
+          "rank": 3,
+          "name": "Jessica Pegula",
+          "points": 7265.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 11000.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9630.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5060.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Rolex Shanghai Masters",
+        "tour": "ATP",
+        "start": "2026-10-07",
+        "end": "2026-10-19",
+        "major": false
+      },
+      {
+        "name": "Wuhan Open",
+        "tour": "WTA",
+        "start": "2026-10-12",
+        "end": "2026-10-19",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 50
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "zone",
+        "en": "region's, area, area's"
+      },
+      {
+        "fr": "chaussette",
+        "en": "sock"
+      },
+      {
+        "fr": "européen",
+        "en": "European"
+      }
+    ],
+    "quiz": {
+      "fr": "zone",
+      "en": "region's, area, area's"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
