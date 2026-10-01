@@ -1,0 +1,436 @@
+{
+  "date": "2026-10-01",
+  "date_long": "Thursday, October 1, 2026",
+  "date_mast": "THURSDAY 1 OCTOBER 2026",
+  "built_at": "2026-10-01T17:20:03.898355+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
+          "url": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-10-01T16:45:38+00:00",
+          "summary": "This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people expect. A model check can run code. A cache can mix up requests. A public…",
+          "tags": []
+        },
+        {
+          "title": "The Day-One Hole in Zero Trust Architecture",
+          "url": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-10-01T14:01:11+00:00",
+          "summary": "Zero Trust can verify users once they are established, but onboarding creates a gap where organizations must decide who to trust before strong authentication exists. Specops explains why identity verification should begin before credentials, MFA methods, and…",
+          "tags": []
+        },
+        {
+          "title": "Kiteworks patches max severity code injection vulnerability",
+          "url": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-10-01T13:51:08+00:00",
+          "summary": "Secure file-sharing software company Kiteworks has released security updates to address 126 vulnerabilities, including a max-severity flaw affecting its Email Protection Gateway (EPG) security solution.",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "How Albertsons Companies is reimagining retail from the inside out",
+          "url": "https://openai.com/index/albertsons-reimagining-retail",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-10-01T16:00:00+00:00",
+          "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+          "tags": []
+        },
+        {
+          "title": "Quoting Matthew Green",
+          "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-01T06:29:01+00:00",
+          "summary": "[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the next agent. Agents in separately-isolated sandboxes discovered that they could leave instructions for each…",
+          "tags": []
+        },
+        {
+          "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "url": "https://huggingface.co/blog/allenai/olmocore3",
+          "source": "Hugging Face",
+          "section": "ai",
+          "published": "2026-10-01T15:01:43+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Rising fuel prices strain budgets and challenge governments across Europe: 'Everything in our daily lives has become more expensive'",
+          "url": "https://www.lemonde.fr/en/economy/article/2026/10/01/rising-fuel-prices-strain-budgets-and-challenge-governments-across-europe-everything-in-our-daily-lives-has-become-more-expensive_6758146_19.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-01T16:00:08+00:00",
+          "summary": "New highs in oil prices have weighed heavily on European households' budgets and companies' profit margins, pushing governments to increase aid mechanisms.",
+          "tags": []
+        },
+        {
+          "title": "2027 presidential election: Green and Communist activists express concern over left-wing unity",
+          "url": "https://www.lemonde.fr/en/politics/article/2026/10/01/2027-presidential-election-green-and-communist-activists-express-concern-over-left-wing-unity_6758144_5.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-01T15:00:04+00:00",
+          "summary": "Green party head Marine Tondelier and Communist leader Fabien Roussel have failed to win unanimous support for their independent candidacies, as their party members across France search for the best way to oppose the far right.",
+          "tags": []
+        },
+        {
+          "title": "A blessing or a curse? New Caledonia's dwindling nickel industry",
+          "url": "https://www.france24.com/en/tv-shows/focus/20261001-a-blessing-or-a-curse-new-caledonia-s-dwindling-nickel-industry",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-10-01T14:39:34+00:00",
+          "summary": "This Thursday October 1, the French government is holding a summit aimed at attracting investors and revitalising wealth creation in France's overseas territories. Among the assets Paris wants to highlight is New Caledonian nickel. But the industry has been…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Thursday Habs Headlines: Jakub Dobeš stays feisty",
+          "url": "https://www.habseyesontheprize.com/habs-headlines-jakub-dobes-stays-feisty-josh-anderson-stanley-cup-phillip-danault-edmonton-oilers-evan-bouchard-gavin-mckenna/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-10-01T08:00:00+00:00",
+          "summary": "Montreal Canadiens news and notes Jakub Dobeš brought his feisty side to face Toronto on Tuesday, picking up right where he left off. [ Sportsnet ] Jeff Gorton and Kent Hughes have built the strongest Canadiens team in more than 30 years, and today’s…",
+          "tags": []
+        },
+        {
+          "title": "Public Skate: Bruins vs. Rangers",
+          "url": "https://www.stanleycupofchowder.com/gameday-open-threads/59312/public-skate-bruins-vs-rangers",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-09-29T21:00:00+00:00",
+          "summary": "Opening Night is here! After a brief preseason and training camp, the Bruins and Rangers begin their respective marches towards the Stanley Cup tonight. (In the cases of these teams, it’s probably more like “marches to hopefully getting into the playoffs and…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "More top-level events to award equal prize money in 'major milestone'",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/ckq6360827rpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-10-01T16:40:52+00:00",
+          "summary": "The Women's Tennis Association confirms all its combined 1000 events will award equal prize money from 2027 in a \"major milestone\".",
+          "tags": []
+        },
+        {
+          "title": "Alcaraz saves three set points, then pulls away from Michelsen to stay perfect in Tokyo",
+          "url": "https://www.tennismajors.com/atp/alcaraz-saves-three-set-points-then-pulls-away-from-michelsen-to-stay-perfect-in-tokyo-862279.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-10-01T10:20:06+00:00",
+          "summary": "Carlos Alcaraz (No. 1) saved three set points and lost the second set before running away with the third to beat Alex Michelsen 7-6 (1), 4-6, 6-1 in Tokyo. The defending champion, now unbeaten in six matches at the event, said the slow conditions had stopped…",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 29,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, HUGGING FACE, LE MONDE, OPENAI, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 22,
+      "low": 14,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 21,
+      "low": 16,
+      "conditions": "showers"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-76504",
+      "vendor": "Cisco",
+      "product": "Catalyst SD-WAN Manager",
+      "name": "Cisco Catalyst SD-WAN Manager Hex Encoding Vulnerability",
+      "summary": "Cisco Catalyst SD-WAN Manager contains a hex encoding vulnerability that could allow an unauthenticated, remote attacker to access an affected system with privileges of the admin user due to improper handling of URI…",
+      "added": "2026-09-30",
+      "due": "2026-10-03",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-76504"
+    },
+    {
+      "cve": "CVE-2026-86950",
+      "vendor": "Apple",
+      "product": "Multiple Products",
+      "name": "Apple Multiple Products Out-of-Bounds Write Vulnerability",
+      "summary": "Apple iOS, macOS, and iPadOS contain an out-of-bounds write vulnerability in CoreGraphics that may lead to arbitrary code execution.",
+      "added": "2026-09-29",
+      "due": "2026-10-02",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-86950"
+    },
+    {
+      "cve": "CVE-2026-88772",
+      "vendor": "Citrix",
+      "product": "NetScaler",
+      "name": "Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability",
+      "summary": "Citrix NetScaler ADC and NetScaler Gateway contain an improper restriction of operations within the bounds of a memory buffer vulnerability that could allow for remote code execution or denial of service",
+      "added": "2026-09-27",
+      "due": "2026-09-30",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-88772"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-10-02",
+      "away": "BOS",
+      "home": "WPG"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Jingshan Tennis Open",
+        "start": "2026-09-25",
+        "end": "2026-10-05",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Adana Open",
+        "start": "2026-09-26",
+        "end": "2026-10-05",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "China Open",
+        "start": "2026-09-27",
+        "end": "2026-10-12",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Kinoshita Group Japan Open Tennis Championships",
+        "start": "2026-09-27",
+        "end": "2026-10-07",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Iga Świątek",
+        "last": null,
+        "next": {
+          "event": "China Open",
+          "grouping": "Women's Singles",
+          "round": "Round 2",
+          "date": "2026-10-03",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Iga Swiatek",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Gao Xinyu",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Gao Xinyu",
+          "won": false
+        }
+      },
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "Kinoshita Group Japan Open Tennis Championships",
+          "grouping": "Men's Singles",
+          "round": "Round 1",
+          "date": "2026-10-01",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Alex Michelsen",
+              "winner": false,
+              "sets": [
+                6.0,
+                6.0,
+                1.0
+              ]
+            },
+            {
+              "name": "Carlos Alcaraz",
+              "winner": true,
+              "sets": [
+                7.0,
+                4.0,
+                6.0
+              ]
+            }
+          ],
+          "opponent": "Alex Michelsen",
+          "won": true
+        },
+        "next": {
+          "event": "Kinoshita Group Japan Open Tennis Championships",
+          "grouping": "Men's Singles",
+          "round": "Round 2",
+          "date": "2026-10-03",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Matteo Arnaldi",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Matteo Arnaldi",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9901.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7810.0
+        },
+        {
+          "rank": 3,
+          "name": "Jessica Pegula",
+          "points": 7265.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 11000.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9630.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5060.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Rolex Shanghai Masters",
+        "tour": "ATP",
+        "start": "2026-10-07",
+        "end": "2026-10-19",
+        "major": false
+      },
+      {
+        "name": "Wuhan Open",
+        "tour": "WTA",
+        "start": "2026-10-12",
+        "end": "2026-10-19",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 49
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "passager",
+        "en": "passenger, passenger's"
+      },
+      {
+        "fr": "écouté",
+        "en": "listened, listened to, listen"
+      },
+      {
+        "fr": "créatif",
+        "en": "creative"
+      }
+    ],
+    "quiz": {
+      "fr": "passager",
+      "en": "passenger, passenger's"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
