@@ -1,0 +1,450 @@
+{
+  "date": "2026-10-03",
+  "date_long": "Saturday, October 3, 2026",
+  "date_mast": "SATURDAY 3 OCTOBER 2026",
+  "built_at": "2026-10-03T15:07:02.657810+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
+          "url": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-10-02T17:33:16+00:00",
+          "summary": "Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor. The activity, which has targeted government and policy organizations in Taiwan, India, the Philippines, Cambodia, Pakistan…",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Show HN: Germany's new sovereign AI model Kolibri",
+          "url": "https://tej.as/blog/aleph-alpha-kolibri",
+          "source": "Hacker News",
+          "section": "ai",
+          "published": "2026-10-03T10:43:51+00:00",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "Chatham scales its capital markets expertise with OpenAI",
+          "url": "https://openai.com/index/chatham-financial",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-10-02T00:00:00+00:00",
+          "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+          "tags": []
+        },
+        {
+          "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+          "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+          "source": "Hugging Face",
+          "section": "ai",
+          "published": "2026-10-02T04:01:31+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Thousands protest in Madrid and across Spain after parliament rejects tenant protections",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/03/thousands-protest-in-madrid-and-across-spain-after-parliament-rejects-tenant-protections_6758216_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-03T13:49:12+00:00",
+          "summary": "After an 87-year-old woman was evicted from her home following a 275% rent increase, a new law promising greater relief measures for tenants was rejected.",
+          "tags": []
+        },
+        {
+          "title": "UK-Iranian man held over airbase incident released on bail",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/03/uk-iranian-man-held-over-airbase-incident-released-on-bail_6758214_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-03T12:47:44+00:00",
+          "summary": "UK police released a 25-year-old man on bail on Saturday after he was arrested in central London on 'suspicion of preparation of terrorist acts' as part of an investigation into an incident into a military base in southwest England.",
+          "tags": []
+        },
+        {
+          "title": "Fresh protests over housing flare in Spain after lawmakers reject relief measures",
+          "url": "https://www.france24.com/en/europe/20261003-fresh-protests-over-housing-flare-spain-after-lawmakers-reject-relief-measures",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-10-03T13:20:35+00:00",
+          "summary": "Tens of thousands of protesters marched in Madrid and other cities in Spain on Saturday to demand affordable housing, fuelled by anger at lawmakers who narrowly rejected measures put forward by the government of Prime Minister Pedro Sanchez to strengthen…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Canadiens @ Penguins: Game preview, start time, Tale of the Tape, and how to watch",
+          "url": "https://www.habseyesontheprize.com/canadiens-penguins-2026-10-03-game-preview-start-time-tale-of-the-tape-and-how-to-watch-tv-listings/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-10-03T12:00:00+00:00",
+          "summary": "Game 2: Montreal Canadiens @ Pittsburgh Penguins Start time: 7:00 PM EDT / 4:00 PM PDT In Canada: Sportsnet East (English), TVA Sports (French) In the Penguins region: SportsNet Pittsburgh Streaming: ESPN+, Sportsnet+, TVA Sports+ After three consecutive…",
+          "tags": []
+        },
+        {
+          "title": "Public Skate: Bruins vs. Jets",
+          "url": "https://www.stanleycupofchowder.com/gameday-open-threads/59340/public-skate-bruins-vs-jets",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-10-02T21:00:00+00:00",
+          "summary": "Welcome to Friday Night Hockey, folks! The B’s visit Winnipeg for their first road game of the 2026-2027 season, and the first of two games in two nights; they’ll be playing the Minnesota Please Stay, Quinn Hugheses in St. Paul on Saturday night. That means…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Six arguments, six answers: how a New York judge kept the PTPA case alive",
+          "url": "https://www.tennismajors.com/atp/indian-wells-bnp-paribas-open-masters-1000-atp/six-arguments-six-answers-how-a-new-york-judge-kept-the-ptpa-case-alive-862435.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-10-03T13:04:20+00:00",
+          "summary": "A US District Court judge has denied all six motions to dismiss an antitrust case brought by current and former players against tennis's governing bodies. This ruling means the ATP, WTA, FFT, AELTC, and USTA must now proceed to discovery, opening their books…",
+          "tags": []
+        },
+        {
+          "title": "Women’s tennis tour announces prize money parity with men in ‘major milestone’",
+          "url": "https://www.theguardian.com/sport/2026/oct/01/womens-tennis-tour-wta-announces-prize-money-parity-with-mens-events",
+          "source": "Guardian Tennis",
+          "section": "tennis",
+          "published": "2026-10-01T19:54:48+00:00",
+          "summary": "WTA announces ‘major milestone’ in fight for equality Combined WTA 1000 events to award equal prize money All combined WTA 1000 tournaments will award women equal prize ⁠money to the men from 2027, the Women’s Tennis Association has announced, ⁠with the…",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 31,
+  "sources_line": "FRANCE 24 EUROPE, GUARDIAN TENNIS, HABS EYES ON THE PRIZE, HACKER NEWS, HUGGING FACE, LE MONDE, OPENAI, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 20,
+      "low": 12,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 23,
+      "low": 12,
+      "conditions": "light rain"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-102490",
+      "vendor": "Zammad GmbH",
+      "product": "Zammad",
+      "name": "Zammad GmbH Zammad Improper Privilege Management Vulnerability",
+      "summary": "Zammad GmbH Zammad contains an improper privilege management vulnerability that can allow the local zammad user to escalate privileges to root. This vulnerability can be chained with CVE-2026-102489.",
+      "added": "2026-10-02",
+      "due": "2026-10-05",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-102490"
+    },
+    {
+      "cve": "CVE-2026-102489",
+      "vendor": "Zammad GmbH",
+      "product": "Zammad",
+      "name": "Zammad GmbH Zammad Session Fixation Vulnerability",
+      "summary": "Zammad GmbH Zammad contains a session fixation vulnerability that can lead to remote code execution as the zammad user. This vulnerability can be chained with CVE-2026-102490.",
+      "added": "2026-10-02",
+      "due": "2026-10-05",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-102489"
+    },
+    {
+      "cve": "CVE-2026-104286",
+      "vendor": "Fortinet",
+      "product": "FortiMail",
+      "name": "Fortinet FortiMail Path Traversal Vulnerability",
+      "summary": "Fortinet FortiMail contains a path traversal and an improper neutralization of NULL byte or NULL character vulnerability that may allow an unauthenticated attacker to write arbitrary files on the underlying system via…",
+      "added": "2026-10-01",
+      "due": "2026-10-04",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-104286"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-10-03",
+      "away": "BOS",
+      "home": "MIN"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Jingshan Tennis Open",
+        "start": "2026-09-25",
+        "end": "2026-10-05",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Adana Open",
+        "start": "2026-09-26",
+        "end": "2026-10-05",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "China Open",
+        "start": "2026-09-27",
+        "end": "2026-10-12",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Kinoshita Group Japan Open Tennis Championships",
+        "start": "2026-09-27",
+        "end": "2026-10-07",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Suzhou Open",
+        "start": "2026-10-03",
+        "end": "2026-10-12",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Iga Świątek",
+        "last": {
+          "event": "China Open",
+          "grouping": "Women's Singles",
+          "round": "Round 2",
+          "date": "2026-10-03",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Iga Swiatek",
+              "winner": true,
+              "sets": [
+                6.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Gao Xinyu",
+              "winner": false,
+              "sets": [
+                2.0,
+                3.0
+              ]
+            }
+          ],
+          "opponent": "Gao Xinyu",
+          "won": true
+        },
+        "next": {
+          "event": "China Open",
+          "grouping": "Women's Singles",
+          "round": "Round 3",
+          "date": "2026-10-05",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Iga Swiatek",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Donna Vekic",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Donna Vekic",
+          "won": false
+        }
+      },
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "Kinoshita Group Japan Open Tennis Championships",
+          "grouping": "Men's Singles",
+          "round": "Round 2",
+          "date": "2026-10-03",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Matteo Arnaldi",
+              "winner": false,
+              "sets": [
+                6.0,
+                1.0
+              ]
+            },
+            {
+              "name": "Carlos Alcaraz",
+              "winner": true,
+              "sets": [
+                7.0,
+                6.0
+              ]
+            }
+          ],
+          "opponent": "Matteo Arnaldi",
+          "won": true
+        },
+        "next": {
+          "event": "Kinoshita Group Japan Open Tennis Championships",
+          "grouping": "Men's Singles",
+          "round": "Quarterfinal",
+          "date": "2026-10-04",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Denis Shapovalov",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Denis Shapovalov",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9901.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7810.0
+        },
+        {
+          "rank": 3,
+          "name": "Jessica Pegula",
+          "points": 7265.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 11000.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9630.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5060.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Rolex Shanghai Masters",
+        "tour": "ATP",
+        "start": "2026-10-07",
+        "end": "2026-10-19",
+        "major": false
+      },
+      {
+        "name": "Wuhan Open",
+        "tour": "WTA",
+        "start": "2026-10-12",
+        "end": "2026-10-19",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 47
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "tu t'es",
+        "en": "you have, you did, you are"
+      },
+      {
+        "fr": "française",
+        "en": "French, française, france's"
+      },
+      {
+        "fr": "automne",
+        "en": "fall, autumn"
+      }
+    ],
+    "quiz": {
+      "fr": "tu t'es",
+      "en": "you have, you did, you are"
+    }
+  },
+  "counts": {
+    "stories": 11,
+    "kev": 3
+  }
+}
