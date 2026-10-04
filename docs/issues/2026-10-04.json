@@ -1,0 +1,451 @@
+{
+  "date": "2026-10-04",
+  "date_long": "Sunday, October 4, 2026",
+  "date_mast": "SUNDAY 4 OCTOBER 2026",
+  "built_at": "2026-10-04T15:43:40.265608+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
+          "url": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-10-04T07:20:32+00:00",
+          "summary": "A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think tanks, universities, and legal sector organizations. The campaigns have…",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "We're going to need default hard budget caps on pretty much everything",
+          "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-03T23:34:02+00:00",
+          "summary": "Here's a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps . I'm talking about the feature of pay-by-usage services and APIs that lets you say \"after $X/month, cut this thing off…",
+          "tags": []
+        },
+        {
+          "title": "September sponsors-only newsletter",
+          "url": "https://simonwillison.net/2026/Oct/3/newsletter/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-03T22:00:31+00:00",
+          "summary": "I just sent the September edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: More Fable class models A pricing war 3D graphics, Blender, and pixel art LLMs come for…",
+          "tags": []
+        },
+        {
+          "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+          "url": "https://github.com/Niko1221/Strata",
+          "source": "Hacker News",
+          "section": "ai",
+          "published": "2026-10-04T12:51:53+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Stevie Wonder in 'Le Monde': The pop music prodigy who outlasts all his disciples",
+          "url": "https://www.lemonde.fr/en/m-le-mag/article/2026/10/04/stevie-wonder-in-le-monde-the-pop-music-prodigy-who-outlasts-all-his-disciples_6758239_117.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-04T14:37:43+00:00",
+          "summary": "The American musician first appeared in the pages of Le Monde on December 25, 1963, when he performed at the Olympia in Paris at the age of 12. Over the decades, he has become an icon. Stevie Wonder is set to perform his legendary album Songs in the Key of…",
+          "tags": []
+        },
+        {
+          "title": "UK's Glastonbury festival tickets sell out in 45 minutes",
+          "url": "https://www.lemonde.fr/en/culture/article/2026/10/04/uk-s-glastonbury-festival-tickets-sell-out-in-45-minutes_6758238_30.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-04T13:00:05+00:00",
+          "summary": "This year's festival will take place from June 23 to 27, 2027.",
+          "tags": []
+        },
+        {
+          "title": "Tsar Samuel laid to rest in Sofia",
+          "url": "https://www.france24.com/en/tsar-samuel-laid-to-rest-in-sofia",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-10-04T08:40:00+00:00",
+          "summary": "In Bulgaria, the remains of medieval ruler Tsar Samuel have been laid to rest in the capital Sofia, after being flown back from the border with Greece by Bulgarian fighter jets. Their return follows decades of negotiations with Athens, in exchange for the…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Bottom Six Minutes: Habs salvage a point with an epic comeback",
+          "url": "https://www.habseyesontheprize.com/habs-penguins-recap-score-result-highlights-comeback-habs-news/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-10-04T14:46:21+00:00",
+          "summary": "With a full three days off after their season opener, the Montreal Canadiens were waiting in Pennsylvania to play their second road game of the season against the Pittsburgh Penguins. For the first 10 minutes of the game, it looked like their time off served…",
+          "tags": []
+        },
+        {
+          "title": "Recap: Bruins start fast, fizzle out against Minnesota",
+          "url": "https://www.stanleycupofchowder.com/26-27-game-coverage/59354/recap-bruins-start-fast-fizzle-out-against-minnesota",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-10-04T13:00:00+00:00",
+          "summary": "Playing their second game in 24 hours, the Bruins got off to a flying start when Tanner Jeannot scored less than two minutes into the game. Unfortunately, that was about as good as things would get for the visitors. Minnesota would score twice in each of the…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Vintage Djokovic wins high-intensity battle with Zverev to go 32-0 in Beijing",
+          "url": "https://www.tennismajors.com/atp/vintage-djokovic-wins-high-intensity-battle-with-zverev-to-go-32-0-in-beijing-862539.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-10-04T13:55:06+00:00",
+          "summary": "Novak Djokovic (No. 6) came from a set down to beat top seed Alexander Zverev (No. 1) 4-6, 6-4, 6-4 on Sunday and reach the China Open semifinals. At 39, he is now 32-0 in Beijing, an outright record start at a single event that moves him past Rafael Nadal…",
+          "tags": []
+        },
+        {
+          "title": "Djokovic beats Zverev to reach China Open semis",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/c8kge0d95dzno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-10-04T14:47:14+00:00",
+          "summary": "Novak Djokovic's quest to win a first trophy of 2026 continues with a hard-fought victory in the quarter-finals of the China Open.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 32,
+  "sources_line": "BBC TENNIS, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, HACKER NEWS, LE MONDE, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "PAR",
+      "high": 25,
+      "low": 14,
+      "conditions": "overcast"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-102490",
+      "vendor": "Zammad GmbH",
+      "product": "Zammad",
+      "name": "Zammad GmbH Zammad Improper Privilege Management Vulnerability",
+      "summary": "Zammad GmbH Zammad contains an improper privilege management vulnerability that can allow the local zammad user to escalate privileges to root. This vulnerability can be chained with CVE-2026-102489.",
+      "added": "2026-10-02",
+      "due": "2026-10-05",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-102490"
+    },
+    {
+      "cve": "CVE-2026-102489",
+      "vendor": "Zammad GmbH",
+      "product": "Zammad",
+      "name": "Zammad GmbH Zammad Session Fixation Vulnerability",
+      "summary": "Zammad GmbH Zammad contains a session fixation vulnerability that can lead to remote code execution as the zammad user. This vulnerability can be chained with CVE-2026-102490.",
+      "added": "2026-10-02",
+      "due": "2026-10-05",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-102489"
+    },
+    {
+      "cve": "CVE-2026-104286",
+      "vendor": "Fortinet",
+      "product": "FortiMail",
+      "name": "Fortinet FortiMail Path Traversal Vulnerability",
+      "summary": "Fortinet FortiMail contains a path traversal and an improper neutralization of NULL byte or NULL character vulnerability that may allow an unauthenticated attacker to write arbitrary files on the underlying system via…",
+      "added": "2026-10-01",
+      "due": "2026-10-04",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-104286"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-10-05",
+      "away": "OTT",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Jingshan Tennis Open",
+        "start": "2026-09-25",
+        "end": "2026-10-05",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Adana Open",
+        "start": "2026-09-26",
+        "end": "2026-10-05",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "China Open",
+        "start": "2026-09-27",
+        "end": "2026-10-12",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Kinoshita Group Japan Open Tennis Championships",
+        "start": "2026-09-27",
+        "end": "2026-10-07",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Suzhou Open",
+        "start": "2026-10-03",
+        "end": "2026-10-12",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Samsun Open",
+        "start": "2026-10-04",
+        "end": "2026-10-12",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Iga Świątek",
+        "last": {
+          "event": "China Open",
+          "grouping": "Women's Singles",
+          "round": "Round 2",
+          "date": "2026-10-03",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Iga Swiatek",
+              "winner": true,
+              "sets": [
+                6.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Gao Xinyu",
+              "winner": false,
+              "sets": [
+                2.0,
+                3.0
+              ]
+            }
+          ],
+          "opponent": "Gao Xinyu",
+          "won": true
+        },
+        "next": {
+          "event": "China Open",
+          "grouping": "Women's Singles",
+          "round": "Round 3",
+          "date": "2026-10-05",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Iga Swiatek",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Donna Vekic",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Donna Vekic",
+          "won": false
+        }
+      },
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "Kinoshita Group Japan Open Tennis Championships",
+          "grouping": "Men's Singles",
+          "round": "Quarterfinal",
+          "date": "2026-10-04",
+          "state": "post",
+          "status": "Retired",
+          "players": [
+            {
+              "name": "Denis Shapovalov",
+              "winner": false,
+              "sets": [
+                6.0,
+                1.0
+              ]
+            },
+            {
+              "name": "Carlos Alcaraz",
+              "winner": true,
+              "sets": [
+                7.0,
+                2.0
+              ]
+            }
+          ],
+          "opponent": "Denis Shapovalov",
+          "won": true
+        },
+        "next": {
+          "event": "Kinoshita Group Japan Open Tennis Championships",
+          "grouping": "Men's Singles",
+          "round": "Semifinal",
+          "date": "2026-10-05",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Jaume Munar",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Jaume Munar",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9901.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7810.0
+        },
+        {
+          "rank": 3,
+          "name": "Jessica Pegula",
+          "points": 7265.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 11000.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9630.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5060.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Rolex Shanghai Masters",
+        "tour": "ATP",
+        "start": "2026-10-05",
+        "end": "2026-10-19",
+        "major": false
+      },
+      {
+        "name": "Wuhan Open",
+        "tour": "WTA",
+        "start": "2026-10-12",
+        "end": "2026-10-19",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 46
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "du vélo",
+        "en": "biking"
+      },
+      {
+        "fr": "arrivera",
+        "en": "will arrive, will be able, will get"
+      },
+      {
+        "fr": "décorations",
+        "en": "decorations"
+      }
+    ],
+    "quiz": {
+      "fr": "du vélo",
+      "en": "biking"
+    }
+  },
+  "counts": {
+    "stories": 11,
+    "kev": 3
+  }
+}
