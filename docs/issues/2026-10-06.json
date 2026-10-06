@@ -1,0 +1,470 @@
+{
+  "date": "2026-10-06",
+  "date_long": "Tuesday, October 6, 2026",
+  "date_mast": "TUESDAY 6 OCTOBER 2026",
+  "built_at": "2026-10-06T17:07:35.450530+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Warning: Tech Support Scams Are Abusing Google Ads",
+          "url": "https://blog.knowbe4.com/warning-tech-support-scams-are-abusing-google-ads",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-10-06T16:00:00+00:00",
+          "summary": "Researchers at Netskope are tracking a phishing kit that hijacks users’ browser windows to display fake security alerts. The malicious websites are distributed via Google Ads, and pose as normal online stores. Once a user clicks a link on the page, however…",
+          "tags": []
+        },
+        {
+          "title": "Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers",
+          "url": "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-10-06T11:02:30+00:00",
+          "summary": "In 2024, MCP (Model Context Protocol) set out to become the USB-C of AI: one standard for connecting models, agents, and IDEs to tools and data. The protocol delivered. Thousands of developers built servers, and enterprises plugged them into agent workflows…",
+          "tags": []
+        },
+        {
+          "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
+          "url": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-10-06T15:16:44+00:00",
+          "summary": "A new campaign targeting ad account managers uses fake ChatGPT, Gemini, Claude, and Perplexity sites that steal login credentials and multi-factor authentication (MFA) codes through browser-in-browser attacks.",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Scrimshaw Jukebox",
+          "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-06T15:17:39+00:00",
+          "summary": "Tool: Scrimshaw Jukebox I wanted to see if Claude Opus 5.5 could compose music, so I tried this : I want you to write some computer game music for me. First design simple text based format for the music and build an artifact that can play it out loud …",
+          "tags": []
+        },
+        {
+          "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "url": "https://openai.com/index/atlassian-partnership",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-10-06T16:00:00+00:00",
+          "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+          "tags": []
+        },
+        {
+          "title": "Quoting Felix Rieseberg",
+          "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-05T23:56:47+00:00",
+          "summary": "The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security reasons - mapping in just the data you explicitly added to your…",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Finland orders halt to work on Google data centers over environmental concerns",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/06/finland-orders-halt-to-work-on-google-data-centers-over-environmental-concerns_6758325_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-06T16:54:22+00:00",
+          "summary": "Regulators have ordered the company representing the US web giant in Finland to stop building data centers until it can demonstrate compliance with environmental laws. Officials are investigating whether trees and soil were cleared before the company carried…",
+          "tags": []
+        },
+        {
+          "title": "Hundreds of thousands demonstrate across France for better education",
+          "url": "https://www.lemonde.fr/en/france/article/2026/10/06/hundreds-of-thousands-demonstrate-across-france-for-better-education_6758289_8.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-06T16:24:08+00:00",
+          "summary": "Organizers claimed 450,000 people marched across the country, while the Interior Ministry said 256,000.",
+          "tags": []
+        },
+        {
+          "title": "'Busification': Inside Ukraine’s controversial recruitment practices",
+          "url": "https://www.france24.com/en/europe/20261006-busification-inside-ukraine-s-controversial-recruitment-practices",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-10-06T14:19:58+00:00",
+          "summary": "Recent reports and videos of alleged recruitment irregularities are fuelling tensions between mobilisation authorities and Ukrainian society, while raising questions about the oversight and implementation of military recruitment.",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Ivan Demidov out two-to-four weeks with lower body injury",
+          "url": "https://www.habseyesontheprize.com/ivan-demidov-out-two-to-four-weeks-with-lower-body-injury-montreal-canadiens-injury/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-10-06T14:42:33+00:00",
+          "summary": "After dealing with multiple therapy days since the start of training camp, the Montreal Canadiens have announced that forward Ivan Demidov will miss two-to-four weeks with a lower body injury. L'attaquant Ivan Demidov (bas du corps) ratera de deux à quatre…",
+          "tags": []
+        },
+        {
+          "title": "RECAP: Bruins allegedly attend game in which they are beaten 4-1",
+          "url": "https://www.stanleycupofchowder.com/bruins-gameday/59377/recap-bruins-allegedly-attend-game-in-which-they-are-beaten-4-1",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-10-06T10:55:00+00:00",
+          "summary": "So as it turns out Charlie McAvoy actually is quite an important part of the team. Who knew? Let’s just suffer through the highlights together you don’t need the play-by-play. I would say maybe Tim Stutzle should be a Bruin on account of all the germans…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Djokovic wins seventh Beijing title and 102nd career crown as injured de Minaur retires",
+          "url": "https://www.tennismajors.com/atp/djokovic-wins-seventh-beijing-title-and-102nd-career-crown-as-injured-de-minaur-retires-862702.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-10-06T12:40:06+00:00",
+          "summary": "Novak Djokovic (No. 6) won his seventh China Open title on Tuesday when Alex de Minaur (No. 5) retired injured with the Serb leading 7-6 (3), 0-1. At 39, Djokovic is 34-0 in Beijing and has won a title in 21 consecutive seasons. It is the 102nd crown of his…",
+          "tags": []
+        },
+        {
+          "title": "Djokovic ends trophy drought with victory in China",
+          "url": "https://www.bbc.co.uk/sport/tennis/videos/cw0k08n0rry4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-10-06T16:48:18+00:00",
+          "summary": "Novak Djokovic wins the China Open for a seventh time after Alex de Minaur retires in the final in Beijing, as the Serb wins the 102nd title of his career.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 33,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, KNOWBE4, LE MONDE, OPENAI, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 16,
+      "low": 6,
+      "conditions": "clear"
+    },
+    {
+      "code": "PAR",
+      "high": 24,
+      "low": 11,
+      "conditions": "overcast"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-88779",
+      "vendor": "Citrix",
+      "product": "NetScaler",
+      "name": "Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability",
+      "summary": "Citrix NetScaler ADC (formerly Citrix ADC) and Citrix NetScaler Gateway (formerly Citrix Gateway) contain an improper restriction of operations within the bounds of a memory buffer vulnerability that could allow for a…",
+      "added": "2026-10-04",
+      "due": "2026-10-07",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-88779"
+    },
+    {
+      "cve": "CVE-2026-102490",
+      "vendor": "Zammad GmbH",
+      "product": "Zammad",
+      "name": "Zammad GmbH Zammad Improper Privilege Management Vulnerability",
+      "summary": "Zammad GmbH Zammad contains an improper privilege management vulnerability that can allow the local zammad user to escalate privileges to root. This vulnerability can be chained with CVE-2026-102489.",
+      "added": "2026-10-02",
+      "due": "2026-10-05",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-102490"
+    },
+    {
+      "cve": "CVE-2026-102489",
+      "vendor": "Zammad GmbH",
+      "product": "Zammad",
+      "name": "Zammad GmbH Zammad Session Fixation Vulnerability",
+      "summary": "Zammad GmbH Zammad contains a session fixation vulnerability that can lead to remote code execution as the zammad user. This vulnerability can be chained with CVE-2026-102490.",
+      "added": "2026-10-02",
+      "due": "2026-10-05",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-102489"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-10-08",
+      "away": "UTA",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "China Open",
+        "start": "2026-09-27",
+        "end": "2026-10-12",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Kinoshita Group Japan Open Tennis Championships",
+        "start": "2026-09-27",
+        "end": "2026-10-07",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Suzhou Open",
+        "start": "2026-10-03",
+        "end": "2026-10-12",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Samsun Open",
+        "start": "2026-10-04",
+        "end": "2026-10-12",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Rolex Shanghai Masters",
+        "start": "2026-10-05",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Iga Świątek",
+        "last": {
+          "event": "China Open",
+          "grouping": "Women's Singles",
+          "round": "Round 3",
+          "date": "2026-10-05",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Iga Swiatek",
+              "winner": true,
+              "sets": [
+                4.0,
+                7.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Donna Vekic",
+              "winner": false,
+              "sets": [
+                6.0,
+                6.0,
+                2.0
+              ]
+            }
+          ],
+          "opponent": "Donna Vekic",
+          "won": true
+        },
+        "next": {
+          "event": "China Open",
+          "grouping": "Women's Singles",
+          "round": "Round 4",
+          "date": "2026-10-07",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Iga Swiatek",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Iva Jovic",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Iva Jovic",
+          "won": false
+        }
+      },
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "Kinoshita Group Japan Open Tennis Championships",
+          "grouping": "Men's Singles",
+          "round": "Final",
+          "date": "2026-10-06",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Jiri Lehecka",
+              "winner": false,
+              "sets": [
+                6.0,
+                4.0
+              ]
+            },
+            {
+              "name": "Carlos Alcaraz",
+              "winner": true,
+              "sets": [
+                7.0,
+                6.0
+              ]
+            }
+          ],
+          "opponent": "Jiri Lehecka",
+          "won": true
+        },
+        "next": {
+          "event": "Rolex Shanghai Masters",
+          "grouping": "Men's Singles",
+          "round": "Round 2",
+          "date": "2026-10-09",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "TBD",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "TBD",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9901.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7810.0
+        },
+        {
+          "rank": 3,
+          "name": "Jessica Pegula",
+          "points": 7265.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 11000.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9630.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5060.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Kinoshita Group Japan Open",
+        "tour": "WTA",
+        "start": "2026-10-19",
+        "end": "2026-10-26",
+        "major": false
+      },
+      {
+        "name": "Ningbo Open",
+        "tour": "WTA",
+        "start": "2026-10-19",
+        "end": "2026-10-26",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 44
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "veste",
+        "en": "jacket"
+      },
+      {
+        "fr": "voyagent",
+        "en": "travel, are traveling"
+      },
+      {
+        "fr": "pense que",
+        "en": "think"
+      }
+    ],
+    "quiz": {
+      "fr": "veste",
+      "en": "jacket"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
