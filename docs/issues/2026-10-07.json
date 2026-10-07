@@ -1,0 +1,434 @@
+{
+  "date": "2026-10-07",
+  "date_long": "Wednesday, October 7, 2026",
+  "date_mast": "WEDNESDAY 7 OCTOBER 2026",
+  "built_at": "2026-10-07T17:44:53.048390+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
+          "url": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-10-07T11:56:56+00:00",
+          "summary": "The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate firewalls and secure socket layer (SSL) virtual…",
+          "tags": []
+        },
+        {
+          "title": "Microsoft Outlook to block MSIX attachments starting November",
+          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-10-07T15:44:22+00:00",
+          "summary": "Microsoft announced that it will add .msix and .msixbundle attachments to the list of blocked attachments in Outlook Web and the new Outlook Windows client starting next month.",
+          "tags": []
+        },
+        {
+          "title": "Warning: Attackers Are Tricking Employees Into Sharing Malicious Calendar Invites",
+          "url": "https://blog.knowbe4.com/warning-attackers-are-tricking-employees-into-sharing-malicious-calendar-invites",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-10-07T13:00:00+00:00",
+          "summary": "Researchers at Fortra are tracking a new variant of calendar phishing in which threat actors trick employees into sharing meeting links internally. The attackers pose as prospective customers and contact non-sales employees, asking to be directed to a sales…",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Anti-Patterns in Software Blogging",
+          "url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-07T14:53:51+00:00",
+          "summary": "Anti-Patterns in Software Blogging Some excellent writing advice from Michael Lynch. Michael warns against \"meandering intros\", misjudging your reader's existing knowledge, assuming they'll read your previous posts, and excessive formality. He also warns…",
+          "tags": []
+        },
+        {
+          "title": "Quoting Jake Boggan",
+          "url": "https://simonwillison.net/2026/Oct/7/jake-boggan/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-07T04:47:55+00:00",
+          "summary": "I was a graph theory junkie long ago and even moved to Budapest for awhile to study among the greats. While I was there I started working on Barnette's Conjecture which came to occupy my thoughts over the next 24 years of my life, on and off as I worked in…",
+          "tags": []
+        },
+        {
+          "title": "Helping teens learn, plan, and shape the future of AI",
+          "url": "https://openai.com/index/teens-learn-and-plan",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-10-07T12:00:00+00:00",
+          "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "France summons Iranian ambassador over 'disinformation campaign' on school protests",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/07/france-summons-iranian-ambassador-over-disinformation-campaign-on-school-protests_6758359_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-07T17:33:21+00:00",
+          "summary": "France said the Iranian authorities' comments on high school protests currently rocking France were 'absolutely unacceptable,' after Iran, which repressed a protest movement in January, accused France of 'human rights violations.'",
+          "tags": []
+        },
+        {
+          "title": "French luxury giant Louis Vuitton to fund two Paris streets' redevelopment",
+          "url": "https://www.lemonde.fr/en/economy/article/2026/10/07/french-luxury-giant-louis-vuitton-to-fund-two-paris-streets-redevelopment_6758358_19.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-07T17:04:03+00:00",
+          "summary": "The French luxury brand, part of the LVMH conglomerate, will fund up to €2 million in renovations to two streets around its future flagship store, a move Mayor Emmanuel Grégoire said he 'fully stood by' despite opposition to it.",
+          "tags": []
+        },
+        {
+          "title": "What we know about espionage, treason allegations against Germany's ex-spy chief",
+          "url": "https://www.france24.com/en/europe/20261007-what-we-know-about-espionage-treason-allegations-against-germany-s-ex-spy-chief",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-10-07T14:06:59+00:00",
+          "summary": "A court on Wednesday ordered the former head of Germany's foreign intelligence service August Hanning to remain in pretrial detention after his arrest on suspicion of espionage and treason, along with a former deputy who allegedly supplied him with secret…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Montreal Victoire announce 2026-27 training camp roster",
+          "url": "https://www.habseyesontheprize.com/montreal-victoire-announce-2026-27-training-camp-roster-pwhl-preseason/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-10-07T14:18:52+00:00",
+          "summary": "The Montreal Victoire will kick off their Walter Cup title defence with training camp that will open on November 19. The team will have two preseason games in Boston on November 24 and 25 against the Boston Fleet and New York Sirens. Their regular season…",
+          "tags": []
+        },
+        {
+          "title": "Public Skate: Bruins vs. Senators",
+          "url": "https://www.stanleycupofchowder.com/gameday-open-threads/59373/public-skate-bruins-vs-senators",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-10-05T21:00:00+00:00",
+          "summary": "The Bruins are back on TD Garden ice tonight as they open their Atlantic Division schedule against the Ottawa Senators. This is just Ottawa’s second game of the season (both on the road), as they’ve had a light schedule to start the new campaign. The Bruins…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "'Draining' few days for Gauff after online racist abuse",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/c6pqgdr4z08xo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-10-07T14:09:54+00:00",
+          "summary": "Coco Gauff says she had a \"draining\" few days after receiving racist abuse online before her fourth-round China Open exit.",
+          "tags": []
+        },
+        {
+          "title": "October 7, 1999: The day John McEnroe started his Davis Cup captaincy by offending Zimbabwe, his team’s first opponents",
+          "url": "https://www.tennismajors.com/others-news/davis-cup-news/on-this-day-october-7-1999-the-day-mcenroe-created-davis-cup-controversy-296348.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-10-07T01:10:41+00:00",
+          "summary": "The day U.S. Davis Cup captain John McEnroe caused controversy with his 'cow dung' court comment before his team's tie against Zimbabwe",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 34,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, KNOWBE4, LE MONDE, OPENAI, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 18,
+      "low": 3,
+      "conditions": "clear"
+    },
+    {
+      "code": "PAR",
+      "high": 19,
+      "low": 14,
+      "conditions": "rain"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-88779",
+      "vendor": "Citrix",
+      "product": "NetScaler",
+      "name": "Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability",
+      "summary": "Citrix NetScaler ADC (formerly Citrix ADC) and Citrix NetScaler Gateway (formerly Citrix Gateway) contain an improper restriction of operations within the bounds of a memory buffer vulnerability that could allow for a…",
+      "added": "2026-10-04",
+      "due": "2026-10-07",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-88779"
+    },
+    {
+      "cve": "CVE-2026-102490",
+      "vendor": "Zammad GmbH",
+      "product": "Zammad",
+      "name": "Zammad GmbH Zammad Improper Privilege Management Vulnerability",
+      "summary": "Zammad GmbH Zammad contains an improper privilege management vulnerability that can allow the local zammad user to escalate privileges to root. This vulnerability can be chained with CVE-2026-102489.",
+      "added": "2026-10-02",
+      "due": "2026-10-05",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-102490"
+    },
+    {
+      "cve": "CVE-2026-102489",
+      "vendor": "Zammad GmbH",
+      "product": "Zammad",
+      "name": "Zammad GmbH Zammad Session Fixation Vulnerability",
+      "summary": "Zammad GmbH Zammad contains a session fixation vulnerability that can lead to remote code execution as the zammad user. This vulnerability can be chained with CVE-2026-102490.",
+      "added": "2026-10-02",
+      "due": "2026-10-05",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-102489"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-10-08",
+      "away": "UTA",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "China Open",
+        "start": "2026-09-27",
+        "end": "2026-10-12",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Suzhou Open",
+        "start": "2026-10-03",
+        "end": "2026-10-12",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Samsun Open",
+        "start": "2026-10-04",
+        "end": "2026-10-12",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Rolex Shanghai Masters",
+        "start": "2026-10-05",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Iga Świątek",
+        "last": {
+          "event": "China Open",
+          "grouping": "Women's Singles",
+          "round": "Round 4",
+          "date": "2026-10-07",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Iga Swiatek",
+              "winner": true,
+              "sets": [
+                6.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Iva Jovic",
+              "winner": false,
+              "sets": [
+                1.0,
+                3.0
+              ]
+            }
+          ],
+          "opponent": "Iva Jovic",
+          "won": true
+        },
+        "next": {
+          "event": "China Open",
+          "grouping": "Women's Singles",
+          "round": "Quarterfinal",
+          "date": "2026-10-09",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Iga Swiatek",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Elise Mertens",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Elise Mertens",
+          "won": false
+        }
+      },
+      {
+        "name": "Carlos Alcaraz",
+        "last": null,
+        "next": {
+          "event": "Rolex Shanghai Masters",
+          "grouping": "Men's Singles",
+          "round": "Round 2",
+          "date": "2026-10-09",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "TBD",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "TBD",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9901.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7810.0
+        },
+        {
+          "rank": 3,
+          "name": "Jessica Pegula",
+          "points": 7265.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 11000.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9720.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5560.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Kinoshita Group Japan Open",
+        "tour": "WTA",
+        "start": "2026-10-19",
+        "end": "2026-10-26",
+        "major": false
+      },
+      {
+        "name": "Ningbo Open",
+        "tour": "WTA",
+        "start": "2026-10-19",
+        "end": "2026-10-26",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 43
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "quel temps",
+        "en": "what weather"
+      },
+      {
+        "fr": "grossi",
+        "en": "gained weight, gain weight"
+      },
+      {
+        "fr": "cher",
+        "en": "expensive, dear, a lot (of money)"
+      }
+    ],
+    "quiz": {
+      "fr": "quel temps",
+      "en": "what weather"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
