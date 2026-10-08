@@ -1,0 +1,434 @@
+{
+  "date": "2026-10-08",
+  "date_long": "Thursday, October 8, 2026",
+  "date_mast": "THURSDAY 8 OCTOBER 2026",
+  "built_at": "2026-10-08T17:48:56.127983+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Two Systems, One Truth: Unifying Training Records Across SAT and LMS",
+          "url": "https://blog.knowbe4.com/two-systems-one-truth-unifying-training-records-across-sat-and-lms",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-10-08T16:15:01+00:00",
+          "summary": "Somewhere in your security and compliance stack, there are records that prove your employees completed their security awareness training. But when these records need to serve as evidence, would they actually hold up to scrutiny?",
+          "tags": []
+        },
+        {
+          "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
+          "url": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-10-08T10:30:00+00:00",
+          "summary": "Phishing kits are no longer limited to copying a familiar login page and waiting for a victim to enter credentials. Attackers are increasingly building filtering, session management, and traffic controls into the infrastructure that delivers the phishing page…",
+          "tags": []
+        },
+        {
+          "title": "ASOS links data breach to social engineering attack, credential theft",
+          "url": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-10-08T11:42:46+00:00",
+          "summary": "ASOS is sending updates to affected customers about the cybersecurity incident it suffered earlier this week, confirming that hackers accessed some personal data.",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+          "url": "https://openai.com/index/oracle",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-10-08T16:00:00+00:00",
+          "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+          "tags": []
+        },
+        {
+          "title": "Quoting Ben Affleck",
+          "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-07T23:14:58+00:00",
+          "summary": "I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it. And the visual effects workflow for many years has included machine learning. So I can…",
+          "tags": []
+        },
+        {
+          "title": "Claude Haiku 5.5",
+          "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-07T20:56:21+00:00",
+          "summary": "As previously promised , here's Anthropic's new fast, low cost model: Introducing Claude Haiku 5.5 . The previous Haiku, 4.5, was very much showing its age. It came out almost a year ago , and was priced at $1/million input and $5/million output - relatively…",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Two Latvian nationals arrested after trespassing on military base in England",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/08/two-latvian-nationals-arrested-after-trespassing-on-military-base-in-england_6758394_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-08T16:35:37+00:00",
+          "summary": "This trespassing incident follows the incident that occurred near RAF Fairford military base in southwest England on September 27. 'There is nothing to suggest' at this stage that the two events are linked, according to British police.",
+          "tags": []
+        },
+        {
+          "title": "Israel forces closure of British consulate in Jerusalem",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/08/israel-forces-closure-of-british-consulate-in-jerusalem_6758392_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-08T15:18:13+00:00",
+          "summary": "The UK pledged to continue delivering 'vital services' in Jerusalem, saying the consulate general building would remain open and would 'be known as the UK Mission, Jerusalem.'",
+          "tags": []
+        },
+        {
+          "title": "Two Latvian men arrested at UK base housing US and NATO intelligence hubs",
+          "url": "https://www.france24.com/en/europe/20261008-two-latvian-men-arrested-at-uk-base-housing-us-and-nato-intelligence-hubs",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-10-08T16:57:19+00:00",
+          "summary": "British ​counter-terrorism police are investigating after two Latvian men were arrested Thursday near a Royal Air Force ​base in southeast England housing US and NATO intelligence operations, police said in a statement. The arrests come days after a major…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Preview: Bruins look to get back on track against Utah",
+          "url": "https://www.stanleycupofchowder.com/26-27-game-coverage/59384/preview-bruins-look-to-get-back-on-track-against-utah",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-10-08T11:00:00+00:00",
+          "summary": "Just the facts Know your enemy Game notes See ya tonight!",
+          "tags": []
+        },
+        {
+          "title": "Canadiens @ Predators: Game preview, start time, Tale of the Tape, and how to watch",
+          "url": "https://www.habseyesontheprize.com/canadiens-predators-2026-10-08-game-preview-start-time-tale-of-the-tape-and-how-to-watch-tv-listings/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-10-08T10:00:00+00:00",
+          "summary": "Game 4: Montreal Canadiens @ Nashville Predators Start time: 7:00 PM EDT / 4:00 PM PDT In the Canadiens region: TSN2 (English), RDS (French) In the Predators region: SCRIPPS Streaming: ESPN+, RDS, TSN+ After a couple of good results on the road to begin the…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "October 8, 1989: The day Jim Courier won his first title, beating Stefan Edberg in the final",
+          "url": "https://www.tennismajors.com/atp/on-this-day-october-8-1989-the-day-courier-claimed-his-maiden-title-296667.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-10-08T04:15:00+00:00",
+          "summary": "On this day, on October 8, 1989, future world No 1 Jim Courier claimed his maiden title in Basel, Switzerland by beating Stefan Edberg",
+          "tags": []
+        },
+        {
+          "title": "New Australian Open boss Andrew Abdo throws shade at critics: ‘I’m not an outsider’",
+          "url": "https://www.theguardian.com/sport/2026/oct/08/australian-open-andrew-abdo-tennis-outsider",
+          "source": "Guardian Tennis",
+          "section": "tennis",
+          "published": "2026-10-08T05:01:46+00:00",
+          "summary": "Launch event marred by former NRL CEO calling world No 1 ‘Jacob’ Sinner Grand slam to add 700 seats amid focus on comfort as well as growth New Tennis Australia chief executive Andrew Abdo pledged more shade and more seats for outer courts at the Australian…",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 35,
+  "sources_line": "BLEEPINGCOMPUTER, FRANCE 24 EUROPE, GUARDIAN TENNIS, HABS EYES ON THE PRIZE, KNOWBE4, LE MONDE, OPENAI, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 22,
+      "low": 12,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 16,
+      "low": 11,
+      "conditions": "light rain"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2015-5477",
+      "vendor": "ISC",
+      "product": "BIND",
+      "name": " ISC BIND Data Processing Errors Vulnerability",
+      "summary": "ISC BIND contains a data processing errors vulnerability that could allow remote attackers to cause a denial of service via TKEY queries.",
+      "added": "2026-10-08",
+      "due": "2026-10-11",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2015-5477"
+    },
+    {
+      "cve": "CVE-2016-3081",
+      "vendor": "Apache",
+      "product": "Struts",
+      "name": "Apache Struts Command Injection Vulnerability",
+      "summary": "Apache Struts contains a command injection vulnerability that could allow remote attackers to execute arbitrary code via method:prefix when Dynamic Method Invocation is enabled.",
+      "added": "2026-10-08",
+      "due": "2026-10-11",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2016-3081"
+    },
+    {
+      "cve": "CVE-2023-22894",
+      "vendor": "Strapi",
+      "product": "Strapi",
+      "name": "Strapi Cleartext Storage of Sensitive Information Vulnerability",
+      "summary": "Strapi contains a cleartext storage of sensitive information vulnerability that could allow attackers with access to the admin panel to discover sensitive user details via the query filter. The impacted product(s) could…",
+      "added": "2026-10-08",
+      "due": "2026-10-11",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-22894"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-10-08",
+      "away": "UTA",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "China Open",
+        "start": "2026-09-27",
+        "end": "2026-10-12",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Suzhou Open",
+        "start": "2026-10-03",
+        "end": "2026-10-12",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Samsun Open",
+        "start": "2026-10-04",
+        "end": "2026-10-12",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Rolex Shanghai Masters",
+        "start": "2026-10-05",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Iga Świątek",
+        "last": {
+          "event": "China Open",
+          "grouping": "Women's Singles",
+          "round": "Round 4",
+          "date": "2026-10-07",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Iga Swiatek",
+              "winner": true,
+              "sets": [
+                6.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Iva Jovic",
+              "winner": false,
+              "sets": [
+                1.0,
+                3.0
+              ]
+            }
+          ],
+          "opponent": "Iva Jovic",
+          "won": true
+        },
+        "next": {
+          "event": "China Open",
+          "grouping": "Women's Singles",
+          "round": "Quarterfinal",
+          "date": "2026-10-09",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Iga Swiatek",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Elise Mertens",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Elise Mertens",
+          "won": false
+        }
+      },
+      {
+        "name": "Carlos Alcaraz",
+        "last": null,
+        "next": {
+          "event": "Rolex Shanghai Masters",
+          "grouping": "Men's Singles",
+          "round": "Round 2",
+          "date": "2026-10-10",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Juan Manuel Cerundolo",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Juan Manuel Cerundolo",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9901.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7810.0
+        },
+        {
+          "rank": 3,
+          "name": "Jessica Pegula",
+          "points": 7265.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 11000.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9720.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5560.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Kinoshita Group Japan Open",
+        "tour": "WTA",
+        "start": "2026-10-19",
+        "end": "2026-10-26",
+        "major": false
+      },
+      {
+        "name": "Ningbo Open",
+        "tour": "WTA",
+        "start": "2026-10-19",
+        "end": "2026-10-26",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 42
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "seconde",
+        "en": "tenth grade, second, ii"
+      },
+      {
+        "fr": "famille",
+        "en": "family, body, people"
+      },
+      {
+        "fr": "yoga",
+        "en": "yoga"
+      }
+    ],
+    "quiz": {
+      "fr": "seconde",
+      "en": "tenth grade, second, ii"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
