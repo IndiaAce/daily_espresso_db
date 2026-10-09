@@ -1,0 +1,420 @@
+{
+  "date": "2026-10-09",
+  "date_long": "Friday, October 9, 2026",
+  "date_mast": "FRIDAY 9 OCTOBER 2026",
+  "built_at": "2026-10-09T17:24:11.699109+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "How to keep AI agents within their permissions",
+          "url": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-10-09T14:01:11+00:00",
+          "summary": "AI agents can use valid credentials to perform actions beyond their assigned permissions, creating risks that traditional access controls may not prevent. Token Security explains how organizations can enforce agent-specific policies without sacrificing…",
+          "tags": []
+        },
+        {
+          "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training Too",
+          "url": "https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too",
+          "source": "Dark Reading",
+          "section": "email_security",
+          "published": "2026-10-09T16:25:05+00:00",
+          "summary": "Those closest to executives must match their security postures because the weakest link in a family becomes the entry point for attacks.",
+          "tags": []
+        },
+        {
+          "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
+          "url": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-10-08T18:32:21+00:00",
+          "summary": "Hackers tied to a Chinese cybersecurity company stole email from government organizations, law enforcement agencies, healthcare systems, and religious institutions in Southeast Asia, the FBI and agencies in 6 other countries said on October 8. The company…",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Quoting Matthew Green",
+          "url": "https://simonwillison.net/2026/Oct/9/matthew-green/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-09T15:02:29+00:00",
+          "summary": "Everyone is very concerned about being respectable, so I’m going to be the goofball who raises worst-case possibilities. I think there is a 1% chance we live in Minicrypt, and a 15% chance we functionally lose confidence in our existing public-key encryption…",
+          "tags": []
+        },
+        {
+          "title": "A new feature for my blog, built using my voice",
+          "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-09T12:54:06+00:00",
+          "summary": "I shipped a new feature for my blog today: the Newsletters page, which offers an index of all of the newsletters I've sent out, both my free weekly Substack and my monthly sponsors-only updates. I built the feature almost entirely using my voice, chatting…",
+          "tags": []
+        },
+        {
+          "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "url": "https://openai.com/index/sophos",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-10-09T07:00:00+00:00",
+          "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "US imposes sanctions on ICC, hours after Nobel award to former judge",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/09/us-imposes-sanctions-on-icc-hours-after-nobel-award-to-former-judge_6758431_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-09T16:11:19+00:00",
+          "summary": "The court rejected the US sanctions as an attack on international law and warned in a statement that 'history will judge this moment.'",
+          "tags": []
+        },
+        {
+          "title": "UK Greens suffer defeat while Labour government strengthened in London by-election",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/09/uk-greens-suffer-defeat-while-labour-government-strengthened-in-london-by-election_6758430_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-09T15:44:34+00:00",
+          "summary": "The Green Party experienced a setback as a Labour candidate of Somali descent is set to take Keir Starmer's place. Although weakened and divided, the Greens consolidated their presence on the political landscape for now.",
+          "tags": []
+        },
+        {
+          "title": "EU's Covid recovery fund was 'absolutely a success': European Court of Auditors' Pierre Moscovici",
+          "url": "https://www.france24.com/en/tv-shows/talking-europe/20261009-eu-s-covid-recovery-fund-was-absolutely-a-success-european-court-of-auditors-pierre-moscovici",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-10-09T15:51:06+00:00",
+          "summary": "2020 was an annus horribilis. Covid stalked the land. Lockdowns, curfews and social distancing were the order of the day. But there was a silver lining: European countries showed themselves to be capable of great solidarity, jointly procuring vaccines and…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Bottom Six Minutes: Mike Matheson cannot be doing that",
+          "url": "https://www.habseyesontheprize.com/canadiens-vs-predators-recap-score-highlights-mike-matheson-habs-news/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-10-09T12:40:19+00:00",
+          "summary": "The Montreal Canadiens dominated the Nashville Predators on Thursday night. In their first true wall-to-wall impressive effort of the year, the Habs looked like they were destined for a regulation win. Until, of course, some untimely penalties, and a…",
+          "tags": []
+        },
+        {
+          "title": "RECAP: B’s transition game, goaltending shines against Utah in 6-1 WIN!",
+          "url": "https://www.stanleycupofchowder.com/bruins-gameday/59392/recap-bs-transition-game-goaltending-shines-against-utah-in-6-1-win",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-10-09T10:00:00+00:00",
+          "summary": "I think we can call that a convincing enough win, yeah? 1st Period Things started off with Casey Mittelstadt grabbing the puck in the offensive zone and throwing it on net against Sebastian Cossa, who let it through for a 1-0 Bruins lead! then, on the power…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Hurkacz ends eight-match losing run against Djokovic to storm into Shanghai third round",
+          "url": "https://www.tennismajors.com/atp/hurkacz-ends-eight-match-losing-run-against-djokovic-to-storm-into-shanghai-third-round-862876.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-10-09T11:40:07+00:00",
+          "summary": "Hubert Hurkacz ended an eight-match losing run against Novak Djokovic (No. 10) on Friday, beating the four-time champion 6-4, 6-3 to reach the third round of the Rolex Shanghai Masters. Five days after retiring injured in Beijing, the 2023 champion held serve…",
+          "tags": []
+        },
+        {
+          "title": "Djokovic suffers surprise Hurkacz loss in Shanghai",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cqlydnrperpko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-10-09T12:50:28+00:00",
+          "summary": "Novak Djokovic suffers a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after his triumph at the China Open in Beijing.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 36,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, DARK READING, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, LE MONDE, OPENAI, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 20,
+      "low": 9,
+      "conditions": "clear"
+    },
+    {
+      "code": "PAR",
+      "high": 17,
+      "low": 10,
+      "conditions": "showers"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2015-5477",
+      "vendor": "ISC",
+      "product": "BIND",
+      "name": " ISC BIND Data Processing Errors Vulnerability",
+      "summary": "ISC BIND contains a data processing errors vulnerability that could allow remote attackers to cause a denial of service via TKEY queries.",
+      "added": "2026-10-08",
+      "due": "2026-10-11",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2015-5477"
+    },
+    {
+      "cve": "CVE-2016-3081",
+      "vendor": "Apache",
+      "product": "Struts",
+      "name": "Apache Struts Command Injection Vulnerability",
+      "summary": "Apache Struts contains a command injection vulnerability that could allow remote attackers to execute arbitrary code via method:prefix when Dynamic Method Invocation is enabled.",
+      "added": "2026-10-08",
+      "due": "2026-10-11",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2016-3081"
+    },
+    {
+      "cve": "CVE-2023-22894",
+      "vendor": "Strapi",
+      "product": "Strapi",
+      "name": "Strapi Cleartext Storage of Sensitive Information Vulnerability",
+      "summary": "Strapi contains a cleartext storage of sensitive information vulnerability that could allow attackers with access to the admin panel to discover sensitive user details via the query filter. The impacted product(s) could…",
+      "added": "2026-10-08",
+      "due": "2026-10-11",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-22894"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-10-10",
+      "away": "PHI",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "China Open",
+        "start": "2026-09-27",
+        "end": "2026-10-12",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Suzhou Open",
+        "start": "2026-10-03",
+        "end": "2026-10-12",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Samsun Open",
+        "start": "2026-10-04",
+        "end": "2026-10-12",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Rolex Shanghai Masters",
+        "start": "2026-10-05",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Dongfeng Voyah Wuhan Open",
+        "start": "2026-10-09",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Iga Świątek",
+        "last": {
+          "event": "China Open",
+          "grouping": "Women's Singles",
+          "round": "Quarterfinal",
+          "date": "2026-10-09",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Iga Swiatek",
+              "winner": false,
+              "sets": [
+                6.0,
+                3.0
+              ]
+            },
+            {
+              "name": "Elise Mertens",
+              "winner": true,
+              "sets": [
+                7.0,
+                6.0
+              ]
+            }
+          ],
+          "opponent": "Elise Mertens",
+          "won": false
+        },
+        "next": null
+      },
+      {
+        "name": "Carlos Alcaraz",
+        "last": null,
+        "next": {
+          "event": "Rolex Shanghai Masters",
+          "grouping": "Men's Singles",
+          "round": "Round 2",
+          "date": "2026-10-10",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Juan Manuel Cerundolo",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Juan Manuel Cerundolo",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9901.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7810.0
+        },
+        {
+          "rank": 3,
+          "name": "Jessica Pegula",
+          "points": 7265.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 11000.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9720.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5560.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Kinoshita Group Japan Open",
+        "tour": "WTA",
+        "start": "2026-10-19",
+        "end": "2026-10-26",
+        "major": false
+      },
+      {
+        "name": "Ningbo Open",
+        "tour": "WTA",
+        "start": "2026-10-19",
+        "end": "2026-10-26",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 41
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "suis",
+        "en": "am, feel, follow"
+      },
+      {
+        "fr": "mal",
+        "en": "bad, badly, wrong"
+      },
+      {
+        "fr": "regardent",
+        "en": "are watching, look at, watch"
+      }
+    ],
+    "quiz": {
+      "fr": "suis",
+      "en": "am, feel, follow"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
