@@ -1,0 +1,468 @@
+{
+  "date": "2026-10-10",
+  "date_long": "Saturday, October 10, 2026",
+  "date_mast": "SATURDAY 10 OCTOBER 2026",
+  "built_at": "2026-10-10T16:10:04.030002+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
+          "url": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-10-10T11:00:00+00:00",
+          "summary": "In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on. The other thousand are invisible to identity infrastructure by default, not because anyone hid…",
+          "tags": []
+        },
+        {
+          "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
+          "url": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-10-09T19:14:28+00:00",
+          "summary": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 340 repositories. \"Using the account of Takashi Kitao, author…",
+          "tags": []
+        },
+        {
+          "title": "The Rise of Legitimate-Service Phishing: 1 in 10 Phishing Emails Now Comes From a Platform You Trust",
+          "url": "https://blog.knowbe4.com/the-rise-of-legitimate-service-phishing-1-in-10-phishing-emails-now-comes-from-a-platform-you-trust",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-10-09T19:30:01+00:00",
+          "summary": "Lead Analysts : Karthikeyan D, Prabhakaran Ravichandhiran, Jeewan Singh Jalal",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Quoting The New York Times",
+          "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-10T02:04:12+00:00",
+          "summary": "Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites. But two sources with knowledge of the incidents said Anthropic’s A.I. agents had submitted 20 visa applications through a form available on the…",
+          "tags": []
+        },
+        {
+          "title": "Deno is joining Cloudflare",
+          "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-09T22:48:37+00:00",
+          "summary": "Deno is joining Cloudflare The Deno team released the first version of celld back in August - their open source implementation of the Durable Objects pattern from Cloudflare Workers. Today, Cloudflare are acquiring Deno outright, with the goal of building on…",
+          "tags": []
+        },
+        {
+          "title": "`123456' password used in Danish CPR data breach",
+          "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+          "source": "Hacker News",
+          "section": "ai",
+          "published": "2026-10-10T09:51:49+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Christa Pike discharged from hospital after surviving execution attempt",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/10/christa-pike-discharged-from-hospital-after-surviving-execution-attempt_6758461_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-10T15:45:33+00:00",
+          "summary": "Pike's lawyers said she was moved back to the Tennessee prison where she was detained for 30 years.",
+          "tags": []
+        },
+        {
+          "title": "Timetables top list of French high schoolers' grievances to government",
+          "url": "https://www.lemonde.fr/en/politics/article/2026/10/10/timetables-top-list-of-french-high-schoolers-grievances-to-government_6758460_5.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-10T15:40:13+00:00",
+          "summary": "Class schedules top the list of concerns, far ahead of the university application platform and the phone ban, according to a summary of the first contributions to a national consultation platform launched in response to the protest movement.",
+          "tags": []
+        },
+        {
+          "title": "Live: Russian strikes on Ukraine kill at least 15 in Zaporizhzhia, cause power outages in Kyiv",
+          "url": "https://www.france24.com/en/europe/20261010-live-russian-strikes-on-ukraine-zaporizhzhia-kill-least-seven-including-children",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-10-10T08:41:39+00:00",
+          "summary": "Russian strikes on the southeastern Ukrainian city of Zaporizhzhia killed at least 15 people, including three children, regional authorities said on Saturday. The attack also caused \"large-scale power outages\" in the capital Kyiv and the surrounding region…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Public Skate: Bruins vs. Flyers",
+          "url": "https://www.stanleycupofchowder.com/gameday-open-threads/59405/public-skate-bruins-vs-flyers",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-10-10T14:30:00+00:00",
+          "summary": "The Bruins are back in action on home ice today for their first matinée game of the season. They’ll play host to a struggling Philadelphia Flyers team that is still looking for its first win of the new campaign. Given the early start time, you get the…",
+          "tags": []
+        },
+        {
+          "title": "Canadiens vs. Red Wings: Game preview, start time, Tale of the Tape, and how to watch",
+          "url": "https://www.habseyesontheprize.com/canadiens-red-wings-2026-10-10-game-preview-start-time-tale-of-the-tape-and-how-to-watch-tv-listings/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-10-10T10:00:00+00:00",
+          "summary": "How to watch Game 5: Montreal Canadiens vs. Detroit Red Wings Start time: 7:00 PM EDT / 4:00 PM PDT In Canada: Sportsnet East (English), TVA Sports (French) In the Red Wings region: Detroit SportsNet Streaming: ESPN+, Sportsnet+, TVAS+ Deep breaths. The…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "UN condemns Coco Gauff abuse and warns: ‘Black female athletes are being targeted’",
+          "url": "https://www.theguardian.com/sport/2026/oct/10/un-condemns-coco-gauff-abuse-warns-black-female-athletes-targeted-tennis",
+          "source": "Guardian Tennis",
+          "section": "tennis",
+          "published": "2026-10-10T12:22:53+00:00",
+          "summary": "Human rights office denounces online targeting ‘Appalling vitriol and abuse’ of American The United Nations’ human rights office has condemned the racist abuse of Coco Gauff and called for solidarity to help push back against racism and sexism. The office…",
+          "tags": []
+        },
+        {
+          "title": "October 10, 1971: The day Stan Smith and the United States won the last ever Davis Cup to use the “Challenge Round”",
+          "url": "https://www.tennismajors.com/others-news/on-this-day-october-10-1971-stan-smith-and-the-united-states-won-the-last-davis-cup-challenge-round-297266.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-10-10T02:50:48+00:00",
+          "summary": "Every day, Tennis Majors looks back to the one of the biggest moments in tennis history. On this day in 1971, Stan Smith beat Ion Tiriac in straight sets to win the last Davis Cup \"Challenge Round\" in tennis history for the American team",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 37,
+  "sources_line": "FRANCE 24 EUROPE, GUARDIAN TENNIS, HABS EYES ON THE PRIZE, HACKER NEWS, KNOWBE4, LE MONDE, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 18,
+      "low": 7,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 18,
+      "low": 12,
+      "conditions": "overcast"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2015-5477",
+      "vendor": "ISC",
+      "product": "BIND",
+      "name": " ISC BIND Data Processing Errors Vulnerability",
+      "summary": "ISC BIND contains a data processing errors vulnerability that could allow remote attackers to cause a denial of service via TKEY queries.",
+      "added": "2026-10-08",
+      "due": "2026-10-11",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2015-5477"
+    },
+    {
+      "cve": "CVE-2016-3081",
+      "vendor": "Apache",
+      "product": "Struts",
+      "name": "Apache Struts Command Injection Vulnerability",
+      "summary": "Apache Struts contains a command injection vulnerability that could allow remote attackers to execute arbitrary code via method:prefix when Dynamic Method Invocation is enabled.",
+      "added": "2026-10-08",
+      "due": "2026-10-11",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2016-3081"
+    },
+    {
+      "cve": "CVE-2023-22894",
+      "vendor": "Strapi",
+      "product": "Strapi",
+      "name": "Strapi Cleartext Storage of Sensitive Information Vulnerability",
+      "summary": "Strapi contains a cleartext storage of sensitive information vulnerability that could allow attackers with access to the admin panel to discover sensitive user details via the query filter. The impacted product(s) could…",
+      "added": "2026-10-08",
+      "due": "2026-10-11",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-22894"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-10-10",
+      "away": "PHI",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "China Open",
+        "start": "2026-09-27",
+        "end": "2026-10-12",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Suzhou Open",
+        "start": "2026-10-03",
+        "end": "2026-10-12",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Samsun Open",
+        "start": "2026-10-04",
+        "end": "2026-10-12",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Rolex Shanghai Masters",
+        "start": "2026-10-05",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Dongfeng Voyah Wuhan Open",
+        "start": "2026-10-09",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Iga Świątek",
+        "last": {
+          "event": "China Open",
+          "grouping": "Women's Singles",
+          "round": "Quarterfinal",
+          "date": "2026-10-09",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Iga Swiatek",
+              "winner": false,
+              "sets": [
+                6.0,
+                3.0
+              ]
+            },
+            {
+              "name": "Elise Mertens",
+              "winner": true,
+              "sets": [
+                7.0,
+                6.0
+              ]
+            }
+          ],
+          "opponent": "Elise Mertens",
+          "won": false
+        },
+        "next": {
+          "event": "Dongfeng Voyah Wuhan Open",
+          "grouping": "Women's Singles",
+          "round": "Round 2",
+          "date": "2026-10-14",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Iga Swiatek",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "TBD",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "TBD",
+          "won": false
+        }
+      },
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "Rolex Shanghai Masters",
+          "grouping": "Men's Singles",
+          "round": "Round 2",
+          "date": "2026-10-10",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": true,
+              "sets": [
+                6.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Juan Manuel Cerundolo",
+              "winner": false,
+              "sets": [
+                3.0,
+                3.0
+              ]
+            }
+          ],
+          "opponent": "Juan Manuel Cerundolo",
+          "won": true
+        },
+        "next": {
+          "event": "Rolex Shanghai Masters",
+          "grouping": "Men's Singles",
+          "round": "Round 3",
+          "date": "2026-10-12",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Zizou Bergs",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Zizou Bergs",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9901.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7810.0
+        },
+        {
+          "rank": 3,
+          "name": "Jessica Pegula",
+          "points": 7265.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 11000.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9720.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5560.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Kinoshita Group Japan Open",
+        "tour": "WTA",
+        "start": "2026-10-19",
+        "end": "2026-10-26",
+        "major": false
+      },
+      {
+        "name": "Ningbo Open",
+        "tour": "WTA",
+        "start": "2026-10-19",
+        "end": "2026-10-26",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 40
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "pouvons",
+        "en": "can, may"
+      },
+      {
+        "fr": "livres",
+        "en": "pounds, books, deliver"
+      },
+      {
+        "fr": "sombre",
+        "en": "dark"
+      }
+    ],
+    "quiz": {
+      "fr": "pouvons",
+      "en": "can, may"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
