@@ -1,0 +1,489 @@
+{
+  "date": "2026-10-11",
+  "date_long": "Sunday, October 11, 2026",
+  "date_mast": "SUNDAY 11 OCTOBER 2026",
+  "built_at": "2026-10-11T16:36:33.061291+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "ASOS Breach Reveals the Risks in Customer-Facing SaaS",
+          "url": "https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas",
+          "source": "Dark Reading",
+          "section": "email_security",
+          "published": "2026-10-09T20:58:32+00:00",
+          "summary": "The attack on the British retailer shows that compromising a single identity can lead to much deeper penetration of the corporate network.",
+          "tags": []
+        },
+        {
+          "title": "Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm",
+          "url": "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-10-08T05:46:20+00:00",
+          "summary": "The npm package known as \"tensorlake,\" a TypeScript software development kit (SDK) for Tensorlake applications, sandboxes, and cloud services, was compromised as part of a ChainDrop / Shai-Hulud supply chain attack. The malicious version 0.5.144 \"contains…",
+          "tags": []
+        },
+        {
+          "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
+          "url": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-10-06T18:38:55+00:00",
+          "summary": "Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI ChatGPT, Perplexity, Meta Muse, and Manus…",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Dwarf Fortress uses version control now",
+          "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-11T00:52:37+00:00",
+          "summary": "I remember hearing a while ago that Dwarf Fortress didn't use version control. That fact has been lodged in my head, because given its inherent complexity I have trouble imagining a codebase that would benefit from version control more . That's art. I went…",
+          "tags": []
+        },
+        {
+          "title": "Python 3.15.0 added to actions/python-versions",
+          "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-10T23:58:04+00:00",
+          "summary": "Python 3.15.0 added to actions/python-versions Bit of a niche link, but I've been waiting for this for a couple of days - I even told ChatGPT to check for it: Clone https://github.com/actions/python-versions and git pull once an hour until they add the stable…",
+          "tags": []
+        },
+        {
+          "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
+          "url": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
+          "source": "Hacker News",
+          "section": "ai",
+          "published": "2026-10-11T14:28:39+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Raphaël Glucksmann wins French center-left's presidential primary",
+          "url": "https://www.lemonde.fr/en/france/article/2026/10/11/raphael-glucksmann-wins-french-center-left-s-presidential-primary_6758486_7.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-11T16:26:30+00:00",
+          "summary": "The founder of Place Publique won 66.13% of the vote in a primary organized by the Socialists and their center-left allies.",
+          "tags": []
+        },
+        {
+          "title": "Poland detains suspect in alleged assassination attempt on prime minister",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/11/poland-detains-suspect-in-alleged-assassination-attempt-on-prime-minister_6758485_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-11T16:14:24+00:00",
+          "summary": "The Polish interior ministry said Prime Minister Donald Tusk and Defense Minister Wladyslaw Kosiniak-Kamysz may have been targets of assassination attempts.",
+          "tags": []
+        },
+        {
+          "title": "Trump says Russia, Ukraine agree to energy ceasefire – 'news for me', Zelensky says",
+          "url": "https://www.france24.com/en/europe/20261011-trump-says-russia-and-ukraine-agree-energy-ceasefire",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-10-11T14:39:26+00:00",
+          "summary": "US President Trump said Sunday via social media platform Truth Social that Russia and Ukraine had agreed to an energy ceasefire. Neither Kyiv nor Moscow confirmed the agreement, with Zelensky later adding the development was \"news for me. But if Russians…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Bottom Six Minutes: Do we want Dylan Larkin?",
+          "url": "https://www.habseyesontheprize.com/dylan-larkin-trade-rumours-canadiens-red-wings-bell-centre-habs-news/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-10-11T16:35:32+00:00",
+          "summary": "In the penultimate game of their first 2026-27 home stand, the Montreal Canadiens hosted their embattled divisional rivals, the Detroit Red Wings. The Habs won in a shootout, thanks in large part to an excellent Jacob Fowler performance, and in spite of some…",
+          "tags": []
+        },
+        {
+          "title": "Recap: Bruins spread scoring around, beat Flyers 5-1",
+          "url": "https://www.stanleycupofchowder.com/26-27-game-coverage/59409/recap-bruins-spread-scoring-around-beat-flyers-5-1",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-10-10T23:28:25+00:00",
+          "summary": "The Bruins got points from 11 different skaters on Saturday afternoon, extending Philly’s season-opening misery with a 5-1 win at TD Garden. Fraser Minten led the way for the B’s, with the youngster recording a goal and two assists. Casey Mittelstadt, Pavel…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Karaoke-singing Zheng makes history with China Open win",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cr78pe7yjxxjo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-10-11T14:43:58+00:00",
+          "summary": "Zheng Qinwen becomes the first Chinese champion of the China Open after overcoming Mirra Andreeva in straight sets.",
+          "tags": []
+        },
+        {
+          "title": "Gea stuns Shelton for first Top 10 win and reaches Shanghai last 16 on Masters 1000 debut",
+          "url": "https://www.tennismajors.com/atp/gea-stuns-shelton-for-first-top-10-win-and-reaches-shanghai-last-16-on-masters-1000-debut-863001.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-10-11T06:25:07+00:00",
+          "summary": "Arthur Gea beat Ben Shelton (No. 3) 7-6 (5), 7-6 (3) on Sunday night to reach the Shanghai last 16 on his Masters 1000 debut. It is the first Top 10 win for the 21-year-old Frenchman, and it stops Shelton from qualifying for the ATP Finals, for now.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 38,
+  "sources_line": "BBC TENNIS, DARK READING, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, HACKER NEWS, LE MONDE, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 18,
+      "low": 6,
+      "conditions": "rain"
+    },
+    {
+      "code": "PAR",
+      "high": 17,
+      "low": 12,
+      "conditions": "showers"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2015-5477",
+      "vendor": "ISC",
+      "product": "BIND",
+      "name": " ISC BIND Data Processing Errors Vulnerability",
+      "summary": "ISC BIND contains a data processing errors vulnerability that could allow remote attackers to cause a denial of service via TKEY queries.",
+      "added": "2026-10-08",
+      "due": "2026-10-11",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2015-5477"
+    },
+    {
+      "cve": "CVE-2016-3081",
+      "vendor": "Apache",
+      "product": "Struts",
+      "name": "Apache Struts Command Injection Vulnerability",
+      "summary": "Apache Struts contains a command injection vulnerability that could allow remote attackers to execute arbitrary code via method:prefix when Dynamic Method Invocation is enabled.",
+      "added": "2026-10-08",
+      "due": "2026-10-11",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2016-3081"
+    },
+    {
+      "cve": "CVE-2023-22894",
+      "vendor": "Strapi",
+      "product": "Strapi",
+      "name": "Strapi Cleartext Storage of Sensitive Information Vulnerability",
+      "summary": "Strapi contains a cleartext storage of sensitive information vulnerability that could allow attackers with access to the admin panel to discover sensitive user details via the query filter. The impacted product(s) could…",
+      "added": "2026-10-08",
+      "due": "2026-10-11",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-22894"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-10-13",
+      "away": "BOS",
+      "home": "SJS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "China Open",
+        "start": "2026-09-27",
+        "end": "2026-10-12",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Suzhou Open",
+        "start": "2026-10-03",
+        "end": "2026-10-12",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Samsun Open",
+        "start": "2026-10-04",
+        "end": "2026-10-12",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Rolex Shanghai Masters",
+        "start": "2026-10-05",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Dongfeng Voyah Wuhan Open",
+        "start": "2026-10-09",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group",
+        "start": "2026-10-11",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "RoveretOpen Città della Pace",
+        "start": "2026-10-11",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Lisboa Belem Open",
+        "start": "2026-10-11",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Iga Świątek",
+        "last": {
+          "event": "China Open",
+          "grouping": "Women's Singles",
+          "round": "Quarterfinal",
+          "date": "2026-10-09",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Iga Swiatek",
+              "winner": false,
+              "sets": [
+                6.0,
+                3.0
+              ]
+            },
+            {
+              "name": "Elise Mertens",
+              "winner": true,
+              "sets": [
+                7.0,
+                6.0
+              ]
+            }
+          ],
+          "opponent": "Elise Mertens",
+          "won": false
+        },
+        "next": {
+          "event": "Dongfeng Voyah Wuhan Open",
+          "grouping": "Women's Singles",
+          "round": "Round 2",
+          "date": "2026-10-14",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Iga Swiatek",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "TBD",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "TBD",
+          "won": false
+        }
+      },
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "Rolex Shanghai Masters",
+          "grouping": "Men's Singles",
+          "round": "Round 2",
+          "date": "2026-10-10",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": true,
+              "sets": [
+                6.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Juan Manuel Cerundolo",
+              "winner": false,
+              "sets": [
+                3.0,
+                3.0
+              ]
+            }
+          ],
+          "opponent": "Juan Manuel Cerundolo",
+          "won": true
+        },
+        "next": {
+          "event": "Rolex Shanghai Masters",
+          "grouping": "Men's Singles",
+          "round": "Round 3",
+          "date": "2026-10-12",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Zizou Bergs",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Zizou Bergs",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9901.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7810.0
+        },
+        {
+          "rank": 3,
+          "name": "Jessica Pegula",
+          "points": 7265.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 11000.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9720.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5560.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Kinoshita Group Japan Open",
+        "tour": "WTA",
+        "start": "2026-10-19",
+        "end": "2026-10-26",
+        "major": false
+      },
+      {
+        "name": "Ningbo Open",
+        "tour": "WTA",
+        "start": "2026-10-19",
+        "end": "2026-10-26",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 39
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "allez",
+        "en": "are going, go, come on"
+      },
+      {
+        "fr": "voler",
+        "en": "flying, steal, fly"
+      },
+      {
+        "fr": "payé",
+        "en": "paid, paid for"
+      }
+    ],
+    "quiz": {
+      "fr": "allez",
+      "en": "are going, go, come on"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
