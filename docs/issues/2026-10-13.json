@@ -1,0 +1,420 @@
+{
+  "date": "2026-10-13",
+  "date_long": "Tuesday, October 13, 2026",
+  "date_mast": "TUESDAY 13 OCTOBER 2026",
+  "built_at": "2026-10-13T18:05:50.078881+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Healthcare Sees No Relief from Cyberattacks Disrupting Patient Care",
+          "url": "https://www.proofpoint.com/us/newsroom/press-releases/cyber-insecurity-in-healthcare-report-2026",
+          "source": "Proofpoint",
+          "section": "email_security",
+          "published": "2026-10-13T16:03:59+00:00",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "Report: Ransomware Attacks Involving Data Theft Are Surging",
+          "url": "https://blog.knowbe4.com/report-ransomware-attacks-involving-data-theft-are-surging",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-10-13T16:00:01+00:00",
+          "summary": "Ransomware attacks involving data theft have surged by 275% in 2026, according to a new report from Zscaler. Attackers exfiltrated more than 896.2 terabytes of data from victim organizations, more than seven times the amount stolen during the 2023–2024…",
+          "tags": []
+        },
+        {
+          "title": "The MFA Gaps Attackers are Still Exploiting",
+          "url": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-10-13T14:01:11+00:00",
+          "summary": "Attackers continue exploiting gaps in MFA coverage, using stolen credentials to access VPNs, RDP, and Windows systems that still rely on passwords alone. Specops explains why protecting cloud applications isn't enough and how organizations can close these…",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Quoting Geoffrey Huntley",
+          "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-13T13:32:00+00:00",
+          "summary": "If the agent isn't using my diagnostics library, I could introspect and update AGENTS.md, but there's still a delta, and it'll drift. Instead, I write a pre-commit hook that checks the git diff for direct calls to observability modules that bypass my…",
+          "tags": []
+        },
+        {
+          "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+          "source": "Hugging Face",
+          "section": "ai",
+          "published": "2026-10-13T17:05:48+00:00",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "Gemini 4 Argon: Built to solve your hardest problems",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+          "source": "Google AI",
+          "section": "ai",
+          "published": "2026-10-13T16:00:00+00:00",
+          "summary": "TBD",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Cornell suspends frat parties after gang rape allegations",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/13/cornell-suspends-frat-parties-after-gang-rape-allegations_6758571_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-13T17:58:58+00:00",
+          "summary": "The president of Ivy League university announced Tuesday all fraternity social events would be suspended for the academic year, as officials continue to face scrutiny over the handling of 2024 rape allegations involving fraternity members.",
+          "tags": []
+        },
+        {
+          "title": "France and Equitorial Guinea in standoff over Paris luxury mansion",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/13/france-and-equitorial-guinea-in-standoff-over-paris-luxury-mansion_6758570_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-13T17:20:50+00:00",
+          "summary": "French authorities have put up for sale the property, which was seized as part of an ill-gotten gains investigation, but which is also used by the African country's diplomatic mission. With the diplomats refusing court orders to vacate the premises, officials…",
+          "tags": []
+        },
+        {
+          "title": "Spanish royals visit Ceuta amid tensions with Morocco over migrant influx",
+          "url": "https://www.france24.com/en/europe/20261013-spanish-royals-visit-ceuta-amid-tensions-with-morocco-over-migrant-influx",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-10-13T15:17:00+00:00",
+          "summary": "Spain’s King Felipe VI and Queen Letizia visited Ceuta for the first time in 14 years on Tuesday, as the North African enclave grapples with the aftermath of a mass migrant influx. Authorities have cleared makeshift camps from the beaches ahead of the visit…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Mike Matheson out day-to-day with lower-body injury",
+          "url": "https://www.habseyesontheprize.com/mike-matheson-out-day-to-day-with-lower-body-injury-montreal-canadiens-kapanen-habs/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-10-13T14:17:33+00:00",
+          "summary": "The Montreal Canadiens had a healthy blue line for one game, at least. On Tuesday, it was announced that Mike Matheson will be out due to a lower-body injury. Jacob Fowler sera le gardien partant pour un 3e match de suite, ce soir contre les Sabres. Jakub…",
+          "tags": []
+        },
+        {
+          "title": "Preview: Bruins begin their road trip in San Jose",
+          "url": "https://www.stanleycupofchowder.com/26-27-game-coverage/59429/preview-bruins-begin-their-road-trip-in-san-jose",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-10-13T11:00:00+00:00",
+          "summary": "Just the facts Know your enemy Game notes See ya tonight!",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Boulter beaten by Shnaider in Wuhan",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/c875pdrq4rx4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-10-13T16:34:03+00:00",
+          "summary": "British number one Katie Boulter loses to Diana Shnaider in the Wuhan Open first round.",
+          "tags": []
+        },
+        {
+          "title": "Auger-Aliassime sets up year-end duel with Nakashima as Leo Borg joins UTS Gothenburg field",
+          "url": "https://www.tennismajors.com/atp/auger-aliassime-sets-up-year-end-duel-with-nakashima-as-leo-borg-joins-uts-gothenburg-field-863149.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-10-13T09:34:26+00:00",
+          "summary": "Félix Auger-Aliassime and Brandon Nakashima are set for a thrilling year-end showdown at UTS Gothenburg, vying for the World No. 1 title. Swedish favourite Leo Borg, son of legend Björn Borg, also joins a strong field featuring Holger Rune and Stefanos…",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 40,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, GOOGLE AI, HABS EYES ON THE PRIZE, HUGGING FACE, KNOWBE4, LE MONDE, PROOFPOINT, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 16,
+      "low": 11,
+      "conditions": "light drizzle"
+    },
+    {
+      "code": "PAR",
+      "high": 24,
+      "low": 15,
+      "conditions": "overcast"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-104935",
+      "vendor": "Ivanti",
+      "product": "Connect Secure",
+      "name": "Ivanti Connect Secure Authentication Bypass by Spoofing Vulnerability",
+      "summary": "Ivanti Connect Secure contains an authentication bypass by spoofing vulnerability that allows a remote unauthenticated attacker to execute arbitrary commands.",
+      "added": "2026-10-13",
+      "due": "2026-10-16",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-104935"
+    },
+    {
+      "cve": "CVE-2015-5477",
+      "vendor": "ISC",
+      "product": "BIND",
+      "name": " ISC BIND Data Processing Errors Vulnerability",
+      "summary": "ISC BIND contains a data processing errors vulnerability that could allow remote attackers to cause a denial of service via TKEY queries.",
+      "added": "2026-10-08",
+      "due": "2026-10-11",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2015-5477"
+    },
+    {
+      "cve": "CVE-2016-3081",
+      "vendor": "Apache",
+      "product": "Struts",
+      "name": "Apache Struts Command Injection Vulnerability",
+      "summary": "Apache Struts contains a command injection vulnerability that could allow remote attackers to execute arbitrary code via method:prefix when Dynamic Method Invocation is enabled.",
+      "added": "2026-10-08",
+      "due": "2026-10-11",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2016-3081"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-10-13",
+      "away": "BOS",
+      "home": "SJS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Rolex Shanghai Masters",
+        "start": "2026-10-05",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Dongfeng Voyah Wuhan Open",
+        "start": "2026-10-09",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Vanda Pharmaceuticals Mallorca Women's Championships",
+        "start": "2026-10-11",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "RoveretOpen Città della Pace",
+        "start": "2026-10-11",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Lisboa Belem Open",
+        "start": "2026-10-11",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Iga Świątek",
+        "last": null,
+        "next": {
+          "event": "Dongfeng Voyah Wuhan Open",
+          "grouping": "Women's Singles",
+          "round": "Round 2",
+          "date": "2026-10-14",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Iga Swiatek",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Magdalena Frech",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Magdalena Frech",
+          "won": false
+        }
+      },
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "Rolex Shanghai Masters",
+          "grouping": "Men's Singles",
+          "round": "Round 3",
+          "date": "2026-10-12",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": [
+                5.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Zizou Bergs",
+              "winner": true,
+              "sets": [
+                7.0,
+                7.0
+              ]
+            }
+          ],
+          "opponent": "Zizou Bergs",
+          "won": false
+        },
+        "next": null
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9696.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7550.0
+        },
+        {
+          "rank": 3,
+          "name": "Mirra Andreeva",
+          "points": 6371.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 11000.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9720.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5560.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Guangzhou Open",
+        "tour": "WTA",
+        "start": "2026-10-26",
+        "end": "2026-11-02",
+        "major": false
+      },
+      {
+        "name": "Toray Pan Pacific Open Tennis",
+        "tour": "WTA",
+        "start": "2026-10-26",
+        "end": "2026-11-02",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 37
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "sortir",
+        "en": "to go out"
+      },
+      {
+        "fr": "sauf",
+        "en": "except, except that, but"
+      },
+      {
+        "fr": "à gauche",
+        "en": "to the left"
+      }
+    ],
+    "quiz": {
+      "fr": "sortir",
+      "en": "to go out"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
