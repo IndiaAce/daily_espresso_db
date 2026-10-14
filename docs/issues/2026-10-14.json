@@ -1,0 +1,447 @@
+{
+  "date": "2026-10-14",
+  "date_long": "Wednesday, October 14, 2026",
+  "date_mast": "WEDNESDAY 14 OCTOBER 2026",
+  "built_at": "2026-10-14T15:46:40.107527+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Global takedown hits network behind 1 billion phishing messages",
+          "url": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-10-14T13:12:52+00:00",
+          "summary": "A massive cybercriminal ecosystem facilitating more than a billion malicious messages targeting over 75,000 organizations across 150 countries has been disrupted by law enforcement agencies and partners worldwide.",
+          "tags": []
+        },
+        {
+          "title": "Business-Themed Phishing Lures Deliver RMM Tools",
+          "url": "https://blog.knowbe4.com/business-themed-phishing-lures-deliver-rmm-tools",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-10-14T13:00:03+00:00",
+          "summary": "Microsoft is tracking phishing campaigns that use various lures to deliver MSP360, a legitimate RMM tool that attackers are abusing to gain a foothold on compromised systems.",
+          "tags": []
+        },
+        {
+          "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
+          "url": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-10-14T07:46:57+00:00",
+          "summary": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted virtual machine write to the host's memory and hijack the…",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+          "url": "https://openai.com/index/third-moment-research",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-10-14T07:00:00+00:00",
+          "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+          "tags": []
+        },
+        {
+          "title": "Redesigning source control at Anthropic",
+          "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-13T23:00:06+00:00",
+          "summary": "Redesigning source control at Anthropic Interesting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dramatic increase in rate of changes to their code after the past six months. In May 2026, Anthropic…",
+          "tags": []
+        },
+        {
+          "title": "llm-gemini 0.35",
+          "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-13T22:28:54+00:00",
+          "summary": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan. Here are the low, medium and high pelicans . As expected, they are all…",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Nvidia CEO Jensen Huang 'optimistic' on AI risks, sovereignty and jobs",
+          "url": "https://www.lemonde.fr/en/economy/article/2026/10/14/nvidia-ceo-jensen-huang-optimistic-on-ai-risks-sovereignty-and-jobs_6758610_19.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-14T15:29:53+00:00",
+          "summary": "The head of the world leader in electronic chips was in Paris on Tuesday to announce several investments in France, including in the medical start-up Doctolib.",
+          "tags": []
+        },
+        {
+          "title": "France anti-terror prosecutors open judicial investigation into school shooting near Marseille",
+          "url": "https://www.lemonde.fr/en/france/article/2026/10/14/france-anti-terror-prosecutors-open-judicial-investigation-into-school-shooting-near-marseille_6758609_7.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-14T15:15:22+00:00",
+          "summary": "The teenage suspect told investigators he had been planning the attack for several months, and was active in True Crime online communities.",
+          "tags": []
+        },
+        {
+          "title": "Ukraine says Starlink restricted operations overnight, disrupting military missions",
+          "url": "https://www.france24.com/en/europe/20261014-ukraine-says-starlink-restricted-operations-overnight-disrupting-military-missions",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-10-14T09:14:29+00:00",
+          "summary": "Elon Musk's Starlink imposed restrictions on the operation of internet terminals in Ukraine overnight, disrupting military missions, an adviser to the Ukrainian president said on Wednesday. The official said Ukraine was given no prior warning about the…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Montreal Canadiens recall David Reinbacher",
+          "url": "https://www.habseyesontheprize.com/montreal-canadiens-recall-david-reinbacher-habs-laval-rocket-defence/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-10-14T14:06:28+00:00",
+          "summary": "The Montreal Canadiens have recalled defender David Reinbacher from the Laval Rocket ahead of their game against the Washington Capitals on Wednesday. Les Canadiens ont rappelé le défenseur David Reinbacher du Rocket de Laval. The Canadiens have recalled…",
+          "tags": []
+        },
+        {
+          "title": "Morning Skate: Chum",
+          "url": "https://www.stanleycupofchowder.com/morning-skate-open-threads/59441/morning-skate-chum",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-10-14T11:00:00+00:00",
+          "summary": "It is Wednesday, my dudes. The Bruins got their road trip off to a winning start late, late, late on Tuesday night, beating the San Jose Sharks by a score of 6-3. Your highlights: Fraser Minten led the way for the Bruins with two goals, Morgan Geekie had two…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Briton Kartal causes upset before Sabalenka loses again",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cw33xzxd3gj2o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-10-14T07:02:17+00:00",
+          "summary": "Sonay Kartal upsets Swiss ninth seed Belinda Bencic to reach the Wuhan Open third round as she continues to build momentum, but Aryna Sabalenka is out.",
+          "tags": []
+        },
+        {
+          "title": "Finding Renée Richards: the complicated past and present of a trans sports pioneer",
+          "url": "https://www.theguardian.com/sport/2026/oct/14/finding-renee-richards-julie-kliegman",
+          "source": "Guardian Tennis",
+          "section": "tennis",
+          "published": "2026-10-14T10:00:02+00:00",
+          "summary": "In 1977, Richards sued to play in the US Open after transitioning. Now she supports bans on trans athletes in women’s sports. A new biography explores a complex legacy It was a story that dominated tennis headlines back in 1977: Dr Renée Richards, an…",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 41,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, GUARDIAN TENNIS, HABS EYES ON THE PRIZE, KNOWBE4, LE MONDE, OPENAI, SIMON WILLISON, STANLEY CUP OF CHOWDER, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 23,
+      "low": 12,
+      "conditions": "fog"
+    },
+    {
+      "code": "PAR",
+      "high": 21,
+      "low": 11,
+      "conditions": "fog"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-104935",
+      "vendor": "Ivanti",
+      "product": "Connect Secure",
+      "name": "Ivanti Connect Secure Authentication Bypass by Spoofing Vulnerability",
+      "summary": "Ivanti Connect Secure contains an authentication bypass by spoofing vulnerability that allows a remote unauthenticated attacker to execute arbitrary commands.",
+      "added": "2026-10-13",
+      "due": "2026-10-16",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-104935"
+    },
+    {
+      "cve": "CVE-2026-96951",
+      "vendor": "Microsoft",
+      "product": "Windows",
+      "name": "Microsoft Windows Command Injection Vulnerability",
+      "summary": "Microsoft Windows Shell contains a command injection vulnerability that allows an unauthorized attacker to bypass a security feature over a network.",
+      "added": "2026-10-13",
+      "due": "2026-10-16",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-96951"
+    },
+    {
+      "cve": "CVE-2015-5477",
+      "vendor": "ISC",
+      "product": "BIND",
+      "name": " ISC BIND Data Processing Errors Vulnerability",
+      "summary": "ISC BIND contains a data processing errors vulnerability that could allow remote attackers to cause a denial of service via TKEY queries.",
+      "added": "2026-10-08",
+      "due": "2026-10-11",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2015-5477"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-10-16",
+      "away": "BOS",
+      "home": "ANA"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Rolex Shanghai Masters",
+        "start": "2026-10-05",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Dongfeng Voyah Wuhan Open",
+        "start": "2026-10-09",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Vanda Pharmaceuticals Mallorca Women's Championships",
+        "start": "2026-10-11",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "RoveretOpen Città della Pace",
+        "start": "2026-10-11",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Lisboa Belem Open",
+        "start": "2026-10-11",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Iga Świątek",
+        "last": {
+          "event": "Dongfeng Voyah Wuhan Open",
+          "grouping": "Women's Singles",
+          "round": "Round 2",
+          "date": "2026-10-14",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Iga Swiatek",
+              "winner": true,
+              "sets": [
+                6.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Magdalena Frech",
+              "winner": false,
+              "sets": [
+                2.0,
+                1.0
+              ]
+            }
+          ],
+          "opponent": "Magdalena Frech",
+          "won": true
+        },
+        "next": {
+          "event": "Dongfeng Voyah Wuhan Open",
+          "grouping": "Women's Singles",
+          "round": "Round 3",
+          "date": "2026-10-15",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Iga Swiatek",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Ashlyn Krueger",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Ashlyn Krueger",
+          "won": false
+        }
+      },
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "Rolex Shanghai Masters",
+          "grouping": "Men's Singles",
+          "round": "Round 3",
+          "date": "2026-10-12",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": [
+                5.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Zizou Bergs",
+              "winner": true,
+              "sets": [
+                7.0,
+                7.0
+              ]
+            }
+          ],
+          "opponent": "Zizou Bergs",
+          "won": false
+        },
+        "next": null
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9696.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7550.0
+        },
+        {
+          "rank": 3,
+          "name": "Mirra Andreeva",
+          "points": 6371.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 11000.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9720.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5560.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Guangzhou Open",
+        "tour": "WTA",
+        "start": "2026-10-26",
+        "end": "2026-11-02",
+        "major": false
+      },
+      {
+        "name": "Toray Pan Pacific Open Tennis",
+        "tour": "WTA",
+        "start": "2026-10-26",
+        "end": "2026-11-02",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 36
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "n'as pas",
+        "en": "do not have, do not, haven't"
+      },
+      {
+        "fr": "ça te dit",
+        "en": "do you want, how about"
+      },
+      {
+        "fr": "sur",
+        "en": "on, on top of, to"
+      }
+    ],
+    "quiz": {
+      "fr": "n'as pas",
+      "en": "do not have, do not, haven't"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
