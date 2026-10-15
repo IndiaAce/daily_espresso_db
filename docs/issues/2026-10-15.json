@@ -1,0 +1,447 @@
+{
+  "date": "2026-10-15",
+  "date_long": "Thursday, October 15, 2026",
+  "date_mast": "THURSDAY 15 OCTOBER 2026",
+  "built_at": "2026-10-15T15:33:27.615506+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
+          "url": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-10-15T08:45:10+00:00",
+          "summary": "The credential-theft campaign known as GhostAction has ramped up, targeting more than 30,000 repositories across 3,000 users and organizations. The spike, according to GitGuardian, was observed on October 8 and 9, 2026. \"This resulted from compromising the…",
+          "tags": []
+        },
+        {
+          "title": "Report: 9 out of 10 Americans Have Been Targeted by Scams",
+          "url": "https://blog.knowbe4.com/report-9-out-of-10-americans-have-been-targeted-by-scams",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-10-15T13:00:02+00:00",
+          "summary": "91% of Americans have been targeted by a scam, and 17% have fallen victim to one, according to a new survey by Consumer Reports. Notably, 20% of respondents said the latest scam they encountered was personalized, indicating that attackers are increasingly…",
+          "tags": []
+        },
+        {
+          "title": "EU Grocers Pay a Steep Price for Unpatched Fridge Firmware",
+          "url": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware",
+          "source": "Dark Reading",
+          "section": "email_security",
+          "published": "2026-10-15T07:00:00+00:00",
+          "summary": "Hundreds of stores lost millions of dollars because they hired third parties to manage the outdated OT firmware running their cooling systems.",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+          "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-15T13:04:03+00:00",
+          "summary": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lots of details in here from \" people with…",
+          "tags": []
+        },
+        {
+          "title": "Teaching students to think and learn through questions",
+          "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-10-15T13:00:00+00:00",
+          "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+          "tags": []
+        },
+        {
+          "title": "Tree Appreciator",
+          "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-14T21:23:01+00:00",
+          "summary": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode), where I prompted Claude Opus 5.5 Max with: Build a three js game called \"Tree appreciator\" - it shows you two…",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Le Pen finds few allies in Brussels for her EU budget 'showdown'",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/15/le-pen-finds-few-allies-in-brussels-for-her-eu-budget-showdown_6758640_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-15T15:00:09+00:00",
+          "summary": "The far-right presidential candidate argued for cutting France's financial contribution to the European Union, but her usual partners stopped short of endorsing her demands.",
+          "tags": []
+        },
+        {
+          "title": "French MPs reject bid to lower cap on pensioners' tax break",
+          "url": "https://www.lemonde.fr/en/france/article/2026/10/15/french-mps-reject-bid-to-lower-cap-on-pensioners-tax-break_6758637_7.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-15T14:27:28+00:00",
+          "summary": "The government had submitted a measure to trim the cap on a 10% tax break for pensioners, hoping to bring in €1.4 billion for the public budget amid concern about France's debt. Lawmakers rejected the measure by 116 votes to 30.",
+          "tags": []
+        },
+        {
+          "title": "Student protests spread in Albania as demonstrators call for PM resignation",
+          "url": "https://www.france24.com/en/europe/20261015-student-protests-escalate-in-albania-as-demonstrators-call-for-pm-resignation",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-10-15T12:27:24+00:00",
+          "summary": "Clashes broke out between demonstrators and police for the third consecutive day on Thursday in Albania, with Prime Minister Edi Rama condemning the “chaos” that caused damage to government buildings. Thousands of protesters are calling for Rama's resignation…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Thursday Habs Headlines: Healthy Kaiden Guhle goes beast mode",
+          "url": "https://www.habseyesontheprize.com/habs-headlines-healthy-kaiden-ghule-goes-beast-mode-dylan-larkin-david-reinbacher-zachary-bolduc-alex-debrincat-contract-edmonton-oilers-daylight-savings-emergency-goalies/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-10-15T08:00:00+00:00",
+          "summary": "Montreal Canadiens news and notes When Kaiden Guhle is healthy and can consistently play hard, he’s proving he can be a real “beast.” [ Sportsnet ] Habs fans have expressed their interest in Dylan Larkin joining their team but the feeling isn’t mutual. [ TSN…",
+          "tags": []
+        },
+        {
+          "title": "Public Skate: Bruins vs. Sharks",
+          "url": "https://www.stanleycupofchowder.com/gameday-open-threads/59432/public-skate-bruins-vs-sharks",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-10-13T21:00:00+00:00",
+          "summary": "My kids have been into those “Ultimate Battle: Who Would Win?” books lately, and Large Bears vs. Sharks would be a pretty good one. The most recent one we read had a tiger shark defeating a great white shark in the championship, which I’m not sure I agree…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Kartal wins again as impressive comeback continues",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/c85ynx5vwq35o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-10-15T12:02:14+00:00",
+          "summary": "Britain's Sonay Kartal beats former Wimbledon finalist Jasmine Paolini in straight sets to reach the Wuhan Open quarter-finals.",
+          "tags": []
+        },
+        {
+          "title": "October 15, 1983: The day 16-year-old Aaron Krickstein became the youngest-ever player to win an ATP title",
+          "url": "https://www.tennismajors.com/atp/october-15-1983-the-day-16-year-old-aaron-krickstein-became-youngest-ever-winner-505423.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-10-14T23:08:38+00:00",
+          "summary": "Every day Tennis Majors takes you back in time to celebrate a great moment in tennis history. Today, we go back to 1983 to witness how Aaron Krickstein, aged only 16 years and two months, defeated Christoph Zipf to become the youngest winner of an ATP…",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 42,
+  "sources_line": "BBC TENNIS, DARK READING, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, KNOWBE4, LE MONDE, OPENAI, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 16,
+      "low": 9,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 23,
+      "low": 11,
+      "conditions": "overcast"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-105134",
+      "vendor": "Ahsay",
+      "product": "AhsayCBS",
+      "name": "Ahsay AhsayCBS Command Injection Vulnerability",
+      "summary": "Ahsay AhsayCBS contains a command injection vulnerability that could allow a remote attacker to execute operating system commands via manipulation of the random parameter in the Replication Receiver component’s…",
+      "added": "2026-10-14",
+      "due": "2026-10-17",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-105134"
+    },
+    {
+      "cve": "CVE-2026-76519",
+      "vendor": "Cisco",
+      "product": "Secure Email Gateway",
+      "name": "Cisco Secure Email Gateway Relative Path Traversal Vulnerability",
+      "summary": "Cisco Secure Email Gateway contains a relative path traversal vulnerability that could allow an unauthenticated, remote attacker to write arbitrary files on the underlying operating system.",
+      "added": "2026-10-14",
+      "due": "2026-10-17",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-76519"
+    },
+    {
+      "cve": "CVE-2026-105133",
+      "vendor": "Ahsay",
+      "product": "AhsayCBS",
+      "name": "Ahsay AhsayCBS Improper Authentication Vulnerability",
+      "summary": "Ahsay AhsayCBS contains an improper authentication vulnerability that could allow a remote attacker to bypass authentication via manipulation of the random parameter in the API component’s checkSysPwd function. This…",
+      "added": "2026-10-14",
+      "due": "2026-10-17",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-105133"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-10-16",
+      "away": "BOS",
+      "home": "ANA"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Rolex Shanghai Masters",
+        "start": "2026-10-05",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Dongfeng Voyah Wuhan Open",
+        "start": "2026-10-09",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Vanda Pharmaceuticals Mallorca Women's Championships",
+        "start": "2026-10-11",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "RoveretOpen Città della Pace",
+        "start": "2026-10-11",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Lisboa Belem Open",
+        "start": "2026-10-11",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Iga Świątek",
+        "last": {
+          "event": "Dongfeng Voyah Wuhan Open",
+          "grouping": "Women's Singles",
+          "round": "Round 3",
+          "date": "2026-10-15",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Iga Swiatek",
+              "winner": true,
+              "sets": [
+                6.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Ashlyn Krueger",
+              "winner": false,
+              "sets": [
+                1.0,
+                4.0
+              ]
+            }
+          ],
+          "opponent": "Ashlyn Krueger",
+          "won": true
+        },
+        "next": {
+          "event": "Dongfeng Voyah Wuhan Open",
+          "grouping": "Women's Singles",
+          "round": "Quarterfinal",
+          "date": "2026-10-16",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Iga Swiatek",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Ann Li",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Ann Li",
+          "won": false
+        }
+      },
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "Rolex Shanghai Masters",
+          "grouping": "Men's Singles",
+          "round": "Round 3",
+          "date": "2026-10-12",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": [
+                5.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Zizou Bergs",
+              "winner": true,
+              "sets": [
+                7.0,
+                7.0
+              ]
+            }
+          ],
+          "opponent": "Zizou Bergs",
+          "won": false
+        },
+        "next": null
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9696.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7550.0
+        },
+        {
+          "rank": 3,
+          "name": "Mirra Andreeva",
+          "points": 6371.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 11000.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9720.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5560.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Guangzhou Open",
+        "tour": "WTA",
+        "start": "2026-10-26",
+        "end": "2026-11-02",
+        "major": false
+      },
+      {
+        "name": "Toray Pan Pacific Open Tennis",
+        "tour": "WTA",
+        "start": "2026-10-26",
+        "end": "2026-11-02",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 35
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "préférons",
+        "en": "(let us) prefer, prefer"
+      },
+      {
+        "fr": "et demi",
+        "en": "and a half"
+      },
+      {
+        "fr": "adresse",
+        "en": "address"
+      }
+    ],
+    "quiz": {
+      "fr": "préférons",
+      "en": "(let us) prefer, prefer"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
