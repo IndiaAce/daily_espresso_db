@@ -1,0 +1,461 @@
+{
+  "date": "2026-10-16",
+  "date_long": "Friday, October 16, 2026",
+  "date_mast": "FRIDAY 16 OCTOBER 2026",
+  "built_at": "2026-10-16T15:20:00.817850+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "NIS2 Part Two: How Stolen Vendor Data Fuels Downstream Attacks",
+          "url": "https://blog.knowbe4.com/nis2-part-two-how-stolen-vendor-data-fuels-downstream-attacks",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-10-16T15:00:01+00:00",
+          "summary": "In part one of this NIS2 series , we examined why vendor questionnaires fall short and how third-party breaches impact downstream organizations across Europe. But what happens after a supplier containment phase ends? The long-term danger lies in how attackers…",
+          "tags": []
+        },
+        {
+          "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
+          "url": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-10-16T13:50:59+00:00",
+          "summary": "Employees using personal ChatGPT accounts at work can expose sensitive company data, even when their organization provides an approved Enterprise workspace. NordLayer explains how IT teams can investigate unauthorized AI use and block sensitive information…",
+          "tags": []
+        },
+        {
+          "title": "Cyber Threat Actors Use a Variety of Techniques to Target Election and Campaign Officials",
+          "url": "https://www.cisa.gov/resources-tools/resources/cyber-threat-actors-use-variety-techniques-target-election-and-campaign-officials",
+          "source": "CISA Advisories",
+          "section": "email_security",
+          "published": "2026-10-16T12:00:00+00:00",
+          "summary": "CISA and the Federal Bureau of Investigation (FBI) released a Public Service Announcement (PSA) warning election and campaign officials about cyber threats during the 2026 U.S. midterm elections. Malicious cyber actors may use phishing and smishing techniques…",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Chirp Pong",
+          "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-15T19:47:52+00:00",
+          "summary": "Tool: Chirp Pong Another game experiment - I wanted to see if it was feasible to have a two player game on two separate phones running in static HTML where the networking code uses chirps sent via the microphone. It seems to work! Build a two player…",
+          "tags": []
+        },
+        {
+          "title": "Bringing GPT-Rosalind to academic research labs",
+          "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-10-15T19:00:00+00:00",
+          "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+          "tags": []
+        },
+        {
+          "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+          "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+          "source": "Hugging Face",
+          "section": "ai",
+          "published": "2026-10-16T01:44:47+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Bank of France head says conditions 'not met' for ECB intervention on French bonds",
+          "url": "https://www.lemonde.fr/en/economy/article/2026/10/16/conditions-for-eu-bank-intervention-not-met-in-french-government-bond-yields-surge-bank-of-france-head-says_6758679_19.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-16T13:35:40+00:00",
+          "summary": "France's benchmark 10-year bond is nearing 5%, a level not seen since 2002, as doubts about the French government's ability to rein in spending grow.",
+          "tags": []
+        },
+        {
+          "title": "Leaders debate UE budget ahead of high-stakes 2027 elections",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/16/leaders-debate-ue-budget-ahead-of-high-stakes-2027-elections_6758677_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-16T13:17:01+00:00",
+          "summary": "The debate has intensified between countries pushing to reduce the budget envelope and those determined to preserve EU resources. French President Emmanuel Macron and German Chancellor Friedrich Merz have agreed on the need to reach a deal before the end of…",
+          "tags": []
+        },
+        {
+          "title": "The risks faced by women migrants in Europe",
+          "url": "https://www.france24.com/en/tv-shows/the-51/20261016-the-risks-faced-by-women-migrants-in-europe",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-10-16T15:05:20+00:00",
+          "summary": "This October marks 10 years since French police dismantled the notorious Calais \"Jungle\" camp. FRANCE 24's Claire Paccalin returns to the region to explore what has changed for migrants over the past decade. She joins Annette Young and Dr Marissa Quie of…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Bottom Six Minutes: Are we worried about Jakub Dobeš?",
+          "url": "https://www.habseyesontheprize.com/bottom-six-minutes-are-we-worried-about-jakub-dobes-habs-news/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-10-16T12:48:06+00:00",
+          "summary": "Seven games into the 2026-27 season, the Montreal Canadiens are on pace for 82 points in the standings. Luckily it is an 84-game season, so they have a very long road on which to change that projection, but it should suffice to say that this wasn’t the start…",
+          "tags": []
+        },
+        {
+          "title": "Preview: Bruins continue California swing in Anaheim",
+          "url": "https://www.stanleycupofchowder.com/59447/preview-bruins-continue-california-swing-in-anaheim",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-10-16T11:00:00+00:00",
+          "summary": "Just the facts Know your enemy Game notes See ya tonight!",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "ATP sets out its 2028 blueprint: $350 million to players, a rankings overhaul and a calendar built around dedicated weeks",
+          "url": "https://www.tennismajors.com/atp/atp-sets-out-its-2028-blueprint-350-million-to-players-a-rankings-overhaul-and-a-calendar-built-around-dedicated-weeks-863310.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-10-16T05:59:09+00:00",
+          "summary": "ATP chairman Andrea Gaudenzi has published an open letter proposing total player compensation of 350 million dollars a year by 2028 outside the Grand Slams, a bonus pool rising from 21.5 to 50 million, a ranking system weighted toward the biggest events, and…",
+          "tags": []
+        },
+        {
+          "title": "Kartal enjoys 'best week of career' after diving into deep end",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cmpwgq52y22zo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-10-16T08:45:06+00:00",
+          "summary": "Sonay Kartal's winning streak following a long injury lay-off continues as she seals a hard-fought victory over fifth seed Elina Svitolina in the quarter-finals of the Wuhan Open.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 43,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, CISA ADVISORIES, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, HUGGING FACE, KNOWBE4, LE MONDE, OPENAI, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 20,
+      "low": 7,
+      "conditions": "rain"
+    },
+    {
+      "code": "PAR",
+      "high": 22,
+      "low": 12,
+      "conditions": "light rain"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-21589",
+      "vendor": "Atlassian",
+      "product": "Multiple Products",
+      "name": "Atlassian Multiple Products Files or Directories Accessible to External Parties Vulnerability",
+      "summary": "Multiple Atlassian products (Bitbucket Data Center ,Confluence Data Center, Jira Service Management Data Center, Jira Software Data Center, Bamboo Data Center, Crowd Data Center, Crucible and Fisheye) contain a files or…",
+      "added": "2026-10-15",
+      "due": "2026-10-18",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-21589"
+    },
+    {
+      "cve": "CVE-2026-105134",
+      "vendor": "Ahsay",
+      "product": "AhsayCBS",
+      "name": "Ahsay AhsayCBS Command Injection Vulnerability",
+      "summary": "Ahsay AhsayCBS contains a command injection vulnerability that could allow a remote attacker to execute operating system commands via manipulation of the random parameter in the Replication Receiver component’s…",
+      "added": "2026-10-14",
+      "due": "2026-10-17",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-105134"
+    },
+    {
+      "cve": "CVE-2026-76519",
+      "vendor": "Cisco",
+      "product": "Secure Email Gateway",
+      "name": "Cisco Secure Email Gateway Relative Path Traversal Vulnerability",
+      "summary": "Cisco Secure Email Gateway contains a relative path traversal vulnerability that could allow an unauthenticated, remote attacker to write arbitrary files on the underlying operating system.",
+      "added": "2026-10-14",
+      "due": "2026-10-17",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-76519"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-10-16",
+      "away": "BOS",
+      "home": "ANA"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Rolex Shanghai Masters",
+        "start": "2026-10-05",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Dongfeng Voyah Wuhan Open",
+        "start": "2026-10-09",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Vanda Pharmaceuticals Mallorca Women's Championships",
+        "start": "2026-10-11",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "RoveretOpen Città della Pace",
+        "start": "2026-10-11",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Lisboa Belem Open",
+        "start": "2026-10-11",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Kinoshita Group Japan Open",
+        "start": "2026-10-16",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "BNB Ningbo Open",
+        "start": "2026-10-16",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Iga Świątek",
+        "last": {
+          "event": "Dongfeng Voyah Wuhan Open",
+          "grouping": "Women's Singles",
+          "round": "Quarterfinal",
+          "date": "2026-10-16",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Iga Swiatek",
+              "winner": true,
+              "sets": [
+                6.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Ann Li",
+              "winner": false,
+              "sets": [
+                4.0,
+                1.0
+              ]
+            }
+          ],
+          "opponent": "Ann Li",
+          "won": true
+        },
+        "next": {
+          "event": "Dongfeng Voyah Wuhan Open",
+          "grouping": "Women's Singles",
+          "round": "Semifinal",
+          "date": "2026-10-17",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Maja Chwalinska",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Iga Swiatek",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Maja Chwalinska",
+          "won": false
+        }
+      },
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "Rolex Shanghai Masters",
+          "grouping": "Men's Singles",
+          "round": "Round 3",
+          "date": "2026-10-12",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": [
+                5.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Zizou Bergs",
+              "winner": true,
+              "sets": [
+                7.0,
+                7.0
+              ]
+            }
+          ],
+          "opponent": "Zizou Bergs",
+          "won": false
+        },
+        "next": null
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9696.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7550.0
+        },
+        {
+          "rank": 3,
+          "name": "Mirra Andreeva",
+          "points": 6371.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 11000.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9720.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5560.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Guangzhou Open",
+        "tour": "WTA",
+        "start": "2026-10-26",
+        "end": "2026-11-02",
+        "major": false
+      },
+      {
+        "name": "Toray Pan Pacific Open Tennis",
+        "tour": "WTA",
+        "start": "2026-10-26",
+        "end": "2026-11-02",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 34
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "l'ai",
+        "en": "have it, have, got it"
+      },
+      {
+        "fr": "ne te",
+        "en": "do not"
+      },
+      {
+        "fr": "présenter",
+        "en": "introduce, to introduce, presenting"
+      }
+    ],
+    "quiz": {
+      "fr": "l'ai",
+      "en": "have it, have, got it"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
