@@ -1,0 +1,466 @@
+{
+  "date": "2026-10-17",
+  "date_long": "Saturday, October 17, 2026",
+  "date_mast": "SATURDAY 17 OCTOBER 2026",
+  "built_at": "2026-10-17T14:08:21.932310+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Phishing Is Now A Criminal Impersonation Industry. Here Is How To Fight Back",
+          "url": "https://blog.knowbe4.com/phishing-is-now-a-criminal-impersonation-industry.-here-is-how-to-fight-back",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-10-17T13:53:04+00:00",
+          "summary": "For years, we described phishing as an email problem: an attacker writes a convincing message, sends it to thousands of people and waits for someone to click. That model is now outdated.",
+          "tags": []
+        },
+        {
+          "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
+          "url": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-10-17T06:16:46+00:00",
+          "summary": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unauthorized access to…",
+          "tags": []
+        },
+        {
+          "title": "Proofpoint CEO Sumit Dhawan On ‘Market-Changing’ $6.3B Varonis Deal, IPO Goal",
+          "url": "https://www.proofpoint.com/us/newsroom/news/proofpoint-ceo-sumit-dhawan-market-changing-63b-varonis-deal-ipo-goal",
+          "source": "Proofpoint",
+          "section": "email_security",
+          "published": "2026-10-16T15:46:15+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+          "url": "https://simonwillison.net/2026/Oct/16/code-review/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-16T22:06:37+00:00",
+          "summary": "We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check—automated or human—is the right one to catch it?\" Asking that question also changed when review happens. Before, review was a gate at the…",
+          "tags": []
+        },
+        {
+          "title": "How Itaú is building generative AI for its entire customer base",
+          "url": "https://openai.com/index/itau-generative-ai",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-10-16T19:00:00+00:00",
+          "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+          "tags": []
+        },
+        {
+          "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+          "source": "Hacker News",
+          "section": "ai",
+          "published": "2026-10-17T08:37:46+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "'Cockroach' party founder released from Indian police custody",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/17/cockroach-party-founder-released-from-indian-police-custody_6758708_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-17T13:15:00+00:00",
+          "summary": "Abhijeet Dipke, 31, was detained on Friday in New Delhi as he headed to join a rally that the CJP protest movement had called in the capital's central Connaught Place district.",
+          "tags": []
+        },
+        {
+          "title": "French supermarket fridge cyberattack: A warning for the industry that highlights cybersecurity flaws",
+          "url": "https://www.lemonde.fr/en/economy/article/2026/10/17/french-supermarket-fridge-cyberattack-a-warning-for-the-industry-that-highlights-cybersecurity-flaws_6758705_19.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-17T10:30:51+00:00",
+          "summary": "A cyberattack that overheated refrigeration systems in over 700 stores revealed the vulnerability of many, often innocuous, internet-connected devices. It also highlighted how France has fallen behind in implementing two key EU cybersecurity directives.",
+          "tags": []
+        },
+        {
+          "title": "Pope Leo returns to Vatican four days after lung cancer surgery",
+          "url": "https://www.france24.com/en/europe/20261017-pope-leo-returns-to-vatican-four-days-after-lung-cancer-surgery",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-10-17T10:35:22+00:00",
+          "summary": "Pope Leo XIV was released from the hospital on Saturday after lung cancer surgery. Doctors removed part of the 71-year-old's right lung last week to extract a cancerous tumour.",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Rocket @ Senators recap & highlights: Mittelstadt and Mešár lead comeback",
+          "url": "https://www.habseyesontheprize.com/rocket-senators-recap-highlights-mittelstadt-and-mesar-lead-comeback-laval-ahl-habs-prospects/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-10-17T11:58:13+00:00",
+          "summary": "The Laval Rocket overcame a 4-0 deficit to defeat the Belleville Senators 5-4 in overtime on Friday night. The road win was their fourth straight win after starting the season with a loss. The Rocket played their first game without David Reinbacher and Owen…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "“Focus on 2027”: Joao Fonseca ends his season and will not defend his Basel title",
+          "url": "https://www.tennismajors.com/atp/focus-on-2027-joao-fonseca-ends-his-season-and-will-not-defend-his-basel-title-863475.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-10-17T13:51:37+00:00",
+          "summary": "Joao Fonseca has ended his 2026 season, saying on Instagram that he does not feel ready to compete at his level after an injury-hit year, and will not defend his Basel title.",
+          "tags": []
+        },
+        {
+          "title": "Fatigued Zverev 'overachieved' by reaching Shanghai semis",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cm2ke179dvwdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-10-17T14:03:15+00:00",
+          "summary": "Alexander Zverev says he \"overachieved\" at the Shanghai Masters in reaching the semi-finals amid fatigue caused by his busy schedule.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 44,
+  "sources_line": "BBC TENNIS, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, HACKER NEWS, KNOWBE4, LE MONDE, OPENAI, PROOFPOINT, SIMON WILLISON, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 16,
+      "low": 2,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 16,
+      "low": 9,
+      "conditions": "light rain"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-102764",
+      "vendor": "BeyondTrust",
+      "product": "Remote Support",
+      "name": "BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability",
+      "summary": "BeyondTrust Remote Support contains an authentication bypass by spoofing vulnerability that could allow a remote attacker to perform file operations on the appliance.",
+      "added": "2026-10-16",
+      "due": "2026-10-19",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-102764"
+    },
+    {
+      "cve": "CVE-2025-61624",
+      "vendor": "Fortinet",
+      "product": "Multiple Products",
+      "name": "Fortinet Multiple Products Path Traversal Vulnerability",
+      "summary": "FortiOS, FortiPAM, FortiProxy, and FortiSwitchManager contain a path traversal vulnerability that may allow an authenticated attacker with admin profile and at least read-write permissions to write or delete arbitrary…",
+      "added": "2026-10-16",
+      "due": "2026-10-19",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-61624"
+    },
+    {
+      "cve": "CVE-2026-21589",
+      "vendor": "Atlassian",
+      "product": "Multiple Products",
+      "name": "Atlassian Multiple Products Files or Directories Accessible to External Parties Vulnerability",
+      "summary": "Multiple Atlassian products (Bitbucket Data Center ,Confluence Data Center, Jira Service Management Data Center, Jira Software Data Center, Bamboo Data Center, Crowd Data Center, Crucible and Fisheye) contain a files or…",
+      "added": "2026-10-15",
+      "due": "2026-10-18",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-21589"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-10-17",
+      "away": "BOS",
+      "home": "LAK"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Rolex Shanghai Masters",
+        "start": "2026-10-05",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Dongfeng Voyah Wuhan Open",
+        "start": "2026-10-09",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Vanda Pharmaceuticals Mallorca Women's Championships",
+        "start": "2026-10-11",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "RoveretOpen Città della Pace",
+        "start": "2026-10-11",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Lisboa Belem Open",
+        "start": "2026-10-11",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Kinoshita Group Japan Open",
+        "start": "2026-10-16",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "BNB Ningbo Open",
+        "start": "2026-10-16",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "BNP Paribas Fortis European Open",
+        "start": "2026-10-17",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Almaty Open",
+        "start": "2026-10-17",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Iga Świątek",
+        "last": {
+          "event": "Dongfeng Voyah Wuhan Open",
+          "grouping": "Women's Singles",
+          "round": "Semifinal",
+          "date": "2026-10-17",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Maja Chwalinska",
+              "winner": true,
+              "sets": [
+                7.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Iga Swiatek",
+              "winner": false,
+              "sets": [
+                5.0,
+                1.0
+              ]
+            }
+          ],
+          "opponent": "Maja Chwalinska",
+          "won": false
+        },
+        "next": {
+          "event": "BNB Ningbo Open",
+          "grouping": "Women's Singles",
+          "round": "Round 2",
+          "date": "2026-10-21",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Iga Swiatek",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "TBD",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "TBD",
+          "won": false
+        }
+      },
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "Rolex Shanghai Masters",
+          "grouping": "Men's Singles",
+          "round": "Round 3",
+          "date": "2026-10-12",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": [
+                5.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Zizou Bergs",
+              "winner": true,
+              "sets": [
+                7.0,
+                7.0
+              ]
+            }
+          ],
+          "opponent": "Zizou Bergs",
+          "won": false
+        },
+        "next": null
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9696.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7550.0
+        },
+        {
+          "rank": 3,
+          "name": "Mirra Andreeva",
+          "points": 6371.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 11000.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9720.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5560.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Guangzhou Open",
+        "tour": "WTA",
+        "start": "2026-10-26",
+        "end": "2026-11-02",
+        "major": false
+      },
+      {
+        "name": "Toray Pan Pacific Open Tennis",
+        "tour": "WTA",
+        "start": "2026-10-26",
+        "end": "2026-11-02",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 33
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "ne le",
+        "en": "him, it"
+      },
+      {
+        "fr": "au lieu de",
+        "en": "instead of"
+      },
+      {
+        "fr": "passe par",
+        "en": "go down, goes down"
+      }
+    ],
+    "quiz": {
+      "fr": "ne le",
+      "en": "him, it"
+    }
+  },
+  "counts": {
+    "stories": 12,
+    "kev": 3
+  }
+}
