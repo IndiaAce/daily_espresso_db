@@ -1,0 +1,482 @@
+{
+  "date": "2026-10-18",
+  "date_long": "Sunday, October 18, 2026",
+  "date_mast": "SUNDAY 18 OCTOBER 2026",
+  "built_at": "2026-10-18T14:27:19.789309+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
+          "url": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-10-18T08:23:02+00:00",
+          "summary": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application identities and compromised Microsoft 365…",
+          "tags": []
+        },
+        {
+          "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+          "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-10-17T15:18:51+00:00",
+          "summary": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants.",
+          "tags": []
+        },
+        {
+          "title": "Proofpoint CEO on acquiring Varonis for $6.3B: ‘Opportunities like this don’t come every day’",
+          "url": "https://www.proofpoint.com/us/newsroom/news/proofpoint-ceo-acquiring-varonis-63b-opportunities-dont-come-every-day",
+          "source": "Proofpoint",
+          "section": "email_security",
+          "published": "2026-10-16T13:50:08+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Inline rendering with document​.currentScript",
+          "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-17T21:11:12+00:00",
+          "summary": "Inline rendering with document​.currentScript Lean Rada describes a neat trick that takes advantage of the document.currentScript property. You can use that to drop in a tiny inline <script> element that replaces itself when the page loads: The year is…",
+          "tags": []
+        },
+        {
+          "title": "web-edit 0.1a2",
+          "url": "https://simonwillison.net/2026/Oct/17/web-edit/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-17T13:16:49+00:00",
+          "summary": "Release: web-edit 0.1a2 web-edit ( previously ) is my tiny web app for browsing and editing files in a folder. I mainly built it for editing files on different machines via Tailscale. I added a \"copy to clipboard\" option for both text and image data. I needed…",
+          "tags": []
+        },
+        {
+          "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+          "url": "https://api-docs.deepseek.com/guides/search/",
+          "source": "Hacker News",
+          "section": "ai",
+          "published": "2026-10-18T06:50:36+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "EU 'strongly condemns' settler attack on delegation in West Bank",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/18/eu-strongly-condemns-settler-attack-on-delegation-in-west-bank_6758730_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-18T12:56:40+00:00",
+          "summary": "Saturday saw Israeli settlers attack a convoy of European diplomats in the West Bank town of Taybeh and beat up a visiting French mayor, witnesses said.",
+          "tags": []
+        },
+        {
+          "title": "'Serious incident' at Canada base causes deaths, sparks fire",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/18/serious-incident-at-canada-base-causes-deaths-sparks-fire_6758726_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-18T10:40:29+00:00",
+          "summary": "Canadian Prime Minister Mark Carney posted on X that 'a serious incident creating a major fire' had occurred at Canadian Forces Base Wainwright military base in western Alberta province.",
+          "tags": []
+        },
+        {
+          "title": "Ukrainian drone attack on Saint Petersburg kills one, sets refinery ablaze",
+          "url": "https://www.france24.com/en/europe/20261018-ukraine-sets-saint-petersburg-refinery-ablaze-in-large-scale-drone-attack",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-10-18T12:03:23+00:00",
+          "summary": "A large-scale Ukrainian drone attack on Russia's second-largest city Saint Petersburg killed at least one person and hospitalised another five on Sunday. The attack – which also sparked fires at an oil refinery and depot – comes as Kyiv accused Russia of…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Sunday Habs Headlines: The great goalie debate",
+          "url": "https://www.habseyesontheprize.com/habs-headlines-the-great-goalie-debate-jakub-dobes-carey-price-josh-anderson-chris-kreider-mike-mattheson-connor-hellebuyck-suspension-heritage-classic/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-10-18T08:00:00+00:00",
+          "summary": "Montreal Canadiens news and notes Jakub Dobeš is has entered the starting goaltender debate, just like all those who came before him. [ Journal de Montreal ] Dobeš’s early-season struggles have reopened the goalie conundrum we’d hoped had finally come to an…",
+          "tags": []
+        },
+        {
+          "title": "Bruins vs. Kings PREVIEW/GAMETHREAD",
+          "url": "https://www.stanleycupofchowder.com/bruins-gameday/59451/bruins-vs-kings-preview-gamethread",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-10-17T19:49:13+00:00",
+          "summary": "Just the Facts What happened last Game? While they started extremely shaky, the Bruins ultimately worked themselves back into the game through the power play and ultimately won a 4-2 game! Game Preview So! Boston pulled one out after a rough first 20 against…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Warrior: Davidovich Fokina fights back from a set and a break down to beat Jodar for first Masters 1000 title in Shanghai",
+          "url": "https://www.tennismajors.com/atp/warrior-davidovich-fokina-fights-back-from-a-set-and-a-break-down-to-beat-jodar-for-first-masters-1000-title-in-shanghai-863521.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-10-18T11:15:06+00:00",
+          "summary": "Alejandro Davidovich Fokina (No. 25) came back from a set and a break down to beat Rafael Jodar (No. 12) 1-6, 7-6 (5), 6-4 on Sunday and win the Rolex Shanghai Masters, his first Masters 1000 title. The Spaniard, who lost his first five career finals and…",
+          "tags": []
+        },
+        {
+          "title": "Britain's Kartal misses out on biggest title of her career",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cqm2411vp3dgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-10-18T13:39:24+00:00",
+          "summary": "Britain's Sonay Kartal fades from a strong position in a gripping Wuhan Open final against Grand Slam runner-up Maja Chwalinska.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 45,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, HACKER NEWS, LE MONDE, PROOFPOINT, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 12,
+      "low": 0,
+      "conditions": "clear"
+    },
+    {
+      "code": "PAR",
+      "high": 13,
+      "low": 7,
+      "conditions": "showers"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-102764",
+      "vendor": "BeyondTrust",
+      "product": "Remote Support",
+      "name": "BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability",
+      "summary": "BeyondTrust Remote Support contains an authentication bypass by spoofing vulnerability that could allow a remote attacker to perform file operations on the appliance.",
+      "added": "2026-10-16",
+      "due": "2026-10-19",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-102764"
+    },
+    {
+      "cve": "CVE-2025-61624",
+      "vendor": "Fortinet",
+      "product": "Multiple Products",
+      "name": "Fortinet Multiple Products Path Traversal Vulnerability",
+      "summary": "FortiOS, FortiPAM, FortiProxy, and FortiSwitchManager contain a path traversal vulnerability that may allow an authenticated attacker with admin profile and at least read-write permissions to write or delete arbitrary…",
+      "added": "2026-10-16",
+      "due": "2026-10-19",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-61624"
+    },
+    {
+      "cve": "CVE-2026-21589",
+      "vendor": "Atlassian",
+      "product": "Multiple Products",
+      "name": "Atlassian Multiple Products Files or Directories Accessible to External Parties Vulnerability",
+      "summary": "Multiple Atlassian products (Bitbucket Data Center ,Confluence Data Center, Jira Service Management Data Center, Jira Software Data Center, Bamboo Data Center, Crowd Data Center, Crucible and Fisheye) contain a files or…",
+      "added": "2026-10-15",
+      "due": "2026-10-18",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-21589"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-10-20",
+      "away": "BOS",
+      "home": "DAL"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Rolex Shanghai Masters",
+        "start": "2026-10-05",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Dongfeng Voyah Wuhan Open",
+        "start": "2026-10-09",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Vanda Pharmaceuticals Mallorca Women's Championships",
+        "start": "2026-10-11",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "RoveretOpen Città della Pace",
+        "start": "2026-10-11",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Lisboa Belem Open",
+        "start": "2026-10-11",
+        "end": "2026-10-19",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Kinoshita Group Japan Open",
+        "start": "2026-10-16",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "BNB Ningbo Open",
+        "start": "2026-10-16",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "BNP Paribas Fortis European Open",
+        "start": "2026-10-17",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Almaty Open",
+        "start": "2026-10-17",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Grand Prix Auvergne-Rhône-Alpes",
+        "start": "2026-10-18",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Iga Świątek",
+        "last": {
+          "event": "Dongfeng Voyah Wuhan Open",
+          "grouping": "Women's Singles",
+          "round": "Semifinal",
+          "date": "2026-10-17",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Maja Chwalinska",
+              "winner": true,
+              "sets": [
+                7.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Iga Swiatek",
+              "winner": false,
+              "sets": [
+                5.0,
+                1.0
+              ]
+            }
+          ],
+          "opponent": "Maja Chwalinska",
+          "won": false
+        },
+        "next": {
+          "event": "BNB Ningbo Open",
+          "grouping": "Women's Singles",
+          "round": "Round 2",
+          "date": "2026-10-21",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Iga Swiatek",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "TBD",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "TBD",
+          "won": false
+        }
+      },
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "Rolex Shanghai Masters",
+          "grouping": "Men's Singles",
+          "round": "Round 3",
+          "date": "2026-10-12",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": [
+                5.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Zizou Bergs",
+              "winner": true,
+              "sets": [
+                7.0,
+                7.0
+              ]
+            }
+          ],
+          "opponent": "Zizou Bergs",
+          "won": false
+        },
+        "next": null
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9696.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7550.0
+        },
+        {
+          "rank": 3,
+          "name": "Mirra Andreeva",
+          "points": 6371.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 11000.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9720.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5560.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Guangzhou Open",
+        "tour": "WTA",
+        "start": "2026-10-26",
+        "end": "2026-11-02",
+        "major": false
+      },
+      {
+        "name": "Toray Pan Pacific Open Tennis",
+        "tour": "WTA",
+        "start": "2026-10-26",
+        "end": "2026-11-02",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 32
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "détesté",
+        "en": "hated, hate"
+      },
+      {
+        "fr": "en as",
+        "en": "have"
+      },
+      {
+        "fr": "boucler",
+        "en": "to buckle, to fasten, to close"
+      }
+    ],
+    "quiz": {
+      "fr": "détesté",
+      "en": "hated, hate"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
