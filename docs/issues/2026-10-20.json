@@ -1,0 +1,361 @@
+{
+  "date": "2026-10-20",
+  "date_long": "Tuesday, October 20, 2026",
+  "date_mast": "TUESDAY 20 OCTOBER 2026",
+  "built_at": "2026-10-20T15:36:45.253700+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
+          "url": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-10-20T14:07:17+00:00",
+          "summary": "A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their control panels open on the internet. The agents tried more…",
+          "tags": []
+        },
+        {
+          "title": "What Security Teams Can Do To Tame Wild Code",
+          "url": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-10-20T11:33:04+00:00",
+          "summary": "A sales manager builds an AI-assisted workflow to route leads. It connects to customer records, summarizes inbound requests, and posts updates to a shared channel. The workflow saves time, reduces manual work, and soon becomes part of the team’s daily…",
+          "tags": []
+        },
+        {
+          "title": "Hacker gets 8 years for stealing $3.3 million from taxpayers",
+          "url": "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-10-20T13:18:36+00:00",
+          "summary": "A Nigerian national was sentenced to eight years in prison for his involvement in a series of spearphishing attacks targeting US tax preparation businesses since 2019.",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "My obituary for programming",
+          "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-19T23:58:25+00:00",
+          "summary": "My obituary for programming Jeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the puzzle of developing code: Programming turned into one of the greatest jobs you could imagine. You got paid to work on…",
+          "tags": []
+        },
+        {
+          "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+          "source": "Hugging Face",
+          "section": "ai",
+          "published": "2026-10-20T15:19:48+00:00",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "Apple broke an essential presentation feature of iPads",
+          "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+          "source": "Hacker News",
+          "section": "ai",
+          "published": "2026-10-20T12:17:28+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "'The repression of France's high school and social movements is already historic in scale'",
+          "url": "https://www.lemonde.fr/en/opinion/article/2026/10/20/the-repression-of-france-s-high-school-and-social-movements-is-already-historic-in-scale_6760063_23.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-20T14:00:03+00:00",
+          "summary": "Quentin Deluermoz, a professor at Paris Cité University, reflects on the significance of the many references to the French Revolution, the Paris Commune and the May 1968 protests that shaped the protests of October 17, arguing they 'provide a language to…",
+          "tags": []
+        },
+        {
+          "title": "16 new bear cubs detected in French Pyrénées, but inbreeding problems persist",
+          "url": "https://www.lemonde.fr/en/environment/article/2026/10/20/16-new-bear-cubs-detected-in-french-pyrenees-but-inbreeding-problems-persist_6760030_114.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-20T13:30:02+00:00",
+          "summary": "According to the latest bear monitoring report published by the French Office for Biodiversity, nearly 130 bears are estimated to live in the Pyrénées. But the genetic preservation of the population remains far from guaranteed.",
+          "tags": []
+        },
+        {
+          "title": "Zelensky in Oslo for talks with US envoys as Ukraine claims missile holdup",
+          "url": "https://www.france24.com/en/europe/20261020-zelensky-oslo-for-talks-with-us-envoys-ukraine-claims-missile-holdup",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-10-20T14:11:29+00:00",
+          "summary": "Ukrainian President Volodymyr Zelensky arrived in Norway Tuesday to meet with US envoys in order to put diplomacy back on a \"more constructive path”, Oslo officials said. Relations between Kyiv and Washington have deteriorated since US President Donald Trump…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Preview: Bruins wrap up road trip in Dallas",
+          "url": "https://www.stanleycupofchowder.com/26-27-game-coverage/59473/preview-bruins-wrap-up-road-trip-in-dallas",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-10-20T11:00:00+00:00",
+          "summary": "Just the facts Know your enemy Game notes See ya tonight!",
+          "tags": []
+        },
+        {
+          "title": "Canadiens vs. Sharks: Game preview, start time, Tale of the Tape, and how to watch",
+          "url": "https://www.habseyesontheprize.com/canadiens-sharks-2026-10-20-game-preview-start-time-tale-of-the-tape-and-how-to-watch-tv-listings/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-10-20T10:00:00+00:00",
+          "summary": "How to watch Game 9: Montreal Canadiens vs. San Jose Sharks Start time: 7:00 PM EDT / 4:00 PM PDT In the Canadiens region: TSN2 (English), RDS (French) In the Sharks region: NBC Sports California Streaming: TSN+, RDS There was no sophomore slump for Macklin…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Boulter produces emphatic win at Japan Open",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/c9vgrnnnz014o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-10-20T09:24:43+00:00",
+          "summary": "Britain's Katie Boulter claims a dominant win in her rain-affected first-round match against Himeno Sakatsume in the Japan Open.",
+          "tags": []
+        },
+        {
+          "title": "October 20, 2006: The day Tomas Berdych shocked Rafael Nadal, and an entire nation",
+          "url": "https://www.tennismajors.com/atp/october-20-2006-the-day-tomas-berdych-beat-rafael-nadal-and-upset-a-nation-299692.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-10-20T02:46:48+00:00",
+          "summary": "Every day, Tennis Majors takes you back to one of the most iconic moments in tennis history. On this day, October 20, 2006, Tomas Berdych beat Rafael Nadal in Madrid and upset a nation",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 47,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, HACKER NEWS, HUGGING FACE, LE MONDE, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 17,
+      "low": 3,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 14,
+      "low": 10,
+      "conditions": "showers"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-102764",
+      "vendor": "BeyondTrust",
+      "product": "Remote Support",
+      "name": "BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability",
+      "summary": "BeyondTrust Remote Support contains an authentication bypass by spoofing vulnerability that could allow a remote attacker to perform file operations on the appliance.",
+      "added": "2026-10-16",
+      "due": "2026-10-19",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-102764"
+    },
+    {
+      "cve": "CVE-2025-61624",
+      "vendor": "Fortinet",
+      "product": "Multiple Products",
+      "name": "Fortinet Multiple Products Path Traversal Vulnerability",
+      "summary": "FortiOS, FortiPAM, FortiProxy, and FortiSwitchManager contain a path traversal vulnerability that may allow an authenticated attacker with admin profile and at least read-write permissions to write or delete arbitrary…",
+      "added": "2026-10-16",
+      "due": "2026-10-19",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-61624"
+    },
+    {
+      "cve": "CVE-2026-21589",
+      "vendor": "Atlassian",
+      "product": "Multiple Products",
+      "name": "Atlassian Multiple Products Files or Directories Accessible to External Parties Vulnerability",
+      "summary": "Multiple Atlassian products (Bitbucket Data Center ,Confluence Data Center, Jira Service Management Data Center, Jira Software Data Center, Bamboo Data Center, Crowd Data Center, Crucible and Fisheye) contain a files or…",
+      "added": "2026-10-15",
+      "due": "2026-10-18",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-21589"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-10-20",
+      "away": "BOS",
+      "home": "DAL"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Kinoshita Group Japan Open",
+        "start": "2026-10-16",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "BNB Ningbo Open",
+        "start": "2026-10-16",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "BNP Paribas Fortis European Open",
+        "start": "2026-10-17",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Almaty Open",
+        "start": "2026-10-17",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Grand Prix Auvergne-Rhône-Alpes",
+        "start": "2026-10-18",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9196.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7550.0
+        },
+        {
+          "rank": 3,
+          "name": "Mirra Andreeva",
+          "points": 6306.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 10950.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 10070.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5610.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "American Tennis Open Miami",
+        "tour": "WTA",
+        "start": "2026-10-31",
+        "end": "2026-11-09",
+        "major": false
+      },
+      {
+        "name": "Prudential Hong Kong Tennis Open",
+        "tour": "WTA",
+        "start": "2026-11-02",
+        "end": "2026-11-09",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 30
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "restaurant",
+        "en": "restaurant, restaurant's"
+      },
+      {
+        "fr": "n'importe quelle",
+        "en": "any, whichever, whatever"
+      },
+      {
+        "fr": "venus",
+        "en": "came"
+      }
+    ],
+    "quiz": {
+      "fr": "restaurant",
+      "en": "restaurant, restaurant's"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
