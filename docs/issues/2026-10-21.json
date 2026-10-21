@@ -1,0 +1,361 @@
+{
+  "date": "2026-10-21",
+  "date_long": "Wednesday, October 21, 2026",
+  "date_mast": "WEDNESDAY 21 OCTOBER 2026",
+  "built_at": "2026-10-21T15:54:30.058256+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
+          "url": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-10-21T11:53:34+00:00",
+          "summary": "Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and unique to each recipient, and the behavioral signals email…",
+          "tags": []
+        },
+        {
+          "title": "AI Data Centers: Environmental Disaster or Groundbreaking Innovation?",
+          "url": "https://blog.knowbe4.com/ai-data-centers-environmental-disaster-or-groundbreaking-innovation",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-10-21T12:00:03+00:00",
+          "summary": "Insights from Attempted Intelligence, Episode 2, hosted by Matt Duren, SVP of AI and data, KnowBe4 and Harlan Parrott, VP of AI innovation, KnowBe4. AI data centers are one of the most debated topics in the world right now. Some people worry about the energy…",
+          "tags": []
+        },
+        {
+          "title": "Zeabur shutting down after second security breach in two months",
+          "url": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-10-20T19:33:02+00:00",
+          "summary": "Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million environment variable records and information…",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+          "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-10-21T13:00:00+00:00",
+          "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+          "tags": []
+        },
+        {
+          "title": "eMudhra Intermediate CA Compromise",
+          "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-20T23:50:25+00:00",
+          "summary": "eMudhra Intermediate CA Compromise This is very, very bad news: The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the Mozilla, Microsoft, Apple and Chrome root programs and by many downstream…",
+          "tags": []
+        },
+        {
+          "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+          "source": "Hugging Face",
+          "section": "ai",
+          "published": "2026-10-21T14:58:18+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Macron says world leaders have made 'stupid' comments on France riots based on fake AI videos",
+          "url": "https://www.france24.com/en/france/20261021-macron-says-world-leaders-have-made-stupid-comments-on-france-riots-based-on-fake-ai-videos",
+          "source": "France 24",
+          "section": "france",
+          "published": "2026-10-21T11:48:11+00:00",
+          "summary": "French President Emmanuel Macron took aim at world leaders including US President Donald Trump for trying to exploit the riots and looting that broke out alongside peaceful demonstrations in France Saturday for their own political advantage. Another wave of…",
+          "tags": []
+        },
+        {
+          "title": "French government and radical left trade blame after protests turn violent",
+          "url": "https://www.lemonde.fr/en/politics/article/2026/10/21/french-government-and-radical-left-trade-blame-after-protests-turn-violent_6760991_5.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-21T14:00:03+00:00",
+          "summary": "The government, along with centrist, right-wing and far-right parties, accused La France Insoumise of fueling violence. The president of the Sénat said Tuesday that the question of banning Jean-Luc Mélenchon's party 'can be raised.'",
+          "tags": []
+        },
+        {
+          "title": "EU investigates Booking.com over online fraud and phishing risks",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/21/eu-investigates-booking-com-over-online-fraud-and-phishing-risks_6760988_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-21T13:12:39+00:00",
+          "summary": "The EU's digital watchdog said it would assess whether the online platform 'properly identified' risks linked to the spread of illegal content such as non-existent properties and fraudsters portraying themselves as the owner of a property and putting it up…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Montreal Canadiens send Owen Beck, David Reinbacher back to Laval",
+          "url": "https://www.habseyesontheprize.com/montreal-canadiens-send-owen-beck-david-reinbacher-back-to-laval/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-10-21T15:13:56+00:00",
+          "summary": "The Montreal Canadiens have sent forward Owen Beck and defender David Reinbacher back to the Laval Rocket of the American Hockey League, the team announced on Wednesday. Les Canadiens ont cédé l'attaquant Owen Beck et le défenseur David Reinbacher au Rocket…",
+          "tags": []
+        },
+        {
+          "title": "Recap: Bruins fizzle out down the stretch, lose to Dallas in OT",
+          "url": "https://www.stanleycupofchowder.com/26-27-game-coverage/59481/recap-bruins-fizzle-out-down-the-stretch-lose-to-dallas-in-ot",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-10-21T03:29:58+00:00",
+          "summary": "Mikko Rantanen finished off a hat trick with the game-winning goal 3:52 into overtime, helping the Stars to a come-from-behind, 3-2 OT win over the Bruins. Rantanen’s winner came on the power play, with the B’s around 30 seconds away from successfully killing…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Boulter wins in under an hour to reach quarters",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cx4g17l00qmjo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-10-21T15:53:35+00:00",
+          "summary": "Katie Boulter moves into the quarter-finals of the Japan Open after she beat Viktorija Golubic in less than an hour.",
+          "tags": []
+        },
+        {
+          "title": "October 21, 2007: The day David Nalbandian achieved Madrid glory after dismissing Big Three",
+          "url": "https://www.tennismajors.com/atp/october-21-2007-the-day-david-nalbandian-achieved-madrid-glory-after-dismissing-big-three-299812.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-10-20T22:59:39+00:00",
+          "summary": "Every day, Tennis Majors takes you back in time to celebrate an important moment in tennis history. Today, we go back to 2007. On this day in 2007, David Nalbandian became the first player to beat Roger Federer, Rafael Nadal and Novak Djokovic in the same…",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 48,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24, HABS EYES ON THE PRIZE, HUGGING FACE, KNOWBE4, LE MONDE, OPENAI, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 13,
+      "low": 6,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 15,
+      "low": 8,
+      "conditions": "showers"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-106931",
+      "vendor": "EG Secure Solutions",
+      "product": "SiteGuard Server Edition",
+      "name": "EG Secure Solutions SiteGuard Server Edition OS Command Injection Vulnerability",
+      "summary": "EG Secure Solutions SiteGuard Server Edition contains an OS command injection vulnerability which may allow an attacker to execute arbitrary OS commands with root or SYSTEM privileges on the system running the affected…",
+      "added": "2026-10-20",
+      "due": "2026-10-23",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-106931"
+    },
+    {
+      "cve": "CVE-2026-96656",
+      "vendor": "Plex",
+      "product": "Media Server",
+      "name": "Plex Media Server External Control of File Name or Path Vulnerability",
+      "summary": "Plex Media Server contains an external control of file name or path vulnerability which can allow an admin user to write arbitrary files that may be executed on load. This vulnerability can be chained with…",
+      "added": "2026-10-20",
+      "due": "2026-10-23",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-96656"
+    },
+    {
+      "cve": "CVE-2026-96655",
+      "vendor": "Plex",
+      "product": "Media Server",
+      "name": "Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability",
+      "summary": "Plex Media Server contains a server-side request forgery (SSRF) vulnerability that could allow an authenticated user to request arbitrary internal or external addresses via the '/video/:/transcode/universal' path…",
+      "added": "2026-10-20",
+      "due": "2026-11-03",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-96655"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-10-22",
+      "away": "NSH",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Kinoshita Group Japan Open",
+        "start": "2026-10-16",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "BNB Ningbo Open",
+        "start": "2026-10-16",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "BNP Paribas Fortis European Open",
+        "start": "2026-10-17",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Almaty Open",
+        "start": "2026-10-17",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Grand Prix Auvergne-Rhône-Alpes",
+        "start": "2026-10-18",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9196.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7550.0
+        },
+        {
+          "rank": 3,
+          "name": "Mirra Andreeva",
+          "points": 6306.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 10950.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 10070.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5610.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "American Tennis Open Miami",
+        "tour": "WTA",
+        "start": "2026-10-31",
+        "end": "2026-11-09",
+        "major": false
+      },
+      {
+        "name": "Prudential Hong Kong Tennis Open",
+        "tour": "WTA",
+        "start": "2026-11-02",
+        "end": "2026-11-09",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 29
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "t'appelles",
+        "en": "call yourself, are called, is named"
+      },
+      {
+        "fr": "québécois",
+        "en": "from Quebec, Quebecois, québécois"
+      },
+      {
+        "fr": "ça a l'air",
+        "en": "it looks like, it seems, it appears"
+      }
+    ],
+    "quiz": {
+      "fr": "t'appelles",
+      "en": "call yourself, are called, is named"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
