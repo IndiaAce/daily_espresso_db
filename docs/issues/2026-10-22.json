@@ -1,0 +1,361 @@
+{
+  "date": "2026-10-22",
+  "date_long": "Thursday, October 22, 2026",
+  "date_mast": "THURSDAY 22 OCTOBER 2026",
+  "built_at": "2026-10-22T15:50:53.542209+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
+          "url": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-10-22T11:15:42+00:00",
+          "summary": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables. Upon further investigation, the company found that an unauthorized third party may have gained access to…",
+          "tags": []
+        },
+        {
+          "title": "Machine speed attacks require machine speed detection and response",
+          "url": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-10-22T14:02:12+00:00",
+          "summary": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster…",
+          "tags": []
+        },
+        {
+          "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
+          "url": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-10-22T08:28:48+00:00",
+          "summary": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor. On October 21, 2026, LiteLLM's release pipeline was…",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Quoting Armin Ronacher",
+          "url": "https://simonwillison.net/2026/Oct/22/armin-ronacher/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-22T15:34:13+00:00",
+          "summary": "As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins. — Armin Ronacher Tags: security , generative-ai , armin-ronacher , ai , ai-security-research , llms",
+          "tags": []
+        },
+        {
+          "title": "What FDE means at OpenAI",
+          "url": "https://openai.com/index/forward-deployed-engineering-means",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-10-22T06:00:00+00:00",
+          "summary": "What forward deployed engineering means at OpenAI",
+          "tags": []
+        },
+        {
+          "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+          "url": "https://simonwillison.net/2026/Oct/21/php-security-release/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-21T18:41:53+00:00",
+          "summary": "Today's PHP Security Release, and How We're Strengthening PHP Security If you're running anything on PHP it's vital you upgrade - today's updates (across the entire PHP 8.x line) address two remote code execution holes, and there have been exploits…",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Alice Weidel's failed charm offensive at the European Parliament",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/22/alice-weidel-s-failed-charm-offensive-at-the-european-parliament_6761549_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-22T14:21:53+00:00",
+          "summary": "The leader of Germany's far-right AfD party held a conference in Strasbourg on Wednesday that attracted few attendees beyond her own political group. She presented her vision for Europe, which focuses heavily on dismantling EU institutions.",
+          "tags": []
+        },
+        {
+          "title": "96% of coral reefs 'critically endangered,' at risk of collapse in 50 years",
+          "url": "https://www.lemonde.fr/en/environment/article/2026/10/22/96-of-coral-reefs-critically-endangered-at-risk-of-collapse-in-50-years_6761515_114.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-22T13:30:46+00:00",
+          "summary": "The International Union for Conservation of Nature said climate change was directly responsible for destroying these ecosystems in the first global assessment of its kind, published on Thursday.",
+          "tags": []
+        },
+        {
+          "title": "French weekend protests to be limited to union demos only, says Macron",
+          "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Europe",
+          "section": "france",
+          "published": "2026-10-22T15:22:48+00:00",
+          "summary": "Some cities including Lyon and Nice have banned all protests, and the French president said only authorised demos would be allowed.",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Nick Suzuki out 2-4 weeks, Canadiens recall Owen Beck",
+          "url": "https://www.habseyesontheprize.com/montreal-canadiens-nick-suzuki-injury-recall-owen-beck-habs/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-10-22T15:08:51+00:00",
+          "summary": "The Montreal Canadiens announced that captain Nick Suzuki will miss the next 2-4 weeks after suffering an upper-body injury. L'attaquant Nick Suzuki (haut du corps) ratera de deux à quatre semaines d'activité. Forward Nick Suzuki (upper body) will be out for…",
+          "tags": []
+        },
+        {
+          "title": "Public Skate: Bruins vs. Stars",
+          "url": "https://www.stanleycupofchowder.com/gameday-open-threads/59475/public-skate-bruins-vs-stars",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-10-20T22:00:00+00:00",
+          "summary": "Welcome to another night of Bruins hockey, folks! The B’s have had themselves a good time on the road thus far, but if they can get something out of this game tonight against a Stars team that expects to be in the mix in May/June, that would be quite a way to…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Atmane outlasts Bellucci in three tiebreaks to reach Almaty quarterfinals",
+          "url": "https://www.tennismajors.com/atp/atmane-outlasts-bellucci-in-three-tiebreaks-to-reach-almaty-quarterfinals-863729.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-10-22T09:40:06+00:00",
+          "summary": "Terence Atmane beat Mattia Bellucci 6-7 (4), 7-6 (2), 7-6 (5) in Almaty to reach his third ATP Tour quarterfinal, two days after apologizing for his behavior in Shanghai. The Frenchman ended Bellucci’s 13-2 run and will face top seed Daniil Medvedev (No. 1)…",
+          "tags": []
+        },
+        {
+          "title": "Britons Burrage and Dudeney progress in Wrexham",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cq4g1wd79236o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-10-21T17:08:33+00:00",
+          "summary": "Jodie Burrage and Alicia Dudeney lead the British efforts on day two of the Lexus Wrexham Open, reaching the second round with impressive victories.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 49,
+  "sources_line": "BBC EUROPE, BBC TENNIS, BLEEPINGCOMPUTER, HABS EYES ON THE PRIZE, LE MONDE, OPENAI, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 18,
+      "low": 6,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 15,
+      "low": 9,
+      "conditions": "showers"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-106931",
+      "vendor": "EG Secure Solutions",
+      "product": "SiteGuard Server Edition",
+      "name": "EG Secure Solutions SiteGuard Server Edition OS Command Injection Vulnerability",
+      "summary": "EG Secure Solutions SiteGuard Server Edition contains an OS command injection vulnerability which may allow an attacker to execute arbitrary OS commands with root or SYSTEM privileges on the system running the affected…",
+      "added": "2026-10-20",
+      "due": "2026-10-23",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-106931"
+    },
+    {
+      "cve": "CVE-2026-96656",
+      "vendor": "Plex",
+      "product": "Media Server",
+      "name": "Plex Media Server External Control of File Name or Path Vulnerability",
+      "summary": "Plex Media Server contains an external control of file name or path vulnerability which can allow an admin user to write arbitrary files that may be executed on load. This vulnerability can be chained with…",
+      "added": "2026-10-20",
+      "due": "2026-10-23",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-96656"
+    },
+    {
+      "cve": "CVE-2026-96655",
+      "vendor": "Plex",
+      "product": "Media Server",
+      "name": "Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability",
+      "summary": "Plex Media Server contains a server-side request forgery (SSRF) vulnerability that could allow an authenticated user to request arbitrary internal or external addresses via the '/video/:/transcode/universal' path…",
+      "added": "2026-10-20",
+      "due": "2026-11-03",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-96655"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-10-22",
+      "away": "NSH",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Kinoshita Group Japan Open",
+        "start": "2026-10-16",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "BNB Ningbo Open",
+        "start": "2026-10-16",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "BNP Paribas Fortis European Open",
+        "start": "2026-10-17",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Almaty Open",
+        "start": "2026-10-17",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Grand Prix Auvergne-Rhône-Alpes",
+        "start": "2026-10-18",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9196.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7550.0
+        },
+        {
+          "rank": 3,
+          "name": "Mirra Andreeva",
+          "points": 6306.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 10950.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 10070.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5610.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "American Tennis Open Miami",
+        "tour": "WTA",
+        "start": "2026-10-31",
+        "end": "2026-11-09",
+        "major": false
+      },
+      {
+        "name": "Prudential Hong Kong Tennis Open",
+        "tour": "WTA",
+        "start": "2026-11-02",
+        "end": "2026-11-09",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 28
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "du thé",
+        "en": "(some) tea, tea"
+      },
+      {
+        "fr": "doivent",
+        "en": "have to, must, supposed"
+      },
+      {
+        "fr": "si",
+        "en": "if, so, yes"
+      }
+    ],
+    "quiz": {
+      "fr": "du thé",
+      "en": "(some) tea, tea"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
