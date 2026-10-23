@@ -1,0 +1,382 @@
+{
+  "date": "2026-10-23",
+  "date_long": "Friday, October 23, 2026",
+  "date_mast": "FRIDAY 23 OCTOBER 2026",
+  "built_at": "2026-10-23T15:41:54.368090+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
+          "url": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-10-23T13:50:56+00:00",
+          "summary": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls. \"Artifacts from this investigation also indicate that…",
+          "tags": []
+        },
+        {
+          "title": "You gave your AI agent access, but who is giving it orders?",
+          "url": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-10-23T14:00:10+00:00",
+          "summary": "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub helps protect agents through skill…",
+          "tags": []
+        },
+        {
+          "title": "FBI Warns of Phishing Attacks Ahead of the US Midterm Elections",
+          "url": "https://blog.knowbe4.com/fbi-warns-of-phishing-attacks-ahead-of-the-us-midterm-elections",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-10-23T13:00:01+00:00",
+          "summary": "The U.S. FBI and the Cybersecurity and Infrastructure Security Agency (CISA) have issued joint advisories warning of election-themed scams targeting voters and spear phishing attacks targeting election officials.",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "DE STAAT - FREEDOM (Official Music Video)",
+          "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-22T19:42:26+00:00",
+          "summary": "DE STAAT - FREEDOM (Official Music Video) OK well this is a first for me... at 00:44 in this new music video by Dutch alternative rock band De Staat : The visual effects are credited to Matties Grooten of Fake it or Leave it . Via flir on Hacker News Tags…",
+          "tags": []
+        },
+        {
+          "title": "Donating Agent Skills to the Agentic AI Foundation",
+          "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-22T18:09:56+00:00",
+          "summary": "Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux…",
+          "tags": []
+        },
+        {
+          "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+          "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-10-23T00:00:00+00:00",
+          "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Deadly shooting west of Paris ‘clearly terrorist’ attack, interior minister says",
+          "url": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack",
+          "source": "France 24",
+          "section": "france",
+          "published": "2026-10-23T11:08:26+00:00",
+          "summary": "Friday’s deadly shooting in the outer Parisian suburb of Trappes was “clearly a terrorist crime”, Interior Minister Laurent Nunez said, adding that it was \"racist, probably Islamophobic\". One person was killed and at least four people including a child were…",
+          "tags": []
+        },
+        {
+          "title": "Prosecutors investigate Paris suburb shooting as possible 'terrorist' attack",
+          "url": "https://www.lemonde.fr/en/france/article/2026/10/23/prosecutors-investigate-paris-suburb-shooting-as-possible-terrorist-attack_6762274_7.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-23T11:18:17+00:00",
+          "summary": "An individual opened fire in the street in Trappes and La Verrière, west of Paris, before being apprehended and taken into custody, according to the prime minister.",
+          "tags": []
+        },
+        {
+          "title": "Heat killed over 50,000 people in Europe in summer 2026, making it deadliest on record",
+          "url": "https://www.lemonde.fr/en/environment/article/2026/10/23/heat-killed-over-50-000-people-in-europe-in-summer-2026-making-it-deadliest-on-record_6762249_114.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-23T10:05:48+00:00",
+          "summary": "A study conducted by two British institutions covering 854 urban areas found that the heatwaves of summer 2026 were far more lethal than those of 2003 or 2022.",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Recap: B’s run over Predators in 6-0 win",
+          "url": "https://www.stanleycupofchowder.com/26-27-game-coverage/59507/recap-bs-run-over-predators-in-6-0-win",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-10-23T11:00:00+00:00",
+          "summary": "The Bruins returned to TD Garden in style on Thursday night, scoring twice in each period en route to a 6-0 win over the Nashville Predators. David Pastrnak (2G-2A) and Charlie McAvoy (0G-4A) each recorded four points for the Bruins, who also got goals from…",
+          "tags": []
+        },
+        {
+          "title": "Canadiens @ Blackhawks: Game preview, start time, Tale of the Tape, and how to watch",
+          "url": "https://www.habseyesontheprize.com/canadiens-blackhawks-2026-10-23-game-preview-start-time-tale-of-the-tape-and-how-to-watch-tv-listings/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-10-23T10:00:00+00:00",
+          "summary": "How to watch Game 10: Montreal Canadiens @ Chicago Blackhawks Start time: **8:00 PM EDT / 5:00 PM PDT** In the Canadiens region: TSN2 (English), RDS (French) In the Blackhawks region: CHSN In the United States: NHL Network Streaming: TSN+, RDS On Friday night…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "October 23, 2005: The day Nadal came back from two sets down to triumph in Madrid",
+          "url": "https://www.tennismajors.com/atp/october-23-3005-the-day-nadal-came-back-from-two-sets-down-to-triumph-in-madrid-300120.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-10-23T09:10:00+00:00",
+          "summary": "On this day in tennis history, a teenaged Nadal won in Madrid - proving he was not just a clay-court wonder. Find out how it happened",
+          "tags": []
+        },
+        {
+          "title": "Boulter in Japan semis & back as British number one",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/c6ly35rzdgxyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-10-23T10:22:32+00:00",
+          "summary": "Katie Boulter reclaims the British number one ranking after fighting back to beat Antonia Ruzic in three sets in the quarter-finals of the Japan Open.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 50,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24, HABS EYES ON THE PRIZE, KNOWBE4, LE MONDE, OPENAI, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 13,
+      "low": 3,
+      "conditions": "clear"
+    },
+    {
+      "code": "PAR",
+      "high": 14,
+      "low": 10,
+      "conditions": "showers"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-106931",
+      "vendor": "EG Secure Solutions",
+      "product": "SiteGuard Server Edition",
+      "name": "EG Secure Solutions SiteGuard Server Edition OS Command Injection Vulnerability",
+      "summary": "EG Secure Solutions SiteGuard Server Edition contains an OS command injection vulnerability which may allow an attacker to execute arbitrary OS commands with root or SYSTEM privileges on the system running the affected…",
+      "added": "2026-10-20",
+      "due": "2026-10-23",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-106931"
+    },
+    {
+      "cve": "CVE-2026-96656",
+      "vendor": "Plex",
+      "product": "Media Server",
+      "name": "Plex Media Server External Control of File Name or Path Vulnerability",
+      "summary": "Plex Media Server contains an external control of file name or path vulnerability which can allow an admin user to write arbitrary files that may be executed on load. This vulnerability can be chained with…",
+      "added": "2026-10-20",
+      "due": "2026-10-23",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-96656"
+    },
+    {
+      "cve": "CVE-2026-96655",
+      "vendor": "Plex",
+      "product": "Media Server",
+      "name": "Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability",
+      "summary": "Plex Media Server contains a server-side request forgery (SSRF) vulnerability that could allow an authenticated user to request arbitrary internal or external addresses via the '/video/:/transcode/universal' path…",
+      "added": "2026-10-20",
+      "due": "2026-11-03",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-96655"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-10-24",
+      "away": "SJS",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Kinoshita Group Japan Open",
+        "start": "2026-10-16",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "BNB Ningbo Open",
+        "start": "2026-10-16",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Río Ladies Open by MundoTênis Tours",
+        "start": "2026-10-17",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "BNP Paribas Fortis European Open",
+        "start": "2026-10-17",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Almaty Open",
+        "start": "2026-10-17",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Grand Prix Auvergne-Rhône-Alpes",
+        "start": "2026-10-18",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Guangzhou Open",
+        "start": "2026-10-23",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Toray Pan Pacific Open Tennis",
+        "start": "2026-10-23",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9196.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7550.0
+        },
+        {
+          "rank": 3,
+          "name": "Mirra Andreeva",
+          "points": 6306.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 10950.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 10070.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5610.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "American Tennis Open Miami",
+        "tour": "WTA",
+        "start": "2026-10-31",
+        "end": "2026-11-09",
+        "major": false
+      },
+      {
+        "name": "Prudential Hong Kong Tennis Open",
+        "tour": "WTA",
+        "start": "2026-11-02",
+        "end": "2026-11-09",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 27
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "ne porte pas",
+        "en": "does not wear, is not wearing, does not carry"
+      },
+      {
+        "fr": "sorti",
+        "en": "got out, go out, went out"
+      },
+      {
+        "fr": "feront",
+        "en": "will go, will make, will do"
+      }
+    ],
+    "quiz": {
+      "fr": "ne porte pas",
+      "en": "does not wear, is not wearing, does not carry"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
