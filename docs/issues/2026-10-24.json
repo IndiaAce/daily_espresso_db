@@ -1,0 +1,423 @@
+{
+  "date": "2026-10-24",
+  "date_long": "Saturday, October 24, 2026",
+  "date_mast": "SATURDAY 24 OCTOBER 2026",
+  "built_at": "2026-10-24T14:24:25.889463+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
+          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-10-23T18:54:41+00:00",
+          "summary": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026.",
+          "tags": []
+        },
+        {
+          "title": "Warning: Attackers Are Using Calendar Invite Files to Evade Security Filters",
+          "url": "https://blog.knowbe4.com/warning-attackers-are-using-calendar-invite-files-to-evade-security-filters",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-10-23T16:00:02+00:00",
+          "summary": "Phishing attacks are increasingly using legitimate calendar invites to bypass security filters , according to researchers at Netcraft. Attackers send ICS calendar invite files that plant phishing lures directly on users’ calendars, often under the guise of…",
+          "tags": []
+        },
+        {
+          "title": "Capcom confirms data breach affecting 11.7 million accounts",
+          "url": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-10-22T20:22:45+00:00",
+          "summary": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information.",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "battledrones v14: Compass Rose, a four player map",
+          "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-24T03:59:57+00:00",
+          "summary": "Release: battledrones v14: Compass Rose, a four player map I added four player online mode to Battledrones - previous maps were limited to two. Here's the initial prompt I used: Add a new map for a four player battle - four way rotational symmetry, up to four…",
+          "tags": []
+        },
+        {
+          "title": "Quick Study",
+          "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-23T21:35:13+00:00",
+          "summary": "Tool: Quick Study Prompt to Claude Opus 5.5 High : Build an artifact where you open a photo and it rapidly (in a few seconds) paints a version of that photo using a canvas element and simulated paintbrush See also my previous experiment getting Claude Fable…",
+          "tags": []
+        },
+        {
+          "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+          "url": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
+          "source": "Hacker News",
+          "section": "ai",
+          "published": "2026-10-24T13:09:28+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Saudi forces launch deadly airstrikes on Yemen",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/24/saudi-forces-launch-deadly-airstrikes-on-yemen_6763099_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-24T13:08:40+00:00",
+          "summary": "These strikes come as the Saudi-led military coalition announced that, since Saturday morning, it had intercepted two missiles fired by the Houthis towards Taif and Yanbu, in the kingdom's west.",
+          "tags": []
+        },
+        {
+          "title": "After deadly Trappes shooting, residents express anger and resignation over pervasive racism",
+          "url": "https://www.lemonde.fr/en/france/article/2026/10/24/after-deadly-trappes-shooting-residents-express-anger-and-resignation-over-pervasive-racism_6762967_7.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-24T11:46:02+00:00",
+          "summary": "Like the city's mayor Ali Rabeh, residents interviewed by Le Monde saw the attack that killed and injured several passersby in the town west of Paris on Friday morning as the consequence of rhetoric blaming Muslims and people of African descent for all…",
+          "tags": []
+        },
+        {
+          "title": "Ukraine says Starlink and Starshield connection 'stable' again",
+          "url": "https://www.france24.com/en/europe/20261024-ukraine-says-starlink-and-starshield-connection-stable-again",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-10-24T09:48:23+00:00",
+          "summary": "Ukraine has regained a \"stable\" connection to the Starlink and Starshield satellite communications systems, Kyiv's defence minister said on Saturday. Recent disruptions to the connection led to tensions with Washington over the SpaceX-made network crucial to…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Preview: Bruins look to stay on pace against Sharks",
+          "url": "https://www.stanleycupofchowder.com/26-27-game-coverage/59517/preview-bruins-look-to-stay-on-pace-against-sharks",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-10-24T11:00:00+00:00",
+          "summary": "Just the facts Know your enemy Game notes The Sharks come to Boston on a two-game wining streak. They picked up a win Thursday night, beating the Ottawa Senators 6-2. Tonight’s game ends a six-game road trip for the Sharks where they are 3-1-1. It’s a fairly…",
+          "tags": []
+        },
+        {
+          "title": "Rocket vs. Hammers recap: Laval claims top spot in AHL with seventh straight victory",
+          "url": "https://www.habseyesontheprize.com/rocket-hammers-2026-10-23-recap-score-highlights-laval-claims-top-spot-in-ahl-with-seventh-straight-victory-sasha-pastujov-luke-mittlestadt-david-reinbacher/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-10-24T10:00:00+00:00",
+          "summary": "After a successful showing against the Syracuse Crunch, the Laval Rocket returned back to Place Bell to play their first of a back-to-back against the league’s newest team, in their former home, the Hamilton Hammers. With Owen Beck recalled, and Alex Belzile…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Qualifier Basilashvili turns back the clock to stun Tsitsipas and reach Almaty final",
+          "url": "https://www.tennismajors.com/atp/qualifier-basilashvili-turns-back-the-clock-to-stun-tsitsipas-and-reach-almaty-final-863921.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-10-24T12:30:06+00:00",
+          "summary": "Nikoloz Basilashvili, a 34-year-old qualifier ranked No. 128, held all 16 of his service games to stun Stefanos Tsitsipas (No. 7) 6-4, 6-7 (5), 6-3 and reach the Almaty final. Injured again at the end of last year, the Georgian is back in the top 100, while…",
+          "tags": []
+        },
+        {
+          "title": "New British number one Boulter loses Japan semi-final",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/ck4g15ql8gr8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-10-24T10:54:58+00:00",
+          "summary": "New British number one Katie Boulter loses 6-1 6-4 to Czech doubles specialist Katerina Siniakova in the Japan Open semi-finals.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 51,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, HACKER NEWS, KNOWBE4, LE MONDE, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 15,
+      "low": 0,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 13,
+      "low": 9,
+      "conditions": "showers"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-114625",
+      "vendor": "Arista",
+      "product": "VeloCloud Orchestrator",
+      "name": "Arista VeloCloud Orchestrator SQL Injection Vulnerability",
+      "summary": "Arista VeloCloud Orchestrator on-prem contains a SQL injection vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise…",
+      "added": "2026-10-23",
+      "due": "2026-10-26",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-114625"
+    },
+    {
+      "cve": "CVE-2026-110447",
+      "vendor": "Collabora",
+      "product": "Collabora Online – Built-in CODE Server",
+      "name": "Collabora Online – Built-in CODE Server OS Command Injection Vulnerability",
+      "summary": "Collabora Collabora Online – Built-in CODE Server when used within the NextCloud platform contains an OS command injection vulnerability that allows for remote code execution when the CODE server isn't running.",
+      "added": "2026-10-23",
+      "due": "2026-10-26",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-110447"
+    },
+    {
+      "cve": "CVE-2026-106931",
+      "vendor": "EG Secure Solutions",
+      "product": "SiteGuard Server Edition",
+      "name": "EG Secure Solutions SiteGuard Server Edition OS Command Injection Vulnerability",
+      "summary": "EG Secure Solutions SiteGuard Server Edition contains an OS command injection vulnerability which may allow an attacker to execute arbitrary OS commands with root or SYSTEM privileges on the system running the affected…",
+      "added": "2026-10-20",
+      "due": "2026-10-23",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-106931"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-10-24",
+      "away": "SJS",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Kinoshita Group Japan Open",
+        "start": "2026-10-16",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "BNB Ningbo Open",
+        "start": "2026-10-16",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Río Ladies Open by MundoTênis Tours",
+        "start": "2026-10-17",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "BNP Paribas Fortis European Open",
+        "start": "2026-10-17",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Almaty Open",
+        "start": "2026-10-17",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Grand Prix Auvergne-Rhône-Alpes",
+        "start": "2026-10-18",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Guangzhou Open",
+        "start": "2026-10-23",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Toray Pan Pacific Open Tennis",
+        "start": "2026-10-23",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Erste Bank Open",
+        "start": "2026-10-24",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Swiss Indoors Basel",
+        "start": "2026-10-24",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Carlos Alcaraz",
+        "last": null,
+        "next": {
+          "event": "Erste Bank Open",
+          "grouping": "Men's Singles",
+          "round": "Round 1",
+          "date": "2026-10-26",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Karen Khachanov",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Karen Khachanov",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9196.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7550.0
+        },
+        {
+          "rank": 3,
+          "name": "Mirra Andreeva",
+          "points": 6306.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 10950.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 10070.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5610.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "American Tennis Open Miami",
+        "tour": "WTA",
+        "start": "2026-10-31",
+        "end": "2026-11-09",
+        "major": false
+      },
+      {
+        "name": "Prudential Hong Kong Tennis Open",
+        "tour": "WTA",
+        "start": "2026-11-02",
+        "end": "2026-11-09",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 26
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "bien s'entendre",
+        "en": "get along well, get on well, have a good relationship"
+      },
+      {
+        "fr": "quartier",
+        "en": "quarter, neighborhood, area's"
+      },
+      {
+        "fr": "au début",
+        "en": "at the beginning"
+      }
+    ],
+    "quiz": {
+      "fr": "bien s'entendre",
+      "en": "get along well, get on well, have a good relationship"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
