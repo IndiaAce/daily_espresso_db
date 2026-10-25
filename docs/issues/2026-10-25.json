@@ -1,0 +1,423 @@
+{
+  "date": "2026-10-25",
+  "date_long": "Sunday, October 25, 2026",
+  "date_mast": "SUNDAY 25 OCTOBER 2026",
+  "built_at": "2026-10-25T14:54:56.510623+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
+          "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-10-22T19:12:51+00:00",
+          "summary": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables.",
+          "tags": []
+        },
+        {
+          "title": "Job Seekers Who Use AI for Applications Need to be on the Lookout for Scams",
+          "url": "https://blog.knowbe4.com/job-seekers-who-use-ai-for-applications-need-to-be-on-the-lookout-for-scams",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-10-22T16:00:01+00:00",
+          "summary": "Researchers at Malwarebytes warn that job seekers are increasingly vulnerable to scams as AI enables them to take a “spray-and-pray” approach to job applications. Users who have automated their job application process are more likely to forget where they’ve…",
+          "tags": []
+        },
+        {
+          "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
+          "url": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-10-21T18:01:57+00:00",
+          "summary": "The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSecurity, and Upwind. The compromise affects LiteLLM 1.107.0…",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
+          "url": "https://twitter.com/mike64_t/status/2114150399406202896",
+          "source": "Hacker News",
+          "section": "ai",
+          "published": "2026-10-25T10:42:01+00:00",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "Introducing Kimi K3.1 Pro",
+          "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-23T19:40:54+00:00",
+          "summary": "Introducing Kimi K3.1 Pro Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise \"Full model weights will be released by Nov 4, 2026\". They're also offering a \"Highspeed\" version that's 2-3x faster, at twice the price…",
+          "tags": []
+        },
+        {
+          "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-10-23T17:00:00+00:00",
+          "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Thousands defy ban to protest in Milan, echoing French slogans",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/25/thousands-defy-ban-to-protest-in-milan-echoing-french-slogans_6763793_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-25T14:34:25+00:00",
+          "summary": "A peaceful march took place in the Italian city on Saturday, while clashes broke out in Turin, Bologna and Rome.",
+          "tags": []
+        },
+        {
+          "title": "Antifascist protest on sidelines of RN congress in Orléans highlights divisions on French left",
+          "url": "https://www.lemonde.fr/en/politics/article/2026/10/25/antifascist-protest-on-sidelines-of-rn-congress-in-orleans-highlights-divisions-on-the-left_6763792_5.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-25T14:18:26+00:00",
+          "summary": "The racist attack in Trappes and the urgent need to unite against the far right were on everyone's minds at Saturday's protest against the Rassemblement National congress in the city in central France. But deep divisions remain among the left-wing groups.",
+          "tags": []
+        },
+        {
+          "title": "The week in pictures: Protests across France, wildfires in Indonesia and Brazilian elections",
+          "url": "https://www.france24.com/en/europe/20261025-the-week-in-pictures-protests-across-france-wildfires-in-indonesia-and-brazilian-elections",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-10-25T12:48:31+00:00",
+          "summary": "From student protests across France over the weekend and presidential elections in Brazil pitting leftist incumbent Luiz Inacio Lula da Silva against right-wing challenger Flavio Bolsonaro to wildfires in Indonesia, FRANCE 24 looks back at some of the most…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "2026 Heritage Classic: Canadiens @ Jets — Game preview, start time, Tale of the Tape, and how to watch",
+          "url": "https://www.habseyesontheprize.com/2026-10-25-heritage-classic-canadiens-jets-game-preview-start-time-tale-of-the-tape-and-how-to-watch-tv-listings/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-10-25T12:00:00+00:00",
+          "summary": "How to watch Game 11: 2026 Heritage Classic — Montreal Canadiens @ Winnipeg Jets Start time: 7:00 PM EDT / 4:00 PM PDT In Canada: Sportsnet (English), TVA Sports (French) In the United States: TNT, truTV Streaming: Sportsnet+, TVA Sports + (Canada), HBO Max…",
+          "tags": []
+        },
+        {
+          "title": "Public Skate: Bruins vs. Sharks",
+          "url": "https://www.stanleycupofchowder.com/gameday-open-threads/59526/public-skate-bruins-vs-sharks",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-10-24T21:00:00+00:00",
+          "summary": "The Boston Bruins will look to keep their strong game going as they welcome the San Jose Sharks to the city tonight. According to the Bruins’ pregame notes, David Pastrnak is one goal away, with 426 career goals currently, from tying for third in the…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "At the fourth attempt, Medvedev defends a title for the first time, coming from a set down to beat Basilashvili in Almaty",
+          "url": "https://www.tennismajors.com/atp/at-the-fourth-attempt-medvedev-defends-a-title-for-the-first-time-coming-from-a-set-down-to-beat-basilashvili-in-almaty-864013.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-10-25T12:05:05+00:00",
+          "summary": "Daniil Medvedev (No. 1) came from a set down to beat qualifier Nikoloz Basilashvili 6-7 (6), 6-1, 6-3 in Almaty and defend a title for the first time in his career. His 25th title, and fourth of the season, lifts him to fifth in the Race to Turin.",
+          "tags": []
+        },
+        {
+          "title": "Osaka 'not far off' her best but often ponders future",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cwg7xy5x3590o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-10-25T12:54:11+00:00",
+          "summary": "Four-time Grand Slam champion Naomi Osaka says she is returning to her best form but would consider quitting the game if asked to by her three-year-old daughter.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 52,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, HACKER NEWS, KNOWBE4, LE MONDE, OPENAI, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 18,
+      "low": 0,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 16,
+      "low": 10,
+      "conditions": "rain"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-114625",
+      "vendor": "Arista",
+      "product": "VeloCloud Orchestrator",
+      "name": "Arista VeloCloud Orchestrator SQL Injection Vulnerability",
+      "summary": "Arista VeloCloud Orchestrator on-prem contains a SQL injection vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise…",
+      "added": "2026-10-23",
+      "due": "2026-10-26",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-114625"
+    },
+    {
+      "cve": "CVE-2026-110447",
+      "vendor": "Collabora",
+      "product": "Collabora Online – Built-in CODE Server",
+      "name": "Collabora Online – Built-in CODE Server OS Command Injection Vulnerability",
+      "summary": "Collabora Collabora Online – Built-in CODE Server when used within the NextCloud platform contains an OS command injection vulnerability that allows for remote code execution when the CODE server isn't running.",
+      "added": "2026-10-23",
+      "due": "2026-10-26",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-110447"
+    },
+    {
+      "cve": "CVE-2026-106931",
+      "vendor": "EG Secure Solutions",
+      "product": "SiteGuard Server Edition",
+      "name": "EG Secure Solutions SiteGuard Server Edition OS Command Injection Vulnerability",
+      "summary": "EG Secure Solutions SiteGuard Server Edition contains an OS command injection vulnerability which may allow an attacker to execute arbitrary OS commands with root or SYSTEM privileges on the system running the affected…",
+      "added": "2026-10-20",
+      "due": "2026-10-23",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-106931"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-10-27",
+      "away": "BOS",
+      "home": "CAR"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Kinoshita Group Japan Open",
+        "start": "2026-10-16",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "BNB Ningbo Open",
+        "start": "2026-10-16",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Río Ladies Open by MundoTênis Tours",
+        "start": "2026-10-17",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "BNP Paribas Fortis European Open",
+        "start": "2026-10-17",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Almaty Open",
+        "start": "2026-10-17",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Grand Prix Auvergne-Rhône-Alpes",
+        "start": "2026-10-18",
+        "end": "2026-10-26",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Guangzhou Open",
+        "start": "2026-10-23",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Toray Pan Pacific Open Tennis",
+        "start": "2026-10-23",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Erste Bank Open",
+        "start": "2026-10-24",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Swiss Indoors Basel",
+        "start": "2026-10-24",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Carlos Alcaraz",
+        "last": null,
+        "next": {
+          "event": "Erste Bank Open",
+          "grouping": "Men's Singles",
+          "round": "Round 1",
+          "date": "2026-10-26",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Karen Khachanov",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Karen Khachanov",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9196.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7550.0
+        },
+        {
+          "rank": 3,
+          "name": "Mirra Andreeva",
+          "points": 6306.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 10950.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 10070.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5610.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "American Tennis Open Miami",
+        "tour": "WTA",
+        "start": "2026-10-31",
+        "end": "2026-11-09",
+        "major": false
+      },
+      {
+        "name": "Prudential Hong Kong Tennis Open",
+        "tour": "WTA",
+        "start": "2026-11-02",
+        "end": "2026-11-09",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 25
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "avons",
+        "en": "get, have, we've"
+      },
+      {
+        "fr": "matin",
+        "en": "morning"
+      },
+      {
+        "fr": "rien du tout",
+        "en": "nothing at all"
+      }
+    ],
+    "quiz": {
+      "fr": "avons",
+      "en": "get, have, we've"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
