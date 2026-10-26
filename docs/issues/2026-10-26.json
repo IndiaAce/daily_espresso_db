@@ -1,0 +1,402 @@
+{
+  "date": "2026-10-26",
+  "date_long": "Monday, October 26, 2026",
+  "date_mast": "MONDAY 26 OCTOBER 2026",
+  "built_at": "2026-10-26T17:15:09.078275+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Proofpoint Joins Microsoft Integrated Cloud Email Security (ICES) Ecosystem",
+          "url": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-joins-microsoft-integrated-cloud-email-security-ices-ecosystem",
+          "source": "Proofpoint",
+          "section": "email_security",
+          "published": "2026-10-26T16:14:47+00:00",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "[Cybersecurity Awareness Month] Why Your Best Incident Reporting Tool Is Behavioral, Not Software",
+          "url": "https://blog.knowbe4.com/why-your-best-incident-reporting-tool-is-behavioral-not-software",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-10-26T14:00:00+00:00",
+          "summary": "During an incident, the most valuable intel is from people on the ground. Security teams rely on their colleagues across the organization to report issues quickly and without trying to fix things themselves.",
+          "tags": []
+        },
+        {
+          "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
+          "url": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-10-26T08:35:51+00:00",
+          "summary": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into email accounts at 79 organizations…",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "How Fanatics and OpenAI streamline the fan experience",
+          "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-10-26T07:00:00+00:00",
+          "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+          "tags": []
+        },
+        {
+          "title": "Our newest AI Quest: Mapping the human brain",
+          "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+          "source": "Google AI",
+          "section": "ai",
+          "published": "2026-10-26T16:00:00+00:00",
+          "summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
+          "tags": []
+        },
+        {
+          "title": "Seam Cutter",
+          "url": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-25T15:10:19+00:00",
+          "summary": "Tool: Seam Cutter I built this weird and very specific cropping tool - it lets you create a horizontal or vertical cut across an image, then slide the two sides relative to each other. Effectively it lets you crop out a section in the middle of an image. I…",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Macron vows ‘concrete’ measures to address student demands after unrest",
+          "url": "https://www.france24.com/en/france/20261026-macron-vows-concrete-measures-to-address-student-demands-after-unrest",
+          "source": "France 24",
+          "section": "france",
+          "published": "2026-10-26T12:25:21+00:00",
+          "summary": "French President Emmanuel Macron on Monday said the government will announce \"concrete and strong\" measures to address the demands by high school students after their protests demanding better education conditions triggered weeks of nationwide unrest. Prime…",
+          "tags": []
+        },
+        {
+          "title": "Israel elections: Gadi Eisenkot, leading Netanyahu opponent, calls for unity and calm",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/26/israel-elections-gadi-eisenkot-leading-netanyahu-opponent-calls-for-unity-and-calm_6764650_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-26T14:19:04+00:00",
+          "summary": "The former chief of the General Staff now leads Yashar!, the main opposition party in the October 27 elections. Entering politics in 2022, he has taken a stand against the outgoing prime minister's populist and radical policies.",
+          "tags": []
+        },
+        {
+          "title": "Bulgaria heads to presidential runoff after low turnout",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/26/bulgaria-heads-to-presidential-runoff-after-low-turnout_6764452_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-26T10:02:04+00:00",
+          "summary": "In the first round of the presidential election on October 25, Iliana Iotova received 34.7% of the vote, just under three points ahead of her opponent Andrey Gyurov. The disappointing result for the outgoing president was largely due to inflation and growing…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Bottom Six Minutes: Jacob Fowler dominates the Heritage Classic",
+          "url": "https://www.habseyesontheprize.com/canadiens-vs-jets-heritage-classic-highlights-score-recap-jacob-fowler-habs-news/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-10-26T13:13:06+00:00",
+          "summary": "At the Heritage Classic on Sunday evening, for the second game in a row, the Montreal Canadiens took the dreaded two-goal lead into the third period. Also for the second game in a row, they managed to hold it, this time quite narrowly with a 2-1 final score…",
+          "tags": []
+        },
+        {
+          "title": "Morning Skate: Storm",
+          "url": "https://www.stanleycupofchowder.com/morning-skate-open-threads/59539/morning-skate-storm",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-10-26T11:00:00+00:00",
+          "summary": "Welcome to a new week, folks! The Bruins will return to game action on Tuesday night when they play the Carolina Hurricanes in Raleigh, followed by a visit to St. Louis to face the Blues on Thursday. Both of those games will be 8 PM start times, which is not…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "'Cutting doubles would destroy careers' - angry players urge ATP rethink",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cr78pxd66d47o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-10-26T16:07:20+00:00",
+          "summary": "More than 150 doubles players - including Wimbledon champions and tennis legends - urge the ATP to rethink \"drastic\" cuts which they believe could kill the format.",
+          "tags": []
+        },
+        {
+          "title": "Doubles players sign open letter pleading with tennis chiefs to ‘protect’ format",
+          "url": "https://www.theguardian.com/sport/2026/oct/26/doubles-players-sign-open-letter-pleading-with-tennis-chiefs-to-protect-format",
+          "source": "Guardian Tennis",
+          "section": "tennis",
+          "published": "2026-10-26T15:55:46+00:00",
+          "summary": "Plans to slash games by half and prize money criticised ‘Hard for players to build and sustain a doubles career’ More than 150 doubles players on the men’s ATP tour have signed an open letter addressed to the ATP board and management imploring the men’s…",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 53,
+  "sources_line": "BBC TENNIS, FRANCE 24, GOOGLE AI, GUARDIAN TENNIS, HABS EYES ON THE PRIZE, KNOWBE4, LE MONDE, OPENAI, PROOFPOINT, SIMON WILLISON, STANLEY CUP OF CHOWDER, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 21,
+      "low": 1,
+      "conditions": "partly cloudy"
+    },
+    {
+      "code": "PAR",
+      "high": 14,
+      "low": 9,
+      "conditions": "light rain"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-114625",
+      "vendor": "Arista",
+      "product": "VeloCloud Orchestrator",
+      "name": "Arista VeloCloud Orchestrator SQL Injection Vulnerability",
+      "summary": "Arista VeloCloud Orchestrator on-prem contains a SQL injection vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise…",
+      "added": "2026-10-23",
+      "due": "2026-10-26",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-114625"
+    },
+    {
+      "cve": "CVE-2026-110447",
+      "vendor": "Collabora",
+      "product": "Collabora Online – Built-in CODE Server",
+      "name": "Collabora Online – Built-in CODE Server OS Command Injection Vulnerability",
+      "summary": "Collabora Collabora Online – Built-in CODE Server when used within the NextCloud platform contains an OS command injection vulnerability that allows for remote code execution when the CODE server isn't running.",
+      "added": "2026-10-23",
+      "due": "2026-10-26",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-110447"
+    },
+    {
+      "cve": "CVE-2026-106931",
+      "vendor": "EG Secure Solutions",
+      "product": "SiteGuard Server Edition",
+      "name": "EG Secure Solutions SiteGuard Server Edition OS Command Injection Vulnerability",
+      "summary": "EG Secure Solutions SiteGuard Server Edition contains an OS command injection vulnerability which may allow an attacker to execute arbitrary OS commands with root or SYSTEM privileges on the system running the affected…",
+      "added": "2026-10-20",
+      "due": "2026-10-23",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-106931"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-10-27",
+      "away": "BOS",
+      "home": "CAR"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Guangzhou Open",
+        "start": "2026-10-23",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Toray Pan Pacific Open Tennis",
+        "start": "2026-10-23",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Erste Bank Open",
+        "start": "2026-10-24",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Swiss Indoors Basel",
+        "start": "2026-10-24",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Curitiba Open",
+        "start": "2026-10-25",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Valle D'Aosta Ladies Open",
+        "start": "2026-10-25",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Queretaro Open",
+        "start": "2026-10-26",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Carlos Alcaraz",
+        "last": null,
+        "next": {
+          "event": "Erste Bank Open",
+          "grouping": "Men's Singles",
+          "round": "Round 1",
+          "date": "2026-10-27",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Karen Khachanov",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Karen Khachanov",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9501.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7550.0
+        },
+        {
+          "rank": 3,
+          "name": "Mirra Andreeva",
+          "points": 6306.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 10450.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9750.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5610.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "WTA Finals",
+        "tour": "WTA",
+        "start": "2026-11-07",
+        "end": "2026-11-16",
+        "major": false
+      },
+      {
+        "name": "Austin 125",
+        "tour": "WTA",
+        "start": "2026-11-08",
+        "end": "2026-11-16",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 24
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "gazeux",
+        "en": "sparkling, carbonated, fizzy"
+      },
+      {
+        "fr": "bureau",
+        "en": "office, desk, board"
+      },
+      {
+        "fr": "saignante",
+        "en": "rare"
+      }
+    ],
+    "quiz": {
+      "fr": "gazeux",
+      "en": "sparkling, carbonated, fizzy"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
