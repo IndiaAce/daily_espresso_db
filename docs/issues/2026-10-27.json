@@ -1,0 +1,408 @@
+{
+  "date": "2026-10-27",
+  "date_long": "Tuesday, October 27, 2026",
+  "date_mast": "TUESDAY 27 OCTOBER 2026",
+  "built_at": "2026-10-27T16:23:18.886947+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
+          "url": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-10-27T11:32:46+00:00",
+          "summary": "Fake login pages are nothing new, but generative AI is making them easier to build and more convincing. Attackers can recreate familiar login screens, impersonate trusted brands and tailor phishing attempts to specific employees or organizations. Some fake…",
+          "tags": []
+        },
+        {
+          "title": "Attackers Abuse Legitimate Infrastructure to Distribute Phishing Emails",
+          "url": "https://blog.knowbe4.com/attackers-abuse-legitimate-infrastructure-to-distribute-phishing-emails",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-10-27T16:00:02+00:00",
+          "summary": "Researchers at Cisco Talos are tracking a significant increase in phishing campaigns that abuse legitimate platforms. Attackers abused more than 25 legitimate services over the past year, including “collaboration, productivity, file-sharing, survey, payment…",
+          "tags": []
+        },
+        {
+          "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
+          "url": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-10-27T14:09:46+00:00",
+          "summary": "The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more.",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Can we trust LLMs to judge whether a research idea is novel?",
+          "url": "https://huggingface.co/blog/allenai/novelty-bench",
+          "source": "Hugging Face",
+          "section": "ai",
+          "published": "2026-10-27T16:12:42+00:00",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "GPT-6.1 Terra",
+          "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-26T23:53:07+00:00",
+          "summary": "GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra , a fast, efficient model…",
+          "tags": []
+        },
+        {
+          "title": "Quoting Jason Koebler",
+          "url": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-26T19:00:25+00:00",
+          "summary": "Because big tech platforms essentially do not have customer support and make it impossible for their users to contact a human, many people experiencing run-of-the-mill tech problems have turned to ChatGPT. And, increasingly, ChatGPT is telling people that…",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Africa Ebola outbreak passes 10,000 cases, mostly in DR Congo",
+          "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/10/27/africa-ebola-outbreak-passes-10-000-cases-mostly-in-dr-congo_6765413_124.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-27T15:47:05+00:00",
+          "summary": "According to the DRC's figures, 10,060 people have been infected and 4,887 have died since the virus was first detected there in May.",
+          "tags": []
+        },
+        {
+          "title": "In China, Mbappé's remarks calling Mao a 'dictator' come at exorbitant financial cost",
+          "url": "https://www.lemonde.fr/en/economy/article/2026/10/27/in-china-mbappe-s-remarks-calling-mao-a-dictator-come-at-exorbitant-financial-cost_6765412_19.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-27T15:45:10+00:00",
+          "summary": "The video, in which the French football star mentioned a parody depicting him as Mao Zedong, drew the anger of China's foreign ministry and could prove costly for Real Madrid, for which China is the biggest market.",
+          "tags": []
+        },
+        {
+          "title": "France's Senate takes on the 'rioters pay' bill after protests",
+          "url": "https://www.france24.com/en/video/20261027-france-s-senate-takes-on-the-rioters-pay-bill-after-protests",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-10-27T14:13:51+00:00",
+          "summary": "If the French Senate passes this bill, rioters will have to pay for the damage caused during the recent unrest across the country. This \"casseurs-payeurs\" bill comes in the wake of nationwide violence. This draft law now has an explosive add-on aimed at…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Canadiens @ Blues: Game preview, start time, Tale of the Tape, and how to watch",
+          "url": "https://www.habseyesontheprize.com/canadiens-blues-2026-10-27-game-preview-start-time-tale-of-the-tape-and-how-to-watch-tv-listings/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-10-27T12:00:00+00:00",
+          "summary": "How to watch Game 12: Montreal Canadiens @ St. Louis Blues Start time: **8:00 PM EDT / 5:00 PM PDT** In the Canadiens region: TSN2 (English), RDS (French) In the Blues region: STLNHL Streaming: TSN+, RDS (Canada), ESPN+ (USA) Two games into a road trip the…",
+          "tags": []
+        },
+        {
+          "title": "Preview: Bruins travel to Raleigh to face the Hurricanes",
+          "url": "https://www.stanleycupofchowder.com/26-27-game-coverage/59547/preview-bruins-travel-to-raleigh-to-face-the-hurricanes",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-10-27T11:00:00+00:00",
+          "summary": "Just the facts Know your enemy Game notes See ya tonight!",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Williams loses again - to opponent 28 years younger",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cqr7y33ekv0go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-10-27T13:40:56+00:00",
+          "summary": "Former world number one Venus Williams, 46, loses for the 16th match in a row as she is beaten by an opponent 28 years younger.",
+          "tags": []
+        },
+        {
+          "title": "October 27, 1996: The day Boris Becker beat Pete Sampras in an epic Stuttgart final",
+          "url": "https://www.tennismajors.com/atp/october-27-1996-the-day-becker-beat-sampras-in-stuttgart-classic-300865.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-10-27T04:26:00+00:00",
+          "summary": "Every day, Tennis Majors takes you back to the most iconic moments in tennis history. On this day in 1996, Boris Becker won his final ATP Masters 1000 title after a five-set win over his American rival",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 54,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, HUGGING FACE, KNOWBE4, LE MONDE, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 13,
+      "low": 3,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 16,
+      "low": 11,
+      "conditions": "showers"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-109618",
+      "vendor": "PHP Group",
+      "product": "PHP",
+      "name": "PHP Memory Corruption Vulnerability",
+      "summary": "PHP contains an out-of-memory corruption vulnerability that allows for unauthenticated remote code execution.",
+      "added": "2026-10-26",
+      "due": "2026-10-29",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-109618"
+    },
+    {
+      "cve": "CVE-2026-109619",
+      "vendor": "PHP Group",
+      "product": "PHP",
+      "name": "PHP Stale Internal Request-State Vulnerability",
+      "summary": "PHP contains a stale internal request-state vulnerability that allows for unauthenticated remote code execution.",
+      "added": "2026-10-26",
+      "due": "2026-10-29",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-109619"
+    },
+    {
+      "cve": "CVE-2026-114625",
+      "vendor": "Arista",
+      "product": "VeloCloud Orchestrator",
+      "name": "Arista VeloCloud Orchestrator SQL Injection Vulnerability",
+      "summary": "Arista VeloCloud Orchestrator on-prem contains a SQL injection vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise…",
+      "added": "2026-10-23",
+      "due": "2026-10-26",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-114625"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-10-27",
+      "away": "BOS",
+      "home": "CAR"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Guangzhou Open",
+        "start": "2026-10-23",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Toray Pan Pacific Open Tennis",
+        "start": "2026-10-23",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Erste Bank Open",
+        "start": "2026-10-24",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Swiss Indoors Basel",
+        "start": "2026-10-24",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Curitiba Open",
+        "start": "2026-10-25",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Valle D'Aosta Ladies Open",
+        "start": "2026-10-25",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Queretaro Open",
+        "start": "2026-10-26",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Carlos Alcaraz",
+        "last": null,
+        "next": {
+          "event": "Erste Bank Open",
+          "grouping": "Men's Singles",
+          "round": "Round 1",
+          "date": "2026-10-27",
+          "state": "in",
+          "status": "In Progress",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": [
+                6.0,
+                5.0
+              ]
+            },
+            {
+              "name": "Karen Khachanov",
+              "winner": false,
+              "sets": [
+                4.0,
+                5.0
+              ]
+            }
+          ],
+          "opponent": "Karen Khachanov",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9501.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7550.0
+        },
+        {
+          "rank": 3,
+          "name": "Mirra Andreeva",
+          "points": 6306.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 10450.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9750.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5610.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "WTA Finals",
+        "tour": "WTA",
+        "start": "2026-11-07",
+        "end": "2026-11-16",
+        "major": false
+      },
+      {
+        "name": "Austin 125",
+        "tour": "WTA",
+        "start": "2026-11-08",
+        "end": "2026-11-16",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 23
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "plaisent",
+        "en": "like, please"
+      },
+      {
+        "fr": "kilo",
+        "en": "kilogram, kilo"
+      },
+      {
+        "fr": "buvez",
+        "en": "drink, are drinking"
+      }
+    ],
+    "quiz": {
+      "fr": "plaisent",
+      "en": "like, please"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
