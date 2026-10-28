@@ -1,0 +1,429 @@
+{
+  "date": "2026-10-28",
+  "date_long": "Wednesday, October 28, 2026",
+  "date_mast": "WEDNESDAY 28 OCTOBER 2026",
+  "built_at": "2026-10-28T17:05:03.917820+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Proofpoint Introduces Flex to Help Customers Invest with Confidence as Security Needs Evolve",
+          "url": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-introduces-flex-help-customers-invest-confidence-security-needs",
+          "source": "Proofpoint",
+          "section": "email_security",
+          "published": "2026-10-28T09:25:36+00:00",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "Wazuh and AI for Enhanced SOC Workflows",
+          "url": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-10-28T11:30:00+00:00",
+          "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets…",
+          "tags": []
+        },
+        {
+          "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
+          "url": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-10-28T10:30:00+00:00",
+          "summary": "Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted business workflows to gain access to corporate accounts while…",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "GitHub Octoverse 2026",
+          "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-28T16:45:23+00:00",
+          "summary": "GitHub Octoverse 2026 I'm at GitHub Universe today (GitHub gave me a free ticket through their \"GitHub Stars\" program). EVP Jay Parikh just announced this year's Octoverse report, and highlighted these numbers in particular: This is a pretty stark…",
+          "tags": []
+        },
+        {
+          "title": "The October inflection point for vibe game development",
+          "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-28T13:55:15+00:00",
+          "summary": "I've written before about how November 2025 was an inflection point for coding agents - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable daily drivers for software engineers. I think we've…",
+          "tags": []
+        },
+        {
+          "title": "Legora is building the agentic operating system for legal work",
+          "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-10-28T09:30:00+00:00",
+          "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Bolsonaro flies to Florida despite travel ban days after election loss in Brazil",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/28/bolsonaro-flies-to-florida-despite-travel-ban-days-after-election-loss-in-brazil_6766103_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-28T15:35:03+00:00",
+          "summary": "Flavio Bolsonaro, under investigation for alleged corruption and money laundering, is set to lose his parliamentary immunity after Sunday's runoff defeat.",
+          "tags": []
+        },
+        {
+          "title": "European intelligence services express concern over persistent Iranian threat",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/28/european-intelligence-services-express-concern-over-persistent-iranian-threat_6766102_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-28T15:20:20+00:00",
+          "summary": "Assassination plots, arson, acts of sabotage, cyberattacks – European countries now face a sustained and wide-ranging Iranian threat, as arrests of individuals suspected of aiding Tehran's intelligence services multiply across the continent.",
+          "tags": []
+        },
+        {
+          "title": "France: Racist attack in Trappes deeply scars local community",
+          "url": "https://www.france24.com/en/video/20261028-france-racist-attack-in-trappes-deeply-scars-local-community",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-10-28T16:53:01+00:00",
+          "summary": "It has been five days since a gunman opened fire in the Paris suburb of Trappes in a racist attack that left one person dead and five others injured. Over the weekend, hundreds of people marched through the town to pay tribute to the 26-year-old victim…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Bottom Six Minutes: A statement game from Jacob Fowler",
+          "url": "https://www.habseyesontheprize.com/canadiens-vs-blues-highlights-score-recap-jacob-fowler-shutout-habs-news/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-10-28T13:33:00+00:00",
+          "summary": "When you’re outshot 46-20 in a National Hockey League game, you can rarely expect to have any additional points in the standings at the end of the night. That is precisely what happened to the Montreal Canadiens on Tuesday night against the St. Louis Blues…",
+          "tags": []
+        },
+        {
+          "title": "Recap: Bruins drop a close one in Carolina, losing 2-1",
+          "url": "https://www.stanleycupofchowder.com/26-27-game-coverage/59557/recap-bruins-drop-a-close-one-in-carolina-losing-2-1",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-10-28T11:00:00+00:00",
+          "summary": "A game between the NHL’s top two teams (at the time) mostly lived up to its billing, with the teams trading punches, chances, and goals. Ultimately, the Hurricanes broke a 1-1 deadlock via a Sebastian Aho goal midway through the third period and held on for…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Race to Turin: Six contenders in action on Wednesday as de Minaur and Djokovic chase the cut",
+          "url": "https://www.tennismajors.com/others-news/race-to-turin-six-contenders-in-action-on-wednesday-as-de-minaur-and-djokovic-chase-the-cut-864281.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-10-28T13:18:09+00:00",
+          "summary": "Alex de Minaur can close to within 254 points of the Race to Turin cut by beating Learner Tien in Vienna on Wednesday, as Novak Djokovic opens against Ugo Humbert in Basel. Only the Vienna title can send Daniil Medvedev or Flavio Cobolli to Turin this week.",
+          "tags": []
+        },
+        {
+          "title": "Wawrinka retires in front of home crowd after defeat to Lehecka",
+          "url": "https://www.bbc.co.uk/sport/tennis/videos/c6zxj9d4rzd8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-10-28T09:36:05+00:00",
+          "summary": "Three-time Grand Slam champion Stan Wawrinka retires in front of his home crowd after losing in straight sets to Jiri Lehecka in the opening round of the Swiss Indoors in Basel.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 55,
+  "sources_line": "BBC TENNIS, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, LE MONDE, OPENAI, PROOFPOINT, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 12,
+      "low": 0,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 16,
+      "low": 7,
+      "conditions": "overcast"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-48356",
+      "vendor": "Adobe",
+      "product": "Commerce and Magento",
+      "name": "Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability",
+      "summary": "Adobe Commerce and Magento contain an unrestricted upload of file with dangerous type vulnerability that could result in arbitrary code execution in the context of the current user, potentially gaining elevated access…",
+      "added": "2026-10-27",
+      "due": "2026-11-10",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-48356"
+    },
+    {
+      "cve": "CVE-2026-111497",
+      "vendor": "Google",
+      "product": "Brotli",
+      "name": "Google Brotli Unchecked Return Value Vulnerability",
+      "summary": "Google Brotli contains an unchecked return value vulnerability that allows a remote unauthenticated attacker to corrupt adjacent decoder state memory, disclose sensitive memory contents, cause a denial of service, or…",
+      "added": "2026-10-27",
+      "due": "2026-11-10",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-111497"
+    },
+    {
+      "cve": "CVE-2026-109618",
+      "vendor": "PHP Group",
+      "product": "PHP",
+      "name": "PHP Memory Corruption Vulnerability",
+      "summary": "PHP contains an out-of-memory corruption vulnerability that allows for unauthenticated remote code execution.",
+      "added": "2026-10-26",
+      "due": "2026-10-29",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-109618"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-10-29",
+      "away": "BOS",
+      "home": "STL"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Guangzhou Open",
+        "start": "2026-10-23",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Toray Pan Pacific Open Tennis",
+        "start": "2026-10-23",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Erste Bank Open",
+        "start": "2026-10-24",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Swiss Indoors Basel",
+        "start": "2026-10-24",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Curitiba Open",
+        "start": "2026-10-25",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Valle D'Aosta Ladies Open",
+        "start": "2026-10-25",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Queretaro Open",
+        "start": "2026-10-26",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "Erste Bank Open",
+          "grouping": "Men's Singles",
+          "round": "Round 1",
+          "date": "2026-10-27",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": true,
+              "sets": [
+                6.0,
+                7.0
+              ]
+            },
+            {
+              "name": "Karen Khachanov",
+              "winner": false,
+              "sets": [
+                4.0,
+                6.0
+              ]
+            }
+          ],
+          "opponent": "Karen Khachanov",
+          "won": true
+        },
+        "next": {
+          "event": "Erste Bank Open",
+          "grouping": "Men's Singles",
+          "round": "Round 2",
+          "date": "2026-10-29",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "TBD",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "TBD",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9501.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7550.0
+        },
+        {
+          "rank": 3,
+          "name": "Mirra Andreeva",
+          "points": 6306.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 10450.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9750.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5610.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "WTA Finals",
+        "tour": "WTA",
+        "start": "2026-11-07",
+        "end": "2026-11-16",
+        "major": false
+      },
+      {
+        "name": "Austin 125",
+        "tour": "WTA",
+        "start": "2026-11-08",
+        "end": "2026-11-16",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 22
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "premier",
+        "en": "first, first-rate, initial"
+      },
+      {
+        "fr": "conseil",
+        "en": "piece of advice, advice, meeting"
+      },
+      {
+        "fr": "quai",
+        "en": "platform"
+      }
+    ],
+    "quiz": {
+      "fr": "premier",
+      "en": "first, first-rate, initial"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
