@@ -1,0 +1,429 @@
+{
+  "date": "2026-10-29",
+  "date_long": "Thursday, October 29, 2026",
+  "date_mast": "THURSDAY 29 OCTOBER 2026",
+  "built_at": "2026-10-29T17:22:41.497563+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
+          "url": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-10-29T11:33:41+00:00",
+          "summary": "AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing response actions are becoming tasks that AI systems can…",
+          "tags": []
+        },
+        {
+          "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
+          "url": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-10-29T11:33:15+00:00",
+          "summary": "26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it. Independent researcher Ben Zimmermann found them by scanning…",
+          "tags": []
+        },
+        {
+          "title": "[New Threat Trend Data] When Bad Actors Use Reality Against Us",
+          "url": "https://blog.knowbe4.com/new-threat-trend-data-when-bad-actors-use-reality-against-us",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-10-29T12:15:00+00:00",
+          "summary": "“Is it real?” has become a common question across our digital lives thanks to the rise of AI-generated content.",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Quoting Ben Hylak",
+          "url": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-29T14:06:27+00:00",
+          "summary": "every product i use should just be a headless mcp, that feeds into an agent, where i never have to think about anything underneath. except for our product, of course. in our product, customers love the ui and love us very much. we're special that way. — Ben…",
+          "tags": []
+        },
+        {
+          "title": "How we detect frontier model misalignment",
+          "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-10-29T09:00:00+00:00",
+          "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+          "tags": []
+        },
+        {
+          "title": "Quoting Ted Sanders",
+          "url": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-28T23:23:21+00:00",
+          "summary": "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the variation in performance is explained by…",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "French minister warns of 'very high' violence risk at Halloween protests",
+          "url": "https://www.lemonde.fr/en/france/article/2026/10/29/french-minister-warns-of-very-high-violence-risk-at-halloween-protests_6766895_7.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-29T16:37:28+00:00",
+          "summary": "Interior Minister Laurent Nuñez instructed the Paris police chief and regional prefects to put together a 'robust' security deployment for Saturday's demonstrations, called for by the Yellow Vest movement and high school and university student unions.",
+          "tags": []
+        },
+        {
+          "title": "Behind Trump's shift towards Russia, the lucrative business promises of Kirill Dmitriev, Putin's dealmaker",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/29/behind-trump-s-shift-towards-russia-the-lucrative-business-promises-of-kirill-dmitriev-putin-s-dealmaker_6766894_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-29T16:31:44+00:00",
+          "summary": "Kirill Dmitriev has been working to persuade the White House that peace in Ukraine must first come through commercial deals. Le Monde outlines two months that saw the new Russian-American partnership transform into an alliance against Kyiv, from Miami to…",
+          "tags": []
+        },
+        {
+          "title": "Ireland becomes refuge for anti-Trump Americans",
+          "url": "https://www.france24.com/en/tv-shows/reporters/20261029-ireland-becomes-refuge-for-anti-trump-americans",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-10-29T17:08:46+00:00",
+          "summary": "They have left everything behind to get away from US President Donald Trump's America. Entrepreneurs, academics, scientists and students: tens of thousands of US citizens have moved to Ireland in recent years. Last year alone, some 10,000 Americans settled…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Preview: Bruins continue their road trip in St. Louis",
+          "url": "https://www.stanleycupofchowder.com/26-27-game-coverage/59569/preview-bruins-continue-their-road-trip-in-st-louis",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-10-29T11:00:00+00:00",
+          "summary": "Just the facts Know your enemy Game notes See ya tonight!",
+          "tags": []
+        },
+        {
+          "title": "Canadiens @ Stars: Game preview, start time, Tale of the Tape, and how to watch",
+          "url": "https://www.habseyesontheprize.com/canadiens-stars-2026-10-29-game-preview-start-time-tale-of-the-tape-and-how-to-watch-tv-listings/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-10-29T10:00:00+00:00",
+          "summary": "How to watch Game 13: Montreal Canadiens @ Dallas Stars Start time: **8:00 PM EDT / 5:00 PM PDT** In the Canadiens region: TSN2 (English), RDS (French) In the Stars region: Prime Video Streaming: TSN+, RDS (Canada), ESPN+ (USA) Jacob Fowler almost…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Race to Turin: Medvedev can retake fifth on Thursday as de Minaur waits for Cobolli or Berrettini",
+          "url": "https://www.tennismajors.com/atp/race-to-turin-medvedev-can-retake-fifth-on-thursday-as-de-minaur-waits-for-cobolli-or-berrettini-864335.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-10-29T10:44:52+00:00",
+          "summary": "Daniil Medvedev can retake fifth place in the Race to Turin by beating Cameron Norrie in Vienna on Thursday, while Alex de Minaur waits in the quarterfinals for Flavio Cobolli or Matteo Berrettini.",
+          "tags": []
+        },
+        {
+          "title": "'Amazing achievement' as Rybakina clinches year-end No 1",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/c6x2qr1v11xyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-10-29T10:38:08+00:00",
+          "summary": "Elena Rybakina secures the year-end women's singles number one spot by beating Yulia Putintseva in the last 16 of the Pan Pacific Open in Tokyo.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 56,
+  "sources_line": "BBC TENNIS, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, KNOWBE4, LE MONDE, OPENAI, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 19,
+      "low": 6,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 16,
+      "low": 6,
+      "conditions": "fog"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-41709",
+      "vendor": "Broadcom",
+      "product": "VMware ESX",
+      "name": "Broadcom VMWare ESX Insufficient Logging Vulnerability",
+      "summary": "Broadcom VMWare ESX contains an insufficient logging vulnerability that could allow a malicious actor with admin access to perform certain operations without being logged.",
+      "added": "2026-10-28",
+      "due": "2026-11-11",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-41709"
+    },
+    {
+      "cve": "CVE-2026-46300",
+      "vendor": "Linux",
+      "product": "Kernel",
+      "name": "Linux Kernel Missing Initialization of a Variable Vulnerability",
+      "summary": "Linux Kernel contains a missing initialization of a variable vulnerability that could allow for unintended modification of page-cache-backed data via failure to preserve the shared-fragment marker during socket buffer…",
+      "added": "2026-10-28",
+      "due": "2026-10-31",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-46300"
+    },
+    {
+      "cve": "CVE-2026-48356",
+      "vendor": "Adobe",
+      "product": "Commerce and Magento",
+      "name": "Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability",
+      "summary": "Adobe Commerce and Magento contain an unrestricted upload of file with dangerous type vulnerability that could result in arbitrary code execution in the context of the current user, potentially gaining elevated access…",
+      "added": "2026-10-27",
+      "due": "2026-11-10",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-48356"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-10-29",
+      "away": "BOS",
+      "home": "STL"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Guangzhou Open",
+        "start": "2026-10-23",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Toray Pan Pacific Open Tennis",
+        "start": "2026-10-23",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Erste Bank Open",
+        "start": "2026-10-24",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Swiss Indoors Basel",
+        "start": "2026-10-24",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Curitiba Open",
+        "start": "2026-10-25",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Valle D'Aosta Ladies Open",
+        "start": "2026-10-25",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Queretaro Open",
+        "start": "2026-10-26",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "Erste Bank Open",
+          "grouping": "Men's Singles",
+          "round": "Round 2",
+          "date": "2026-10-29",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": true,
+              "sets": [
+                6.0,
+                7.0
+              ]
+            },
+            {
+              "name": "Nikoloz Basilashvili",
+              "winner": false,
+              "sets": [
+                1.0,
+                6.0
+              ]
+            }
+          ],
+          "opponent": "Nikoloz Basilashvili",
+          "won": true
+        },
+        "next": {
+          "event": "Erste Bank Open",
+          "grouping": "Men's Singles",
+          "round": "Quarterfinal",
+          "date": "2026-10-30",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Tommy Paul",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Tommy Paul",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9501.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7550.0
+        },
+        {
+          "rank": 3,
+          "name": "Mirra Andreeva",
+          "points": 6306.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 10450.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9750.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5610.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "WTA Finals",
+        "tour": "WTA",
+        "start": "2026-11-07",
+        "end": "2026-11-16",
+        "major": false
+      },
+      {
+        "name": "Austin 125",
+        "tour": "WTA",
+        "start": "2026-11-08",
+        "end": "2026-11-16",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 21
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "hôtel de ville",
+        "en": "city hall"
+      },
+      {
+        "fr": "immédiatement",
+        "en": "immediately"
+      },
+      {
+        "fr": "désagréable",
+        "en": "unpleasant"
+      }
+    ],
+    "quiz": {
+      "fr": "hôtel de ville",
+      "en": "city hall"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
