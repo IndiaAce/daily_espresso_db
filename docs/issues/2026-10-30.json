@@ -1,0 +1,436 @@
+{
+  "date": "2026-10-30",
+  "date_long": "Friday, October 30, 2026",
+  "date_mast": "FRIDAY 30 OCTOBER 2026",
+  "built_at": "2026-10-30T16:58:46.786992+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "The Dishwasher Doesn’t Need a Soul, The Film Does.",
+          "url": "https://blog.knowbe4.com/the-dishwasher-doesnt-need-a-soul-the-film-does",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-10-30T16:00:01+00:00",
+          "summary": "People say they can spot AI writing a mile off. The em dashes. The word “delve.” The LinkedIn posts that begin with “I’ve been thinking a lot about leadership” and end without a single thought. I understand the reaction. I’ve read enough of them to develop a…",
+          "tags": []
+        },
+        {
+          "title": "Binance probes potential $5.8 billion crypto-theft hack",
+          "url": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-10-29T22:45:23+00:00",
+          "summary": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history.",
+          "tags": []
+        },
+        {
+          "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
+          "url": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools",
+          "source": "Dark Reading",
+          "section": "email_security",
+          "published": "2026-10-29T21:21:56+00:00",
+          "summary": "Obvious phishing emails with numerous red flags are somehow getting past some of the industry-leading secure email gateway (SEG) products.",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Community safety report and new protections for teens",
+          "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-10-30T09:00:00+00:00",
+          "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+          "tags": []
+        },
+        {
+          "title": "API credits benefit for eligible ChatGPT subscriptions",
+          "url": "https://simonwillison.net/2026/Oct/29/api-credits/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-29T22:48:29+00:00",
+          "summary": "API credits benefit for eligible ChatGPT subscriptions Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100, $200, and $500 per month subscribers would get the equivalent quantity of (expiring) credits to…",
+          "tags": []
+        },
+        {
+          "title": "Building a multiplayer game world with autonomous Fable-class models",
+          "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-29T17:00:26+00:00",
+          "summary": "How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of what's possible with agentic engineering…",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Binance hack: What we know about the largest cryptocurrency theft in history",
+          "url": "https://www.lemonde.fr/en/pixels/article/2026/10/30/binance-hack-what-we-know-about-the-largest-cryptocurrency-theft-in-history_6767471_13.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-30T15:56:34+00:00",
+          "summary": "Two major players in cryptoasset analysis, TRM Labs and Chainalysis, have attributed the attack to hackers acting on behalf of North Korean authorities.",
+          "tags": []
+        },
+        {
+          "title": "'Netanyahu and Eisenkot are not the same – and not just in style'",
+          "url": "https://www.lemonde.fr/en/opinion/article/2026/10/30/netanyahu-and-eisenkot-are-not-the-same-and-not-just-in-style_6767470_23.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-30T15:00:05+00:00",
+          "summary": "The two main rivals in Israel's legislative elections on October 27, the outcome of which remains uncertain, see things quite differently, writes Le Monde columnist Alain Frachon.",
+          "tags": []
+        },
+        {
+          "title": "'The International Criminal Court deserves the Sakharov Prize': CJEU President Koen Lenaerts",
+          "url": "https://www.france24.com/en/tv-shows/talking-europe/20261030-the-international-criminal-court-deserves-the-sakharov-prize-cjeu-president-koen-lenaerts",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-10-30T16:51:42+00:00",
+          "summary": "We speak to the influential and long-serving president of the Court of Justice of the European Union (CJEU), Koen Lenaerts. The court is the EU's supreme judicial authority, responsible for ensuring that European law is interpreted and applied across all 27…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Morning Skate: Blue",
+          "url": "https://www.stanleycupofchowder.com/morning-skate-open-threads/59581/morning-skate-blue",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-10-30T11:00:00+00:00",
+          "summary": "Happy Friday, folks! It’s Halloween Eve, or All Hallow’s Eve Eve, or just Friday, if that’s what you prefer. The Bruins put forth a seasonally appropriate spooky performance in St. Louis last night, going up a goal early before allowing four unanswered goals…",
+          "tags": []
+        },
+        {
+          "title": "Laval @ Calgary recap and highlights: Rocket comeback goes for naught out West",
+          "url": "https://www.habseyesontheprize.com/laval-calgary-2026-10-29-recap-score-highlights-rocket-comeback-goes-for-naught-out-west-luke-mittelstadt-goal-xavier-simoneau-kaapo-kahkonen-david-reinbacher/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-10-30T10:00:00+00:00",
+          "summary": "Despite the Rocket ending their lengthy win streak last weekend at home against the Hamilton Hammers, they hopped on the road trying to start a new streak, starting with a late night contest in Calgary against the Wranglers. The lineup continued to see some…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "“A situation I’m ready for”: Zverev, the new world No. 1, in his own words",
+          "url": "https://www.tennismajors.com/atp/vienna-erste-bank-open-atp-500/a-situation-im-ready-for-zverev-the-new-world-no-1-in-his-own-words-864414.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-10-30T05:23:03+00:00",
+          "summary": "Alexander Zverev (No. 1) sealed the world No. 1 ranking without facing a break point, beating Tallon Griekspoor 6-4, 7-5 in Vienna to become the 30th man to top the ATP rankings. In his press conference, the German conceded that Jannik Sinner was the better…",
+          "tags": []
+        },
+        {
+          "title": "Dart stuns Badosa to make second career semi-final",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cq5ynegm2p53o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-10-30T09:48:36+00:00",
+          "summary": "Harriet Dart reaches the second WTA Tour semi-final of her career as she fights back from a set down to beat Paula Badosa in the Guangzhou Open.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 57,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, DARK READING, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, KNOWBE4, LE MONDE, OPENAI, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 21,
+      "low": 8,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 16,
+      "low": 7,
+      "conditions": "partly cloudy"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-97229",
+      "vendor": "GitLab",
+      "product": "Community Edition and Enterprise Edition",
+      "name": "GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound Vulnerability",
+      "summary": "GitLab Community Edition and Enterprise Edition contain a integer overflow or wraparound vulnerability that could allow an unauthenticated user to execute arbitrary code on the GitLab server via a specially crafted…",
+      "added": "2026-10-29",
+      "due": "2026-11-01",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-97229"
+    },
+    {
+      "cve": "CVE-2026-76418",
+      "vendor": "Cisco",
+      "product": "Secure Firewall ASA Software and Cisco Secure FTD Software",
+      "name": "Cisco Secure Firewall ASA Software and Cisco Secure FTD Software Unchecked Return Value to NULL Pointer Dereference Vulnerability",
+      "summary": "Cisco Secure Firewall ASA Software and Cisco Secure FTD Software contains an unchecked return value to NULL pointer dereference vulnerability that could allow an unauthenticated, remote attacker to cause the device to…",
+      "added": "2026-10-29",
+      "due": "2026-11-01",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-76418"
+    },
+    {
+      "cve": "CVE-2026-41709",
+      "vendor": "Broadcom",
+      "product": "VMware ESX",
+      "name": "Broadcom VMWare ESX Insufficient Logging Vulnerability",
+      "summary": "Broadcom VMWare ESX contains an insufficient logging vulnerability that could allow a malicious actor with admin access to perform certain operations without being logged.",
+      "added": "2026-10-28",
+      "due": "2026-11-11",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-41709"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-10-31",
+      "away": "CHI",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Guangzhou Open",
+        "start": "2026-10-23",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Toray Pan Pacific Open Tennis",
+        "start": "2026-10-23",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Erste Bank Open",
+        "start": "2026-10-24",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Swiss Indoors Basel",
+        "start": "2026-10-24",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Curitiba Open",
+        "start": "2026-10-25",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Valle D'Aosta Ladies Open",
+        "start": "2026-10-25",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Queretaro Open",
+        "start": "2026-10-26",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Prudential Hong Kong Tennis Open",
+        "start": "2026-10-30",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "Erste Bank Open",
+          "grouping": "Men's Singles",
+          "round": "Quarterfinal",
+          "date": "2026-10-30",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": true,
+              "sets": [
+                6.0,
+                7.0
+              ]
+            },
+            {
+              "name": "Tommy Paul",
+              "winner": false,
+              "sets": [
+                4.0,
+                6.0
+              ]
+            }
+          ],
+          "opponent": "Tommy Paul",
+          "won": true
+        },
+        "next": {
+          "event": "Erste Bank Open",
+          "grouping": "Men's Singles",
+          "round": "Semifinal",
+          "date": "2026-10-31",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Daniil Medvedev",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Daniil Medvedev",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9501.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7550.0
+        },
+        {
+          "rank": 3,
+          "name": "Mirra Andreeva",
+          "points": 6306.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 10450.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9750.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5610.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "WTA Finals",
+        "tour": "WTA",
+        "start": "2026-11-07",
+        "end": "2026-11-16",
+        "major": false
+      },
+      {
+        "name": "Austin 125",
+        "tour": "WTA",
+        "start": "2026-11-08",
+        "end": "2026-11-16",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 20
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "moutarde",
+        "en": "mustard"
+      },
+      {
+        "fr": "panne",
+        "en": "breakdown"
+      },
+      {
+        "fr": "acheté",
+        "en": "bought"
+      }
+    ],
+    "quiz": {
+      "fr": "moutarde",
+      "en": "mustard"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
