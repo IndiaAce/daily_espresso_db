@@ -1,0 +1,457 @@
+{
+  "date": "2026-10-31",
+  "date_long": "Saturday, October 31, 2026",
+  "date_mast": "SATURDAY 31 OCTOBER 2026",
+  "built_at": "2026-10-31T16:00:05.261505+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Reddit to lock content behind logins to fight scrapers",
+          "url": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-10-31T14:05:15+00:00",
+          "summary": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts.",
+          "tags": []
+        },
+        {
+          "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
+          "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-10-31T12:50:09+00:00",
+          "summary": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools, exposing customer names, email addresses, user IDs, and organizational roles.",
+          "tags": []
+        },
+        {
+          "title": "Warning: Romance Scammers Are Targeting US Citizens For Money Laundering",
+          "url": "https://blog.knowbe4.com/warning-romance-scammers-are-targeting-us-citizens-for-money-laundering",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-10-30T20:00:01+00:00",
+          "summary": "Threat actors are using romance scams to trick U.S. citizens into acting as money mules, the Wall Street Journal reports. The Journal cites the example of Garrick Stafford, a 50-year-old Texas man who lost $65,000 and unwittingly laundered $50,000 for an…",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "dbreunig/nesformer",
+          "url": "https://simonwillison.net/2026/Oct/30/nesformer/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-10-30T21:59:22+00:00",
+          "summary": "dbreunig/nesformer Inspired by qwenputer by Divyansh Agrawal, Drew Breunig baked a working emulator for a Nintendo Entertainment System 6502 CPU into the weights of Qwen3.5-4B. You can now play NES ROMs such as Super Mario Bros (very slowly) running inside…",
+          "tags": []
+        },
+        {
+          "title": "We Took over ChatGPT Accounts",
+          "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+          "source": "Hacker News",
+          "section": "ai",
+          "published": "2026-10-31T10:30:11+00:00",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "Making it easier for websites to express AI training preferences",
+          "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-10-30T09:30:00+00:00",
+          "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Is a 'beautiful' French election still possible?",
+          "url": "https://www.lemonde.fr/en/politics/article/2026/10/31/is-a-beautiful-french-election-still-possible_6768247_5.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-31T15:30:12+00:00",
+          "summary": "Since the violence on the sidelines of the October 17 protests, a spiraling escalation has taken hold in France, raising questions about whether debates can take place in a calm and constructive way ahead of a crucial presidential election.",
+          "tags": []
+        },
+        {
+          "title": "After the Trappes terrorist attack, a community hopes that France will wake up to the far-right threat",
+          "url": "https://www.lemonde.fr/en/france/article/2026/10/31/after-the-trappes-terrorist-attack-a-community-hopes-that-france-will-wake-up-to-the-far-right-threat_6768181_7.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-10-31T14:20:22+00:00",
+          "summary": "Emotion ran high during the memorial ceremony held on Friday in Trappes, one week after a racist terrorist attack left one person dead and seven others wounded. The town's left-wing mayor was joined by left-wing political leaders, while leaders from the rest…",
+          "tags": []
+        },
+        {
+          "title": "Residents from Russian-occupied Oleshky reunite with families after evacuation operation",
+          "url": "https://www.france24.com/en/europe/20261031-evacuees-from-russian-occupied-oleshky-arrive-in-ukraine",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-10-31T12:45:49+00:00",
+          "summary": "Evacuees from Oleshky crossed into Ukrainian-held territory Saturday in a major rescue operation after travelling through Belarus during a rare truce brokered by US First Lady Melania Trump. The city of Oleshky has been under Russian occupation since 2022 and…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Bruins vs. Blackhawks PREVIEW: Boston looks to get right in Chicago",
+          "url": "https://www.stanleycupofchowder.com/bruins-gameday/59576/bruins-vs-blackhawks-preview-boston-looks-to-get-right-in-chicago",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-10-31T10:45:00+00:00",
+          "summary": "Just the Facts Game Preview Happy Halloween, Boils and Ghouls, The haunted road trip continues on, and we all simultaneously agree together that we don’t need to discuss what happened on that fateful Thursday night. Anyway let’s talk about the hell that Conor…",
+          "tags": []
+        },
+        {
+          "title": "Canadiens vs. Penguins: Game preview, start time, Tale of the Tape, and how to watch",
+          "url": "https://www.habseyesontheprize.com/canadiens-penguins-2026-10-31-game-preview-start-time-tale-of-the-tape-and-how-to-watch-tv-listings/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-10-31T10:00:00+00:00",
+          "summary": "How to watch Game 14: Montreal Canadiens vs. Pittsburgh Penguins Start time: 7:00 PM EDT / 4:00 PM PDT In Canada: Sportsnet East/One (English), TVA Sports (French) In the Penguins region: SportsNet Pittsburgh Streaming: Sportsnet+, TVA Sports+ (Canada), ESPN+…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "From Bercy to La Défense: Rolex Paris Masters history and key facts (1986–2026)",
+          "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/rolex-paris-masters-history-bercy-la-defense-1986-2026-864622.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-10-31T14:59:37+00:00",
+          "summary": "40 years of the Paris Masters: from Boris Becker at Bercy in 1986 to Jannik Sinner at La Défense in 2025. Records, every champion, the move and key figures.",
+          "tags": []
+        },
+        {
+          "title": "Briton Dart reaches first WTA Tour singles final",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cqwyr2r3jggno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-10-31T11:37:55+00:00",
+          "summary": "A tearful Harriet Dart said it \"means the world\" to her to qualify for her maiden WTA Tour singles final after battling past to beat China's Sun Xinran at the Guangzhou Open.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 58,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, HACKER NEWS, KNOWBE4, LE MONDE, OPENAI, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 12,
+      "low": 3,
+      "conditions": "clear"
+    },
+    {
+      "code": "PAR",
+      "high": 16,
+      "low": 7,
+      "conditions": "mostly clear"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-118527",
+      "vendor": "Ivanti",
+      "product": "Connect Secure",
+      "name": "Ivanti Connect Secure Generation of Predictable Numbers or Identifiers Vulnerability",
+      "summary": "Ivanti Connect Secure contains a generation of predictable numbers or identifiers vulnerability that allows a remote authenticated attacker to upload files with attacker-controlled content to a known location on disk…",
+      "added": "2026-10-30",
+      "due": "2026-11-13",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-118527"
+    },
+    {
+      "cve": "CVE-2026-111357",
+      "vendor": "Ivanti",
+      "product": "Connect Secure",
+      "name": "Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability",
+      "summary": "Ivanti Connect Secure contains a missing authentication for critical function vulnerability that could allow a local authenticated attacker to escalate their privileges. This vulnerability can be chained with…",
+      "added": "2026-10-30",
+      "due": "2026-11-02",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-111357"
+    },
+    {
+      "cve": "CVE-2026-97229",
+      "vendor": "GitLab",
+      "product": "Community Edition and Enterprise Edition",
+      "name": "GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound Vulnerability",
+      "summary": "GitLab Community Edition and Enterprise Edition contain a integer overflow or wraparound vulnerability that could allow an unauthenticated user to execute arbitrary code on the GitLab server via a specially crafted…",
+      "added": "2026-10-29",
+      "due": "2026-11-01",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-97229"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-10-31",
+      "away": "CHI",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Guangzhou Open",
+        "start": "2026-10-23",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Toray Pan Pacific Open Tennis",
+        "start": "2026-10-23",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Erste Bank Open",
+        "start": "2026-10-24",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Swiss Indoors Basel",
+        "start": "2026-10-24",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Curitiba Open",
+        "start": "2026-10-25",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Valle D'Aosta Ladies Open",
+        "start": "2026-10-25",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Queretaro Open",
+        "start": "2026-10-26",
+        "end": "2026-11-02",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Prudential Hong Kong Tennis Open",
+        "start": "2026-10-30",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Chennai Open",
+        "start": "2026-10-31",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "American Tennis Open Miami",
+        "start": "2026-10-31",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Rolex Paris Masters",
+        "start": "2026-10-31",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "Erste Bank Open",
+          "grouping": "Men's Singles",
+          "round": "Semifinal",
+          "date": "2026-10-31",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": true,
+              "sets": [
+                6.0,
+                7.0
+              ]
+            },
+            {
+              "name": "Daniil Medvedev",
+              "winner": false,
+              "sets": [
+                4.0,
+                6.0
+              ]
+            }
+          ],
+          "opponent": "Daniil Medvedev",
+          "won": true
+        },
+        "next": {
+          "event": "Erste Bank Open",
+          "grouping": "Men's Singles",
+          "round": "Final",
+          "date": "2026-11-01",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "TBD",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "TBD",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 9501.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 7550.0
+        },
+        {
+          "rank": 3,
+          "name": "Mirra Andreeva",
+          "points": 6306.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Jannik Sinner",
+          "points": 10450.0
+        },
+        {
+          "rank": 2,
+          "name": "Alexander Zverev",
+          "points": 9750.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 5610.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "WTA Finals",
+        "tour": "WTA",
+        "start": "2026-11-07",
+        "end": "2026-11-16",
+        "major": false
+      },
+      {
+        "name": "Austin 125",
+        "tour": "WTA",
+        "start": "2026-11-08",
+        "end": "2026-11-16",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 19
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "diras",
+        "en": "will tell, will say"
+      },
+      {
+        "fr": "voulait",
+        "en": "wanted"
+      },
+      {
+        "fr": "travaillais",
+        "en": "used to work, was working, were working"
+      }
+    ],
+    "quiz": {
+      "fr": "diras",
+      "en": "will tell, will say"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
