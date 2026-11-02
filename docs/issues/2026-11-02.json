@@ -1,0 +1,386 @@
+{
+  "date": "2026-11-02",
+  "date_long": "Monday, November 2, 2026",
+  "date_mast": "MONDAY 2 NOVEMBER 2026",
+  "built_at": "2026-11-02T20:42:43.290075+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
+          "url": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-11-02T16:57:56+00:00",
+          "summary": "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about. Yet each was enough to cause serious trouble. Then there were the bigger…",
+          "tags": []
+        },
+        {
+          "title": "Report: Most Fraud Attacks Target Existing Customer Relationships",
+          "url": "https://blog.knowbe4.com/report-most-fraud-attacks-target-existing-customer-relationships",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-11-02T14:00:04+00:00",
+          "summary": "A new report from TransUnion has found that 81% of digital fraud attacks target existing customer relationships, with more than half of U.S. businesses reporting increased scam and fraud activity over the past year.",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "The U.S. Census Bureau and “Super Intelligence”",
+          "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-11-02T13:31:26+00:00",
+          "summary": "I was reminded today of AI Adoption Rate Trending Down for Large Companies , a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on numbers collected by the U.S. Census Bureau…",
+          "tags": []
+        },
+        {
+          "title": "Introducing the Grid Protectors Program",
+          "url": "https://openai.com/index/grid-protectors-program",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-11-02T15:00:00+00:00",
+          "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+          "tags": []
+        },
+        {
+          "title": "If in doubt, delete the uv.lock file",
+          "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-11-01T23:24:22+00:00",
+          "summary": "I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is: If in doubt, delete the uv.lock file Most of my projects are libraries which don't include a uv.lock file, since…",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Paris department store BHV receives bankruptcy protection",
+          "url": "https://www.lemonde.fr/en/france/article/2026/11/02/paris-department-store-bhv-receives-bankruptcy-protection_6769470_7.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-02T19:51:25+00:00",
+          "summary": "The iconic Parisian department store BHV was placed in administration on November 2, 2026, marking the latest twist in a long-running saga for this struggling company.",
+          "tags": []
+        },
+        {
+          "title": "2026 US midterm elections: Trump's broken promises expose Republicans to backlash in midterms",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/02/trump-s-broken-promises-expose-republicans-to-backlash-in-midterm-elections_6769468_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-02T19:00:11+00:00",
+          "summary": "The war in Iran and the soaring cost of living, despite the US president's pledges to curb inflation and to avoid drawing the country into another foreign military venture, have raised deep concerns within the Republican camp.",
+          "tags": []
+        },
+        {
+          "title": "EU says fridge attacks 'deliberate attempt to disrupt' bloc's food supply",
+          "url": "https://www.france24.com/en/eu-says-fridge-attacks-deliberate-attempt-to-disrupt-bloc-s-food-supply",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-11-02T20:30:07+00:00",
+          "summary": "Grocery stores from Sweden to Portugal were hit Monday by a suspected cyberattack on their freezer systems, in what the EU denounced as a deliberate attempt to disrupt the bloc's food chain. Supermarkets in Belgium, Estonia, Finland, Ireland, Luxembourg and…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Montreal Canadiens unveil alternate Hometown Remix jersey",
+          "url": "https://www.habseyesontheprize.com/montreal-canadiens-unveil-alternate-hometown-remix-jersey/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-11-02T15:07:58+00:00",
+          "summary": "After some leaks, the Montreal Canadiens have finally officially unveiled their Hometown Remix jersey on Monday, as part of a series with all 32 NHL teams. Voici Hometown Remix. La ville que vous connaissez et aimez, qui prend vie d’une façon que vous pouvez…",
+          "tags": []
+        },
+        {
+          "title": "Preview: Bruins welcome Vegas to TD Garden",
+          "url": "https://www.stanleycupofchowder.com/26-27-game-coverage/59607/preview-bruins-welcome-vegas-to-td-garden",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-11-02T12:00:00+00:00",
+          "summary": "Just the facts Know your enemy Game notes See ya tonight!",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Shapovalov retires against Khachanov in Paris despite leading 4-1 in the third set",
+          "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/shapovalov-retires-against-khachanov-in-paris-despite-leading-4-1-in-the-third-set-865183.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-11-02T20:38:41+00:00",
+          "summary": "Leading 4-1 in the third set, Denis Shapovalov retired against Karen Khachanov after a medical timeout for his right thigh, following signs from his box.",
+          "tags": []
+        },
+        {
+          "title": "Boulter wins despite incident getting under her skin",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cwj3465p7n7no?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-11-02T16:51:56+00:00",
+          "summary": "Katie Boulter says it is \"lesson learned\" as she overcomes an incident that \"got under my skin\" to reach the last 16 of the Hong Kong Open.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 60,
+  "sources_line": "BBC TENNIS, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, KNOWBE4, LE MONDE, OPENAI, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 22,
+      "low": 5,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 12,
+      "low": 9,
+      "conditions": "showers"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-118527",
+      "vendor": "Ivanti",
+      "product": "Connect Secure",
+      "name": "Ivanti Connect Secure Generation of Predictable Numbers or Identifiers Vulnerability",
+      "summary": "Ivanti Connect Secure contains a generation of predictable numbers or identifiers vulnerability that allows a remote authenticated attacker to upload files with attacker-controlled content to a known location on disk…",
+      "added": "2026-10-30",
+      "due": "2026-11-13",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-118527"
+    },
+    {
+      "cve": "CVE-2026-111357",
+      "vendor": "Ivanti",
+      "product": "Connect Secure",
+      "name": "Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability",
+      "summary": "Ivanti Connect Secure contains a missing authentication for critical function vulnerability that could allow a local authenticated attacker to escalate their privileges. This vulnerability can be chained with…",
+      "added": "2026-10-30",
+      "due": "2026-11-02",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-111357"
+    },
+    {
+      "cve": "CVE-2026-97229",
+      "vendor": "GitLab",
+      "product": "Community Edition and Enterprise Edition",
+      "name": "GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound Vulnerability",
+      "summary": "GitLab Community Edition and Enterprise Edition contain a integer overflow or wraparound vulnerability that could allow an unauthenticated user to execute arbitrary code on the GitLab server via a specially crafted…",
+      "added": "2026-10-29",
+      "due": "2026-11-01",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-97229"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-11-02",
+      "away": "VGK",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Prudential Hong Kong Tennis Open",
+        "start": "2026-10-30",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Chennai Open",
+        "start": "2026-10-31",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "American Tennis Open Miami",
+        "start": "2026-10-31",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Rolex Paris Masters",
+        "start": "2026-10-31",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Reto Win Tennis Cali Open",
+        "start": "2026-11-01",
+        "end": "2026-11-08",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Angola Ladies Open",
+        "start": "2026-11-01",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Carlos Alcaraz",
+        "last": null,
+        "next": {
+          "event": "Rolex Paris Masters",
+          "grouping": "Men's Singles",
+          "round": "Round 2",
+          "date": "2026-11-04",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "TBD",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "TBD",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 8099.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 6485.0
+        },
+        {
+          "rank": 3,
+          "name": "Mirra Andreeva",
+          "points": 6306.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Alexander Zverev",
+          "points": 9550.0
+        },
+        {
+          "rank": 2,
+          "name": "Jannik Sinner",
+          "points": 9450.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 6100.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Nitto ATP Finals",
+        "tour": "ATP",
+        "start": "2026-11-14",
+        "end": "2026-11-23",
+        "major": false
+      },
+      {
+        "name": "LP Open by IND",
+        "tour": "WTA",
+        "start": "2026-11-16",
+        "end": "2026-11-23",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 17
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "en retard",
+        "en": "late"
+      },
+      {
+        "fr": "mal",
+        "en": "bad, badly, wrong"
+      },
+      {
+        "fr": "prendra",
+        "en": "will have, will get, will be taking"
+      }
+    ],
+    "quiz": {
+      "fr": "en retard",
+      "en": "late"
+    }
+  },
+  "counts": {
+    "stories": 12,
+    "kev": 3
+  }
+}
