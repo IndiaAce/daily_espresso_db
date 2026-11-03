@@ -1,0 +1,395 @@
+{
+  "date": "2026-11-03",
+  "date_long": "Tuesday, November 3, 2026",
+  "date_mast": "TUESDAY 3 NOVEMBER 2026",
+  "built_at": "2026-11-03T18:20:28.999084+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Harvard University data breach exposed info of 851,000 accounts",
+          "url": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-11-03T10:53:25+00:00",
+          "summary": "Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been Pwned.",
+          "tags": []
+        },
+        {
+          "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
+          "url": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-11-03T05:34:37+00:00",
+          "summary": "Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber. The vulnerability in question is CVE-2026-81648, which carries a CVSS score…",
+          "tags": []
+        },
+        {
+          "title": "Warning: Scammers Are Targeting Voters Ahead of Election Day",
+          "url": "https://blog.knowbe4.com/warning-scammers-are-targeting-voters-ahead-of-election-day",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-11-02T21:00:01+00:00",
+          "summary": "Scammers continue to target voters ahead of the U.S. midterm elections, Malwarebytes reports. The scams arrive via text message, email, or phone call, offering to help users register to vote, asking them to take a survey, or soliciting donations. The scams…",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+          "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-11-03T16:29:48+00:00",
+          "summary": "Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper found that frontier models, in particular GPT-6 Astra, can both…",
+          "tags": []
+        },
+        {
+          "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+          "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-11-03T05:32:25+00:00",
+          "summary": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube Genius piece of OSINT by Colsto, who demonstrates how you can take almost imperceptible background noise of planes from a video soundtrack, figure out their Doppler curves…",
+          "tags": []
+        },
+        {
+          "title": "StateBench: Testing how language models track state changes over long documents",
+          "url": "https://huggingface.co/blog/allenai/statebench",
+          "source": "Hugging Face",
+          "section": "ai",
+          "published": "2026-11-03T17:15:21+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Video investigation October 24 protests: How did police respond to the far right?",
+          "url": "https://www.lemonde.fr/en/videos/video/2026/11/03/how-french-police-responded-to-the-far-right-during-protests_6770623_108.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-03T17:46:33+00:00",
+          "summary": "At nationwide protests on Saturday, October 24, French far-right activists targeted civilians protesting, with little response from the riot police, a 'Le Monde' investigation has found.",
+          "tags": []
+        },
+        {
+          "title": "California decides whether to tax billionaires, a highly-anticipated vote amid rising inequality",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/03/california-decides-whether-to-tax-billionaires-a-highly-anticipated-vote-amid-rising-inequality_6770590_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-03T16:56:04+00:00",
+          "summary": "In the US, debates over taxing wealth arise when the accumulation of riches becomes exorbitant. Voters in the Golden State will decide on Tuesday on an unprecedented 5% wealth tax targeting billionaires.",
+          "tags": []
+        },
+        {
+          "title": "Russian households face increasing financial strain as war in Ukraine drags on",
+          "url": "https://www.france24.com/en/video/20261103-russian-households-face-increasing-financial-strain-as-war-in-ukraine-drags-on",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-11-03T17:05:54+00:00",
+          "summary": "As Moscow continues to launch strikes across Ukraine, Russian citizens are facing increasing financial strain. Since the start of the war in 2022, utility bills in Russia have risen by more than 50% – over 13% this year alone. These rising costs come as the…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "The Graves of the Montreal Canadiens, Part IV",
+          "url": "https://www.habseyesontheprize.com/montreal-canadiens-graves-cemetery-gallery-evariste-payer-george-patterson-harold-starr-wildor-larochelle-claude-mouton-sylvio-mantha-albert-leduc-bobby-boucher-tommy-gorman/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-11-03T13:00:00+00:00",
+          "summary": "Graveyards are places of introspection and opportunities to discover the stories of those who rest there. Every year I travel around Canada, and in those travels I take the time to visit the resting place of those who trailblazed the path that we all travel…",
+          "tags": []
+        },
+        {
+          "title": "Recap: Bruins beat Golden Knights in a shootout",
+          "url": "https://www.stanleycupofchowder.com/26-27-game-coverage/59623/recap-bruins-beat-golden-knights-in-a-shootout",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-11-03T12:00:00+00:00",
+          "summary": "All’s well that ends well, right? The Bruins let a two-goal lead slip away but recovered in time to take home two points, beating the Vegas Golden Knights 3-2 in a shootout. David Pastrnak scored the shootout’s only goal in the third round, sending Carter…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "“No”: reassured after Vacherot, Djokovic plays down Turin and takes it match by match",
+          "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/no-reassured-after-vacherot-djokovic-plays-down-turin-and-takes-it-match-by-match-865384.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-11-03T18:15:14+00:00",
+          "summary": "Asked whether the ATP Finals were his main drive in Paris, the Serbian replied with a simple “No” after beating Valentin Vacherot 6-7 (5), 7-5, 6-1. His goal: winning every match, starting with qualifier Rinky Hijikata.",
+          "tags": []
+        },
+        {
+          "title": "Djokovic keeps alive bid to squeeze into ATP Finals",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/c3n04nzv1n21o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-11-03T16:57:17+00:00",
+          "summary": "Novak Djokovic keeps alive his last-ditch bid to qualify for this year's ATP Finals by grinding out a first-round victory at the Paris Masters.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 61,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, HUGGING FACE, KNOWBE4, LE MONDE, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 23,
+      "low": 10,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 10,
+      "low": 7,
+      "conditions": "showers"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-118527",
+      "vendor": "Ivanti",
+      "product": "Connect Secure",
+      "name": "Ivanti Connect Secure Generation of Predictable Numbers or Identifiers Vulnerability",
+      "summary": "Ivanti Connect Secure contains a generation of predictable numbers or identifiers vulnerability that allows a remote authenticated attacker to upload files with attacker-controlled content to a known location on disk…",
+      "added": "2026-10-30",
+      "due": "2026-11-13",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-118527"
+    },
+    {
+      "cve": "CVE-2026-111357",
+      "vendor": "Ivanti",
+      "product": "Connect Secure",
+      "name": "Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability",
+      "summary": "Ivanti Connect Secure contains a missing authentication for critical function vulnerability that could allow a local authenticated attacker to escalate their privileges. This vulnerability can be chained with…",
+      "added": "2026-10-30",
+      "due": "2026-11-02",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-111357"
+    },
+    {
+      "cve": "CVE-2026-97229",
+      "vendor": "GitLab",
+      "product": "Community Edition and Enterprise Edition",
+      "name": "GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound Vulnerability",
+      "summary": "GitLab Community Edition and Enterprise Edition contain a integer overflow or wraparound vulnerability that could allow an unauthenticated user to execute arbitrary code on the GitLab server via a specially crafted…",
+      "added": "2026-10-29",
+      "due": "2026-11-01",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-97229"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-11-05",
+      "away": "BOS",
+      "home": "PIT"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Prudential Hong Kong Tennis Open",
+        "start": "2026-10-30",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Chennai Open",
+        "start": "2026-10-31",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "American Tennis Open Miami",
+        "start": "2026-10-31",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Rolex Paris Masters",
+        "start": "2026-10-31",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Reto Win Tennis Cali Open",
+        "start": "2026-11-01",
+        "end": "2026-11-08",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Angola Ladies Open",
+        "start": "2026-11-01",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Carlos Alcaraz",
+        "last": null,
+        "next": {
+          "event": "Rolex Paris Masters",
+          "grouping": "Men's Singles",
+          "round": "Round 2",
+          "date": "2026-11-04",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Alex Michelsen",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Alex Michelsen",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 8099.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 6485.0
+        },
+        {
+          "rank": 3,
+          "name": "Mirra Andreeva",
+          "points": 6306.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Alexander Zverev",
+          "points": 9550.0
+        },
+        {
+          "rank": 2,
+          "name": "Jannik Sinner",
+          "points": 9450.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 6100.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Nitto ATP Finals",
+        "tour": "ATP",
+        "start": "2026-11-14",
+        "end": "2026-11-23",
+        "major": false
+      },
+      {
+        "name": "LP Open by IND",
+        "tour": "WTA",
+        "start": "2026-11-16",
+        "end": "2026-11-23",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 16
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "moitié",
+        "en": "half"
+      },
+      {
+        "fr": "lira",
+        "en": "will read, will be reading"
+      },
+      {
+        "fr": "stylo",
+        "en": "pen"
+      }
+    ],
+    "quiz": {
+      "fr": "moitié",
+      "en": "half"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
