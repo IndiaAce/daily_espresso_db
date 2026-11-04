@@ -1,0 +1,399 @@
+{
+  "date": "2026-11-04",
+  "date_long": "Wednesday, November 4, 2026",
+  "date_mast": "WEDNESDAY 4 NOVEMBER 2026",
+  "built_at": "2026-11-04T18:33:25.655988+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
+          "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-11-04T16:58:46+00:00",
+          "summary": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency wallet data.",
+          "tags": []
+        },
+        {
+          "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
+          "url": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-11-04T15:00:10+00:00",
+          "summary": "A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections. Material Security examines how Operation CloudFire tracked the attacks, blocked malicious messages, and…",
+          "tags": []
+        },
+        {
+          "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
+          "url": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-11-03T18:46:38+00:00",
+          "summary": "Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication (2FA), and removing passkeys. The warning came in an email sent…",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-11-04T14:30:00+00:00",
+          "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+          "tags": []
+        },
+        {
+          "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+          "source": "Hugging Face",
+          "section": "ai",
+          "published": "2026-11-04T17:50:10+00:00",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+          "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+          "source": "Hacker News",
+          "section": "ai",
+          "published": "2026-11-04T15:38:34+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "US midterm results unsettle French far right, boost hopes left ahead of presidential election",
+          "url": "https://www.lemonde.fr/en/politics/article/2026/11/04/us-midterm-results-unsettle-french-far-right-boost-hopes-left-ahead-of-presidential-election_6772042_5.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-04T17:46:46+00:00",
+          "summary": "The French left and the centrist bloc have analyzed the defeat of Donald Trump's party in light of France's upcoming elections, seeing it as a source of hope, while the far right is increasingly distancing itself from its 'lame duck' American counterpart.",
+          "tags": []
+        },
+        {
+          "title": "Voters in Washington, DC, decide to ban sale of foie gras",
+          "url": "https://www.lemonde.fr/en/food/article/2026/11/04/washington-dc-set-to-ban-foie-gras_6772009_119.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-04T17:35:06+00:00",
+          "summary": "A referendum on banning foie gras in Washington, DC, won 73% of the vote on Tuesday.",
+          "tags": []
+        },
+        {
+          "title": "European leaders welcome Democrats' US midterms election win",
+          "url": "https://www.france24.com/en/european-leaders-welcome-democrats-us-midterms-election-win",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-11-04T17:00:09+00:00",
+          "summary": "European leaders voiced hopes for a reset with the United States on Wednesday, November 4, after voters delivered a huge midterm election defeat to President Donald Trump and his Republican party. FRANCE 24's Dave Keating has more.",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Bottom Six Minutes: The Habs embarrass themselves on home ice",
+          "url": "https://www.habseyesontheprize.com/habs-jets-comeback-recap-reaction-habs-news/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-11-04T14:04:51+00:00",
+          "summary": "Despite being doubled up on the shot clock, the Montreal Canadiens took a commanding 3-0 lead into the third period against the Winnipeg Jets on Tuesday night. Once they extended that lead to four goals, the rest of the game felt like a mere formality. Jacob…",
+          "tags": []
+        },
+        {
+          "title": "Public Skate: Bruins vs. Golden Knights",
+          "url": "https://www.stanleycupofchowder.com/gameday-open-threads/59609/public-skate-bruins-vs-golden-knights",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-11-02T22:00:00+00:00",
+          "summary": "Welcome to another night of Bruins hockey, folks! We’ve got some Monday Night Hockey on tap for this evening, with the Vegas Golden Knights in town. Vegas has been off since losing to New Jersey in Vegas on Friday, so they should be well rested. Hopefully…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Shock Wednesday in Paris: Hijikata stuns Djokovic as Zverev, Medvedev, De Minaur and Tiafoe also fall",
+          "url": "https://www.tennismajors.com/atp/shock-wednesday-in-paris-hijikata-stuns-djokovic-as-zverev-medvedev-de-minaur-and-tiafoe-also-fall-865627.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-11-04T17:13:31+00:00",
+          "summary": "Qualifier Rinky Hijikata, ranked 83rd, came from a set down to beat seven-time champion Novak Djokovic 2-6, 6-3, 6-3 in the second round of the Rolex Paris Masters, on a day that also saw Zverev, Medvedev, De Minaur and Tiafoe fall.",
+          "tags": []
+        },
+        {
+          "title": "Defeat ends Djokovic's hopes of making ATP Finals",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/ckn8we5p1ydeo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-11-04T18:22:16+00:00",
+          "summary": "Novak Djokovic is out of the race to qualify for the ATP Finals in Turin after a second-round defeat by qualifier Rinky Hijikata at the Paris Masters.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 62,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, HACKER NEWS, HUGGING FACE, LE MONDE, OPENAI, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 24,
+      "low": 12,
+      "conditions": "mostly clear"
+    },
+    {
+      "code": "PAR",
+      "high": 10,
+      "low": 6,
+      "conditions": "light rain"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-119977",
+      "vendor": "WordPress",
+      "product": "WordPress Core",
+      "name": "WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability",
+      "summary": "WordPress WordPress Core contains a time-of-check time-of-use (TOCTOU) race condition vulnerability that could allow unauthenticated attackers to execute code on the server during the upgrade window. This is due to…",
+      "added": "2026-11-03",
+      "due": "2026-11-06",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-119977"
+    },
+    {
+      "cve": "CVE-2026-118527",
+      "vendor": "Ivanti",
+      "product": "Connect Secure",
+      "name": "Ivanti Connect Secure Generation of Predictable Numbers or Identifiers Vulnerability",
+      "summary": "Ivanti Connect Secure contains a generation of predictable numbers or identifiers vulnerability that allows a remote authenticated attacker to upload files with attacker-controlled content to a known location on disk…",
+      "added": "2026-10-30",
+      "due": "2026-11-13",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-118527"
+    },
+    {
+      "cve": "CVE-2026-111357",
+      "vendor": "Ivanti",
+      "product": "Connect Secure",
+      "name": "Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability",
+      "summary": "Ivanti Connect Secure contains a missing authentication for critical function vulnerability that could allow a local authenticated attacker to escalate their privileges. This vulnerability can be chained with…",
+      "added": "2026-10-30",
+      "due": "2026-11-02",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-111357"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-11-05",
+      "away": "BOS",
+      "home": "PIT"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Prudential Hong Kong Tennis Open",
+        "start": "2026-10-30",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Chennai Open",
+        "start": "2026-10-31",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "American Tennis Open Miami",
+        "start": "2026-10-31",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Rolex Paris Masters",
+        "start": "2026-10-31",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Reto Win Tennis Cali Open",
+        "start": "2026-11-01",
+        "end": "2026-11-08",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Angola Ladies Open",
+        "start": "2026-11-01",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Carlos Alcaraz",
+        "last": null,
+        "next": {
+          "event": "Rolex Paris Masters",
+          "grouping": "Men's Singles",
+          "round": "Round 2",
+          "date": "2026-11-04",
+          "state": "in",
+          "status": "In Progress",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": [
+                3.0
+              ]
+            },
+            {
+              "name": "Alex Michelsen",
+              "winner": false,
+              "sets": [
+                2.0
+              ]
+            }
+          ],
+          "opponent": "Alex Michelsen",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 8099.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 6485.0
+        },
+        {
+          "rank": 3,
+          "name": "Mirra Andreeva",
+          "points": 6306.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Alexander Zverev",
+          "points": 9550.0
+        },
+        {
+          "rank": 2,
+          "name": "Jannik Sinner",
+          "points": 9450.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 6100.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Nitto ATP Finals",
+        "tour": "ATP",
+        "start": "2026-11-14",
+        "end": "2026-11-23",
+        "major": false
+      },
+      {
+        "name": "LP Open by IND",
+        "tour": "WTA",
+        "start": "2026-11-16",
+        "end": "2026-11-23",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 15
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "nul",
+        "en": "bad, lousy"
+      },
+      {
+        "fr": "cours",
+        "en": "class, course"
+      },
+      {
+        "fr": "rez-de-chaussée",
+        "en": "ground floor"
+      }
+    ],
+    "quiz": {
+      "fr": "nul",
+      "en": "bad, lousy"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
