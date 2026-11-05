@@ -1,0 +1,416 @@
+{
+  "date": "2026-11-05",
+  "date_long": "Thursday, November 5, 2026",
+  "date_mast": "THURSDAY 5 NOVEMBER 2026",
+  "built_at": "2026-11-05T18:38:55.902785+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Vercel rolls out new protection against stolen session cookie attacks",
+          "url": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-11-04T21:31:18+00:00",
+          "summary": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware.",
+          "tags": []
+        },
+        {
+          "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+          "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-11-04T20:58:19+00:00",
+          "summary": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials.",
+          "tags": []
+        },
+        {
+          "title": "Warning: Phishing Operations Are Impersonating Prediction Markets",
+          "url": "https://blog.knowbe4.com/warning-phishing-operations-are-impersonating-prediction-markets",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-11-03T21:00:12+00:00",
+          "summary": "Fraudsters are exploiting the increased public interest in prediction markets such as PolyMarket and Kalshi, according to researchers at Recorded Future. Criminal groups known as “traffers” are providing fellow crooks with “websites, administrative panels…",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Quoting Paul Ford",
+          "url": "https://simonwillison.net/2026/Nov/5/paul-ford/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-11-05T17:34:03+00:00",
+          "summary": "The web browser is very, very, very powerful software for applications, and the cost of accessing that power is going down seemingly every day . — Paul Ford , The Web Is More Than Enough Tags: browsers , paul-ford , web-development",
+          "tags": []
+        },
+        {
+          "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+          "source": "Google AI",
+          "section": "ai",
+          "published": "2026-11-05T17:00:00+00:00",
+          "summary": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street",
+          "tags": []
+        },
+        {
+          "title": "Setting a new standard for responsible AI infrastructure",
+          "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-11-05T02:00:00+00:00",
+          "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Paraguay's president resigns amid banking scandal",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/05/paraguay-s-president-resigns-amid-banking-scandal_6772834_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-05T17:13:09+00:00",
+          "summary": "Protests roiled the South American nation after a bank linked to President Santiago Penã blocked millions of people from accessing their money. The central bank took control of Uena Bank on Tuesday, citing a severe capital shortfall.",
+          "tags": []
+        },
+        {
+          "title": "Hundreds of thousands rally across France to demand higher wages and school funding",
+          "url": "https://www.lemonde.fr/en/france/article/2026/11/05/france-workers-strike-march-for-dignified-wage_6772768_7.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-05T15:58:07+00:00",
+          "summary": "The Interior Ministry estimated that 600,000 people demonstrated, while labor unions claimed a figure of 1.6 million.",
+          "tags": []
+        },
+        {
+          "title": "British comedian Russell Brand found guilty of rape, sexual assault",
+          "url": "https://www.france24.com/en/europe/20261105-british-comedian-russell-brand-found-guilty-of-rape-sexual-assault",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-11-05T14:26:40+00:00",
+          "summary": "A London jury on Thursday convicted British comedian and actor Russell Brand of one count of rape and three counts of sexual assault.",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "International Hockey is about to get really messy",
+          "url": "https://www.stanleycupofchowder.com/bruins-international/59635/iihf-hocke-russia-usa-canada-sweden-finland",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-11-05T16:42:34+00:00",
+          "summary": "The World Juniors is a wonderful time of year, where everyone comes together to get really, really into teenager hockey and making value judgements about their country and others about the results. Recently the tournaments have been really, really good; and…",
+          "tags": []
+        },
+        {
+          "title": "Canadiens vs. Mammoth: Game preview, start time, Tale of the Tape, and how to watch",
+          "url": "https://www.habseyesontheprize.com/canadiens-mammoth-2026-11-04-game-preview-start-time-tale-of-the-tape-and-how-to-watch-tv-listings/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-11-05T13:00:00+00:00",
+          "summary": "How to watch Game 16: Montreal Canadiens vs. Utah Mammoth Start time: 7:00 PM EST / 5:00 PM PDT In the Canadiens region: TSN2 (English), RDS (French) In the Mammoth region: Utah16, Mammoth+ Streaming: RDS, TSN+ (Canada), ESPN+ (USA) The Montreal Canadiens…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Borges thrashes Buse to become first lucky loser in Paris quarter-finals",
+          "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/borges-thrashes-buse-to-become-first-lucky-loser-in-paris-quarter-finals-865861.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-11-05T17:34:06+00:00",
+          "summary": "Nuno Borges dismantled Ignacio Buse 6-0, 6-2 on Thursday to become the first lucky loser ever to reach the quarter-finals at the Paris Masters 1000.",
+          "tags": []
+        },
+        {
+          "title": "WTA takes 'full responsibility' after Pegula 'diva' comment live-streamed",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cm1dwll642ngo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-11-05T16:29:20+00:00",
+          "summary": "The WTA says it takes \"full responsibility\" after private comments Jessica Pegula made to her coach about Mirra Andreeva were live-streamed by a courtside microphone.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 63,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, GOOGLE AI, HABS EYES ON THE PRIZE, KNOWBE4, LE MONDE, OPENAI, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 23,
+      "low": 14,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 12,
+      "low": 5,
+      "conditions": "light rain"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2024-27834",
+      "vendor": "Apple",
+      "product": "Multiple Products",
+      "name": "Apple Multiple Products Improper Authentication Vulnerability",
+      "summary": "Apple iOS, iPadOS, macOS, Safari, tvOS and watchOS 10.5 contain an improper authentication vulnerability which could allow an attacker with arbitrary read and write capability to bypass pointer authentication.",
+      "added": "2026-11-04",
+      "due": "2026-11-18",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-27834"
+    },
+    {
+      "cve": "CVE-2026-119977",
+      "vendor": "WordPress",
+      "product": "WordPress Core",
+      "name": "WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability",
+      "summary": "WordPress WordPress Core contains a time-of-check time-of-use (TOCTOU) race condition vulnerability that could allow unauthenticated attackers to execute code on the server during the upgrade window. This is due to…",
+      "added": "2026-11-03",
+      "due": "2026-11-06",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-119977"
+    },
+    {
+      "cve": "CVE-2026-118527",
+      "vendor": "Ivanti",
+      "product": "Connect Secure",
+      "name": "Ivanti Connect Secure Generation of Predictable Numbers or Identifiers Vulnerability",
+      "summary": "Ivanti Connect Secure contains a generation of predictable numbers or identifiers vulnerability that allows a remote authenticated attacker to upload files with attacker-controlled content to a known location on disk…",
+      "added": "2026-10-30",
+      "due": "2026-11-13",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-118527"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-11-05",
+      "away": "BOS",
+      "home": "PIT"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Prudential Hong Kong Tennis Open",
+        "start": "2026-10-30",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Chennai Open",
+        "start": "2026-10-31",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "American Tennis Open Miami",
+        "start": "2026-10-31",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Rolex Paris Masters",
+        "start": "2026-10-31",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Reto Win Tennis Cali Open",
+        "start": "2026-11-01",
+        "end": "2026-11-08",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Angola Ladies Open",
+        "start": "2026-11-01",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "Rolex Paris Masters",
+          "grouping": "Men's Singles",
+          "round": "Round 3",
+          "date": "2026-11-05",
+          "state": "post",
+          "status": "Walkover",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": true,
+              "sets": []
+            },
+            {
+              "name": "Matteo Berrettini",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Matteo Berrettini",
+          "won": true
+        },
+        "next": {
+          "event": "Rolex Paris Masters",
+          "grouping": "Men's Singles",
+          "round": "Quarterfinal",
+          "date": "2026-11-06",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "TBD",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "TBD",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 8099.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 6485.0
+        },
+        {
+          "rank": 3,
+          "name": "Mirra Andreeva",
+          "points": 6306.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Alexander Zverev",
+          "points": 9550.0
+        },
+        {
+          "rank": 2,
+          "name": "Jannik Sinner",
+          "points": 9450.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 6100.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Nitto ATP Finals",
+        "tour": "ATP",
+        "start": "2026-11-14",
+        "end": "2026-11-23",
+        "major": false
+      },
+      {
+        "name": "LP Open by IND",
+        "tour": "WTA",
+        "start": "2026-11-16",
+        "end": "2026-11-23",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 14
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "jus",
+        "en": "juice, fruit juice, gravy"
+      },
+      {
+        "fr": "pastèque",
+        "en": "watermelon"
+      },
+      {
+        "fr": "servir",
+        "en": "serve, serves"
+      }
+    ],
+    "quiz": {
+      "fr": "jus",
+      "en": "juice, fruit juice, gravy"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
