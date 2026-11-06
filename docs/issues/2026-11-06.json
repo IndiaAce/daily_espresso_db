@@ -1,0 +1,416 @@
+{
+  "date": "2026-11-06",
+  "date_long": "Friday, November 6, 2026",
+  "date_mast": "FRIDAY 6 NOVEMBER 2026",
+  "built_at": "2026-11-06T17:52:45.158691+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Chainalysis says breach exposed credentials for all customers",
+          "url": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-11-06T14:17:07+00:00",
+          "summary": "Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers.",
+          "tags": []
+        },
+        {
+          "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
+          "url": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-11-06T08:04:49+00:00",
+          "summary": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users. \"While we investigated, we removed access to…",
+          "tags": []
+        },
+        {
+          "title": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
+          "url": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-11-06T05:39:10+00:00",
+          "summary": "Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required. The company released patches on Monday, and the security firm watchTowr detailed…",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Quoting Nilay Patel",
+          "url": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-11-06T17:13:12+00:00",
+          "summary": "The products aren't good enough to sell people on the costs. You cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and some of the most hilarious deep fake slop in history. It's not worth it. It just…",
+          "tags": []
+        },
+        {
+          "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+          "url": "https://huggingface.co/blog/allenai/toyblocks",
+          "source": "Hugging Face",
+          "section": "ai",
+          "published": "2026-11-06T14:00:48+00:00",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "Deus Ex",
+          "url": "https://www.filfre.net/2026/11/deus-ex/",
+          "source": "Hacker News",
+          "section": "ai",
+          "published": "2026-11-06T15:44:36+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Meghan Markle's father arrested in US over child sex abuse images",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/06/meghan-markle-s-father-arrested-in-us-over-child-sex-abuse-images_6773693_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-06T16:51:27+00:00",
+          "summary": "Eighty-two-year-old Thomas Markle, who is estranged from his daughter, was charged with one count of 'possession of child pornography' and is to make an initial court appearance in Tampa on Friday, US Attorney Bill Essayli said in a statement.",
+          "tags": []
+        },
+        {
+          "title": "EU tells TikTok to change 'harmful' For You feed",
+          "url": "https://www.lemonde.fr/en/tiktok/article/2026/11/06/eu-tells-tiktok-to-change-harmful-for-you-feed_6773626_70.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-06T16:39:39+00:00",
+          "summary": "The European Union warned that TikTok's recommendation system exposes children and vulnerable individuals to potentially damaging content by pushing a stream of videos similar to those the user has previously engaged with. TikTok rejected the accusations.",
+          "tags": []
+        },
+        {
+          "title": "Europe: What we know about the hoax bomb threats disrupting flights",
+          "url": "https://www.france24.com/en/europe-what-we-know-about-the-hoax-bomb-threats-disrupting-flights",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-11-06T16:59:02+00:00",
+          "summary": "Dozens of European flights have been disrupted this week after bomb threats were sent in to various airports, with fighter planes escorting many civilian aircraft after threats were called in mid-flight.",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Morning Skate: Marched",
+          "url": "https://www.stanleycupofchowder.com/morning-skate-open-threads/59668/morning-skate-marched",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-11-06T12:00:00+00:00",
+          "summary": "Happy Friday, folks! If you’re in Massachusetts, do your best to stay dry today, as there are several inches of rain on the way depending on where in the Bay State you are. Keep those umbrellas handy, etc. The B’s marched past the Penguins in Pittsburgh last…",
+          "tags": []
+        },
+        {
+          "title": "Friday Habs Headlines: Hands off the panic button",
+          "url": "https://www.habseyesontheprize.com/montreal-canadiens-news-winnipeg-jets-loss-stanley-cup-contender-nhl-calder-trophy-race-jacob-fowler-brad-marchand-injury-nikita-kucherov-trade-request-speculation-brock-faber-fractured-skull/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-11-06T09:00:00+00:00",
+          "summary": "Montreal Canadiens news and notes The history-making defeat to the Winnipeg Jets is not cause for alarm, says Antoine Roussel. [ Journal de Montreal ] Could the Habs be an outside contender for the Cup? [ Daily Faceoff ] Trevor Timmins still remembers the…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Shelton beats Paul to reach his first Paris semi-final and send Tiafoe to Turin",
+          "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/shelton-beats-paul-to-reach-his-first-paris-semi-final-and-end-his-compatriots-turin-hopes-866025.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-11-06T15:00:06+00:00",
+          "summary": "Third seed Ben Shelton served 11 aces and dropped his serve only once as he beat Tommy Paul 6-4, 4-6, 6-3 at the Rolex Paris Masters. It is his third Masters 1000 semi-final, and he won the title on both previous occasions, in Toronto in 2025 and Montreal in…",
+          "tags": []
+        },
+        {
+          "title": "Coach who helped Sinner to the top set to depart",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/c64g11venm0ko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-11-06T11:21:05+00:00",
+          "summary": "The coach who helped guide Jannik Sinner to five Grand Slam titles and the world number one spot is to leave the player's camp at the end of the year.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 64,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, HACKER NEWS, HUGGING FACE, LE MONDE, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 20,
+      "low": 16,
+      "conditions": "heavy rain"
+    },
+    {
+      "code": "PAR",
+      "high": 14,
+      "low": 7,
+      "conditions": "overcast"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2024-27834",
+      "vendor": "Apple",
+      "product": "Multiple Products",
+      "name": "Apple Multiple Products Improper Authentication Vulnerability",
+      "summary": "Apple iOS, iPadOS, macOS, Safari, tvOS and watchOS 10.5 contain an improper authentication vulnerability which could allow an attacker with arbitrary read and write capability to bypass pointer authentication.",
+      "added": "2026-11-04",
+      "due": "2026-11-18",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-27834"
+    },
+    {
+      "cve": "CVE-2026-119977",
+      "vendor": "WordPress",
+      "product": "WordPress Core",
+      "name": "WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability",
+      "summary": "WordPress WordPress Core contains a time-of-check time-of-use (TOCTOU) race condition vulnerability that could allow unauthenticated attackers to execute code on the server during the upgrade window. This is due to…",
+      "added": "2026-11-03",
+      "due": "2026-11-06",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-119977"
+    },
+    {
+      "cve": "CVE-2026-118527",
+      "vendor": "Ivanti",
+      "product": "Connect Secure",
+      "name": "Ivanti Connect Secure Generation of Predictable Numbers or Identifiers Vulnerability",
+      "summary": "Ivanti Connect Secure contains a generation of predictable numbers or identifiers vulnerability that allows a remote authenticated attacker to upload files with attacker-controlled content to a known location on disk…",
+      "added": "2026-10-30",
+      "due": "2026-11-13",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-118527"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-11-08",
+      "away": "FLA",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Prudential Hong Kong Tennis Open",
+        "start": "2026-10-30",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Chennai Open",
+        "start": "2026-10-31",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "American Tennis Open Miami",
+        "start": "2026-10-31",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Rolex Paris Masters",
+        "start": "2026-10-31",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Reto Win Tennis Cali Open",
+        "start": "2026-11-01",
+        "end": "2026-11-08",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Angola Ladies Open",
+        "start": "2026-11-01",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "Rolex Paris Masters",
+          "grouping": "Men's Singles",
+          "round": "Round 3",
+          "date": "2026-11-05",
+          "state": "post",
+          "status": "Walkover",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": true,
+              "sets": []
+            },
+            {
+              "name": "Matteo Berrettini",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Matteo Berrettini",
+          "won": true
+        },
+        "next": {
+          "event": "Rolex Paris Masters",
+          "grouping": "Men's Singles",
+          "round": "Quarterfinal",
+          "date": "2026-11-06",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Taylor Fritz",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Taylor Fritz",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 8099.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 6485.0
+        },
+        {
+          "rank": 3,
+          "name": "Mirra Andreeva",
+          "points": 6306.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Alexander Zverev",
+          "points": 9550.0
+        },
+        {
+          "rank": 2,
+          "name": "Jannik Sinner",
+          "points": 9450.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 6100.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Nitto ATP Finals",
+        "tour": "ATP",
+        "start": "2026-11-14",
+        "end": "2026-11-23",
+        "major": false
+      },
+      {
+        "name": "LP Open by IND",
+        "tour": "WTA",
+        "start": "2026-11-16",
+        "end": "2026-11-23",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 13
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "meilleur",
+        "en": "better, best, finest"
+      },
+      {
+        "fr": "liront",
+        "en": "will read"
+      },
+      {
+        "fr": "être",
+        "en": "to be, let's, would've"
+      }
+    ],
+    "quiz": {
+      "fr": "meilleur",
+      "en": "better, best, finest"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
