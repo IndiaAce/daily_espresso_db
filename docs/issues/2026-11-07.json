@@ -1,0 +1,435 @@
+{
+  "date": "2026-11-07",
+  "date_long": "Saturday, November 7, 2026",
+  "date_mast": "SATURDAY 7 NOVEMBER 2026",
+  "built_at": "2026-11-07T16:47:15.707564+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+          "url": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-11-05T21:30:30+00:00",
+          "summary": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions.",
+          "tags": []
+        },
+        {
+          "title": "US Government Email Systems Open to Abuse Thanks to Typos",
+          "url": "https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos",
+          "source": "Dark Reading",
+          "section": "email_security",
+          "published": "2026-11-05T21:35:05+00:00",
+          "summary": "Erroneous or outdated DNS records can give attackers surprising powers over organizations' email systems.",
+          "tags": []
+        },
+        {
+          "title": "CyberheistNews Vol 16 #44 Treat Every Engineer’s Workstation Like a $6 Billion Vault",
+          "url": "https://blog.knowbe4.com/cyberheistnews-vol-16-44-treat-every-engineers-workstation-like-a-6-billion-vault",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-11-03T14:30:00+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Upload Your RAM",
+          "url": "https://uploadyourram.org",
+          "source": "Hacker News",
+          "section": "ai",
+          "published": "2026-11-07T10:15:26+00:00",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+          "url": "https://openai.com/index/partnering-with-hacktron",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-11-06T08:00:00+00:00",
+          "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+          "tags": []
+        },
+        {
+          "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+          "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+          "source": "Hugging Face",
+          "section": "ai",
+          "published": "2026-11-06T00:00:00+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "2027 French presidential election: Centrists and right speculate over Christine Lagarde's motives",
+          "url": "https://www.lemonde.fr/en/politics/article/2026/11/07/2027-french-presidential-election-centrists-and-right-speculate-over-christine-lagarde-s-motives_6774419_5.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-07T14:42:12+00:00",
+          "summary": "The early resignation of the president of the European Central Bank was met with cautious public praise and private skepticism.",
+          "tags": []
+        },
+        {
+          "title": "Gaël Monfils named captain of France's Davis Cup team",
+          "url": "https://www.lemonde.fr/en/sports/article/2026/11/07/gael-monfils-named-captain-of-france-s-davis-cup-team_6774385_9.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-07T12:49:42+00:00",
+          "summary": "The 40-year-old quietly retired from his tennis playing career last month.",
+          "tags": []
+        },
+        {
+          "title": "At least five killed in shooting in Polish city of Krakow, police say",
+          "url": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-11-07T15:23:48+00:00",
+          "summary": "A shooting in the main market square of Krakow in Poland killed at least five people on Saturday, local police said.",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Canadiens @ Maple Leafs: Game preview, start time, Tale of the Tape, and how to watch",
+          "url": "https://www.habseyesontheprize.com/canadiens-maple-leafs-2026-11-07-game-preview-start-time-tale-of-the-tape-and-how-to-watch-tv-listings/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-11-07T13:00:00+00:00",
+          "summary": "How to watch Game 17: Montreal Canadiens @ Toronto Maple Leafs Start time: 7:00 PM EST / 5:00 PM PDT In Canada: Sportsnet (English), TVA Sports (French) Streaming: Sportsnet+, TVA Sports+ (Canada), ESPN+ (USA) The Toronto Maple Leafs had a hot stretch from…",
+          "tags": []
+        },
+        {
+          "title": "Public Skate: Bruins vs. Penguins",
+          "url": "https://www.stanleycupofchowder.com/gameday-open-threads/59659/public-skate-bruins-vs-penguins",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-11-05T22:00:00+00:00",
+          "summary": "Welcome to Thursday Night Hockey, folks! After an exciting win over the Vegas Golden Knights on Monday, the Bruins will travel to Pennsylvania for a meeting with the Pittsburgh Penguins. The Penguins aren’t off to the best start, but they’ve still got plenty…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Shelton reaches his first Masters 1000 final outside Canada, ending Van Assche’s Paris run",
+          "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/shelton-reaches-his-first-masters-1000-final-outside-canada-ending-van-assches-paris-run-866246.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-11-07T16:02:14+00:00",
+          "summary": "Ben Shelton came back from a break down in the decider to beat Luca Van Assche 5-7, 6-3, 6-4 and reach the Rolex Paris Masters final, his third at Masters 1000 level and the first outside Canada.",
+          "tags": []
+        },
+        {
+          "title": "Alcaraz beats Fritz to help Jodar reach ATP finals",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/c6e9lldl3lpjo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-11-06T22:35:04+00:00",
+          "summary": "Carlos Alcaraz saves two match points to beat Taylor Fritz in the Paris Masters quarter-finals - a result which helped Spanish compatriot Rafael Jodar qualify for the ATP finals.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 65,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, DARK READING, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, HACKER NEWS, HUGGING FACE, KNOWBE4, LE MONDE, OPENAI, STANLEY CUP OF CHOWDER, TENNIS MAJORS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 17,
+      "low": 11,
+      "conditions": "heavy rain"
+    },
+    {
+      "code": "PAR",
+      "high": 9,
+      "low": 4,
+      "conditions": "fog"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-19868",
+      "vendor": "SonicWall",
+      "product": "SonicOS SSLVPN",
+      "name": "SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability",
+      "summary": "SonicWall SonicOS SSLVPN contains a use of single-factor authentication vulnerability that may allow a user with valid credentials for an alternate authentication method to bypass SAML authentication controls…",
+      "added": "2026-11-06",
+      "due": "2026-11-20",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-19868"
+    },
+    {
+      "cve": "CVE-2024-27834",
+      "vendor": "Apple",
+      "product": "Multiple Products",
+      "name": "Apple Multiple Products Improper Authentication Vulnerability",
+      "summary": "Apple iOS, iPadOS, macOS, Safari, tvOS and watchOS 10.5 contain an improper authentication vulnerability which could allow an attacker with arbitrary read and write capability to bypass pointer authentication.",
+      "added": "2026-11-04",
+      "due": "2026-11-18",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-27834"
+    },
+    {
+      "cve": "CVE-2026-119977",
+      "vendor": "WordPress",
+      "product": "WordPress Core",
+      "name": "WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability",
+      "summary": "WordPress WordPress Core contains a time-of-check time-of-use (TOCTOU) race condition vulnerability that could allow unauthenticated attackers to execute code on the server during the upgrade window. This is due to…",
+      "added": "2026-11-03",
+      "due": "2026-11-06",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-119977"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-11-08",
+      "away": "FLA",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Prudential Hong Kong Tennis Open",
+        "start": "2026-10-30",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Chennai Open",
+        "start": "2026-10-31",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "American Tennis Open Miami",
+        "start": "2026-10-31",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Rolex Paris Masters",
+        "start": "2026-10-31",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Reto Win Tennis Cali Open",
+        "start": "2026-11-01",
+        "end": "2026-11-08",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Angola Ladies Open",
+        "start": "2026-11-01",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Bybit Stockholm Open",
+        "start": "2026-11-07",
+        "end": "2026-11-15",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "Rolex Paris Masters",
+          "grouping": "Men's Singles",
+          "round": "Quarterfinal",
+          "date": "2026-11-06",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": true,
+              "sets": [
+                6.0,
+                7.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Taylor Fritz",
+              "winner": false,
+              "sets": [
+                7.0,
+                5.0,
+                3.0
+              ]
+            }
+          ],
+          "opponent": "Taylor Fritz",
+          "won": true
+        },
+        "next": {
+          "event": "Rolex Paris Masters",
+          "grouping": "Men's Singles",
+          "round": "Semifinal",
+          "date": "2026-11-07",
+          "state": "in",
+          "status": "In Progress",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": [
+                1.0
+              ]
+            },
+            {
+              "name": "Casper Ruud",
+              "winner": false,
+              "sets": [
+                2.0
+              ]
+            }
+          ],
+          "opponent": "Casper Ruud",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 8099.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 6485.0
+        },
+        {
+          "rank": 3,
+          "name": "Mirra Andreeva",
+          "points": 6306.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Alexander Zverev",
+          "points": 9550.0
+        },
+        {
+          "rank": 2,
+          "name": "Jannik Sinner",
+          "points": 9450.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 6100.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Nitto ATP Finals",
+        "tour": "ATP",
+        "start": "2026-11-14",
+        "end": "2026-11-23",
+        "major": false
+      },
+      {
+        "name": "LP Open by IND",
+        "tour": "WTA",
+        "start": "2026-11-16",
+        "end": "2026-11-23",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 12
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "s'y",
+        "en": "there, to it, at it"
+      },
+      {
+        "fr": "étudient",
+        "en": "study, are studying"
+      },
+      {
+        "fr": "blancs",
+        "en": "white, blank"
+      }
+    ],
+    "quiz": {
+      "fr": "s'y",
+      "en": "there, to it, at it"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
