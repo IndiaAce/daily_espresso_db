@@ -1,0 +1,404 @@
+{
+  "date": "2026-11-08",
+  "date_long": "Sunday, November 8, 2026",
+  "date_mast": "SUNDAY 8 NOVEMBER 2026",
+  "built_at": "2026-11-08T16:58:54.187090+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "What We Missed: Knicks Phishing Test Goes Out of Bounds",
+          "url": "https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds",
+          "source": "Dark Reading",
+          "section": "email_security",
+          "published": "2026-11-05T21:00:47+00:00",
+          "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from an ill-conceived phishing simulation to a hacktivist attack on a US government agency.",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+          "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-11-07T23:57:46+00:00",
+          "summary": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table…",
+          "tags": []
+        },
+        {
+          "title": "Person of Interest",
+          "url": "https://krthr.co/person-of-interest/",
+          "source": "Hacker News",
+          "section": "ai",
+          "published": "2026-11-08T11:23:28+00:00",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "Measuring how AI agents handle everyday wet-lab science",
+          "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-11-06T00:00:00+00:00",
+          "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "In Argentina, Pope Leo's next stop, the Church stands in stark opposition to Milei's vision",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/08/in-argentina-pope-leo-s-next-stop-the-church-stands-in-stark-opposition-to-milei-s-vision_6775045_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-08T15:00:05+00:00",
+          "summary": "Named in honor of Pope Francis, who was born in the country, 'Ciudad Papa Francisco' is a cluster of working-class neighborhoods on the outskirts of Buenos Aires. It has become a symbol of the Catholic Church's fight against the far-right libertarian policies…",
+          "tags": []
+        },
+        {
+          "title": "Poland in shock after Krakow mass shooting",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/08/poland-in-shock-after-krakow-mass-shooting_6775013_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-08T14:16:52+00:00",
+          "summary": "Six people were killed and 15 others wounded on Saturday in the historic center of Krakow when a 24-year-old Polish man, described by the interior minister as 'fascinated by far-right ideologies,' opened fire. On Sunday, prosecutors launched an investigation…",
+          "tags": []
+        },
+        {
+          "title": "The week in pictures: US midterms 'Blue Wave', French protests and Dakar Youth Olympics",
+          "url": "https://www.france24.com/en/europe/20261108-the-week-in-pictures-trump-midterms-debacle-french-protests-dakar-youth-olympics",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-11-08T16:21:34+00:00",
+          "summary": "From the Democratic Party's big wins in the US midterm elections to France's ongoing student-led protests and the first Olympic sports event held on African soil, FRANCE 24 looks back at some of the week's most striking images.",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Public Skate: Bruins vs. Panthers",
+          "url": "https://www.stanleycupofchowder.com/gameday-open-threads/59695/public-skate-bruins-vs-panthers",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-11-08T16:00:00+00:00",
+          "summary": "The Bruins are back in action this afternoon as they begin a four-game homestand against the Florida Panthers with puck drop at 1 p.m. The B’s are looking to keep their streak alive tonight as the Panthers look to bounce back from a loss yesterday. The Bruins…",
+          "tags": []
+        },
+        {
+          "title": "Bottom Six Minutes: The Xhekaj tax on full display in Toronto",
+          "url": "https://www.habseyesontheprize.com/habs-vs-leafs-recap-score-result-arber-xhekaj-penalty-officials-nhl-habs-news/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-11-08T13:58:30+00:00",
+          "summary": "Despite having another scare with a lead in the third period, the Montreal Canadiens were able to hold on for a Saturday night win while visiting their historic rivals in the Toronto Maple Leafs. With their top line mostly held in check, the Habs relied on…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "“I couldn’t wait to step on the court in front of all of you”: emotional Alcaraz thanks the Paris crowd after missing Roland-Garros",
+          "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/i-couldnt-wait-to-step-on-the-court-in-front-of-all-of-you-emotional-alcaraz-thanks-the-paris-crowd-after-missing-roland-garros-866427.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-11-08T16:57:41+00:00",
+          "summary": "Visibly moved during the trophy ceremony, Carlos Alcaraz ended his Rolex Paris Masters week with one last declaration of love to the Paris crowd, months after a wrist injury kept him away from Roland-Garros, where he has won twice.",
+          "tags": []
+        },
+        {
+          "title": "World number one Rybakina withdraws from WTA Finals",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cm4g1n9ednn1o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-11-07T21:10:55+00:00",
+          "summary": "World number one Elena Rybakina withdraws from the season-ending WTA Finals because of a viral illness.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 66,
+  "sources_line": "BBC TENNIS, DARK READING, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, HACKER NEWS, LE MONDE, OPENAI, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 12,
+      "low": 6,
+      "conditions": "rain"
+    },
+    {
+      "code": "PAR",
+      "high": 7,
+      "low": 4,
+      "conditions": "fog"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-19868",
+      "vendor": "SonicWall",
+      "product": "SonicOS SSLVPN",
+      "name": "SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability",
+      "summary": "SonicWall SonicOS SSLVPN contains a use of single-factor authentication vulnerability that may allow a user with valid credentials for an alternate authentication method to bypass SAML authentication controls…",
+      "added": "2026-11-06",
+      "due": "2026-11-20",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-19868"
+    },
+    {
+      "cve": "CVE-2024-27834",
+      "vendor": "Apple",
+      "product": "Multiple Products",
+      "name": "Apple Multiple Products Improper Authentication Vulnerability",
+      "summary": "Apple iOS, iPadOS, macOS, Safari, tvOS and watchOS 10.5 contain an improper authentication vulnerability which could allow an attacker with arbitrary read and write capability to bypass pointer authentication.",
+      "added": "2026-11-04",
+      "due": "2026-11-18",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-27834"
+    },
+    {
+      "cve": "CVE-2026-119977",
+      "vendor": "WordPress",
+      "product": "WordPress Core",
+      "name": "WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability",
+      "summary": "WordPress WordPress Core contains a time-of-check time-of-use (TOCTOU) race condition vulnerability that could allow unauthenticated attackers to execute code on the server during the upgrade window. This is due to…",
+      "added": "2026-11-03",
+      "due": "2026-11-06",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-119977"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-11-08",
+      "away": "FLA",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Prudential Hong Kong Tennis Open",
+        "start": "2026-10-30",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Chennai Open",
+        "start": "2026-10-31",
+        "end": "2026-11-10",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "American Tennis Open Miami",
+        "start": "2026-10-31",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Rolex Paris Masters",
+        "start": "2026-10-31",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Angola Ladies Open",
+        "start": "2026-11-01",
+        "end": "2026-11-09",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Bybit Stockholm Open",
+        "start": "2026-11-07",
+        "end": "2026-11-15",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "FAGE WTA Finals Indian Wells",
+        "start": "2026-11-08",
+        "end": "2026-11-16",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Austin 125",
+        "start": "2026-11-08",
+        "end": "2026-11-16",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "DIRECTV Open Presentado por Compesar",
+        "start": "2026-11-08",
+        "end": "2026-11-15",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "Rolex Paris Masters",
+          "grouping": "Men's Singles",
+          "round": "Final",
+          "date": "2026-11-08",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": true,
+              "sets": [
+                7.0,
+                7.0
+              ]
+            },
+            {
+              "name": "Ben Shelton",
+              "winner": false,
+              "sets": [
+                6.0,
+                5.0
+              ]
+            }
+          ],
+          "opponent": "Ben Shelton",
+          "won": true
+        },
+        "next": null
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 8099.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 6485.0
+        },
+        {
+          "rank": 3,
+          "name": "Mirra Andreeva",
+          "points": 6306.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Alexander Zverev",
+          "points": 9550.0
+        },
+        {
+          "rank": 2,
+          "name": "Jannik Sinner",
+          "points": 9450.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 6100.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Nitto ATP Finals",
+        "tour": "ATP",
+        "start": "2026-11-14",
+        "end": "2026-11-23",
+        "major": false
+      },
+      {
+        "name": "LP Open by IND",
+        "tour": "WTA",
+        "start": "2026-11-16",
+        "end": "2026-11-23",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 11
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "continué",
+        "en": "continued"
+      },
+      {
+        "fr": "nagé",
+        "en": "swam"
+      },
+      {
+        "fr": "rempli",
+        "en": "filled up, filled, full"
+      }
+    ],
+    "quiz": {
+      "fr": "continué",
+      "en": "continued"
+    }
+  },
+  "counts": {
+    "stories": 11,
+    "kev": 3
+  }
+}
