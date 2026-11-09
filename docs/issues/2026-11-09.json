@@ -1,0 +1,361 @@
+{
+  "date": "2026-11-09",
+  "date_long": "Monday, November 9, 2026",
+  "date_mast": "MONDAY 9 NOVEMBER 2026",
+  "built_at": "2026-11-09T21:22:30.621177+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
+          "url": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-11-09T17:51:21+00:00",
+          "summary": "An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today. The attacker used credentials for an AWS account that Qubole's platform uses…",
+          "tags": []
+        },
+        {
+          "title": "Report: Social Engineering Remained the Top Initial Access Vector in Q3 2026",
+          "url": "https://blog.knowbe4.com/report-social-engineering-remained-the-top-initial-access-vector-in-q3-2026",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-11-09T21:00:01+00:00",
+          "summary": "Phishing remained the most common initial access vector for attackers in the third quarter of 2026, according to a new report from Cisco Talos. Ransomware gangs are using voice phishing attacks to trick employees into granting them a foothold within…",
+          "tags": []
+        },
+        {
+          "title": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
+          "url": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-11-09T13:28:25+00:00",
+          "summary": "A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant to keep systems updated or running safely become part of the attack…",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "ChatGPT Enterprise now available in AWS Marketplace",
+          "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-11-09T19:00:00+00:00",
+          "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+          "tags": []
+        },
+        {
+          "title": "The Web Is More Than Enough, by Paul Ford",
+          "url": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-11-09T04:32:33+00:00",
+          "summary": "My comment on The Web Is More Than Enough, by Paul Ford — Hacker News. OK, this comment convinced me to give that a shot. Here's a thing I made in Three.js this morning - a Nudibranch themed Faberge Egg…",
+          "tags": []
+        },
+        {
+          "title": "Hide your slop PR descriptions behind",
+          "url": "https://simonwillison.net/2026/Nov/9/details-summary/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-11-09T04:25:05+00:00",
+          "summary": "Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document decisions and then…",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Trump claims election fraud again after crushing midterm defeat",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/09/trump-claims-election-fraud-after-crushing-midterm-defeat_6776233_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-09T20:36:10+00:00",
+          "summary": "After initially accepting results, 'I think the Democrats did a really good job,' Trump revives baseless fraud allegations.",
+          "tags": []
+        },
+        {
+          "title": "Jean Pisani-Ferry: 'China lacks a macroeconomic strategy capable of correcting its persistent imbalances'",
+          "url": "https://www.lemonde.fr/en/opinion/article/2026/11/09/jean-pisani-ferry-china-lacks-a-macroeconomic-strategy-capable-of-correcting-its-persistent-imbalances_6776200_23.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-09T19:30:00+00:00",
+          "summary": "The country suffers from an oversized and predatory industrial sector, underdeveloped services and a weakened real estate market, writes economist Jean Pisani-Ferry in his column.",
+          "tags": []
+        },
+        {
+          "title": "'Crumbs': French PM's 1.6% minimum wage increase fails to placate unions",
+          "url": "https://www.france24.com/en/france/20261109-french-pm-lecornu-announces-increase-minimum-wage-bid-to-calm-protests",
+          "source": "France 24",
+          "section": "france",
+          "published": "2026-11-09T13:52:34+00:00",
+          "summary": "French Prime Minister Sébastien Lecornu announced on Monday that a planned 1.6% increase in the minimum wage would be brought forward from January to December after holding talks with trade unions and business leaders over the cost-of-living crisis that has…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Bruins announce details of Bergeron’s No. 37 retirement ceremony",
+          "url": "https://www.stanleycupofchowder.com/latest-news/59708/bruins-announce-details-of-bergerons-no-37-retirement-ceremony",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-11-09T15:47:48+00:00",
+          "summary": "Ahead of his induction into the Hockey Hall of Fame tonight, details have emerged about what fans can expect on Dec. 1 when Patrice Bergeron’s No. 37 is sent to the TD Garden rafters. Bergeron’s number will be the 14th one retired by the Bruins. The Boston…",
+          "tags": []
+        },
+        {
+          "title": "Why Jacob Fowler feels familiar",
+          "url": "https://www.habseyesontheprize.com/montreal-canadiens-why-jacob-fowler-feels-familiar-habs-goaltender-carey-price-patrick-roy-jakub-dobes/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-11-09T11:00:00+00:00",
+          "summary": "Jacob Fowler stopped 46 shots against the St. Louis Blues on October 27, with about half of them fired at him in the third period, to give the Montreal Canadiens a 2-0 win and himself a place in the franchise record books. It was one of seven consecutive…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Zverev: “I don’t think I have much else to prove”",
+          "url": "https://www.tennismajors.com/atp/nitto-atp-finals-atp/zverev-i-dont-think-i-have-much-else-to-prove-866520.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-11-09T20:14:04+00:00",
+          "summary": "Six days before the ATP Finals in Turin, the world No. 1 told Corriere della Sera that reaching the top of the rankings had an even more special taste after a career of ups and downs. Alexander Zverev also pushed back at questions about winning his two Grand…",
+          "tags": []
+        },
+        {
+          "title": "Gauff opens WTA Finals with gritty win over Pegula",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/c3x2w9w078kko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-11-09T07:20:06+00:00",
+          "summary": "Former champion Coco Gauff beats fellow American Jessica Pegula in her opening match of the WTA Finals at Indian Wells.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 67,
+  "sources_line": "BBC TENNIS, FRANCE 24, HABS EYES ON THE PRIZE, KNOWBE4, LE MONDE, OPENAI, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 13,
+      "low": 6,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 10,
+      "low": 5,
+      "conditions": "light rain"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-102895",
+      "vendor": "GPUStack",
+      "product": "GPUStack",
+      "name": "GPUStack Improper Authentication Vulnerability",
+      "summary": "GPUStack contains an improper authentication vulnerability which could allow unauthenticated administrative access, including user and model changes, persistent administrator API-key creation, disclosure of worker and…",
+      "added": "2026-11-09",
+      "due": "2026-11-12",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-102895"
+    },
+    {
+      "cve": "CVE-2026-123158",
+      "vendor": "OpenBSD",
+      "product": "OpenSSH",
+      "name": "OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability",
+      "summary": "OpenBSD OpenSSH on Linux contains an unexpected status code or return value vulnerability that could allow for authentication bypass.",
+      "added": "2026-11-09",
+      "due": "2026-11-12",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-123158"
+    },
+    {
+      "cve": "CVE-2026-116779",
+      "vendor": "SignalWire",
+      "product": "FreeSwitch",
+      "name": "SignalWire FreeSwitch Code Injection Vulnerability",
+      "summary": "SignalWire FreeSwitch contains a code injection vulnerability that permits configuration and credential disclosure, arbitrary call control, and command execution.",
+      "added": "2026-11-09",
+      "due": "2026-11-12",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-116779"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-11-12",
+      "away": "MTL",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Chennai Open",
+        "start": "2026-10-31",
+        "end": "2026-11-10",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Bybit Stockholm Open",
+        "start": "2026-11-07",
+        "end": "2026-11-15",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "FAGE WTA Finals Indian Wells",
+        "start": "2026-11-08",
+        "end": "2026-11-16",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Austin 125",
+        "start": "2026-11-08",
+        "end": "2026-11-16",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "DIRECTV Open Presentado por Compesar",
+        "start": "2026-11-08",
+        "end": "2026-11-15",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 8099.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 6485.0
+        },
+        {
+          "rank": 3,
+          "name": "Mirra Andreeva",
+          "points": 6306.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Alexander Zverev",
+          "points": 9550.0
+        },
+        {
+          "rank": 2,
+          "name": "Jannik Sinner",
+          "points": 9450.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 7100.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "IEB+ Argentina Open",
+        "tour": "WTA",
+        "start": "2026-11-23",
+        "end": "2026-11-30",
+        "major": false
+      },
+      {
+        "name": "Open Angers Loire Trélazé",
+        "tour": "WTA",
+        "start": "2026-11-30",
+        "end": "2026-12-07",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 10
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "à droite",
+        "en": "to the right"
+      },
+      {
+        "fr": "manger",
+        "en": "to eat, eating, eaten"
+      },
+      {
+        "fr": "serveur",
+        "en": "server, waiter, waiter's"
+      }
+    ],
+    "quiz": {
+      "fr": "à droite",
+      "en": "to the right"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
