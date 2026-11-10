@@ -1,0 +1,354 @@
+{
+  "date": "2026-11-10",
+  "date_long": "Tuesday, November 10, 2026",
+  "date_mast": "TUESDAY 10 NOVEMBER 2026",
+  "built_at": "2026-11-10T18:34:17.935923+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
+          "url": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-11-10T15:58:44+00:00",
+          "summary": "The threat actor known as Blind Eagle has resurfaced with a new campaign targeting organizations in Latin America through judicial and administrative-themed phishing lures to deliver a remote access trojan (RAT) that shares its lineage with AsyncRAT and…",
+          "tags": []
+        },
+        {
+          "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
+          "url": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-11-10T12:15:31+00:00",
+          "summary": "An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malicious apps, Binance warned today. Apple's updates for iOS 26…",
+          "tags": []
+        },
+        {
+          "title": "Chat Feels Safer Than Email. Attackers Are Counting on It.",
+          "url": "https://blog.knowbe4.com/chat-feels-safer-than-email.-attackers-are-counting-on-it",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-11-10T15:47:34+00:00",
+          "summary": "Lead Analysts : Prabhakaran R and Jeewan Singh Jalal",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+          "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-11-10T07:28:21+00:00",
+          "summary": "Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and…",
+          "tags": []
+        },
+        {
+          "title": "Quoting Prompting Claude Fable 5.2",
+          "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-11-10T05:34:14+00:00",
+          "summary": "Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. In Anthropic’s testing on small coding tasks, when a prompt said nothing about ownership or presented the code base as someone else’s, the model tended to add to…",
+          "tags": []
+        },
+        {
+          "title": "Helping caregivers use AI in everyday life",
+          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-11-10T12:00:00+00:00",
+          "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "France's wealthiest citizens cut their income tax bill in 2025",
+          "url": "https://www.lemonde.fr/en/politics/article/2026/11/10/france-s-wealthiest-citizens-cut-their-income-tax-bill-in-2025_6777030_5.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-10T17:00:03+00:00",
+          "summary": "Income tax revenues increased by 1% in 2025. But for the wealthiest 0.1% of taxpayers, who are better able to manage their resources and their declared amounts, the average tax paid actually fell by 9%, according to a study by the Finance Ministry.",
+          "tags": []
+        },
+        {
+          "title": "Pete Hegseth calls impeachment a 'farce,' defends foreign policy record",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/10/pete-hegseth-calls-impeachment-a-farce-defends-foreign-policy-record_6777029_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-10T16:44:49+00:00",
+          "summary": "President Trump also defended Hegseth, saying his work at the DOD was deserving of an 'A PLUS, PLUS, PLUS.'",
+          "tags": []
+        },
+        {
+          "title": "France vows sanctions for supermarket hacks as Iran rejects 'baseless accusations'",
+          "url": "https://www.france24.com/en/france/20261110-france-vows-tough-response-to-freezer-cyberattack-blamed-on-iran",
+          "source": "France 24",
+          "section": "france",
+          "published": "2026-11-10T07:43:55+00:00",
+          "summary": "France will seek European-level sanctions against Iran in response to cyberattacks on hundreds of supermarket fridges, Foreign Minister Jean-Noël Barrot said Tuesday, after accusing Tehran's Revolutionary Guards of orchestrating the October sabotage. Iran's…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Canadiens vs. Wild: Game preview, start time, Tale of the Tape, and how to watch",
+          "url": "https://www.habseyesontheprize.com/canadiens-minnesota-wild-2026-11-10-game-preview-start-time-tale-of-the-tape-and-how-to-watch-tv-listings/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-11-10T11:00:00+00:00",
+          "summary": "How to watch Game 18: Montreal Canadiens vs. Minnesota Wild Start time: 7:00 PM EST / 5:00 PM PDT In the Canadiens region: TSN2 (English), RDS (French) In the Wild region: MINNHL, Wild+ Streaming: RDS, TSN+ (Canada), ESPN+ (USA) Even flying apples couldn’t…",
+          "tags": []
+        },
+        {
+          "title": "Morning Skate: Enshrined",
+          "url": "https://www.stanleycupofchowder.com/morning-skate-open-threads/59705/morning-skate-enshrined",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-11-09T12:00:00+00:00",
+          "summary": "Welcome to a new week, folks! We’ve got a moment-of-a-lifetime tonight and had a wild matinée yesterday, so let’s get into it. B’s beat Panthers for fourth straight win In on-ice news, the Bruins beat the Florida Panthers 4-1 at TD Garden on Sunday afternoon…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Etcheverry withdraws from Stockholm with left calf issue, Tirante gets walkover",
+          "url": "https://www.tennismajors.com/atp/stockholm-open-atp-250-atp/etcheverry-withdraws-from-stockholm-with-left-calf-issue-tirante-gets-walkover-866603.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-11-10T16:31:56+00:00",
+          "summary": "Fifth seed Tomas Martin Etcheverry's all-Argentine last-16 clash with Thiago Agustin Tirante at the Stockholm ATP 250 never took place, after a soleus muscle problem in his left leg forced him out on Tuesday. The 27-year-old, who won his first ATP title in…",
+          "tags": []
+        },
+        {
+          "title": "Hot mics, Andreeva ‘diva’ drama and a stopgap finale at Indian Wells bail out the WTA | Tumaini Carayol",
+          "url": "https://www.theguardian.com/sport/2026/nov/10/hot-mics-andreeva-diva-drama-and-a-stopgap-finale-at-indian-wells-bail-out-the-wta",
+          "source": "Guardian Tennis",
+          "section": "tennis",
+          "published": "2026-11-10T14:25:05+00:00",
+          "summary": "Finals have hit California desert after a stormy few years and pre-tournament kerfuffle has added to the fun Towards the end of a positive day for Mirra Andreeva, one of the brightest young stars of women’s tennis, the 19-year-old approached the broadcast…",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 68,
+  "sources_line": "FRANCE 24, GUARDIAN TENNIS, HABS EYES ON THE PRIZE, KNOWBE4, LE MONDE, OPENAI, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 13,
+      "low": 6,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 13,
+      "low": 8,
+      "conditions": "showers"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-102895",
+      "vendor": "GPUStack",
+      "product": "GPUStack",
+      "name": "GPUStack Improper Authentication Vulnerability",
+      "summary": "GPUStack contains an improper authentication vulnerability which could allow unauthenticated administrative access, including user and model changes, persistent administrator API-key creation, disclosure of worker and…",
+      "added": "2026-11-09",
+      "due": "2026-11-12",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-102895"
+    },
+    {
+      "cve": "CVE-2026-123158",
+      "vendor": "OpenBSD",
+      "product": "OpenSSH",
+      "name": "OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability",
+      "summary": "OpenBSD OpenSSH on Linux contains an unexpected status code or return value vulnerability that could allow for authentication bypass.",
+      "added": "2026-11-09",
+      "due": "2026-11-12",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-123158"
+    },
+    {
+      "cve": "CVE-2026-116779",
+      "vendor": "SignalWire",
+      "product": "FreeSwitch",
+      "name": "SignalWire FreeSwitch Code Injection Vulnerability",
+      "summary": "SignalWire FreeSwitch contains a code injection vulnerability that permits configuration and credential disclosure, arbitrary call control, and command execution.",
+      "added": "2026-11-09",
+      "due": "2026-11-12",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-116779"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-11-12",
+      "away": "MTL",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Bybit Stockholm Open",
+        "start": "2026-11-07",
+        "end": "2026-11-15",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "FAGE WTA Finals Indian Wells",
+        "start": "2026-11-08",
+        "end": "2026-11-16",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Austin 125",
+        "start": "2026-11-08",
+        "end": "2026-11-16",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "DIRECTV Open Presentado por Compesar",
+        "start": "2026-11-08",
+        "end": "2026-11-15",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 8099.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 6485.0
+        },
+        {
+          "rank": 3,
+          "name": "Mirra Andreeva",
+          "points": 6306.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Alexander Zverev",
+          "points": 9550.0
+        },
+        {
+          "rank": 2,
+          "name": "Jannik Sinner",
+          "points": 9450.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 7100.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "IEB+ Argentina Open",
+        "tour": "WTA",
+        "start": "2026-11-23",
+        "end": "2026-11-30",
+        "major": false
+      },
+      {
+        "name": "Open Angers Loire Trélazé",
+        "tour": "WTA",
+        "start": "2026-11-30",
+        "end": "2026-12-07",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 9
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "urgent",
+        "en": "urgent, immediate"
+      },
+      {
+        "fr": "télévision",
+        "en": "TV, television"
+      },
+      {
+        "fr": "aller",
+        "en": "let's, wasn't, to go"
+      }
+    ],
+    "quiz": {
+      "fr": "urgent",
+      "en": "urgent, immediate"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
