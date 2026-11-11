@@ -1,0 +1,354 @@
+{
+  "date": "2026-11-11",
+  "date_long": "Wednesday, November 11, 2026",
+  "date_mast": "WEDNESDAY 11 NOVEMBER 2026",
+  "built_at": "2026-11-11T18:33:20.410369+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+          "url": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-11-11T15:34:27+00:00",
+          "summary": "Cybersecurity researchers have disclosed details of a campaign in which an emerging agentic penetration testing platform called AntiFox has been used to steal Amazon Web Services (AWS) credentials and pivot laterally into compromised environments. \"In several…",
+          "tags": []
+        },
+        {
+          "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+          "url": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-11-11T15:12:59+00:00",
+          "summary": "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments.",
+          "tags": []
+        },
+        {
+          "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+          "url": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-11-11T08:17:53+00:00",
+          "summary": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws. These cover 726 flaws in Windows, 174 in Office, 61 in Developer Tools…",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Anthropic's IPO roadshow video",
+          "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-11-11T15:11:59+00:00",
+          "summary": "Anthropic's IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on \"Approach to compute\" with co-founder Tom Brown is…",
+          "tags": []
+        },
+        {
+          "title": "Gilbert + Tobin rethinks the business of law with AI",
+          "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-11-12T00:00:00+00:00",
+          "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+          "tags": []
+        },
+        {
+          "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+          "source": "Google AI",
+          "section": "ai",
+          "published": "2026-11-11T18:00:00+00:00",
+          "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Sweden amends constitution to allow revoking citizenship of dual nationals",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/11/sweden-amends-constitution-to-allow-revoking-citizenship-of-dual-nationals_6778020_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-11T16:56:37+00:00",
+          "summary": "The amendment would make it possible to introduce laws where Swedish nationality of dual nationals can be revoked if they received it on a 'false basis' or if they were convicted of crimes that seriously hurt Sweden's 'vital interests.' It will be up to the…",
+          "tags": []
+        },
+        {
+          "title": "Merz threatens to cut EU funds for member states that don't support Ukraine",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/11/merz-threatens-to-cut-eu-funds-for-member-states-that-don-t-support-ukraine_6778019_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-11T16:42:35+00:00",
+          "summary": "After Bulgaria, Hungary, Slovakia and the Czech Republic asked to be exempted from Ukraine's next funding scheme, Germany's chancellor responded firmly, calling on EU countries across the bloc to contribute financially to Kyiv.",
+          "tags": []
+        },
+        {
+          "title": "Tens of thousands attend Polish nationalist march days afer shootings",
+          "url": "https://www.france24.com/en/tens-of-thousands-attend-polish-nationalist-march-days-afer-shootings",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-11-11T17:08:32+00:00",
+          "summary": "Tens of thousands of Polish nationalist sympathisers gathered in Warsaw Wednesday for an annual Independence Day March, just days after a deadly shooting spree in Krakow that shook the country. The event is held each November 11 to commemorate the ending in…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Bottom Six Minutes: Can any NHL officials explain this?",
+          "url": "https://www.habseyesontheprize.com/montreal-canadiens-nhl-officiating-refs-habs-news/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-11-11T15:52:58+00:00",
+          "summary": "The Montreal Canadiens lost in overtime to the Minnesota Wild on Tuesday night. It was a joyous occasion, with Carey Price being celebrated by Habs fans in the Bell Centre, a well-deserved farewell to one of the greatest goaltenders to grace that building. It…",
+          "tags": []
+        },
+        {
+          "title": "Preview: Bruins look to extend streak against Panthers",
+          "url": "https://www.stanleycupofchowder.com/26-27-game-coverage/59682/preview-bruins-look-to-extend-streak-against-panthers",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-11-08T12:00:00+00:00",
+          "summary": "Just the facts Know your enemy Game notes The Boston Bruins will welcome the Florida Panthers to the TD Garden for some matinee action in the two club’s first meeting of the season. The Bruins will then see the Panthers Dec. 8, Dec. 15 and April 9, 2027. But…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Fritz beats Norrie in Stockholm for fourth quarter-final in four weeks",
+          "url": "https://www.tennismajors.com/atp/fritz-beats-norrie-in-stockholm-for-fourth-quarter-final-in-four-weeks-866669.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-11-11T18:08:02+00:00",
+          "summary": "Top seed Taylor Fritz beat Britain's Cameron Norrie 7-5, 6-3 in the last 16 of the Stockholm Open on Wednesday to extend his indoor run. The American, a finalist in Lyon, a semi-finalist in Basel and a quarter-finalist in Paris over the previous three weeks…",
+          "tags": []
+        },
+        {
+          "title": "Raducanu to return at January's United Cup after injury absence",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cmwyvgvlv2qwo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-11-11T18:05:25+00:00",
+          "summary": "Emma Raducanu will make her return to tennis in the United Cup team competition in Australia in the first week of 2027.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 69,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, GOOGLE AI, HABS EYES ON THE PRIZE, LE MONDE, OPENAI, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 12,
+      "low": 5,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 16,
+      "low": 11,
+      "conditions": "overcast"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-124194",
+      "vendor": "Microsoft",
+      "product": "Office",
+      "name": "Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability",
+      "summary": "Microsoft Office Outlook contains a missing user interaction for potentially unsafe action vulnerability that allows an unauthorized attacker to perform spoofing over a network.",
+      "added": "2026-11-10",
+      "due": "2026-11-24",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-124194"
+    },
+    {
+      "cve": "CVE-2026-111793",
+      "vendor": "Openwave Messaging Limited",
+      "product": "Webtop Media Transcoder",
+      "name": "Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability",
+      "summary": "Openwave Messaging Limited Webtop Media Transcoder contains an incorrect resource transfer between spheres vulnerability that may allow an authenticated user to process and convert unintended document types if bypassing…",
+      "added": "2026-11-10",
+      "due": "2026-11-24",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-111793"
+    },
+    {
+      "cve": "CVE-2026-20320",
+      "vendor": "Cisco",
+      "product": "BroadWorks",
+      "name": "Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability",
+      "summary": "Cisco BroadWorks contains an improper restriction of XML external entity reference vulnerability that could allow an unauthenticated, remote attacker to read sensitive configuration information on an affected system.",
+      "added": "2026-11-10",
+      "due": "2026-11-24",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-20320"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-11-12",
+      "away": "MTL",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Bybit Stockholm Open",
+        "start": "2026-11-07",
+        "end": "2026-11-15",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "FAGE WTA Finals Indian Wells",
+        "start": "2026-11-08",
+        "end": "2026-11-16",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Austin 125",
+        "start": "2026-11-08",
+        "end": "2026-11-16",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "DIRECTV Open Presentado por Compesar",
+        "start": "2026-11-08",
+        "end": "2026-11-15",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 8099.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 6485.0
+        },
+        {
+          "rank": 3,
+          "name": "Mirra Andreeva",
+          "points": 6306.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Alexander Zverev",
+          "points": 9550.0
+        },
+        {
+          "rank": 2,
+          "name": "Jannik Sinner",
+          "points": 9450.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 7100.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "IEB+ Argentina Open",
+        "tour": "WTA",
+        "start": "2026-11-23",
+        "end": "2026-11-30",
+        "major": false
+      },
+      {
+        "name": "Open Angers Loire Trélazé",
+        "tour": "WTA",
+        "start": "2026-11-30",
+        "end": "2026-12-07",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 8
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "public",
+        "en": "public, audience's, audience"
+      },
+      {
+        "fr": "étudiantes",
+        "en": "students"
+      },
+      {
+        "fr": "payer",
+        "en": "to pay, to pay for"
+      }
+    ],
+    "quiz": {
+      "fr": "public",
+      "en": "public, audience's, audience"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
