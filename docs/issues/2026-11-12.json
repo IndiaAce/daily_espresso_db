@@ -1,0 +1,332 @@
+{
+  "date": "2026-11-12",
+  "date_long": "Thursday, November 12, 2026",
+  "date_mast": "THURSDAY 12 NOVEMBER 2026",
+  "built_at": "2026-11-12T18:46:26.744572+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
+          "url": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-11-12T11:51:31+00:00",
+          "summary": "Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users. Every check defenders normally lean on to judge a link came back clean, and the operator designed it that way on purpose. The Threat Research team at…",
+          "tags": []
+        },
+        {
+          "title": "The Hidden Relay: Inside a Device Code Phishing Kit That Never Shows the Code",
+          "url": "https://blog.knowbe4.com/the-hidden-relay-inside-a-device-code-phishing-kit-that-never-shows-the-code",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-11-12T16:04:01+00:00",
+          "summary": "Lead Analysts : Maddhav Grandy, Prabhakaran R and Jeewan Singh Jalal",
+          "tags": []
+        },
+        {
+          "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
+          "url": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-11-12T15:00:10+00:00",
+          "summary": "Endpoint management platforms can become powerful attack tools when compromised, allowing hackers to deploy malware, execute commands, and disrupt thousands of devices. Action1 explains how customer-controlled cryptographic authorization can prevent attackers…",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Holiday Extras is rethinking what it can build with Codex",
+          "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-11-12T09:30:00+00:00",
+          "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+          "tags": []
+        },
+        {
+          "title": "Gemini Decisions API",
+          "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-11-11T22:03:25+00:00",
+          "summary": "Gemini Decisions API Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's…",
+          "tags": []
+        },
+        {
+          "title": "aws-emulator",
+          "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-11-11T21:18:30+00:00",
+          "summary": "aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of agents - 29,684 commits in the first three…",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "The chilling statements of the Trappes racist shooter in custody: 'I hope I will become an example'",
+          "url": "https://www.lemonde.fr/en/france/article/2026/11/12/the-chilling-statements-of-the-trappes-racist-shooter-in-custody-i-hope-i-will-become-an-example_6778939_7.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-12T18:30:03+00:00",
+          "summary": "Kevin Tessier is suspected of shooting at eight people, killing one, in the Paris suburbs of Trappes and La Verrière. Le Monde reveals what he said in police custody.",
+          "tags": []
+        },
+        {
+          "title": "Italy evacuates few schools in second day of bomb threats",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/12/italy-evacuates-few-schools-in-second-day-of-bomb-threats_6778906_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-12T18:14:30+00:00",
+          "summary": "The day after a wave of emailed bomb threats led schools in several European countries to close, Italy closed only around 2% of schools, with Italian Prime Minister Giorgia Meloni saying a second wave of bomb threats was not 'concrete.'",
+          "tags": []
+        },
+        {
+          "title": "Russia's Vladimir Putin suggests no Ukraine compromise in meeting with US envoys",
+          "url": "https://www.france24.com/en/video/20261112-russia-s-vladimir-putin-suggests-no-ukraine-compromise-in-meeting-with-us-envoys",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-11-12T16:46:14+00:00",
+          "summary": "Russia's President Vladimir Putin indicated on Thursday, November 12, that the Kremlin would not compromise on its hardline demands to end the war in Ukraine, but offered a short-term ceasefire in a key frontline city during a meeting with US envoys. FRANCE…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Canadiens @ Bruins: Game preview, start time, Tale of the Tape, and how to watch",
+          "url": "https://www.habseyesontheprize.com/canadiens-bruins-2026-11-12-game-preview-start-time-tale-of-the-tape-and-how-to-watch-tv-listings/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-11-12T13:00:00+00:00",
+          "summary": "How to watch Game 19: Montreal Canadiens @ Boston Bruins Start time: 7:00 PM EST / 5:00 PM PDT In the Canadiens region: TSN2 (English), RDS (French) In the Bruins region: NESN Streaming: RDS, TSN+ (Canada), ESPN+ (USA) The Montreal Canadiens played an…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Rune pulls out of Stockholm quarter-final against Fritz with hamstring injury",
+          "url": "https://www.tennismajors.com/atp/rune-pulls-out-of-stockholm-quarter-final-against-fritz-with-hamstring-injury-866833.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-11-12T18:14:25+00:00",
+          "summary": "Holger Rune withdrew minutes before his Stockholm Open quarter-final against Taylor Fritz on Thursday, citing a minor hamstring injury picked up the day before.",
+          "tags": []
+        },
+        {
+          "title": "Andreeva beats world number two Sabalenka to reach WTA semis",
+          "url": "https://www.bbc.co.uk/sport/tennis/videos/cqrmg2w1038ro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-11-12T14:57:38+00:00",
+          "summary": "Russia's Mirra Andreeva beats world number two and second seed Aryna Sabalenka 6-4 6-0 to reach the last four of the WTA Finals.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 70,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, KNOWBE4, LE MONDE, OPENAI, SIMON WILLISON, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [],
+  "kev": [
+    {
+      "cve": "CVE-2026-124194",
+      "vendor": "Microsoft",
+      "product": "Office",
+      "name": "Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability",
+      "summary": "Microsoft Office Outlook contains a missing user interaction for potentially unsafe action vulnerability that allows an unauthorized attacker to perform spoofing over a network.",
+      "added": "2026-11-10",
+      "due": "2026-11-24",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-124194"
+    },
+    {
+      "cve": "CVE-2026-111793",
+      "vendor": "Openwave Messaging Limited",
+      "product": "Webtop Media Transcoder",
+      "name": "Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability",
+      "summary": "Openwave Messaging Limited Webtop Media Transcoder contains an incorrect resource transfer between spheres vulnerability that may allow an authenticated user to process and convert unintended document types if bypassing…",
+      "added": "2026-11-10",
+      "due": "2026-11-24",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-111793"
+    },
+    {
+      "cve": "CVE-2026-20320",
+      "vendor": "Cisco",
+      "product": "BroadWorks",
+      "name": "Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability",
+      "summary": "Cisco BroadWorks contains an improper restriction of XML external entity reference vulnerability that could allow an unauthenticated, remote attacker to read sensitive configuration information on an affected system.",
+      "added": "2026-11-10",
+      "due": "2026-11-24",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-20320"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-03-17",
+      "venue": "Centre Bell",
+      "away": "BOS",
+      "away_score": 2,
+      "home": "MTL",
+      "home_score": 3,
+      "overtime": true,
+      "period": "OT"
+    },
+    "next_game": {
+      "date": "2026-11-12",
+      "away": "MTL",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Bybit Stockholm Open",
+        "start": "2026-11-07",
+        "end": "2026-11-15",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "FAGE WTA Finals Indian Wells",
+        "start": "2026-11-08",
+        "end": "2026-11-16",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Austin 125",
+        "start": "2026-11-08",
+        "end": "2026-11-16",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "DIRECTV Open Presentado por Compesar",
+        "start": "2026-11-08",
+        "end": "2026-11-15",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 8099.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 6485.0
+        },
+        {
+          "rank": 3,
+          "name": "Mirra Andreeva",
+          "points": 6306.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Alexander Zverev",
+          "points": 9550.0
+        },
+        {
+          "rank": 2,
+          "name": "Jannik Sinner",
+          "points": 9450.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 7100.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "IEB+ Argentina Open",
+        "tour": "WTA",
+        "start": "2026-11-23",
+        "end": "2026-11-30",
+        "major": false
+      },
+      {
+        "name": "Open Angers Loire Trélazé",
+        "tour": "WTA",
+        "start": "2026-11-30",
+        "end": "2026-12-07",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 7
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "portefeuille",
+        "en": "wallet, wallet’s"
+      },
+      {
+        "fr": "bonbon",
+        "en": "piece of candy, candy, candy's"
+      },
+      {
+        "fr": "tricoter",
+        "en": "to knit, knitting, knit"
+      }
+    ],
+    "quiz": {
+      "fr": "portefeuille",
+      "en": "wallet, wallet’s"
+    }
+  },
+  "counts": {
+    "stories": 12,
+    "kev": 3
+  }
+}
