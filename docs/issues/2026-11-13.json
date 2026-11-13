@@ -1,0 +1,354 @@
+{
+  "date": "2026-11-13",
+  "date_long": "Friday, November 13, 2026",
+  "date_mast": "FRIDAY 13 NOVEMBER 2026",
+  "built_at": "2026-11-13T18:27:52.632602+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "The Binance Aftershocks: Tracking the Nearly 130% Spike in Crypto Impersonation Scams",
+          "url": "https://blog.knowbe4.com/binance-heist-fallout-crypto-impersonation-phishing-scams",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-11-13T17:00:02+00:00",
+          "summary": "Lead Analysts : Emily Hanlon, James Dyer",
+          "tags": []
+        },
+        {
+          "title": "When an AI Agent Goes Wrong, Can You Stop It?",
+          "url": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-11-13T11:52:31+00:00",
+          "summary": "Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make the request because its identity has access to the records…",
+          "tags": []
+        },
+        {
+          "title": "How one AI agent exposed five critical enterprise security gaps",
+          "url": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-11-13T15:01:11+00:00",
+          "summary": "An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical AI agent security gaps and shares…",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Introducing ChatGPT Wallet",
+          "url": "https://openai.com/index/introducing-chatgpt-wallet",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-11-13T15:00:00+00:00",
+          "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+          "tags": []
+        },
+        {
+          "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+          "source": "Hugging Face",
+          "section": "ai",
+          "published": "2026-11-13T18:00:39+00:00",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "llm-gemini 0.37",
+          "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-11-12T22:55:19+00:00",
+          "summary": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini 4's pricing really confusing. Here's…",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Gadi Eisenkot accuses Netanyahu's 'racist' campaign against Israeli arabs",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/13/gadi-eisenkot-accuses-netanyahu-s-racist-campaign-against-israeli-arabs_6780259_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-13T18:22:44+00:00",
+          "summary": "Two Arab-majority parties, Raam and the Joint List, secured a combined 19 seats in last month's election, potentially emerging as kingmakers in Eisenkot's efforts to form a government.",
+          "tags": []
+        },
+        {
+          "title": "Marine Le Pen's illiberal offensive",
+          "url": "https://www.lemonde.fr/en/politics/article/2026/11/13/marine-le-pen-s-illiberal-offensive_6780226_5.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-13T18:00:04+00:00",
+          "summary": "The far-right Rassemblement National has stepped up public attacks against critical charities, unions, judges and journalists.",
+          "tags": []
+        },
+        {
+          "title": "'We have done all our homework' to get EU candidate status: Kosovo's PM Albin Kurti",
+          "url": "https://www.france24.com/en/tv-shows/talking-europe/20261113-we-have-done-all-our-homework-to-get-eu-candidate-status-kosovo-s-pm-albin-kurti",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-11-13T17:46:16+00:00",
+          "summary": "FRANCE 24 hosts Albin Kurti, the prime minister of Kosovo, a country that declared its independence from Serbia back in 2008 and sees itself as part of the European family. But four years after applying to join the EU, Kosovo has still not received candidate…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Morning Skate: Schooled",
+          "url": "https://www.stanleycupofchowder.com/morning-skate-open-threads/59745/morning-skate-schooled",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-11-13T12:00:00+00:00",
+          "summary": "Happy Friday, folks! We’ve got some wet and windy weather in the Boston area today, plus there’s an ongoing Outlook outage, so today’s productivity could be all over the place. Stay dry, stay busy, etc. On Homecoming Night at Causeway University, it was the…",
+          "tags": []
+        },
+        {
+          "title": "Friday Habs Headlines: Is Jacob Fowler the future?",
+          "url": "https://www.habseyesontheprize.com/montreal-canadiens-news-jacob-fowler-future-starter-habs-legends-arber-xhekaj-penalties-luke-mittlelstadt-casey-underrated-vladislav-tretiak-russia-canada-quinn-hughes-minnesota-wild/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-11-13T09:00:00+00:00",
+          "summary": "Montreal Canadiens news and notes A remarkable journey rolls on for Jacob Fowler. [ Montreal Gazette ] Can Fowler become the Habs’ next legendary goalie? [ TSN (Video) ] As Arber Xhekaj blossoms on the Canadiens’ blue line, why are the refs targeting him? […",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "November 13, 1988: The day Martina Navratilova and Chris Evert played for the 80th and final time",
+          "url": "https://www.tennismajors.com/wta-tour-news/november-13-1988-the-day-martina-navratilova-and-chris-evert-played-for-the-80th-and-final-time-304983.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-11-13T12:40:00+00:00",
+          "summary": "Every day, Tennis Majors takes you back to one of the most important moments in tennis history. On this day in 1988, Martina Navratilova beat Chris Evert for the 43rd time in their incredible rivalry",
+          "tags": []
+        },
+        {
+          "title": "Sports quiz of the week: records, rancour, rivarly and recriminations",
+          "url": "https://www.theguardian.com/sport/2026/nov/13/sports-quiz-week-football-hockey-nfl-rugby-golf-tennis-cricket",
+          "source": "Guardian Tennis",
+          "section": "tennis",
+          "published": "2026-11-13T08:00:14+00:00",
+          "summary": "Have you followed the big stories in football, rugby league, ice hockey, NFL, rugby union, golf, tennis and cricket? Continue reading...",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 71,
+  "sources_line": "BLEEPINGCOMPUTER, FRANCE 24 EUROPE, GUARDIAN TENNIS, HABS EYES ON THE PRIZE, HUGGING FACE, KNOWBE4, LE MONDE, OPENAI, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 8,
+      "low": 1,
+      "conditions": "heavy snow"
+    },
+    {
+      "code": "PAR",
+      "high": 11,
+      "low": 4,
+      "conditions": "overcast"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-124194",
+      "vendor": "Microsoft",
+      "product": "Office",
+      "name": "Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability",
+      "summary": "Microsoft Office Outlook contains a missing user interaction for potentially unsafe action vulnerability that allows an unauthorized attacker to perform spoofing over a network.",
+      "added": "2026-11-10",
+      "due": "2026-11-24",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-124194"
+    },
+    {
+      "cve": "CVE-2026-111793",
+      "vendor": "Openwave Messaging Limited",
+      "product": "Webtop Media Transcoder",
+      "name": "Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability",
+      "summary": "Openwave Messaging Limited Webtop Media Transcoder contains an incorrect resource transfer between spheres vulnerability that may allow an authenticated user to process and convert unintended document types if bypassing…",
+      "added": "2026-11-10",
+      "due": "2026-11-24",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-111793"
+    },
+    {
+      "cve": "CVE-2026-20320",
+      "vendor": "Cisco",
+      "product": "BroadWorks",
+      "name": "Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability",
+      "summary": "Cisco BroadWorks contains an improper restriction of XML external entity reference vulnerability that could allow an unauthenticated, remote attacker to read sensitive configuration information on an affected system.",
+      "added": "2026-11-10",
+      "due": "2026-11-24",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-20320"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-11-12",
+      "venue": "TD Garden",
+      "away": "MTL",
+      "away_score": 5,
+      "home": "BOS",
+      "home_score": 2,
+      "overtime": false,
+      "period": "REG"
+    },
+    "next_game": {
+      "date": "2026-11-14",
+      "away": "MIN",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Bybit Stockholm Open",
+        "start": "2026-11-07",
+        "end": "2026-11-15",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "FAGE WTA Finals Indian Wells",
+        "start": "2026-11-08",
+        "end": "2026-11-16",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Austin 125",
+        "start": "2026-11-08",
+        "end": "2026-11-16",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "DIRECTV Open Presentado por Compesar",
+        "start": "2026-11-08",
+        "end": "2026-11-15",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 8099.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 6485.0
+        },
+        {
+          "rank": 3,
+          "name": "Mirra Andreeva",
+          "points": 6306.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Alexander Zverev",
+          "points": 9550.0
+        },
+        {
+          "rank": 2,
+          "name": "Jannik Sinner",
+          "points": 9450.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 7100.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "IEB+ Argentina Open",
+        "tour": "WTA",
+        "start": "2026-11-23",
+        "end": "2026-11-30",
+        "major": false
+      },
+      {
+        "name": "Open Angers Loire Trélazé",
+        "tour": "WTA",
+        "start": "2026-11-30",
+        "end": "2026-12-07",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 6
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "avez-vous",
+        "en": "do you have"
+      },
+      {
+        "fr": "revient",
+        "en": "comes back, is coming back, gets back"
+      },
+      {
+        "fr": "mode",
+        "en": "fashion, fad"
+      }
+    ],
+    "quiz": {
+      "fr": "avez-vous",
+      "en": "do you have"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
