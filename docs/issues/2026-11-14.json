@@ -1,0 +1,354 @@
+{
+  "date": "2026-11-14",
+  "date_long": "Saturday, November 14, 2026",
+  "date_mast": "SATURDAY 14 NOVEMBER 2026",
+  "built_at": "2026-11-14T16:56:45.642928+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "KnowBe4 and AWS: Behind Every AI Advancement Is Strong Collaboration",
+          "url": "https://blog.knowbe4.com/knowbe4-and-aws-behind-every-ai-advancement-is-strong-collaboration",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-11-13T16:00:01+00:00",
+          "summary": "Delivering AI-native security awareness training through the KnowBe4 Platform to more than 70,000 users means collaboration.",
+          "tags": []
+        },
+        {
+          "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
+          "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-11-12T22:25:30+00:00",
+          "summary": "A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware.",
+          "tags": []
+        },
+        {
+          "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+          "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-11-12T20:15:16+00:00",
+          "summary": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide.",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "datasette-cluster-map 0.19",
+          "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-11-13T23:02:45+00:00",
+          "summary": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here's a…",
+          "tags": []
+        },
+        {
+          "title": "datasette-leaflet 0.3",
+          "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-11-13T22:30:54+00:00",
+          "summary": "Release: datasette-leaflet 0.3 OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header . Datasette table pages used the Referrer-Policy: no-referrer HTTP header, causing plugins that loaded tiles from…",
+          "tags": []
+        },
+        {
+          "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+          "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+          "source": "Hacker News",
+          "section": "ai",
+          "published": "2026-11-14T12:45:45+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Italy fines Meta $880mn over photo privacy",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/14/italy-fines-meta-880mn-over-photo-privacy_6780820_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-14T15:30:34+00:00",
+          "summary": "Italy's data protection authority accused Facebook's parent company of accessing users' photos 'without obtaining specific consent and without properly informing them.'",
+          "tags": []
+        },
+        {
+          "title": "Expect more flight cancelations, US transport chief says",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/14/expect-more-flight-cancelations-us-transport-chief-says_6780788_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-14T15:25:51+00:00",
+          "summary": "Transportation Secretary Sean Duffy said it remains 'safe to fly' after an hours-long ground stop, but warned of more flight cancelations as airlines grapple with thousands of stranded passengers",
+          "tags": []
+        },
+        {
+          "title": "Who are the 'street medics' showing up at protests around the world?",
+          "url": "https://www.france24.com/en/who-are-the-street-medics-showing-up-at-protests-around-the-world",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-11-14T12:19:19+00:00",
+          "summary": "From treating tear gas exposure to tending to injuries, street medics have become an increasingly common sight at protests all over the world. But who exactly are they and when did they start showing up at demonstrations? Story by Daniel Quinlan.",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Chris Kreider out 6-8 weeks with lower body injury",
+          "url": "https://www.habseyesontheprize.com/chris-kreider-out-6-8-weeks-with-lower-body-injury-montreal-canadiens-habs/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-11-14T15:56:59+00:00",
+          "summary": "Montreal Canadiens forward Chris Kreider will be out six-to-eight weeks with a lower-body injury, the team announced on Saturday. L'attaquant Chris Kreider (bas du corps) sera à l'écart du jeu pour approximativement 6 à 8 semaines. Forward Chris Kreider…",
+          "tags": []
+        },
+        {
+          "title": "Bruins vs. Wild PREVIEW: Boston looks to rebound against Minnesota",
+          "url": "https://www.stanleycupofchowder.com/bruins-gameday/59750/bruins-vs-wild-preview-boston-looks-to-rebound-against-minnesota",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-11-14T11:30:00+00:00",
+          "summary": "Just the Facts Game Preview There are two things you must know about the Minnesota Wild. First, they are pretty good. Just all around. The Wild are tied with the Canes in points, they lead the Central Division and Western Conference, they just pantsed the…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Diva? “Maybe I need a little more of that in myself”: Pegula and Andreeva, the WTA Finals ‘divas’, meet for the first time in the semi-finals",
+          "url": "https://www.tennismajors.com/wta-tour-news/wta-finals/diva-maybe-i-need-a-little-more-of-that-in-myself-pegula-and-andreeva-the-wta-finals-divas-meet-for-the-first-time-in-the-semi-finals-866881.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-11-14T16:11:49+00:00",
+          "summary": "A week after being caught on a hot mic calling Mirra Andreeva “a diva”, Jessica Pegula faces the Russian for the first time in the first semi-final of the WTA Finals in Indian Wells on Saturday.",
+          "tags": []
+        },
+        {
+          "title": "Sabalenka's season ended by Svitolina at WTA Finals",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cw30gl912vq9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-11-14T00:51:25+00:00",
+          "summary": "Aryna Sabalenka's season ends in disappointment as Elina Svitolina beats the former world number one to claim her place in the knockout stage at the WTA Finals.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 72,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, HACKER NEWS, KNOWBE4, LE MONDE, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 6,
+      "low": 0,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 11,
+      "low": 2,
+      "conditions": "overcast"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-114713",
+      "vendor": "UnrealIRCd",
+      "product": "UnrealIRCd",
+      "name": "UnrealIRCd Improper Neutralization of Delimiters Vulnerability",
+      "summary": "UnrealIRCd UnrealIRCd contains an improper neutralization of delimiters vulnerability that allows any user on a network with two or more linked servers to inject server-to-server commands that are executed with server…",
+      "added": "2026-11-13",
+      "due": "2026-11-16",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-114713"
+    },
+    {
+      "cve": "CVE-2026-123039",
+      "vendor": "Check Point",
+      "product": "Multiple Products",
+      "name": "Check Point Multiple Products Incorrect Permission Assignment for Critical Resource Vulnerability",
+      "summary": "Check Point Firewall, Multi-Domain Security Management Server, Scalable Platforms, Security Gateway, and Security Management Server contain an incorrect permissions assignment for critical resources vulnerability when…",
+      "added": "2026-11-13",
+      "due": "2026-11-16",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-123039"
+    },
+    {
+      "cve": "CVE-2026-124194",
+      "vendor": "Microsoft",
+      "product": "Office",
+      "name": "Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability",
+      "summary": "Microsoft Office Outlook contains a missing user interaction for potentially unsafe action vulnerability that allows an unauthorized attacker to perform spoofing over a network.",
+      "added": "2026-11-10",
+      "due": "2026-11-24",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-124194"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-11-12",
+      "venue": "TD Garden",
+      "away": "MTL",
+      "away_score": 5,
+      "home": "BOS",
+      "home_score": 2,
+      "overtime": false,
+      "period": "REG"
+    },
+    "next_game": {
+      "date": "2026-11-14",
+      "away": "MIN",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Bybit Stockholm Open",
+        "start": "2026-11-07",
+        "end": "2026-11-15",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "FAGE WTA Finals Indian Wells",
+        "start": "2026-11-08",
+        "end": "2026-11-16",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Austin 125",
+        "start": "2026-11-08",
+        "end": "2026-11-16",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "DIRECTV Open Presentado por Compesar",
+        "start": "2026-11-08",
+        "end": "2026-11-15",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 8099.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 6485.0
+        },
+        {
+          "rank": 3,
+          "name": "Mirra Andreeva",
+          "points": 6306.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Alexander Zverev",
+          "points": 9550.0
+        },
+        {
+          "rank": 2,
+          "name": "Jannik Sinner",
+          "points": 9450.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 7100.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "IEB+ Argentina Open",
+        "tour": "WTA",
+        "start": "2026-11-23",
+        "end": "2026-11-30",
+        "major": false
+      },
+      {
+        "name": "Open Angers Loire Trélazé",
+        "tour": "WTA",
+        "start": "2026-11-30",
+        "end": "2026-12-07",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 5
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "vous vous êtes",
+        "en": "You have"
+      },
+      {
+        "fr": "pourtant",
+        "en": "yet, though, however"
+      },
+      {
+        "fr": "vocabulaire",
+        "en": "vocabulary"
+      }
+    ],
+    "quiz": {
+      "fr": "vous vous êtes",
+      "en": "You have"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
