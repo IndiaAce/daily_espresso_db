@@ -1,0 +1,381 @@
+{
+  "date": "2026-11-15",
+  "date_long": "Sunday, November 15, 2026",
+  "date_mast": "SUNDAY 15 NOVEMBER 2026",
+  "built_at": "2026-11-15T17:38:29.268219+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Cursor confirms security breach led to malicious Claude Code extension",
+          "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-11-14T17:27:25+00:00",
+          "summary": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI.",
+          "tags": []
+        },
+        {
+          "title": "Report: Online Scams Nearly Doubled in 2026",
+          "url": "https://blog.knowbe4.com/report-online-scams-nearly-doubled-in-2026",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-11-12T21:00:01+00:00",
+          "summary": "A new report from Akamai has found that online scams surpassed traditional phishing attacks for the first time in 2026, nearly doubling from about 3.2 million to approximately 6.4 million year-over-year. The researchers say this signals a “shift toward…",
+          "tags": []
+        },
+        {
+          "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
+          "url": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-11-12T06:42:47+00:00",
+          "summary": "Starting Tuesday, an attacker used stolen credentials for 4,837 GitHub accounts to plant a secret stealer in repositories those accounts could write to, according to Aikido Security, a security software company. The stealer is built to take the secrets and…",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "datasette-llm 0.1a11",
+          "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-11-14T23:59:28+00:00",
+          "summary": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM…",
+          "tags": []
+        },
+        {
+          "title": "datasette-vega 0.7",
+          "url": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-11-14T17:09:09+00:00",
+          "summary": "Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite ) against data in a table or custom query. The last release was in July 2018! I finally bumped it for compatibility with the latest…",
+          "tags": []
+        },
+        {
+          "title": "All AI-generated code should be Open Source",
+          "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+          "source": "Hacker News",
+          "section": "ai",
+          "published": "2026-11-15T14:46:58+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "'French Fractures' survey: Amid polarized political landscape, people no longer see elections as a solution",
+          "url": "https://www.lemonde.fr/en/politics/article/2026/11/15/french-fractures-survey-amid-polarized-political-landscape-people-no-longer-see-elections-as-a-solution_6781579_5.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-15T17:21:26+00:00",
+          "summary": "Conducted for Le Monde by Ipsos BVA-CESI Engineering School, this major annual survey on French values provides a valuable snapshot of the country's political mood ahead of the presidential election. The survey reveals a society increasingly angry, with a…",
+          "tags": []
+        },
+        {
+          "title": "Estonia to close Russia border after 'sabotage' bid",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/15/estonia-to-close-russia-border-after-sabotage-bid_6781546_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-15T17:01:58+00:00",
+          "summary": "The Baltic country made the move after stopping what it said was an attempted arson attack by Russia's GRU military intelligence on a drone factory.",
+          "tags": []
+        },
+        {
+          "title": "How did over 2,000 migrants reach the Canaries in just 48 hours?",
+          "url": "https://www.france24.com/en/how-did-over-2-000-migrants-reach-the-canaries-in-just-48-hours",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-11-15T16:58:40+00:00",
+          "summary": "Spain says nearly 2,200 migrants have arrived by boat to the Canary Islands this weekend. The strip of the Atlantic Ocean between West Africa and the Canary Islands is one of the world's deadliest migration routes – and the journey is usually made with…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Laval @ Rochester recap: Sasha Pastujov hat trick not enough as Laval falls in overtime",
+          "url": "https://www.habseyesontheprize.com/laval-rochester-2026-11-14-recap-score-highlights-sasha-pastujov-hat-trick-not-enough-as-laval-falls-in-overtime-luke-mittelstadt/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-11-15T13:00:00+00:00",
+          "summary": "The Laval Rocket and Rochester Americans faced off for the second game of their back-to-back. The Rocket won the opening matchup 3-1 thanks to a pair of goals from Samuel Poulin and a strong effort by Kevin Mandolese in net. A win would strengthen Laval’s…",
+          "tags": []
+        },
+        {
+          "title": "Public Skate: Bruins vs. Wild",
+          "url": "https://www.stanleycupofchowder.com/gameday-open-threads/59754/public-skate-bruins-vs-wild",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-11-14T22:00:00+00:00",
+          "summary": "Welcome to Saturday Night Hockey, folks! Hopefully your Saturday has been a decent one so far. The B’s will host the Minnesota Wild at TD Garden tonight in another good “where does this team stand?” game, especially after Thursday’s disappointment against…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Andreeva vs Svitolina: unbeaten debutant takes on 2018 champion for WTA Finals title",
+          "url": "https://www.tennismajors.com/wta-tour-news/wta-finals/andreeva-vs-svitolina-unbeaten-debutant-takes-on-2018-champion-for-wta-finals-title-867055.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-11-15T17:28:05+00:00",
+          "summary": "Mirra Andreeva, 19, can become the first teenager to win the WTA Finals since Maria Sharapova in 2004 when she faces Elina Svitolina in Sunday's final in Indian Wells. The Russian beat the Ukrainian 6-4, 6-0 in their opening group match; the 2018 champion…",
+          "tags": []
+        },
+        {
+          "title": "Zverev claims first win as world number one at ATP Finals",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cm5y1grdy3w2o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-11-15T15:29:34+00:00",
+          "summary": "Alexander Zverev claims his first victory as world number one as he sweeps aside Rafael Jodar in the opening match of the ATP Finals.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 73,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, HACKER NEWS, KNOWBE4, LE MONDE, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 9,
+      "low": 0,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 13,
+      "low": 6,
+      "conditions": "showers"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-114713",
+      "vendor": "UnrealIRCd",
+      "product": "UnrealIRCd",
+      "name": "UnrealIRCd Improper Neutralization of Delimiters Vulnerability",
+      "summary": "UnrealIRCd UnrealIRCd contains an improper neutralization of delimiters vulnerability that allows any user on a network with two or more linked servers to inject server-to-server commands that are executed with server…",
+      "added": "2026-11-13",
+      "due": "2026-11-16",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-114713"
+    },
+    {
+      "cve": "CVE-2026-123039",
+      "vendor": "Check Point",
+      "product": "Multiple Products",
+      "name": "Check Point Multiple Products Incorrect Permission Assignment for Critical Resource Vulnerability",
+      "summary": "Check Point Firewall, Multi-Domain Security Management Server, Scalable Platforms, Security Gateway, and Security Management Server contain an incorrect permissions assignment for critical resources vulnerability when…",
+      "added": "2026-11-13",
+      "due": "2026-11-16",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-123039"
+    },
+    {
+      "cve": "CVE-2026-124194",
+      "vendor": "Microsoft",
+      "product": "Office",
+      "name": "Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability",
+      "summary": "Microsoft Office Outlook contains a missing user interaction for potentially unsafe action vulnerability that allows an unauthorized attacker to perform spoofing over a network.",
+      "added": "2026-11-10",
+      "due": "2026-11-24",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-124194"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-11-12",
+      "venue": "TD Garden",
+      "away": "MTL",
+      "away_score": 5,
+      "home": "BOS",
+      "home_score": 2,
+      "overtime": false,
+      "period": "REG"
+    },
+    "next_game": {
+      "date": "2026-11-17",
+      "away": "LAK",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "FAGE WTA Finals Indian Wells",
+        "start": "2026-11-08",
+        "end": "2026-11-16",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Austin 125",
+        "start": "2026-11-08",
+        "end": "2026-11-16",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "LP Open by IND",
+        "start": "2026-11-15",
+        "end": "2026-11-23",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Nitto ATP Finals",
+        "start": "2026-11-15",
+        "end": "2026-11-23",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Carlos Alcaraz",
+        "last": null,
+        "next": {
+          "event": "Nitto ATP Finals",
+          "grouping": "Men's Singles",
+          "round": "Group Stage",
+          "date": "2026-11-16",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Frances Tiafoe",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Frances Tiafoe",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 8099.0
+        },
+        {
+          "rank": 2,
+          "name": "Aryna Sabalenka",
+          "points": 6485.0
+        },
+        {
+          "rank": 3,
+          "name": "Mirra Andreeva",
+          "points": 6306.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Alexander Zverev",
+          "points": 9320.0
+        },
+        {
+          "rank": 2,
+          "name": "Jannik Sinner",
+          "points": 7950.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 6100.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "IEB+ Argentina Open",
+        "tour": "WTA",
+        "start": "2026-11-23",
+        "end": "2026-11-30",
+        "major": false
+      },
+      {
+        "name": "Open Angers Loire Trélazé",
+        "tour": "WTA",
+        "start": "2026-11-30",
+        "end": "2026-12-07",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 4
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "en colère",
+        "en": "angry"
+      },
+      {
+        "fr": "marcheras",
+        "en": "will walk, will work"
+      },
+      {
+        "fr": "morts",
+        "en": "deaths, died, dead"
+      }
+    ],
+    "quiz": {
+      "fr": "en colère",
+      "en": "angry"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
