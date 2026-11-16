@@ -1,0 +1,381 @@
+{
+  "date": "2026-11-16",
+  "date_long": "Monday, November 16, 2026",
+  "date_mast": "MONDAY 16 NOVEMBER 2026",
+  "built_at": "2026-11-16T20:54:09.539749+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
+          "url": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-11-16T19:57:13+00:00",
+          "summary": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework.",
+          "tags": []
+        },
+        {
+          "title": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
+          "url": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-11-16T13:27:20+00:00",
+          "summary": "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect us aren't always doing their job. Meanwhile, AI is making…",
+          "tags": []
+        },
+        {
+          "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
+          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-11-16T16:43:24+00:00",
+          "summary": "Microsoft says a software bug introduced in July caused last week's worldwide Microsoft 365 outage, triggering a cascading failure that left more than 80% of its networking gateway servers unresponsive.",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Broadening access to AI for scientists",
+          "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-11-16T17:00:00+00:00",
+          "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+          "tags": []
+        },
+        {
+          "title": "datasette-maplibre 0.1a0",
+          "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-11-15T23:58:36+00:00",
+          "summary": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub .) I…",
+          "tags": []
+        },
+        {
+          "title": "datasette 1.0a43",
+          "url": "https://simonwillison.net/2026/Nov/15/datasette/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-11-15T23:20:27+00:00",
+          "summary": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete. The biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export…",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "US Supreme Court rebuffs Trump administration appeal over DEI funding cuts",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/16/us-supreme-court-rebuffs-trump-administration-appeal-over-dei-funding-cuts_6782404_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-16T20:39:29+00:00",
+          "summary": "The justices’ decision left in place lower court rulings that the Trump administration likely ran afoul of the First Amendment when it terminated millions of dollars in grants to University of California researchers.",
+          "tags": []
+        },
+        {
+          "title": "Letter from Paris | Gisèle Pélicot's new chapter",
+          "url": "https://www.lemonde.fr/en/m-le-mag/article/2026/11/16/letter-from-paris-gisele-pelicot-s-new-chapter_6782305_117.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-16T18:00:06+00:00",
+          "summary": "Twice a month, M magazine's editorial director, Marie-Pierre Lannelongue, fills you in on the latest about fashion, culture, travel and more.",
+          "tags": []
+        },
+        {
+          "title": "Should Ukraine trade Donbas for NATO membership?",
+          "url": "https://www.france24.com/en/tv-shows/the-debate/20261116-should-ukraine-trade-donbas-for-nato-membership",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-11-16T20:27:06+00:00",
+          "summary": "President Volodymyr Zelensky asserting that the United States has asked him about a straight-up swap Russia gets the Donbas, the rest of Ukraine gets NATO membership, a guarantee against Moscow later having a second go and annexing the entire country. Whether…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Montreal Canadiens recall Brett Berard from Laval Rocket",
+          "url": "https://www.habseyesontheprize.com/montreal-canadiens-recall-brett-berard-from-laval-rocket/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-11-16T13:51:17+00:00",
+          "summary": "With only 12 healthy forwards on the roster, and the team headed on a three-game road trip, the Montreal Canadiens have recalled forward Brett Berard from the Laval Rocket. Brett Berard recalled by the @CanadiensMTL — Renaud Lavoie (@renlavoietva) November…",
+          "tags": []
+        },
+        {
+          "title": "Morning Skate: Check",
+          "url": "https://www.stanleycupofchowder.com/morning-skate-open-threads/59758/morning-skate-check",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-11-16T12:00:00+00:00",
+          "summary": "Welcome to a new week, folks! It’s the last full week before American Thanksgiving, so the holidays are well and truly upon us. Start making your list, checking it twice, preparing yourselves for the onslaught of “Happy Honda Days” advertisements, etc. After…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "“I always said that I’m not bad on indoor court”: Alcaraz finally at home under the roof",
+          "url": "https://www.tennismajors.com/atp/nitto-atp-finals-atp/i-always-said-that-im-not-bad-on-indoor-court-alcaraz-finally-at-home-under-the-roof-867145.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-11-16T17:52:25+00:00",
+          "summary": "After a 6-2, 6-2 opener against Tiafoe at the ATP Finals in Turin, the second seed explained how two titles in Vienna and Paris changed the way he reads the indoor game, and why he now feels he can match anyone with his serve and his flat hitting.",
+          "tags": []
+        },
+        {
+          "title": "'Best I've felt' - Alcaraz makes statement start at ATP Finals",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/ckvg294x5yzqo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-11-16T15:43:54+00:00",
+          "summary": "Carlos Alcaraz warns his rivals he has never felt better at this stage of a season after beginning his ATP Finals bid with a statement win over Frances Tiafoe.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 74,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, LE MONDE, OPENAI, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [],
+  "kev": [
+    {
+      "cve": "CVE-2026-114713",
+      "vendor": "UnrealIRCd",
+      "product": "UnrealIRCd",
+      "name": "UnrealIRCd Improper Neutralization of Delimiters Vulnerability",
+      "summary": "UnrealIRCd UnrealIRCd contains an improper neutralization of delimiters vulnerability that allows any user on a network with two or more linked servers to inject server-to-server commands that are executed with server…",
+      "added": "2026-11-13",
+      "due": "2026-11-16",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-114713"
+    },
+    {
+      "cve": "CVE-2026-123039",
+      "vendor": "Check Point",
+      "product": "Multiple Products",
+      "name": "Check Point Multiple Products Incorrect Permission Assignment for Critical Resource Vulnerability",
+      "summary": "Check Point Firewall, Multi-Domain Security Management Server, Scalable Platforms, Security Gateway, and Security Management Server contain an incorrect permissions assignment for critical resources vulnerability when…",
+      "added": "2026-11-13",
+      "due": "2026-11-16",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-123039"
+    },
+    {
+      "cve": "CVE-2026-124194",
+      "vendor": "Microsoft",
+      "product": "Office",
+      "name": "Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability",
+      "summary": "Microsoft Office Outlook contains a missing user interaction for potentially unsafe action vulnerability that allows an unauthorized attacker to perform spoofing over a network.",
+      "added": "2026-11-10",
+      "due": "2026-11-24",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-124194"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-11-12",
+      "venue": "TD Garden",
+      "away": "MTL",
+      "away_score": 5,
+      "home": "BOS",
+      "home_score": 2,
+      "overtime": false,
+      "period": "REG"
+    },
+    "next_game": {
+      "date": "2026-11-17",
+      "away": "LAK",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "LP Open by IND",
+        "start": "2026-11-15",
+        "end": "2026-11-23",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Nitto ATP Finals",
+        "start": "2026-11-15",
+        "end": "2026-11-23",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "Nitto ATP Finals",
+          "grouping": "Men's Singles",
+          "round": "Group Stage",
+          "date": "2026-11-16",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Frances Tiafoe",
+              "winner": false,
+              "sets": [
+                2.0,
+                2.0
+              ]
+            },
+            {
+              "name": "Carlos Alcaraz",
+              "winner": true,
+              "sets": [
+                6.0,
+                6.0
+              ]
+            }
+          ],
+          "opponent": "Frances Tiafoe",
+          "won": true
+        },
+        "next": {
+          "event": "Nitto ATP Finals",
+          "grouping": "Men's Singles",
+          "round": "Group Stage",
+          "date": "2026-11-18",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Flavio Cobolli",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Flavio Cobolli",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 8099.0
+        },
+        {
+          "rank": 2,
+          "name": "Mirra Andreeva",
+          "points": 7806.0
+        },
+        {
+          "rank": 3,
+          "name": "Aryna Sabalenka",
+          "points": 6685.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Alexander Zverev",
+          "points": 9320.0
+        },
+        {
+          "rank": 2,
+          "name": "Jannik Sinner",
+          "points": 7950.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 6100.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Open Angers Loire Trélazé",
+        "tour": "WTA",
+        "start": "2026-11-30",
+        "end": "2026-12-07",
+        "major": false
+      },
+      {
+        "name": "Quito Open",
+        "tour": "WTA",
+        "start": "2026-11-30",
+        "end": "2026-12-07",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 3
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "griller",
+        "en": "grill, toast, grilling"
+      },
+      {
+        "fr": "temps",
+        "en": "time, weather, tense"
+      },
+      {
+        "fr": "avons",
+        "en": "get, have, we've"
+      }
+    ],
+    "quiz": {
+      "fr": "griller",
+      "en": "grill, toast, grilling"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
