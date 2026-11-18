@@ -1,0 +1,394 @@
+{
+  "date": "2026-11-18",
+  "date_long": "Wednesday, November 18, 2026",
+  "date_mast": "WEDNESDAY 18 NOVEMBER 2026",
+  "built_at": "2026-11-18T19:20:24.915825+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
+          "url": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-11-18T16:58:42+00:00",
+          "summary": "Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials and other sensitive information from developers' systems.",
+          "tags": []
+        },
+        {
+          "title": "Black Friday Phishing Is Already Up 103%, and the Sale Hasn’t Started",
+          "url": "https://blog.knowbe4.com/black-friday-phishing-surge-before-sale-starts",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-11-18T13:15:02+00:00",
+          "summary": "Lead Analysts : Prabhakaran R, Jeewan Singh Jalal",
+          "tags": []
+        },
+        {
+          "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
+          "url": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-11-18T05:58:04+00:00",
+          "summary": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in third-party compromise. Google's Mandiant and…",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Quoting Daniel Stenberg",
+          "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-11-18T15:58:27+00:00",
+          "summary": "During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 commits in the actual curl project. We actually improved curl during these a little more than three weeks. A little over 200…",
+          "tags": []
+        },
+        {
+          "title": "The PSF end-of-year fundraiser",
+          "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-11-18T14:44:48+00:00",
+          "summary": "The PSF end-of-year fundraiser With my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community. If your company or your work benefits from Python…",
+          "tags": []
+        },
+        {
+          "title": "Why your fine-tuning job takes longer than the FLOPs say",
+          "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+          "source": "Hugging Face",
+          "section": "ai",
+          "published": "2026-11-18T18:53:43+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Xi-Trump-Putin summit: 'The words of the absent will weigh as much on world affairs as those of the present'",
+          "url": "https://www.lemonde.fr/en/opinion/article/2026/11/18/xi-trump-putin-summit-the-words-of-the-absent-will-weigh-as-much-on-world-affairs-as-those-of-the-present_6783758_23.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-18T19:00:18+00:00",
+          "summary": "While the photo of the three presidents standing side by side promises to be striking, several shadows will loom over the meeting between Donald Trump, Vladimir Putin and Xi Jinping on Thursday at the Asia-Pacific Economic Cooperation summit in Shenzhen…",
+          "tags": []
+        },
+        {
+          "title": "Democrats nominate Hakeem Jeffries to be first Black speaker of the House",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/18/democrats-nominate-hakeem-jeffries-to-be-first-black-speaker-of-the-house_6783724_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-18T18:49:41+00:00",
+          "summary": "Democrats elected the congressman as their leader in a closed-door vote on Wednesday, virtually guaranteeing that he will lead the party in the House of Representatives next January.",
+          "tags": []
+        },
+        {
+          "title": "Why Ukraine keeps trying to bring down Russia's bridge to Crimea",
+          "url": "https://www.france24.com/en/europe/20261118-why-ukraine-keeps-trying-to-bring-down-russia-s-bridge-to-crimea",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-11-18T18:17:34+00:00",
+          "summary": "A Ukrainian drone and missile strike on Monday night brought down a stretch of the bridge linking the annexed Crimean Peninsula to Russia, potentially crippling a route long used by Moscow to move men and materiel into Crimea and the southern front. Here’s…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Morning Skate: Flat",
+          "url": "https://www.stanleycupofchowder.com/morning-skate-open-threads/59770/morning-skate-flat",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-11-18T12:30:00+00:00",
+          "summary": "It is Wednesday, my dudes. Apologies for the lack of a full recap of the Tuesday game/preview of the Wednesday game, as these two have fallen during a busy time for the day job/real life. If you missed last night’s 3-0 loss to the Los Angeles Kings…",
+          "tags": []
+        },
+        {
+          "title": "Canadiens @ Devils: Game preview, start time, Tale of the Tape, and how to watch",
+          "url": "https://www.habseyesontheprize.com/canadiens-devils-2026-11-18-game-preview-start-time-tale-of-the-tape-and-how-to-watch-tv-listings/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-11-18T11:00:00+00:00",
+          "summary": "How to watch Game 22: Montreal Canadiens @ New Jersey Devils Start time: 7:30 PM EST / 5:30 PM PDT In the Devils region: MSGSN, DAZN Streaming: Prime Video (Canada), ESPN+ (USA) The Montreal Canadiens got a pass for the no-show on Saturday night with the…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Alcaraz explains the treatment he received during his match against Medvedev",
+          "url": "https://www.tennismajors.com/atp/nitto-atp-finals-atp/alcaraz-explains-the-treatment-he-received-during-his-match-against-medvedev-867240.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-11-18T16:18:09+00:00",
+          "summary": "Carlos Alcaraz received treatment on his upper left leg during his win over Daniil Medvedev at the ATP Finals. In his press conference, he said he felt a little problem in his hamstring and would assess it with his team and his physio.",
+          "tags": []
+        },
+        {
+          "title": "Zverev to defend himself against fresh lawsuit",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/c60rkq9kweego?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-11-18T16:27:24+00:00",
+          "summary": "Lawyers for world number one Alexander Zverev say he will defend himself against a lawsuit which alleges he misrepresented the outcome of a domestic abuse trial.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 76,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, HUGGING FACE, KNOWBE4, LE MONDE, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 17,
+      "low": 4,
+      "conditions": "fog"
+    },
+    {
+      "code": "PAR",
+      "high": 15,
+      "low": 12,
+      "conditions": "overcast"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-115731",
+      "vendor": "Perforce",
+      "product": "Puppet Enterprise",
+      "name": "Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability",
+      "summary": "Perforce Puppet Enterprise contains a deserialization of untrusted data vulnerability in Puppet’s report-processing code that allows a client with any CA-signed agent certificate to execute arbitrary code on the Puppet…",
+      "added": "2026-11-17",
+      "due": "2026-12-01",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-115731"
+    },
+    {
+      "cve": "CVE-2026-114713",
+      "vendor": "UnrealIRCd",
+      "product": "UnrealIRCd",
+      "name": "UnrealIRCd Improper Neutralization of Delimiters Vulnerability",
+      "summary": "UnrealIRCd UnrealIRCd contains an improper neutralization of delimiters vulnerability that allows any user on a network with two or more linked servers to inject server-to-server commands that are executed with server…",
+      "added": "2026-11-13",
+      "due": "2026-11-16",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-114713"
+    },
+    {
+      "cve": "CVE-2026-123039",
+      "vendor": "Check Point",
+      "product": "Multiple Products",
+      "name": "Check Point Multiple Products Incorrect Permission Assignment for Critical Resource Vulnerability",
+      "summary": "Check Point Firewall, Multi-Domain Security Management Server, Scalable Platforms, Security Gateway, and Security Management Server contain an incorrect permissions assignment for critical resources vulnerability when…",
+      "added": "2026-11-13",
+      "due": "2026-11-16",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-123039"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-11-12",
+      "venue": "TD Garden",
+      "away": "MTL",
+      "away_score": 5,
+      "home": "BOS",
+      "home_score": 2,
+      "overtime": false,
+      "period": "REG"
+    },
+    "next_game": {
+      "date": "2026-11-18",
+      "away": "BOS",
+      "home": "DET"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "LP Open by IND",
+        "start": "2026-11-15",
+        "end": "2026-11-23",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Nitto ATP Finals",
+        "start": "2026-11-15",
+        "end": "2026-11-23",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "Nitto ATP Finals",
+          "grouping": "Men's Singles",
+          "round": "Group Stage",
+          "date": "2026-11-18",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Daniil Medvedev",
+              "winner": false,
+              "sets": [
+                2.0,
+                4.0
+              ]
+            },
+            {
+              "name": "Carlos Alcaraz",
+              "winner": true,
+              "sets": [
+                6.0,
+                6.0
+              ]
+            }
+          ],
+          "opponent": "Daniil Medvedev",
+          "won": true
+        },
+        "next": {
+          "event": "Nitto ATP Finals",
+          "grouping": "Men's Singles",
+          "round": "Group Stage",
+          "date": "2026-11-20",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Flavio Cobolli",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Flavio Cobolli",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 8099.0
+        },
+        {
+          "rank": 2,
+          "name": "Mirra Andreeva",
+          "points": 7806.0
+        },
+        {
+          "rank": 3,
+          "name": "Aryna Sabalenka",
+          "points": 6685.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Alexander Zverev",
+          "points": 9320.0
+        },
+        {
+          "rank": 2,
+          "name": "Jannik Sinner",
+          "points": 7950.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 6100.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Open Angers Loire Trélazé",
+        "tour": "WTA",
+        "start": "2026-11-30",
+        "end": "2026-12-07",
+        "major": false
+      },
+      {
+        "name": "Quito Open",
+        "tour": "WTA",
+        "start": "2026-11-30",
+        "end": "2026-12-07",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 1
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "envie",
+        "en": "desire, want, envies"
+      },
+      {
+        "fr": "humeur",
+        "en": "mood, humor"
+      },
+      {
+        "fr": "bientôt",
+        "en": "soon, earlier"
+      }
+    ],
+    "quiz": {
+      "fr": "envie",
+      "en": "desire, want, envies"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
