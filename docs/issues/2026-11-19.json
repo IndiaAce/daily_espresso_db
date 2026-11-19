@@ -1,0 +1,385 @@
+{
+  "date": "2026-11-19",
+  "date_long": "Thursday, November 19, 2026",
+  "date_mast": "THURSDAY 19 NOVEMBER 2026",
+  "built_at": "2026-11-19T19:26:42.152479+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
+          "url": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-11-19T14:33:06+00:00",
+          "summary": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site. That can lead to a site takeover or remote code execution, and the project rates…",
+          "tags": []
+        },
+        {
+          "title": "Typosquatted Domains Impersonate AI Platforms to Deliver ClickFix Attacks",
+          "url": "https://blog.knowbe4.com/typosquatted-domains-impersonate-ai-platforms-to-deliver-clickfix-attacks",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-11-19T15:30:02+00:00",
+          "summary": "Researchers at Island discovered nearly 200 typosquatted domains impersonating dozens of AI brands, including Claude, ChatGPT, DeepSeek, Perplexity, Midjourney, ElevenLabs, and Cursor.",
+          "tags": []
+        },
+        {
+          "title": "Five warning signs of ransomware breach before encryption or data theft",
+          "url": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-11-19T15:00:10+00:00",
+          "summary": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions earlier, contain malicious activity…",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+          "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-11-19T08:00:00+00:00",
+          "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+          "tags": []
+        },
+        {
+          "title": "llm-gemini 0.38",
+          "url": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-11-18T23:59:20+00:00",
+          "summary": "Release: llm-gemini 0.38 Today Google introduced Gemini 4 Neon . I wrote recently about how confusing the pricing for the Gemini 4 series was - Neon has somehow made this even worse. Previously the Gemini 4 lineup was Hydrogen, Argon, and Carbon - where Argon…",
+          "tags": []
+        },
+        {
+          "title": "Introducing Tool Retrieval in the Gemini API",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+          "source": "Google AI",
+          "section": "ai",
+          "published": "2026-11-19T18:00:00+00:00",
+          "summary": "Gemini spark on a space background",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "COP31: Outcry as fossil fuels removed from draft UN climate deal",
+          "url": "https://www.lemonde.fr/en/environment/article/2026/11/19/cop31-outcry-as-fossil-fuels-removed-from-draft-un-climate-deal_6784648_114.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-19T18:23:28+00:00",
+          "summary": "An earlier proposal 'for accelerated action to phase out fossil fuels' was nixed in the revised text, released on Thursday.",
+          "tags": []
+        },
+        {
+          "title": "Nearly a quarter of the world’s children live in conflict zones, according to Save the Children",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/19/nearly-a-quarter-of-the-world-s-children-live-in-conflict-zones-according-to-save-the-children_6784615_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-19T18:09:45+00:00",
+          "summary": "A 'record rate' of 589 million children were living in war zones in 2025, with 44% of them in Africa.",
+          "tags": []
+        },
+        {
+          "title": "Behind the UK's use of AI in asylum applications",
+          "url": "https://www.france24.com/en/behind-the-uk-s-use-of-ai-in-asylum-applications",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-11-19T15:07:23+00:00",
+          "summary": "The UK is increasingly turning to artificial intelligence to manage its immigration system, from analysing migrants’ phones to processing asylum applications. But what happens when AI gets involved in deciding how an asylum seeker's story is understood?…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Recap: Bruins end skid with 4-1 win over Red Wings",
+          "url": "https://www.stanleycupofchowder.com/26-27-game-coverage/59779/recap-bruins-end-skid-with-4-1-win-over-red-wings",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-11-19T03:54:58+00:00",
+          "summary": "When the Bruins fell behind on a gift-wrapped Detroit 2-on-1 late in the first period, you could be forgiven for assuming we were in for another flat performance. However, the B’s responded with a strong second period, got some timely saves from Jeremy…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "“I’m excited to sit and really watch”: Shelton hands his semi-final fate to his friend Fils",
+          "url": "https://www.tennismajors.com/atp/nitto-atp-finals-atp/im-excited-to-sit-and-really-watch-shelton-hands-his-semi-final-fate-to-his-friend-fils-867350.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-11-19T18:54:33+00:00",
+          "summary": "After saving two set points in a 10-8 tie-break against Jodar, the American talked about his friendship with Fils, his state of mind and the return that gave him so much trouble. If he goes through, Alcaraz awaits.",
+          "tags": []
+        },
+        {
+          "title": "Shelton moves closer to ATP Finals last-four spot",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/c64gne03ykjro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-11-19T16:18:50+00:00",
+          "summary": "Ben Shelton battles past Rafael Jodar to move within touching distance of a place in the ATP Finals last four.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 77,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, GOOGLE AI, KNOWBE4, LE MONDE, OPENAI, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 18,
+      "low": 2,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 14,
+      "low": 10,
+      "conditions": "light rain"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2024-10441",
+      "vendor": "Synology",
+      "product": "DiskStation Manager (DSM)",
+      "name": "Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability",
+      "summary": "Synology DSM contains an improper encoding or escaping of output vulnerability in the system plugin daemon in Synology BeeStation OS (BSM) that could allow a remote attacker to execute arbitrary code via unspecified…",
+      "added": "2026-11-18",
+      "due": "2026-11-21",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-10441"
+    },
+    {
+      "cve": "CVE-2026-40217",
+      "vendor": "BerriAI",
+      "product": "LiteLLM",
+      "name": "BerriAI LiteLLM Unprotected Alternate Channel Vulnerability",
+      "summary": "BerriAI LiteLLM contains an unprotected alternate channel vulnerability that could allow remote attackers to execute arbitrary code via bytecode rewriting at the /guardrails/test_custom_code URI.",
+      "added": "2026-11-18",
+      "due": "2026-12-02",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-40217"
+    },
+    {
+      "cve": "CVE-2026-90817",
+      "vendor": "Vanderbilt University",
+      "product": "Research Electronic Data Capture (REDCap)",
+      "name": "Vanderbilt University Research Electronic Data Capture (REDCap) Code Injection Vulnerability",
+      "summary": "Vanderbilt University Research Electronic Data Capture (REDCap) contains a code injection vulnerability which could allow an unauthenticated attacker to execute arbitrary code on the server. An attacker could exploit…",
+      "added": "2026-11-18",
+      "due": "2026-11-21",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-90817"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-11-12",
+      "venue": "TD Garden",
+      "away": "MTL",
+      "away_score": 5,
+      "home": "BOS",
+      "home_score": 2,
+      "overtime": false,
+      "period": "REG"
+    },
+    "next_game": {
+      "date": "2026-11-21",
+      "away": "WSH",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "LP Open by IND",
+        "start": "2026-11-15",
+        "end": "2026-11-23",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Nitto ATP Finals",
+        "start": "2026-11-15",
+        "end": "2026-11-23",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "Nitto ATP Finals",
+          "grouping": "Men's Singles",
+          "round": "Group Stage",
+          "date": "2026-11-18",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Daniil Medvedev",
+              "winner": false,
+              "sets": [
+                2.0,
+                4.0
+              ]
+            },
+            {
+              "name": "Carlos Alcaraz",
+              "winner": true,
+              "sets": [
+                6.0,
+                6.0
+              ]
+            }
+          ],
+          "opponent": "Daniil Medvedev",
+          "won": true
+        },
+        "next": {
+          "event": "Nitto ATP Finals",
+          "grouping": "Men's Singles",
+          "round": "Group Stage",
+          "date": "2026-11-20",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Flavio Cobolli",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "Flavio Cobolli",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 8099.0
+        },
+        {
+          "rank": 2,
+          "name": "Mirra Andreeva",
+          "points": 7806.0
+        },
+        {
+          "rank": 3,
+          "name": "Aryna Sabalenka",
+          "points": 6685.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Alexander Zverev",
+          "points": 9320.0
+        },
+        {
+          "rank": 2,
+          "name": "Jannik Sinner",
+          "points": 7950.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 6100.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Open Angers Loire Trélazé",
+        "tour": "WTA",
+        "start": "2026-11-30",
+        "end": "2026-12-07",
+        "major": false
+      },
+      {
+        "name": "Quito Open",
+        "tour": "WTA",
+        "start": "2026-11-30",
+        "end": "2026-12-07",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": 0
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "litre",
+        "en": "litre (UK), liter (US)"
+      },
+      {
+        "fr": "depuis",
+        "en": "since, for, since then"
+      },
+      {
+        "fr": "boucle",
+        "en": "buckle, curls, loop"
+      }
+    ],
+    "quiz": {
+      "fr": "litre",
+      "en": "litre (UK), liter (US)"
+    }
+  },
+  "counts": {
+    "stories": 12,
+    "kev": 3
+  }
+}
