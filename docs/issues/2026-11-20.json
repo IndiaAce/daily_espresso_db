@@ -1,0 +1,373 @@
+{
+  "date": "2026-11-20",
+  "date_long": "Friday, November 20, 2026",
+  "date_mast": "FRIDAY 20 NOVEMBER 2026",
+  "built_at": "2026-11-20T19:01:41.760108+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
+          "url": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-11-20T16:58:16+00:00",
+          "summary": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale. Dutch mobile security company ThreatFabric said it…",
+          "tags": []
+        },
+        {
+          "title": "Report: Attackers Are Increasingly Using AI Attack Frameworks",
+          "url": "https://blog.knowbe4.com/report-attackers-are-increasingly-using-ai-attack-frameworks",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-11-20T17:30:01+00:00",
+          "summary": "Threat actors are expanding their use of multi-agent AI attack frameworks, according to researchers at Google’s Threat Intelligence Group (GTIG).",
+          "tags": []
+        },
+        {
+          "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
+          "url": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-11-20T15:00:10+00:00",
+          "summary": "Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass explains how centralized password management can improve credential visibility…",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Quoting Levent Alpöge",
+          "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-11-20T16:30:48+00:00",
+          "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too…",
+          "tags": []
+        },
+        {
+          "title": "Token fraud is here and it’s BAD (YouTube)",
+          "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-11-20T02:49:57+00:00",
+          "summary": "Token fraud is here and it’s BAD (YouTube) Claire Vo runs ChatPRD , an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has been building it in public for much of that time. In this…",
+          "tags": []
+        },
+        {
+          "title": "Language Models Can Rewrite Their Own Weights",
+          "url": "https://arxiv.org/abs/2611.21885",
+          "source": "Hacker News",
+          "section": "ai",
+          "published": "2026-11-20T16:29:06+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "'Inside Deutsche Bank': German government demands 'transparency' over revelations",
+          "url": "https://www.lemonde.fr/en/les-decodeurs/article/2026/11/20/inside-deutsche-bank-german-government-demands-transparency-over-revelations_6785607_8.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-20T17:38:40+00:00",
+          "summary": "Rocked by investigative reports published by a consortium of more than 50 media outlets, including Le Monde, Deutsche Bank has downplayed the matter and said the issues raised were old. However, its dropping share price and an international wave of political…",
+          "tags": []
+        },
+        {
+          "title": "Myanmar faces reckoning for long-running Rohingya persecution",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/20/myanmar-faces-reckoning-for-long-running-rohingya-persecution_6785605_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-20T16:39:41+00:00",
+          "summary": "Myanmar's regime, led by President Min Aung Hlaing, the main instigator of the 2017 massacres as the head of the armed forces, has been pilloried after the International Court of Justice found that its decades of exclusion and violent mistreatment of the…",
+          "tags": []
+        },
+        {
+          "title": "UK and EU strike ‘landmark’ deal to rebuild ties after Brexit",
+          "url": "https://www.france24.com/en/video/20261120-uk-and-eu-strike-landmark-deal-to-rebuild-ties-after-brexit",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-11-20T17:06:59+00:00",
+          "summary": "🇬🇧🇪🇺 A fresh start after #Brexit? The #UK and #EU have agreed on a landmark #deal to rebuild ties, following a summit in Brussels this Friday. The agreement covers easier food export checks, youth mobility and carbon emission quotas.",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "The Habs make lemonade in the Metropolitan",
+          "url": "https://www.habseyesontheprize.com/habs-vs-hurricanes-recap-score-result-highlights-habs-news-record-standings/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-11-20T16:26:20+00:00",
+          "summary": "When a disastrous power play ended up sinking the Montreal Canadiens against the New York Rangers, it looked like their three-game set against the Metropolitan was a recipe for disaster. Already dealt a tough hand in having to play the top three teams of that…",
+          "tags": []
+        },
+        {
+          "title": "Morning Skate: Fall",
+          "url": "https://www.stanleycupofchowder.com/morning-skate-open-threads/59788/morning-skate-fall",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-11-20T12:00:00+00:00",
+          "summary": "Happy Friday, folks! If you’re in the Boston area, you’ve got a good one in store today, with temperatures forecast to hit close to 70º and sunshine on the way. Not bad for the week before Thanksgiving! The B’s were off again last night after their…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Binaghi says Italy aims for a grass-court tournament in June 2028",
+          "url": "https://www.tennismajors.com/atp/binaghi-says-italy-aims-for-a-grass-court-tournament-in-june-2028-867473.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-11-20T17:55:32+00:00",
+          "summary": "Speaking at the Next Gen ATP Finals presentation in Turin, the Italian federation president said the event must be in the north and explained what Italy would do if the ATP did not extend its licenses.",
+          "tags": []
+        },
+        {
+          "title": "'Right time' for Smith exit - but Murray not ready for role",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cvze7d03880ko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-11-20T17:47:38+00:00",
+          "summary": "Leon Smith steps down as Britain's Davis Cup captain after almost 17 years, but \"standout candidate\" Andy Murray is unlikely to replace him.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 78,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, HACKER NEWS, KNOWBE4, LE MONDE, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 19,
+      "low": 2,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 13,
+      "low": 10,
+      "conditions": "showers"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-129448",
+      "vendor": "Apache",
+      "product": "Roller",
+      "name": "Apache Roller Deserialization of Untrusted Data Vulnerability",
+      "summary": "Apache Roller contains a deserialization of untrusted data vulnerability that allows an unauthenticated remote attacker to execute arbitrary code via the XML-RPC endpoint, which accepts and deserializes vendor extension…",
+      "added": "2026-11-20",
+      "due": "2026-11-23",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-129448"
+    },
+    {
+      "cve": "CVE-2026-123890",
+      "vendor": "Broadcom",
+      "product": "VMware vCenter",
+      "name": "VMWare vCenter Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+      "summary": "Broadcom VMware vCenter contains an authentication bypass using an alternate path or channel vulnerability in the VMware Directory Service that allows an unauthenticated attacker with network access to vCenter to bypass…",
+      "added": "2026-11-20",
+      "due": "2026-11-23",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-123890"
+    },
+    {
+      "cve": "CVE-2025-42884",
+      "vendor": "SAP",
+      "product": "NetWeaver",
+      "name": "SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability",
+      "summary": "SAP NetWeaver Enterprise Portal contains an improper neutralization of special elements in data query logic vulnerability that allows an unauthenticated attacker to disclose or modify server information via injected…",
+      "added": "2026-11-20",
+      "due": "2026-11-23",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-42884"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-11-12",
+      "venue": "TD Garden",
+      "away": "MTL",
+      "away_score": 5,
+      "home": "BOS",
+      "home_score": 2,
+      "overtime": false,
+      "period": "REG"
+    },
+    "next_game": {
+      "date": "2026-11-21",
+      "away": "WSH",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "LP Open by IND",
+        "start": "2026-11-15",
+        "end": "2026-11-23",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Nitto ATP Finals",
+        "start": "2026-11-15",
+        "end": "2026-11-23",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "Nitto ATP Finals",
+          "grouping": "Men's Singles",
+          "round": "Group Stage",
+          "date": "2026-11-20",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Flavio Cobolli",
+              "winner": false,
+              "sets": [
+                4.0,
+                1.0
+              ]
+            },
+            {
+              "name": "Carlos Alcaraz",
+              "winner": true,
+              "sets": [
+                6.0,
+                6.0
+              ]
+            }
+          ],
+          "opponent": "Flavio Cobolli",
+          "won": true
+        },
+        "next": null
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 8099.0
+        },
+        {
+          "rank": 2,
+          "name": "Mirra Andreeva",
+          "points": 7806.0
+        },
+        {
+          "rank": 3,
+          "name": "Aryna Sabalenka",
+          "points": 6685.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Alexander Zverev",
+          "points": 9320.0
+        },
+        {
+          "rank": 2,
+          "name": "Jannik Sinner",
+          "points": 7950.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 6100.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Open Angers Loire Trélazé",
+        "tour": "WTA",
+        "start": "2026-11-30",
+        "end": "2026-12-07",
+        "major": false
+      },
+      {
+        "name": "Quito Open",
+        "tour": "WTA",
+        "start": "2026-11-30",
+        "end": "2026-12-07",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": -1
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "entreprise",
+        "en": "business, company, business's"
+      },
+      {
+        "fr": "devra",
+        "en": "will have to, will need to"
+      },
+      {
+        "fr": "rideau",
+        "en": "shutter, curtain, screen"
+      }
+    ],
+    "quiz": {
+      "fr": "entreprise",
+      "en": "business, company, business's"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
