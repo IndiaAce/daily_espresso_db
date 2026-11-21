@@ -1,0 +1,396 @@
+{
+  "date": "2026-11-21",
+  "date_long": "Saturday, November 21, 2026",
+  "date_mast": "SATURDAY 21 NOVEMBER 2026",
+  "built_at": "2026-11-21T17:55:49.637332+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+          "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-11-21T11:53:07+00:00",
+          "summary": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown. The same attack could be extended to reach the credentials Muse stores for the…",
+          "tags": []
+        },
+        {
+          "title": "Two Incidents, One Lesson in Trust",
+          "url": "https://blog.knowbe4.com/two-incidents-one-lesson-in-trust",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-11-20T16:41:26+00:00",
+          "summary": "Optimizely unfortunately suffered two incidents in nine months, so clearly they must be doing something wrong and the answer to that is to buy a bigger firewall.",
+          "tags": []
+        },
+        {
+          "title": "N-able says recent security breach led to major service outage",
+          "url": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-11-20T13:18:36+00:00",
+          "summary": "N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide.",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Quoting Ravi Vakil",
+          "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-11-20T19:21:49+00:00",
+          "summary": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI. The…",
+          "tags": []
+        },
+        {
+          "title": "Lean verification of the Riemann Hypothesis",
+          "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+          "source": "Hacker News",
+          "section": "ai",
+          "published": "2026-11-21T14:36:45+00:00",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "Combatting adversarial distillation",
+          "url": "https://openai.com/index/combatting-adversarial-distillation",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-11-20T10:00:00+00:00",
+          "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Opposition to data centers grows worldwide, from India to Chile, via Ireland and Japan",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/21/opposition-to-data-centers-grows-worldwide-from-india-to-chile-via-ireland-and-japan_6786331_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-21T17:26:21+00:00",
+          "summary": "These gigantic facilities do not provoke anger just in the United States. They have appeared on every continent, where they have raised the same concerns: excessive exploitation of natural resources, voracious energy consumption and a lack of transparency. In…",
+          "tags": []
+        },
+        {
+          "title": "Russian cargo ship struck by drone in Baltic: Finnish authorities",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/21/russian-cargo-ship-struck-by-drone-in-baltic-finnish-authorities_6786298_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-21T15:58:58+00:00",
+          "summary": "Hours after the drone hit the ship, which then caught fire, on Saturday, a Russian helicopter was suspected of violating Finnish airspace.",
+          "tags": []
+        },
+        {
+          "title": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
+          "url": "https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-11-21T12:35:54+00:00",
+          "summary": "A Russian cargo ship caught fire after a drone strike in international waters in the Gulf of Finland on Saturday and later drifted into Finnish ⁠territorial waters, Finnish authorities said. Helsinki alerted NATO and imposed temporary restrictions in the area…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Canadiens vs. Flyers: Game preview, start time, Tale of the Tape, and how to watch",
+          "url": "https://www.habseyesontheprize.com/canadiens-flyers-2026-11-21-game-preview-start-time-tale-of-the-tape-and-how-to-watch-tv-listings/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-11-21T11:00:00+00:00",
+          "summary": "How to watch Game 24: Montreal Canadiens vs. Philadelphia Flyers Start time: 7:00 PM EST / 5:00 PM PDT In Canada: Sportsnet East (English), TVA Sports (French) In the United States: NHL Network In the Flyers region: NBC Sports Philadelphia Streaming…",
+          "tags": []
+        },
+        {
+          "title": "Public Skate: Bruins vs. Red Wings",
+          "url": "https://www.stanleycupofchowder.com/gameday-open-threads/59775/public-skate-bruins-vs-red-wings",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-11-18T23:00:00+00:00",
+          "summary": "It’s Wednesday Night Hockey, folks! And even better than that — it’s Original 6 Wednesday Night Hockey! Catch the fever. The Bruins and Red Wings will face one another for the first time on the young season, with the B’s looking to break their losing streak…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "“It’s a mixed review”: Shelton sees plenty to improve after the best season of his career",
+          "url": "https://www.tennismajors.com/atp/nitto-atp-finals-atp/its-a-mixed-review-shelton-sees-plenty-to-improve-after-the-best-season-of-his-career-867573.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-11-21T17:19:55+00:00",
+          "summary": "Beaten by Carlos Alcaraz in the ATP Finals semi-finals in Turin on Saturday, Ben Shelton weighed up a year with four titles, a first Grand Slam final and a career-high No. 4 ranking. The American says his level has “improved dramatically”, but refuses to be…",
+          "tags": []
+        },
+        {
+          "title": "Alcaraz battles back against Shelton to reach final",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cw5y1gg7nyv0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-11-21T17:36:28+00:00",
+          "summary": "Carlos Alcaraz will have the chance to end his wait for a first ATP Finals title after completing a superb comeback victory over Ben Shelton.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 79,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, HACKER NEWS, KNOWBE4, LE MONDE, OPENAI, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 17,
+      "low": 2,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 12,
+      "low": 8,
+      "conditions": "overcast"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-129448",
+      "vendor": "Apache",
+      "product": "Roller",
+      "name": "Apache Roller Deserialization of Untrusted Data Vulnerability",
+      "summary": "Apache Roller contains a deserialization of untrusted data vulnerability that allows an unauthenticated remote attacker to execute arbitrary code via the XML-RPC endpoint, which accepts and deserializes vendor extension…",
+      "added": "2026-11-20",
+      "due": "2026-11-23",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-129448"
+    },
+    {
+      "cve": "CVE-2026-123890",
+      "vendor": "Broadcom",
+      "product": "VMware vCenter",
+      "name": "VMWare vCenter Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+      "summary": "Broadcom VMware vCenter contains an authentication bypass using an alternate path or channel vulnerability in the VMware Directory Service that allows an unauthenticated attacker with network access to vCenter to bypass…",
+      "added": "2026-11-20",
+      "due": "2026-11-23",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-123890"
+    },
+    {
+      "cve": "CVE-2025-42884",
+      "vendor": "SAP",
+      "product": "NetWeaver",
+      "name": "SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability",
+      "summary": "SAP NetWeaver Enterprise Portal contains an improper neutralization of special elements in data query logic vulnerability that allows an unauthenticated attacker to disclose or modify server information via injected…",
+      "added": "2026-11-20",
+      "due": "2026-11-23",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-42884"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-11-12",
+      "venue": "TD Garden",
+      "away": "MTL",
+      "away_score": 5,
+      "home": "BOS",
+      "home_score": 2,
+      "overtime": false,
+      "period": "REG"
+    },
+    "next_game": {
+      "date": "2026-11-21",
+      "away": "WSH",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "LP Open by IND",
+        "start": "2026-11-15",
+        "end": "2026-11-23",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Nitto ATP Finals",
+        "start": "2026-11-15",
+        "end": "2026-11-23",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "Nitto ATP Finals",
+          "grouping": "Men's Singles",
+          "round": "Semifinal",
+          "date": "2026-11-21",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Ben Shelton",
+              "winner": false,
+              "sets": [
+                6.0,
+                3.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Carlos Alcaraz",
+              "winner": true,
+              "sets": [
+                3.0,
+                6.0,
+                7.0
+              ]
+            }
+          ],
+          "opponent": "Ben Shelton",
+          "won": true
+        },
+        "next": {
+          "event": "Nitto ATP Finals",
+          "grouping": "Men's Singles",
+          "round": "Final",
+          "date": "2026-11-22",
+          "state": "pre",
+          "status": "Scheduled",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": []
+            },
+            {
+              "name": "TBD",
+              "winner": false,
+              "sets": []
+            }
+          ],
+          "opponent": "TBD",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 8099.0
+        },
+        {
+          "rank": 2,
+          "name": "Mirra Andreeva",
+          "points": 7806.0
+        },
+        {
+          "rank": 3,
+          "name": "Aryna Sabalenka",
+          "points": 6685.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Alexander Zverev",
+          "points": 9320.0
+        },
+        {
+          "rank": 2,
+          "name": "Jannik Sinner",
+          "points": 7950.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 6100.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Open Angers Loire Trélazé",
+        "tour": "WTA",
+        "start": "2026-11-30",
+        "end": "2026-12-07",
+        "major": false
+      },
+      {
+        "name": "Quito Open",
+        "tour": "WTA",
+        "start": "2026-11-30",
+        "end": "2026-12-07",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": -2
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "allant",
+        "en": "going"
+      },
+      {
+        "fr": "créer",
+        "en": "to create, make, create"
+      },
+      {
+        "fr": "penser à",
+        "en": "think of"
+      }
+    ],
+    "quiz": {
+      "fr": "allant",
+      "en": "going"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
