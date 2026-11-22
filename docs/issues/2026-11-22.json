@@ -1,0 +1,409 @@
+{
+  "date": "2026-11-22",
+  "date_long": "Sunday, November 22, 2026",
+  "date_mast": "SUNDAY 22 NOVEMBER 2026",
+  "built_at": "2026-11-22T18:23:15.229474+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+          "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-11-21T22:59:58+00:00",
+          "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters.",
+          "tags": []
+        },
+        {
+          "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+          "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-11-21T18:01:58+00:00",
+          "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information.",
+          "tags": []
+        },
+        {
+          "title": "Report: Threat Actors Are Refining Their Use of AI Tools",
+          "url": "https://blog.knowbe4.com/report-threat-actors-are-refining-their-use-of-ai-tools",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-11-20T14:30:02+00:00",
+          "summary": "Recorded Future warns that threat actors continue to use AI to accelerate their attacks, making traditional techniques such as phishing, supply-chain compromise, and extortion more effective.",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Muru",
+          "url": "https://simonwillison.net/2026/Nov/21/muru/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-11-21T23:56:28+00:00",
+          "summary": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI…",
+          "tags": []
+        },
+        {
+          "title": "Perplexity and Intelligence",
+          "url": "https://openai.com/index/perplexity-and-intelligence",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-11-22T00:00:00+00:00",
+          "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+          "tags": []
+        },
+        {
+          "title": "Show HN: I built a game where you are an LLM's subagent",
+          "url": "https://github.com/gulivan/worker755",
+          "source": "Hacker News",
+          "section": "ai",
+          "published": "2026-11-22T13:56:58+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Castel Group, the discreet beer and wine empire, is rocked by a power struggle",
+          "url": "https://www.lemonde.fr/en/economy/article/2026/11/22/castel-group-the-discreet-beer-and-wine-empire-is-rocked-by-a-power-struggle_6786760_19.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-22T17:00:02+00:00",
+          "summary": "A bitter battle for control is shaking the beverage giant. The spiritual and financial legacy of its charismatic founder, Pierre Castel, who has just turned 100 and is France's 11th-richest person, is a stake.",
+          "tags": []
+        },
+        {
+          "title": "In Brazil, a new generation of left-wing politicians prepares to enter Parliament",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/22/in-brazil-a-new-generation-of-left-wing-politicians-prepares-to-enter-parliament_6786694_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-22T16:00:01+00:00",
+          "summary": "In the October 4 elections, voters elected a wave of young progressives. As Lula's government proposes budget cuts, these lawmakers are determined to ensure he keeps his campaign promises.",
+          "tags": []
+        },
+        {
+          "title": "Europe sees new protests over rising costs, inequality and public services",
+          "url": "https://www.france24.com/en/europe-sees-new-protests-over-rising-costs-inequality-and-public-services",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-11-22T09:41:29+00:00",
+          "summary": "Sunday marks the third consecutive day of protests across Europe, following large demonstrations on Friday and smaller rallies on Saturday, from Portugal to France. The protests have largely focused on the rising cost of living and access to affordable…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "The Montreal Canadiens need to be better on home ice",
+          "url": "https://www.habseyesontheprize.com/montreal-canadiens-need-to-be-better-on-home-ice-bell-centre-record-away-splits-playoffs/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-11-22T13:00:00+00:00",
+          "summary": "Giving up the go-ahead goal to the Philadelphia Flyers with 31 seconds to go on Saturday night, the Montreal Canadiens streak of consecutive wins came to a close. It also dropped their record at the Bell Centre to 5-4-3; five wins, seven losses with almost a…",
+          "tags": []
+        },
+        {
+          "title": "Bruins vs. Caps RECAP: Boston explodes for a 7-5 WIN!",
+          "url": "https://www.stanleycupofchowder.com/bruins-gameday/59800/bruins-vs-caps-recap-boston-explodes-for-a-7-5-win",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-11-22T10:32:44+00:00",
+          "summary": "ARE YOU NOT ENTERTAINED!? First Period Things started with a shot that maybe heralded things to come…and maybe one Jeremy Swayman might want back. Tom Wilson through traffic to make it 1-0 Caps. Then, late in the period, Jakob Chychrun took a holding penalty…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "November 22, 2015: The day Novak Djokovic won a record fourth straight ATP World Tour Finals in London",
+          "url": "https://www.tennismajors.com/atp/november-22-2015-the-day-novak-djokovic-won-a-record-fourth-straight-masters-title-in-london-516429.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-11-22T13:45:00+00:00",
+          "summary": "Every day Tennis Majors looks back at the biggest moments in tennis history. On November 22, 2015, Novak Djokovic capped an exceptional season by clinching a record fourth consecutive Masters title",
+          "tags": []
+        },
+        {
+          "title": "ATP Finals tennis: Alexander Zverev v Carlos Alcaraz in the final – live",
+          "url": "https://www.theguardian.com/sport/live/2026/nov/22/atp-finals-tennis-alexander-zverev-carlos-alcaraz-final-live",
+          "source": "Guardian Tennis",
+          "section": "tennis",
+          "published": "2026-11-22T18:21:36+00:00",
+          "summary": "Updates as top two seeds battle for trophy Mail Daniel | Men’s $350m prize money boost On my goodness! Bocelli is back for Il Canto degli Italiani. Tuuuuuune! So what’s going to happen? I thought you’d never ask. I’m going for Alcaraz in two, 7-6 6-4…",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 80,
+  "sources_line": "BLEEPINGCOMPUTER, FRANCE 24 EUROPE, GUARDIAN TENNIS, HABS EYES ON THE PRIZE, HACKER NEWS, KNOWBE4, LE MONDE, OPENAI, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 15,
+      "low": 5,
+      "conditions": "rain"
+    },
+    {
+      "code": "PAR",
+      "high": 9,
+      "low": 8,
+      "conditions": "light rain"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-129448",
+      "vendor": "Apache",
+      "product": "Roller",
+      "name": "Apache Roller Deserialization of Untrusted Data Vulnerability",
+      "summary": "Apache Roller contains a deserialization of untrusted data vulnerability that allows an unauthenticated remote attacker to execute arbitrary code via the XML-RPC endpoint, which accepts and deserializes vendor extension…",
+      "added": "2026-11-20",
+      "due": "2026-11-23",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-129448"
+    },
+    {
+      "cve": "CVE-2026-123890",
+      "vendor": "Broadcom",
+      "product": "VMware vCenter",
+      "name": "VMWare vCenter Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+      "summary": "Broadcom VMware vCenter contains an authentication bypass using an alternate path or channel vulnerability in the VMware Directory Service that allows an unauthenticated attacker with network access to vCenter to bypass…",
+      "added": "2026-11-20",
+      "due": "2026-11-23",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-123890"
+    },
+    {
+      "cve": "CVE-2025-42884",
+      "vendor": "SAP",
+      "product": "NetWeaver",
+      "name": "SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability",
+      "summary": "SAP NetWeaver Enterprise Portal contains an improper neutralization of special elements in data query logic vulnerability that allows an unauthenticated attacker to disclose or modify server information via injected…",
+      "added": "2026-11-20",
+      "due": "2026-11-23",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-42884"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-11-12",
+      "venue": "TD Garden",
+      "away": "MTL",
+      "away_score": 5,
+      "home": "BOS",
+      "home_score": 2,
+      "overtime": false,
+      "period": "REG"
+    },
+    "next_game": {
+      "date": "2026-11-25",
+      "away": "WPG",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "LP Open by IND",
+        "start": "2026-11-15",
+        "end": "2026-11-23",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Nitto ATP Finals",
+        "start": "2026-11-15",
+        "end": "2026-11-23",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "IEB+ Argentina Open",
+        "start": "2026-11-22",
+        "end": "2026-11-30",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "Nitto ATP Finals",
+          "grouping": "Men's Singles",
+          "round": "Semifinal",
+          "date": "2026-11-21",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Ben Shelton",
+              "winner": false,
+              "sets": [
+                6.0,
+                3.0,
+                6.0
+              ]
+            },
+            {
+              "name": "Carlos Alcaraz",
+              "winner": true,
+              "sets": [
+                3.0,
+                6.0,
+                7.0
+              ]
+            }
+          ],
+          "opponent": "Ben Shelton",
+          "won": true
+        },
+        "next": {
+          "event": "Nitto ATP Finals",
+          "grouping": "Men's Singles",
+          "round": "Final",
+          "date": "2026-11-22",
+          "state": "in",
+          "status": "In Progress",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": false,
+              "sets": [
+                6.0,
+                2.0
+              ]
+            },
+            {
+              "name": "Alexander Zverev",
+              "winner": false,
+              "sets": [
+                2.0,
+                1.0
+              ]
+            }
+          ],
+          "opponent": "Alexander Zverev",
+          "won": false
+        }
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 8099.0
+        },
+        {
+          "rank": 2,
+          "name": "Mirra Andreeva",
+          "points": 7806.0
+        },
+        {
+          "rank": 3,
+          "name": "Aryna Sabalenka",
+          "points": 6685.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Alexander Zverev",
+          "points": 9320.0
+        },
+        {
+          "rank": 2,
+          "name": "Jannik Sinner",
+          "points": 7950.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 6100.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Open Angers Loire Trélazé",
+        "tour": "WTA",
+        "start": "2026-11-30",
+        "end": "2026-12-07",
+        "major": false
+      },
+      {
+        "name": "Quito Open",
+        "tour": "WTA",
+        "start": "2026-11-30",
+        "end": "2026-12-07",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": -3
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "répondre",
+        "en": "to answer"
+      },
+      {
+        "fr": "pourras",
+        "en": "will be able to"
+      },
+      {
+        "fr": "déjeuner",
+        "en": "to have lunch, lunch, let's"
+      }
+    ],
+    "quiz": {
+      "fr": "répondre",
+      "en": "to answer"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
