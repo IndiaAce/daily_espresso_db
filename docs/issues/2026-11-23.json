@@ -1,0 +1,373 @@
+{
+  "date": "2026-11-23",
+  "date_long": "Monday, November 23, 2026",
+  "date_mast": "MONDAY 23 NOVEMBER 2026",
+  "built_at": "2026-11-23T22:31:24.103423+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
+          "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-11-23T19:42:20+00:00",
+          "summary": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against energy companies.",
+          "tags": []
+        },
+        {
+          "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
+          "url": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-11-23T12:28:09+00:00",
+          "summary": "N-able yesterday disclosed a critical flaw it found while investigating the breach of its Mail Assure and SpamExperts Hosted Cloud, an email filtering service it runs for managed service providers. The bug, tracked as CVE-2026-134624, is a server-side request…",
+          "tags": []
+        },
+        {
+          "title": "How Security Vendors Are Tackling Access-Control Challenges for AI Agents",
+          "url": "https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges",
+          "source": "Dark Reading",
+          "section": "email_security",
+          "published": "2026-11-21T01:31:23+00:00",
+          "summary": "Identity, runtime, and development controls are converging as enterprises look for ways to keep agents within their assigned tasks. But vendors' approaches vary, so CISOs face a choice.",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Ladybird's first alpha release",
+          "url": "https://simonwillison.net/2026/Nov/23/ladybird/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-11-23T21:46:35+00:00",
+          "summary": "Ladybird is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even WebAssembly. It still uses a few external components - things like HarfBuzz…",
+          "tags": []
+        },
+        {
+          "title": "OpenAI and Cisco introduce Shirudo",
+          "url": "https://openai.com/index/introducing-shirudo",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-11-23T21:20:00+00:00",
+          "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+          "tags": []
+        },
+        {
+          "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+          "url": "https://huggingface.co/blog/allenai/robotrack",
+          "source": "Hugging Face",
+          "section": "ai",
+          "published": "2026-11-23T17:20:37+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "On the trail of the Aurore, an 18th-century slave ship on which more than 300 Africans were left to drown",
+          "url": "https://www.lemonde.fr/en/history/article/2026/11/23/on-the-trail-of-the-aurore-an-18th-century-slave-ship-aboard-which-more-than-300-africans-were-left-to-drown_6787341_157.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-23T19:01:05+00:00",
+          "summary": "'A legacy of slavery' (1/3). History remembers French sailor Robert Surcouf as an illustrious privateer. Our journalist, one of his descendants, searched the archives to chart the precise journey of a ship that sank off the coast of Mozambique. The…",
+          "tags": []
+        },
+        {
+          "title": "Gisèle Pelicot to sue publisher over unauthorized use of nude photographs",
+          "url": "https://www.lemonde.fr/en/france/article/2026/11/23/gisele-pelicot-threatens-legal-action-against-publisher-over-use-of-nude-images_6787340_7.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-23T18:29:19+00:00",
+          "summary": "'Today I find myself once again humiliated, exposed and hurt,' she said after publisher Tinbad reportedly circulated nude photographs and explicit videos of Pelicot, taken by her husband, to promote an essay on coercive control.",
+          "tags": []
+        },
+        {
+          "title": "'A war of unmanned machines, AI and total transparency of the battlefield'",
+          "url": "https://www.france24.com/en/a-war-of-unmanned-machines-ai-and-total-transparency-of-the-battlefield",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-11-23T21:54:56+00:00",
+          "summary": "Speaking with FRANCE 24's Sharon Gaffney, Nobel Peace Prize laureate Oleksandra Matviichuk, Director of the Centre for Civil Liberties, says that today's war in Ukraine \"is a war of unmanned machines, AI, total transparency of the battlefield, mass drones…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Montreal Canadiens take home run swing with Dylan Larkin",
+          "url": "https://www.habseyesontheprize.com/montreal-canadiens-take-home-run-swing-with-dylan-larkin-analysis-habs-trade/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-11-23T19:11:53+00:00",
+          "summary": "When Kent Hughes was hired as the general manager of the Montreal Canadiens, he outlined his philosophy in rebuilding a team that had gone to the Stanley Cup Final a season earlier, and was now stuck in the basement of the league. They would build an…",
+          "tags": []
+        },
+        {
+          "title": "Morning Skate: Deal",
+          "url": "https://www.stanleycupofchowder.com/morning-skate-open-threads/59820/morning-skate-deal",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-11-23T12:00:00+00:00",
+          "summary": "Welcome to a new week, folks! It’s a short week for most here in the United States, with (American) Thanksgiving on Thursday. That makes Wednesday a half-ish day, Friday a lost day (unless you work in retail), so…just get yourself through Tuesday. You can do…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "Berrettini called up, Davidovich Fokina and Shapovalov out: the Davis Cup Final 8 squads",
+          "url": "https://www.tennismajors.com/others-news/davis-cup-news/berrettini-called-up-davidovich-fokina-and-shapovalov-out-the-davis-cup-final-8-squads-867814.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-11-23T20:52:37+00:00",
+          "summary": "The Final 8 starts in Bologna on Tuesday with Czechia against Canada. Italy, chasing a fourth straight title without Jannik Sinner, have added Matteo Berrettini, while Spain and Canada have both had to replace injured players.",
+          "tags": []
+        },
+        {
+          "title": "Pat Cash on the Davis Cup in the 1980s: ‘It felt like you were going to war’",
+          "url": "https://www.theguardian.com/sport/2026/nov/24/pat-cash-on-the-davis-cup-in-the-1980s-it-felt-like-you-were-going-to-war",
+          "source": "Guardian Tennis",
+          "section": "tennis",
+          "published": "2026-11-23T14:00:48+00:00",
+          "summary": "One of Australia’s greatest tennis players remembers being pelted with coins, tampering with nets and wanting to ‘beat these fuckers’ This year’s Davis Cup Finals begin in Bologna on Tuesday but the culmination of the oldest team competition in tennis will…",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 81,
+  "sources_line": "BLEEPINGCOMPUTER, DARK READING, FRANCE 24 EUROPE, GUARDIAN TENNIS, HABS EYES ON THE PRIZE, HUGGING FACE, LE MONDE, OPENAI, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 19,
+      "low": 6,
+      "conditions": "heavy rain"
+    },
+    {
+      "code": "PAR",
+      "high": 8,
+      "low": 3,
+      "conditions": "light rain"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-133968",
+      "vendor": "Project MONAI",
+      "product": "MONAI Label",
+      "name": "Project MONAI MONAI Label Path Traversal Vulnerability",
+      "summary": "Project MONAI MONAI Label contains a path traversal vulnerability that allows an unauthenticated remote attacker to write arbitrary files outside the intended datastore directory, potentially resulting in remote code…",
+      "added": "2026-11-23",
+      "due": "2026-11-26",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133968"
+    },
+    {
+      "cve": "CVE-2026-134624",
+      "vendor": "N-able",
+      "product": "MailAssure",
+      "name": "N-able MailAssure (SpamExperts) Server-Side Request Forgery (SSRF) Vulnerability",
+      "summary": "N-able MailAssure (SpamExperts) contains a server-side request forgery vulnerability in the LDAP synchronization connection check that allows an authenticated API user to connect to arbitrary internal hosts and ports…",
+      "added": "2026-11-23",
+      "due": "2026-11-26",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-134624"
+    },
+    {
+      "cve": "CVE-2026-129448",
+      "vendor": "Apache",
+      "product": "Roller",
+      "name": "Apache Roller Deserialization of Untrusted Data Vulnerability",
+      "summary": "Apache Roller contains a deserialization of untrusted data vulnerability that allows an unauthenticated remote attacker to execute arbitrary code via the XML-RPC endpoint, which accepts and deserializes vendor extension…",
+      "added": "2026-11-20",
+      "due": "2026-11-23",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-129448"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-11-12",
+      "venue": "TD Garden",
+      "away": "MTL",
+      "away_score": 5,
+      "home": "BOS",
+      "home_score": 2,
+      "overtime": false,
+      "period": "REG"
+    },
+    "next_game": {
+      "date": "2026-11-25",
+      "away": "WPG",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Nitto ATP Finals",
+        "start": "2026-11-15",
+        "end": "2026-11-23",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "IEB+ Argentina Open",
+        "start": "2026-11-22",
+        "end": "2026-11-30",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "Nitto ATP Finals",
+          "grouping": "Men's Singles",
+          "round": "Final",
+          "date": "2026-11-22",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": true,
+              "sets": [
+                6.0,
+                7.0
+              ]
+            },
+            {
+              "name": "Alexander Zverev",
+              "winner": false,
+              "sets": [
+                2.0,
+                6.0
+              ]
+            }
+          ],
+          "opponent": "Alexander Zverev",
+          "won": true
+        },
+        "next": null
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 8099.0
+        },
+        {
+          "rank": 2,
+          "name": "Mirra Andreeva",
+          "points": 7806.0
+        },
+        {
+          "rank": 3,
+          "name": "Aryna Sabalenka",
+          "points": 6685.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Alexander Zverev",
+          "points": 10350.0
+        },
+        {
+          "rank": 2,
+          "name": "Jannik Sinner",
+          "points": 7950.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 7600.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Open BLS de Limoges",
+        "tour": "WTA",
+        "start": "2026-12-12",
+        "end": "2026-12-21",
+        "major": false
+      },
+      {
+        "name": "Brisbane International",
+        "tour": "WTA",
+        "start": "2027-01-02",
+        "end": "2027-01-11",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": -4
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "envoyer",
+        "en": "send out, sent, send"
+      },
+      {
+        "fr": "allées",
+        "en": "gone, went, aisles"
+      },
+      {
+        "fr": "hebdomadaire",
+        "en": "weekly"
+      }
+    ],
+    "quiz": {
+      "fr": "envoyer",
+      "en": "send out, sent, send"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
