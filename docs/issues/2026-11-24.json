@@ -1,0 +1,373 @@
+{
+  "date": "2026-11-24",
+  "date_long": "Tuesday, November 24, 2026",
+  "date_mast": "TUESDAY 24 NOVEMBER 2026",
+  "built_at": "2026-11-24T21:03:44.840872+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "New Inception extortion gang launches large-scale vishing campaign",
+          "url": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-11-24T20:21:20+00:00",
+          "summary": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms.",
+          "tags": []
+        },
+        {
+          "title": "Report: Half of Black Friday-Themed Emails Are Scams",
+          "url": "https://blog.knowbe4.com/report-half-of-black-friday-themed-emails-are-scams",
+          "source": "KnowBe4",
+          "section": "email_security",
+          "published": "2026-11-24T20:00:01+00:00",
+          "summary": "Black Friday scam campaigns began ramping up in late October and continue to target users ahead of the shopping holiday, according to researchers at Bitdefender. Half of Black Friday-themed email campaigns observed by Bitdefender were scams, luring users with…",
+          "tags": []
+        },
+        {
+          "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
+          "url": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-11-24T10:44:49+00:00",
+          "summary": "Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy companies Equinor and Skagerak Energi…",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "GPT 6.2 Astra Solves a Historical Mystery",
+          "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-11-24T16:53:59+00:00",
+          "summary": "GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2 Astra was able to autonomously identify the creator of an…",
+          "tags": []
+        },
+        {
+          "title": "datasette-charts 0.2a0",
+          "url": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-11-24T04:24:29+00:00",
+          "summary": "Release: datasette-charts 0.2a0 I introduced this new charting plugin for Datasette yesterday . Today it's gained integration with Datasette Agent , so now you can ask chat for a chart and it will create one for you using the same underlying chart suggestion…",
+          "tags": []
+        },
+        {
+          "title": "Searching for distant planets with Astra",
+          "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+          "source": "OpenAI",
+          "section": "ai",
+          "published": "2026-11-24T11:00:00+00:00",
+          "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Colombia's bitter peace with the FARC, 10 years after historic deal",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/24/colombia-s-bitter-peace-with-the-farc-10-years-after-historic-deal_6787709_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-24T19:30:05+00:00",
+          "summary": "Signed in 2016, the agreement outlined an ambitious plan to transform the country, combining reparations for victims, land redistribution and the return of guerrilla fighters to civilian life. Today, in addition to disappointing results, its implementation…",
+          "tags": []
+        },
+        {
+          "title": "Eric Zemmour definitively convicted for claiming Pétain 'saved French Jews' during WWII",
+          "url": "https://www.lemonde.fr/en/france/article/2026/11/24/eric-zemmour-definitively-convicted-for-claiming-nazi-collaborionist-petain-saved-french-jews_6787707_7.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-24T17:08:15+00:00",
+          "summary": "France's highest court of appeals upheld the conviction for contesting crimes against humanity over the 2019 statements by the far-right former pundit, who is running for president for the second.",
+          "tags": []
+        },
+        {
+          "title": "Russian nuclear satellites plan 'foolhardy', expert says",
+          "url": "https://www.france24.com/en/russian-nuclear-satellites-plan-foolhardy-expert-says",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-11-24T20:31:17+00:00",
+          "summary": "NATO chief Mark Rutte said Monday the alliance would defend against threats in space when asked about German media reports that Russia may be preparing to launch a nuclear-armed satellite. Speaking with FRANCE 24's Jennie Shin, Dafydd Townley, Senior Teaching…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Montreal Canadiens recall David Reinbacher, Brett Berard for road trip; Matheson to LTIR",
+          "url": "https://www.habseyesontheprize.com/montreal-canadiens-recall-david-reinbacher-brett-berard-for-road-trip-habs-matheson-ltir-salary-cap/",
+          "source": "Habs Eyes on the Prize",
+          "section": "nhl",
+          "published": "2026-11-24T14:11:11+00:00",
+          "summary": "The Montreal Canadiens have recalled defender David Reinbacher and forward Brett Berard from the Laval Rocket just two days after sending them down. Les Canadiens ont rappelé l'attaquant Brett Berard et le défenseur David Reinbacher du Rocket de Laval. The…",
+          "tags": []
+        },
+        {
+          "title": "Public Skate: Bruins vs. Capitals",
+          "url": "https://www.stanleycupofchowder.com/gameday-open-threads/59796/public-skate-bruins-vs-capitals",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-11-21T22:00:00+00:00",
+          "summary": "Welcome to Saturday Night Hockey, folks! The B’s are back at the friendly confines of TD Garden, which hasn’t been super friendly to them over the past few games. However, after a solid win in Detroit on Wednesday night, the B’s will be looking to build on…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "'I miss being on court' - Sinner has 'minor surgery' on knee",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cxlylr3p4q8mo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-11-24T18:00:06+00:00",
+          "summary": "World number two Jannik Sinner says he has had \"minor surgery\" on his knee, just seven weeks before January's Australian Open begins.",
+          "tags": []
+        },
+        {
+          "title": "November 24, 1996: The day Sampras won his third ATP Finals crown after an epic battle with Becker",
+          "url": "https://www.tennismajors.com/atp/november-24-1996-pete-sampras-won-his-3rd-masters-cup-309311.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-11-24T11:37:43+00:00",
+          "summary": "On this day, November 24, 1996, Pete Sampras and Boris Becker put on a serve-and-volley masterclass that is considered as one of the greatest matches in tennis history",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 82,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, HABS EYES ON THE PRIZE, KNOWBE4, LE MONDE, OPENAI, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 7,
+      "low": 0,
+      "conditions": "overcast"
+    },
+    {
+      "code": "PAR",
+      "high": 8,
+      "low": 2,
+      "conditions": "overcast"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-132224",
+      "vendor": "Optimizely",
+      "product": "Web Experimentation",
+      "name": "Optimizely Web Experimentation External Control of Critical State Data Vulnerability",
+      "summary": "Optimizely Web Experimentation contains an external control of critical state data vulnerability in its account signup flow that could allow an attacker to impersonate existing customer users and modify Project…",
+      "added": "2026-11-24",
+      "due": "2026-11-27",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-132224"
+    },
+    {
+      "cve": "CVE-2026-131914",
+      "vendor": "Idunno",
+      "product": "AntiCsrf",
+      "name": "Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability",
+      "summary": "Idunno AntiCsrf contains a deserialization of untrusted data vulnerability that allows an unauthenticated remote attacker to execute arbitrary code via object injection. The impacted product(s) could be end-of-life…",
+      "added": "2026-11-24",
+      "due": "2026-11-27",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-131914"
+    },
+    {
+      "cve": "CVE-2026-132165",
+      "vendor": "Drupal",
+      "product": "Core",
+      "name": "Drupal Core Remote Code Execution Vulnerability",
+      "summary": "Drupal Core contains a not failing securely vulnerability that could allow an unauthenticated attacker to take over an existing site or execute arbitrary code via the Drupal installer. Under specific conditions, the…",
+      "added": "2026-11-24",
+      "due": "2026-11-27",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-132165"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-11-12",
+      "venue": "TD Garden",
+      "away": "MTL",
+      "away_score": 5,
+      "home": "BOS",
+      "home_score": 2,
+      "overtime": false,
+      "period": "REG"
+    },
+    "next_game": {
+      "date": "2026-11-25",
+      "away": "WPG",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "Nitto ATP Finals",
+        "start": "2026-11-15",
+        "end": "2026-11-23",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "IEB+ Argentina Open",
+        "start": "2026-11-22",
+        "end": "2026-11-30",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [
+      {
+        "name": "Carlos Alcaraz",
+        "last": {
+          "event": "Nitto ATP Finals",
+          "grouping": "Men's Singles",
+          "round": "Final",
+          "date": "2026-11-22",
+          "state": "post",
+          "status": "Final",
+          "players": [
+            {
+              "name": "Carlos Alcaraz",
+              "winner": true,
+              "sets": [
+                6.0,
+                7.0
+              ]
+            },
+            {
+              "name": "Alexander Zverev",
+              "winner": false,
+              "sets": [
+                2.0,
+                6.0
+              ]
+            }
+          ],
+          "opponent": "Alexander Zverev",
+          "won": true
+        },
+        "next": null
+      }
+    ],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 8099.0
+        },
+        {
+          "rank": 2,
+          "name": "Mirra Andreeva",
+          "points": 7806.0
+        },
+        {
+          "rank": 3,
+          "name": "Aryna Sabalenka",
+          "points": 6685.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Alexander Zverev",
+          "points": 10350.0
+        },
+        {
+          "rank": 2,
+          "name": "Jannik Sinner",
+          "points": 7950.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 7600.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Next Gen ATP Finals",
+        "tour": "ATP",
+        "start": "2026-12-08",
+        "end": "2026-12-14",
+        "major": false
+      },
+      {
+        "name": "Open BLS de Limoges",
+        "tour": "WTA",
+        "start": "2026-12-12",
+        "end": "2026-12-21",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": -5
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "enregistrer",
+        "en": "record, records, recording"
+      },
+      {
+        "fr": "devenues",
+        "en": "become, became"
+      },
+      {
+        "fr": "algérien",
+        "en": "Algerian"
+      }
+    ],
+    "quiz": {
+      "fr": "enregistrer",
+      "en": "record, records, recording"
+    }
+  },
+  "counts": {
+    "stories": 13,
+    "kev": 3
+  }
+}
