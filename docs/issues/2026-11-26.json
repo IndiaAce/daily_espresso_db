@@ -1,0 +1,331 @@
+{
+  "date": "2026-11-26",
+  "date_long": "Thursday, November 26, 2026",
+  "date_mast": "THURSDAY 26 NOVEMBER 2026",
+  "built_at": "2026-11-26T20:03:43.755132+00:00",
+  "masthead": {
+    "tagline": "Five things, no scrolling",
+    "edition": "Vol. I"
+  },
+  "sections": {
+    "email_security": {
+      "key": "email_security",
+      "label": "Email Security",
+      "stories": [
+        {
+          "title": "Fake paid expert interviews impersonate brands to steal Google logins",
+          "url": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-11-26T17:15:27+00:00",
+          "summary": "An ongoing phishing campaign dubbed \"GoodGuys\" impersonates major brands, including Google, Nvidia, Accenture, and SpaceX, to steal corporate Google and Okta credentials using fake invitations to paid expert interviews and webinars.",
+          "tags": []
+        },
+        {
+          "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
+          "url": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
+          "source": "The Hacker News",
+          "section": "email_security",
+          "published": "2026-11-26T10:57:55+00:00",
+          "summary": "Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that security teams need to know about. At Push Security, we measure…",
+          "tags": []
+        },
+        {
+          "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
+          "url": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
+          "source": "BleepingComputer",
+          "section": "email_security",
+          "published": "2026-11-26T15:23:28+00:00",
+          "summary": "The Remus infostealer is stealing Gmail messages through a stealthy malicious Chrome extension, a capability the malware operators marketed as a zero-day exploit in Google's email service.",
+          "tags": []
+        }
+      ]
+    },
+    "ai": {
+      "key": "ai",
+      "label": "AI / ML Research",
+      "stories": [
+        {
+          "title": "Quoting Jack Despain Zhou",
+          "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-11-26T15:09:31+00:00",
+          "summary": "Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentation, and I hear Claude. I open my email inbox, and I find pitches and articles from ostensibly…",
+          "tags": []
+        },
+        {
+          "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
+          "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
+          "source": "Simon Willison",
+          "section": "ai",
+          "published": "2026-11-26T06:08:25+00:00",
+          "summary": "sqlite3_rsync: Database Remote-Copy Tool For SQLite This additional SQLite tool has been around for a while now - it was added as \"experimental\" in SQLite 3.47.0 in October 2024 and enhanced in SQLite 3.50.0 in May 2025 . It was only today that I understood…",
+          "tags": []
+        },
+        {
+          "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "source": "Hugging Face",
+          "section": "ai",
+          "published": "2026-11-26T11:37:17+00:00",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
+    "france": {
+      "key": "france",
+      "label": "France & Europe",
+      "stories": [
+        {
+          "title": "Mélenchon heads to Berlin, where his anti-German rhetoric unsettles even his 'partners'",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/26/melenchon-heads-to-berlin-where-his-anti-german-rhetoric-unsettles-even-his-partners_6789433_4.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-26T17:27:56+00:00",
+          "summary": "The radical-left French presidential candidate currently has no meetings scheduled with officials from Die Linke, which his party sits with in the European Parliament.",
+          "tags": []
+        },
+        {
+          "title": "Greece's 'mini Dubai' is heavily contaminated with PFAS",
+          "url": "https://www.lemonde.fr/en/les-decodeurs/article/2026/11/26/greece-s-mini-dubai-is-heavily-contaminated-with-pfas_6789400_8.html",
+          "source": "Le Monde",
+          "section": "france",
+          "published": "2026-11-26T17:07:49+00:00",
+          "summary": "The site of Athens's former airport, which is being transformed into a luxury residential area, is heavily contaminated with 'forever chemicals,' according to an investigation by Le Monde and Reporters United.",
+          "tags": []
+        },
+        {
+          "title": "Le Pen slams push for EU budget deal before French election",
+          "url": "https://www.france24.com/en/le-pen-slams-push-for-eu-budget-deal-before-french-election",
+          "source": "France 24 Europe",
+          "section": "france",
+          "published": "2026-11-26T20:02:47+00:00",
+          "summary": "EU leaders locked horns over the bloc's budget at a summit meeting in Brussels on Thursday, as far-right leader Marine Le Pen slammed an \"underhanded\" push to lock in the long-term spending plans before French presidential elections next year. European…",
+          "tags": []
+        }
+      ]
+    },
+    "nhl": {
+      "key": "nhl",
+      "label": "NHL",
+      "stories": [
+        {
+          "title": "Public Skate: Bruins vs. Jets",
+          "url": "https://www.stanleycupofchowder.com/gameday-open-threads/59826/public-skate-bruins-vs-jets",
+          "source": "Stanley Cup of Chowder",
+          "section": "nhl",
+          "published": "2026-11-25T22:00:00+00:00",
+          "summary": "Welcome to another night of Bruins hockey, folks! It’s the night before American Thanksgiving, so if you’re heading out to your hometown bar to reminisce about the glory days, please get home safely. This will be the first of two games in three days for the…",
+          "tags": []
+        }
+      ]
+    },
+    "tennis": {
+      "key": "tennis",
+      "label": "Tennis",
+      "stories": [
+        {
+          "title": "5 Live Sport",
+          "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_five_live?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Tennis",
+          "section": "tennis",
+          "published": "2026-11-26T21:00:00+00:00",
+          "summary": "Katie Smith is joined by Kyle Edmund, Ryan Harrison and Russell Fuller.",
+          "tags": []
+        },
+        {
+          "title": "Great Britain knock out Zverev’s Germany to reach Davis Cup semi-finals",
+          "url": "https://www.tennismajors.com/others-news/davis-cup-news/great-britain-knock-out-zverevs-germany-to-reach-davis-cup-semi-finals-867896.html",
+          "source": "Tennis Majors",
+          "section": "tennis",
+          "published": "2026-11-26T15:19:43+00:00",
+          "summary": "Neal Skupski and Henry Patten won the deciding doubles against Kevin Krawietz and Tim Puetz, after Cameron Norrie and Alexander Zverev had shared the singles. Great Britain are back in the last four for the first time since 2019.",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "edition_no": 84,
+  "sources_line": "BBC TENNIS, BLEEPINGCOMPUTER, FRANCE 24 EUROPE, HUGGING FACE, LE MONDE, SIMON WILLISON, STANLEY CUP OF CHOWDER, TENNIS MAJORS, THE HACKER NEWS",
+  "weather": [
+    {
+      "code": "BOS",
+      "high": 9,
+      "low": 0,
+      "conditions": "heavy rain"
+    },
+    {
+      "code": "PAR",
+      "high": 6,
+      "low": 1,
+      "conditions": "showers"
+    }
+  ],
+  "kev": [
+    {
+      "cve": "CVE-2026-103406",
+      "vendor": "Hewlett Packard Enterprise (HPE)",
+      "product": "Juniper Session Smart Conductor and Session Smart Router",
+      "name": "Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router OS Command Injection Vulnerability",
+      "summary": "Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router contain an OS command injection vulnerability that could allow a remote attacker to execute arbitrary commands as root via a…",
+      "added": "2026-11-25",
+      "due": "2026-11-28",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-103406"
+    },
+    {
+      "cve": "CVE-2026-133469",
+      "vendor": "Vates",
+      "product": "Xen Orchestra",
+      "name": "Vates Xen Orchestra Improper Validation of Specified Type of Input Vulnerability",
+      "summary": "Vates Xen Orchestra contains an improper validation of specified type of input vulnerability that could allow an unauthenticated attacker to bypass authentication and perform actions with administrative privileges via a…",
+      "added": "2026-11-25",
+      "due": "2026-11-28",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133469"
+    },
+    {
+      "cve": "CVE-2025-41450",
+      "vendor": "Danfoss",
+      "product": "AK-SM 800A Series",
+      "name": "Danfoss AK-SM 800A Series Improper Authentication Vulnerability",
+      "summary": "Danfoss AK-SM 800A Series contains an improper authentication vulnerability that could allow an attacker to generate a web report exposing sensitive information, including internal IP addresses, usernames, and store…",
+      "added": "2026-11-25",
+      "due": "2026-12-09",
+      "ransomware": false,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-41450"
+    }
+  ],
+  "nhl": {
+    "last_meeting": {
+      "date": "2026-11-12",
+      "venue": "TD Garden",
+      "away": "MTL",
+      "away_score": 5,
+      "home": "BOS",
+      "home_score": 2,
+      "overtime": false,
+      "period": "REG"
+    },
+    "next_game": {
+      "date": "2026-11-27",
+      "away": "TOR",
+      "home": "BOS"
+    },
+    "offseason": false,
+    "label": "NHL — B's & Habs"
+  },
+  "tennis": {
+    "events": [
+      {
+        "name": "IEB+ Argentina Open",
+        "start": "2026-11-22",
+        "end": "2026-11-30",
+        "venue": "",
+        "major": false
+      },
+      {
+        "name": "Next Gen ATP Finals presented by PIF",
+        "start": "2026-12-08",
+        "end": "2026-12-14",
+        "venue": "",
+        "major": false
+      }
+    ],
+    "following": [],
+    "rankings": {
+      "WTA": [
+        {
+          "rank": 1,
+          "name": "Elena Rybakina",
+          "points": 8099.0
+        },
+        {
+          "rank": 2,
+          "name": "Mirra Andreeva",
+          "points": 7806.0
+        },
+        {
+          "rank": 3,
+          "name": "Aryna Sabalenka",
+          "points": 6685.0
+        }
+      ],
+      "ATP": [
+        {
+          "rank": 1,
+          "name": "Alexander Zverev",
+          "points": 10350.0
+        },
+        {
+          "rank": 2,
+          "name": "Jannik Sinner",
+          "points": 7950.0
+        },
+        {
+          "rank": 3,
+          "name": "Carlos Alcaraz",
+          "points": 7600.0
+        }
+      ]
+    },
+    "upcoming": [
+      {
+        "name": "Open BLS de Limoges",
+        "tour": "WTA",
+        "start": "2026-12-14",
+        "end": "2026-12-21",
+        "major": false
+      },
+      {
+        "name": "Brisbane International",
+        "tour": "WTA",
+        "start": "2027-01-01",
+        "end": "2027-01-12",
+        "major": false
+      }
+    ],
+    "label": "Tennis — WTA & ATP"
+  },
+  "rotating": {
+    "label": "Currently Obsessed / GTA VI",
+    "caption": "DAYS TO 19 NOVEMBER",
+    "entries": [
+      {
+        "title": "The leak didn't move the date",
+        "body": "Rockstar ran its Netflix Extended Look on 27 August as planned, and 19 November still stands. Take-Two, meanwhile, has served DMCA subpoenas on Microsoft, Discord, X and Google chasing the handle CyberLeek."
+      },
+      {
+        "title": "Someone is counter-programming launch day",
+        "body": "Devolver Digital has a mystery game dated 19 November. Pre-orders have been open since June: Standard $79.99, Ultimate $99.99, no special edition."
+      }
+    ],
+    "days": -7
+  },
+  "drill": {
+    "cards": [
+      {
+        "fr": "police",
+        "en": "police, police's"
+      },
+      {
+        "fr": "sandwich",
+        "en": "sandwich"
+      },
+      {
+        "fr": "capitale",
+        "en": "capital, capital's"
+      }
+    ],
+    "quiz": {
+      "fr": "police",
+      "en": "police, police's"
+    }
+  },
+  "counts": {
+    "stories": 12,
+    "kev": 3
+  }
+}
